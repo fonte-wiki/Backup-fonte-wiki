@@ -2,13 +2,13 @@
 title: Página Inicial
 description: Acervo aberto de conteúdo educacional sobre políticas públicas de tecnologia e sociedade.
 published: true
-date: 2021-10-27T09:28:06.561Z
+date: 2021-10-27T09:28:55.774Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-08T17:58:25.513Z
 ---
 
-- ![logo-_fonte_wiki-03-quadrado.png](/fontewiki/logo-_fonte_wiki-03-quadrado.png =500x){.align-center}
+- ![logo-_fonte_wiki-03-quadrado.png](/fontewiki/logo-_fonte_wiki-03-quadrado.png =300x){.align-center}
 
 Este site é um arquivo público de conteúdos educacionais abertos sobre políticas públicas digitais.
 
