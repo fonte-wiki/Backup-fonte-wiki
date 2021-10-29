@@ -2,7 +2,7 @@
 title: Lista de Ricardo Ruiz
 description: Conteúdo enviado por Ricardo Ruiz
 published: true
-date: 2021-10-29T18:09:56.499Z
+date: 2021-10-29T18:13:27.789Z
 tags: id21, ricardo ruiz, como mensurar a inovação, inovação
 editor: markdown
 dateCreated: 2021-10-29T15:43:18.230Z
@@ -24,3 +24,4 @@ dateCreated: 2021-10-29T15:43:18.230Z
 - [Dez maneiras de combater a desinformação intervozes](/recursos/intervozes)
 - [Jogos contos de Ifá](/recursos/jogos-contos-de-ifa)
 - [Kit de desinformação de dados](/recursos/kit-de-desinformacao-de-dados)
+- [MarkerLabs](/recursos/markerlabs)
