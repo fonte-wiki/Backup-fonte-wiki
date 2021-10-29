@@ -2,7 +2,7 @@
 title: Chupadados
 description: Estamos em uma relação abusiva com nossos equipamentos tecnológicos de estimação, e acreditamos que eles não podem estar possuídos pelos Chupadados
 published: true
-date: 2021-10-29T15:50:57.683Z
+date: 2021-10-29T15:53:31.628Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-10-29T15:50:57.683Z
@@ -17,3 +17,7 @@ dateCreated: 2021-10-29T15:50:57.683Z
 ## Observações
 
 - Enviado por Ricardo Ruiz
+
+## Listas
+
+ - [Lista de Sebastian Gerlic](/listas/ricardo-ruiz)
