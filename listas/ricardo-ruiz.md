@@ -2,7 +2,7 @@
 title: Lista de Ricardo Ruiz
 description: Conteúdo enviado por Ricardo Ruiz
 published: true
-date: 2021-10-29T16:29:54.835Z
+date: 2021-10-29T16:33:30.988Z
 tags: id21, ricardo ruiz, como mensurar a inovação, inovação
 editor: markdown
 dateCreated: 2021-10-29T15:43:18.230Z
@@ -19,3 +19,4 @@ dateCreated: 2021-10-29T15:43:18.230Z
 - [Educação na cultura digital](/recursos/educacao-na-cultura-digital)
 - [Caminhos para a inovação - Cultura digital](/recursos/caminhos-para-a-inovacao)
 - [Formação de professores em cultura digital - UFScar](/recursos/formacao-professores-cultura-digital-ufscar)
+- [Futuros imaginários](/recursos/futuros-imaginarios)
