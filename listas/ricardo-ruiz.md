@@ -2,7 +2,7 @@
 title: Lista de Ricardo Ruiz
 description: Conteúdo enviado por Ricardo Ruiz
 published: true
-date: 2021-10-29T16:06:34.858Z
+date: 2021-10-29T16:10:58.281Z
 tags: id21, ricardo ruiz, como mensurar a inovação, inovação
 editor: markdown
 dateCreated: 2021-10-29T15:43:18.230Z
@@ -14,3 +14,4 @@ dateCreated: 2021-10-29T15:43:18.230Z
 - [Chupadados](/recursos/chupadados)
 - [ClimateSciense](/recursos/climatesciense)
 - [Coletânea de cursos de Linux](/recursos/coletanea-de-cursos-de-linux)
+- [Cultura digital SEBRAE](/recursos/cultura-digita-sebrae)
