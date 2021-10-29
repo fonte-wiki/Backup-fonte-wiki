@@ -2,17 +2,20 @@
 title: Celular Vicia?
 description: 
 published: true
-date: 2021-10-29T14:01:16.759Z
+date: 2021-10-29T14:02:19.016Z
 tags: celular, sebastian
 editor: markdown
 dateCreated: 2021-10-29T14:01:16.759Z
 ---
+
+# Celular Vicia?
 
 > Terceiro  Encontro (via Zoom) com a facilitação de Kadu Xucuru, Hemerson Pataxó hãhãhãe e Nhenety Kariri-Xocó - 90 minutos; 2021.
 
  - [Celular vicia?](https://www.youtube.com/watch?v=YN7tkwVoOak)
 
 ## Observações
+
  - Enviado por [Sebastian Gerlic](/pessoas/sebastian-gerlic)
  
 ## Listas
