@@ -2,8 +2,8 @@
 title: ID21 - Sebastian Gerlic
 description: contribuição de Sebastian Gerlic no projeto ID21
 published: true
-date: 2021-10-29T14:20:02.522Z
-tags: id21 critical digital data ineos
+date: 2021-10-29T14:21:38.425Z
+tags: id21, neos, critical data comics
 editor: markdown
 dateCreated: 2021-10-29T14:20:02.522Z
 ---
