@@ -2,7 +2,7 @@
 title: Como mensurar a inovação - Curso
 description: O curso é um desdobramento de dissertação de mestrado apresentada na Faculdade de Ciências da Adminsitração de Pernambuco - FCAP/ UPE. Menção honrosa de melhor dissertação de 2018 na instituição
 published: true
-date: 2021-11-01T01:28:43.627Z
+date: 2021-11-01T01:33:54.522Z
 tags: ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T01:28:43.627Z
@@ -22,3 +22,4 @@ como uma projeção econômica do faturamento do setor em relação ao PIB do es
 Your content here
 
 - [Introdução](/recursos/introducao)
+- [Aproveite ao máximo este curso](/recursos/aproveite-ao-maxmo)
