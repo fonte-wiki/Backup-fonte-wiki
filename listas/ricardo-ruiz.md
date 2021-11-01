@@ -2,7 +2,7 @@
 title: Lista de Ricardo Ruiz
 description: Conteúdo enviado por Ricardo Ruiz
 published: true
-date: 2021-11-01T01:11:39.098Z
+date: 2021-11-01T01:14:55.800Z
 tags: id21, ricardo ruiz, como mensurar a inovação, inovação
 editor: markdown
 dateCreated: 2021-10-29T15:43:18.230Z
@@ -30,3 +30,4 @@ dateCreated: 2021-10-29T15:43:18.230Z
 - [Saúde faça você mesmo 1/4](/recursos/saude-faca-vc-mesmo-1)
 - [Saúde faça você mesmo 2/4](/recursos/saude-faca-vc-mesmo-2)
 - [Saúde faça você mesmo 3/4](/recursos/saude-faca-vc-mesmo-3)
+- [Saúde faça você mesmo 4/4](/recursos/saude-faca-vc-mesmo-4)
