@@ -2,7 +2,7 @@
 title: Introdução - Como mensurar a inovação
 description: 
 published: true
-date: 2021-11-01T01:30:00.602Z
+date: 2021-11-01T01:31:51.585Z
 tags: ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:30:00.602Z
@@ -20,3 +20,4 @@ dateCreated: 2021-11-01T01:30:00.602Z
 ## Listas
 
 - [Lista de Ricardo Ruiz](/listas/ricardo-ruiz)
+- [Como mensurar a inovação - curso](/recursos/como-mensurar-a-inovacao-curso)
