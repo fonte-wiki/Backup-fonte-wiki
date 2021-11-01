@@ -2,7 +2,7 @@
 title: Lista de Ricardo Ruiz
 description: Conteúdo enviado por Ricardo Ruiz
 published: true
-date: 2021-11-01T01:00:29.599Z
+date: 2021-11-01T01:06:13.841Z
 tags: id21, ricardo ruiz, como mensurar a inovação, inovação
 editor: markdown
 dateCreated: 2021-10-29T15:43:18.230Z
@@ -27,3 +27,4 @@ dateCreated: 2021-10-29T15:43:18.230Z
 - [MarkerLabs](/recursos/markerlabs)
 - [Manual de enfrentamento de falsas notícias](/recursos/manual-enfrentamento/falsas/noticias)
 - [Prato do dia](/recursos/prato-do-dia)
+- [Saúde faça você mesmo 1/4](/recursos/saude-faca-vc-mesmo-1)
