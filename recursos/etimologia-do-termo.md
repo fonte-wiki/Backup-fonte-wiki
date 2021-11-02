@@ -1,8 +1,8 @@
 ---
-title: Etmiologia do termo
+title: Etimologia do termo
 description: 
 published: true
-date: 2021-11-02T19:12:46.350Z
+date: 2021-11-02T19:14:03.947Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:45:21.545Z
