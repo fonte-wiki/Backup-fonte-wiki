@@ -1,14 +1,14 @@
 ---
-title: Paulo Lima
+title: ID21 - Paulo Lima
 description: 
 published: true
-date: 2021-11-02T00:25:43.225Z
-tags: 
+date: 2021-11-02T20:58:23.756Z
+tags: id21
 editor: markdown
 dateCreated: 2021-11-02T00:25:43.225Z
 ---
 
-# 7 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Paulo Lima
 
 > Paulo Lima, coordenador de inclusão digital do Projeto Saúde e Alegria (PSA) - iniciativa civil sem fins lucrativos que atua na Amazônia brasileira desde 1987, promovendo e apoiando processos participativos de desenvolvimento comunitário integrado e sustentável.  
 
@@ -17,14 +17,12 @@ O uso das tecnologias digitais, assim como os impactos da inclusão digital em 
 Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
-Vídeo
- - [Título Original](https://www.youtube.com/watch?v=9UE0ShYnl5I)
- - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_paulo-lima.mov)
+## Vídeo
+ 
+ - [7 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=9UE0ShYnl5I)
+   - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_paulo-lima.mov)
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcrição](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Paulo-Lima-PSAlegria) 
-
-# Transcrição
+### Transcrição
 Nelson Pretto
 Professor de educação da faculdade federal da Bahia 
 As questões centrais sobre o que é chamado de inclusão digital no Brasil, que prefiro denominar de desigualdade digital tem a ver com duas grandes dimensões 
@@ -33,4 +31,5 @@ Mais do que tudo o que precisamos quando pensamos nessa perspectiva de superar a
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcrição](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Paulo-Lima-PSAlegria) 
