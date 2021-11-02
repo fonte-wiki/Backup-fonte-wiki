@@ -2,13 +2,13 @@
 title: ID21 - Bea Tibiriça
 description: 
 published: true
-date: 2021-11-02T19:07:16.879Z
+date: 2021-11-02T19:09:13.461Z
 tags: id21, bea tibiriça
 editor: markdown
 dateCreated: 2021-11-01T03:24:14.199Z
 ---
 
-# 1 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Beá Tibiriçá
 
 > Beá Tibiriçá, da Coletivo Digital, fala sobre a autonomia tecnológica.
 O Coletivo Digital é uma organização não-governamental atuante nas áreas de software livre, cultura e inclusão digital que contribui para o aprofundamento da democracia - ampliando a participação popular com a acesso às tecnologias de informação e comunicação.
@@ -19,15 +19,11 @@ Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidad
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
 
-Vídeo
- - [Título Original](https://www.youtube.com/watch?v=6XpPzUVpGXM)
+## Vídeo
+ - [ 1 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=6XpPzUVpGXM)
  - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_bea-tibirica.mov)
  
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- 
- - [Transcrição](https://ia601402.us.archive.org/15/items/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Beatriz-coletivo-digital.pdf) 
-
-# Transcrição
+### Transcrição
 Eu sou Bea do coletivo digital
 O coletivo digital surgiu em torno do 2004 depois da experiência junto a prefeitura de São Paulo de montar o plano de inclusão de digital que colocava telecentros, espaços de acesso público à internet na periferia da cidade. Montamos o coletivo digital para dar  suporte à projetos de inclusão digital e seguir com a experiência de desenvolvimento e divulgação de software livre, de uso não proprietário e sim compartilhado por todo o Brasil, e com a experiência de trabalhar com comunidade e com projetos que usassem essas duas experiências que a gente tinha, de montar locais onde as pessoas pudessem acessar a internet de forma gratuita e pudessem usar aplicativos de software livre e customizá los para uso daquelas comunidades. 
 
@@ -42,4 +38,6 @@ Muito obrigada pela oportunidade. SIgamos nessa luta e vamos fazer desse mundo u
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video) 
+ - [Transcrição](https://ia601402.us.archive.org/15/items/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Beatriz-coletivo-digital.pdf) 
+
