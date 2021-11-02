@@ -2,13 +2,13 @@
 title: Ricardo Ruiz
 description: 
 published: true
-date: 2021-11-02T00:41:44.138Z
+date: 2021-11-02T21:00:23.593Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:41:44.138Z
 ---
 
-# 8 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Ricardo Ruiz
 
 > Ricardo Ruiz, da Global Innovation Gathering (GIG), lança essa questão, entre outras, no quinto vídeo da série. A GIG é uma comunidade vibrante e diversa de centros de inovação, makerspaces, hackerspaces e outros espaços e iniciativas comunitárias de inovação de base - bem como inovadores individuais, criadores, tecnólogos e agentes de mudança.  
 
@@ -17,14 +17,11 @@ O uso das tecnologias digitais, assim como os impactos da inclusão digital em 
 Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
-Vídeo
- - [Título Original](https://www.youtube.com/watch?v=bWFw_2EYkWo)
- - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_ricardo-ruiz.mov)
+## Vídeo
+ - [8 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=bWFw_2EYkWo)
+   - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_ricardo-ruiz.mov)
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcrição](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Ricardo-Ruiz) 
-
-# Transcrição
+### Transcrição
 Ricardo ruiz, Global Innovation Gathering
 
 1.Quais sao as questões contemporâneas, o que 
@@ -49,4 +46,6 @@ Necessário refletir uma edu infanto-juvenil orientada a construção de projeto
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcrição](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Ricardo-Ruiz) 
+ - [Ricardo Ruiz](pessoas/ricardo-ruiz) também contribuiu com uma [lista de conteúdos educacionais](/listas/ricardo-ruiz) para a fonte.wiki.
