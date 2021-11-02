@@ -1,14 +1,14 @@
 ---
-title: Felipe Fonseca
+title: ID21 - Felipe Fonseca
 description: 
 published: true
-date: 2021-11-01T03:29:57.198Z
+date: 2021-11-02T19:14:56.716Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-01T03:29:57.198Z
 ---
 
-# 3 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Felipe Fonseca
 
 > Idealizador do projeto ID21, Felipe Fonseca, pesquisador/doutorando no OpenDoTT (@northumbriauni @mozilla), compartilha um pouco de sua trajetória e traz sua visão crítica e impulsionadora - para além da questão do acesso às tecnologias digitais.
 "Como que a gente pensa nas possibilidades dessas tecnologias para que seja construído um futuro mais justo, mais equilibrado e mais democrático - no sentido de que as pessoas tenham mais voz, mais participação nas decisões sobre o que acontece com a vida delas?"  
@@ -19,13 +19,12 @@ Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidad
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
 Vídeo
- - [Título Original](https://www.youtube.com/watch?v=ljqicP_exxw)
- - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_felipe-fonseca.mp4)
+ - [3 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+](https://www.youtube.com/watch?v=ljqicP_exxw)
+   - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_felipe-fonseca.mp4)
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Felipe-Fonseca%20) 
 
-# Transcricao
+### Transcricao
 Felipe Fonseca, conhecido como FF
 Participei de diversos projetos que orbitavam a ideia de Inclusão Digital 
 Quem me conhece a mais tempo sabe que eu sempre fui crítico de uma ideia superficial de que a questão da tecnologia em comunidades no Br se tratava meramente de inclusão, fiz parte da rede metareciclagem, fui um dos fundadores da rede metareciclagem e através da minha atuação nessa rede participei da construção de alguns projetos e também tive a oportunidade de contribuir com outros projetos que orbitavam essa questão.
@@ -49,4 +48,5 @@ Então assim é a  minha contribuição para a discussão e eu espero que a gent
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Felipe-Fonseca%20) 
