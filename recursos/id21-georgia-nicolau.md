@@ -1,14 +1,14 @@
 ---
-title: Georgia Nicolau
+title: ID21 - Georgia Nicolau
 description: 
 published: true
-date: 2021-11-02T00:43:56.442Z
+date: 2021-11-02T19:16:39.285Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:43:56.442Z
 ---
 
-# 4 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Georgia Nicolau
 
 > Georgia Nicolau, diretora do Instituto Procomum - que inventa, ativa e participa de redes cujo foco é promover acordos de convivência e modelos de colaboração para a transformação social, contribuindo de forma criativa e inovadora para a construção de um mundo comum entre diferentes.  
 
@@ -18,13 +18,11 @@ Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidad
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
 Vídeo
- - [Título Original](https://www.youtube.com/watch?v=vQtmTljL_LQ)
- - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_georgia-nicolau.mov)
+ - [4 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=vQtmTljL_LQ)
+   - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_georgia-nicolau.mov)
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-georgia-nicolau-instituto-procomum) 
  
-# Transcricao
+### Transcricao
 Meu nome é Georgia Nicolau e aqui está o vídeo para o projeto ID 21. Eu sou diretora do Instituto Procomum.
 Em relação a inclusão de tecnologias nas comunidades em que eu atuo? O que ainda não foi resolvido? 
 Acho que a resposta padrão de todo mundo é a falta de acesso a internet que é uma questão para muitas das pessoas com quem eu trabalho no Instituto Procomum. A maior parte das pessoas acessam a internet pelo celular, normalmente num plano pré- pago. E isso leva a uma questão que vai muito além da exclusão digital, principalmente hoje em dia com pandemia e etc. que faz com que você seja excluída socialmente de várias questões, inclusive o acesso a alguns dos serviços básicos. A gente viu isso com a questão auxílio (emergencial) que as pessoas tinham que baixar um APP e foi super complexos para muitas pessoas fazerem essas transações todas.  E aí tem uma relação que realmente me parece que é de compreender como usar as tecnologias a seu favor, de aproximação e potencial criativo. E de algo com que eu possa me relacionar de uma maneira mais próxima do meu universo. 
@@ -38,4 +36,5 @@ Espero ter ajudado, um abraço.
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-georgia-nicolau-instituto-procomum) 
