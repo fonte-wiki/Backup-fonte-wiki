@@ -1,14 +1,14 @@
 ---
-title: Mãe Beth
+title: ID21 - Mãe Beth
 description: 
 published: true
-date: 2021-11-02T00:45:33.054Z
+date: 2021-11-02T20:56:29.214Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:45:33.054Z
 ---
 
-# 5 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Mãe Beth 
 
 > Mãe Beth de Oxum, ialorixá do terreiro Ilê Axé Oxum e coordenadora do Ponto de Cultura Coco de Umbigada e do LABCoco - laboratório de tecnologia e inovação cidadã -, em Olinda, Pernambuco. A Coco de Umbigada é uma organização comunitária, que mantém atividades artísticas, culturais e educacionais oferecidas para a comunidade como forma de resgate de práticas, valores e da auto-estima por meio do protagonismo cultural.  
 
@@ -17,14 +17,12 @@ O uso das tecnologias digitais, assim como os impactos da inclusão digital em 
 Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
-Vídeo
- - [Título Original](https://www.youtube.com/watch?v=_gIoWXE8i64)
- - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_mae-beth.mov)
+## Vídeo
+ - [5 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=_gIoWXE8i64)
+   - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_mae-beth.mov)
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcrição ](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Mae-Beth) 
 
-# Transcrição 
+### Transcrição 
 Olá, eu sou a mãe Beth de Oxum
 Sou coordenadora do Ponto de Cultura Coco de Umbigada onde a gente tem um laboratório (LAB COCO) onde eu coordeno aqui com as demais companheiras e companheiros. Quero agradecer ao ID21, a Anna e ao Felipe por esse convite. Gratidão imensa por a gente poder contribuir nesse projeto.
 Eu to aqui passando para responder as perguntas que vocês me enviaram 
@@ -43,4 +41,5 @@ Axé.
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcrição ](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Mae-Beth) 
