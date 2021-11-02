@@ -1,8 +1,8 @@
 ---
-title: Bea Tibiriça
+title: ID21 - Bea Tibiriça
 description: 
 published: true
-date: 2021-11-01T03:24:14.199Z
+date: 2021-11-02T19:07:16.879Z
 tags: id21, bea tibiriça
 editor: markdown
 dateCreated: 2021-11-01T03:24:14.199Z
