@@ -2,7 +2,7 @@
 title: Lista de Ricardo Ruiz
 description: Conteúdo enviado por Ricardo Ruiz
 published: true
-date: 2021-11-02T21:15:57.474Z
+date: 2021-11-02T21:17:57.890Z
 tags: id21, ricardo ruiz, como mensurar a inovação, inovação
 editor: markdown
 dateCreated: 2021-10-29T15:43:18.230Z
@@ -14,7 +14,7 @@ Lista de conteúdos educacionais enviada por [Ricardo Ruiz](/pessoas/ricardo-rui
 
 - [Aprendendo na Web](/recursos/aprendendo-na-web)
 - [Chupadados](/recursos/chupadados)
-- [ClimateSciense](/recursos/climatesciense)
+- [Climate Science](/recursos/climate-science)
 - [Coletânea de cursos de Linux](/recursos/coletanea-de-cursos-de-linux)
 - [Cultura digital SEBRAE](/recursos/cultura-digita-sebrae)
 - [Desarquivo](/recursos/desarquivo)
@@ -27,7 +27,7 @@ Lista de conteúdos educacionais enviada por [Ricardo Ruiz](/pessoas/ricardo-rui
 - [Jogos contos de Ifá](/recursos/jogos-contos-de-ifa)
 - [Kit de desinformação de dados](/recursos/kit-de-desinformacao-de-dados)
 - [MakerLabs](/recursos/makerlabs)
-- [Manual de enfrentamento de falsas notícias](/recursos/manual-enfrentamento/falsas/noticias)
+- [Manual de enfrentamento de falsas notícias](/recursos/manual-enfrentamento-falsas-noticias)
 - [Prato do dia](/recursos/prato-do-dia)
 - [Saúde faça você mesmo 1/4](/recursos/saude-faca-vc-mesmo-1)
 - [Saúde faça você mesmo 2/4](/recursos/saude-faca-vc-mesmo-2)
