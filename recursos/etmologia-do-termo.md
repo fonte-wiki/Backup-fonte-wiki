@@ -1,14 +1,14 @@
 ---
-title: Etmologia do termo
+title: Etmiologia do termo
 description: 
 published: true
-date: 2021-11-01T01:45:21.545Z
+date: 2021-11-02T19:12:46.350Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:45:21.545Z
 ---
 
-# Etmologia do Termo
+# Etimologia do Termo
 
 > Confira na vídeo-aula abaixo uma apresentação da origem do termo inovação na Grécia Antiga e como o conceito evoluiu até o pós-guerra. Ao final, anexe na atividade um arquivo de texto com o que voce achou de mais interessante na aula.
 
