@@ -1,8 +1,8 @@
 ---
-title: Rodrigo Savazoni
+title: ID21 - Rodrigo Savazoni
 description: 
 published: true
-date: 2021-11-02T21:01:24.112Z
+date: 2021-11-02T21:02:22.747Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:40:08.619Z
@@ -21,6 +21,8 @@ O estudo vai fornecer subsídios à produção criativa de um grupo de artis
  
  - [9 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=E40wHYKZnvg)
  - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_rodrigo-savazoni.mp4)
+
+
 
 ### Transcrição
 
