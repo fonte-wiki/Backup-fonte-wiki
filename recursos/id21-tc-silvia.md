@@ -1,14 +1,14 @@
 ---
-title: Tc Silvia
+title: ID21 - TC Silva
 description: 
 published: true
-date: 2021-11-02T00:36:13.517Z
+date: 2021-11-02T21:05:06.717Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:36:13.517Z
 ---
 
-# 11 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - TC Silva
 
 > TC Silva, da Casa de Cultura Tainã e da Rede Mocambos - que estimulam a valorização das manifestações artísticas, culturais, sociais, alimentares, e muitos outros elementos que constituem os saberes e fazeres de comunidades tradicionais brasileiras. Partindo da apropriação tecnológica digital, que possibilita que os conhecimentos e práticas tradicionais sejam registrados, organizados e difundidos, a Tainã busca produzir e difundir conteúdos e informações relevantes para as comunidades parceiras e para o público em geral.  
 
@@ -17,14 +17,11 @@ O uso das tecnologias digitais, assim como os impactos da inclusão digital em 
 Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
-Vídeo
- - [Título Original](https://www.youtube.com/watch?v=MB2JfOTS82g&t=288s)
+## Vídeo
+ - [11 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=MB2JfOTS82g&t=288s)
  - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_tc-taina.mov)
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-TC-Silva) 
-
-# Transcrição
+### Transcrição
 TC Silva, sou da casa de Cultura Tainã, uma organização comunitária e cultural que trata principalmente das questões da cultura afrodescendente, discutimos africanidades aqui e tb de questões ligadas a esse problema complexo e historicamente marcado no Brasil que são a questão da reparação, do processo de escravização de africanos e africanas e reparações que a própria constituinte do Brasil não deu conta de garantir, tratamos dessas questões que envolve questões fundiárias, de cidadanias plena, direitos garantidos
 Tainá criou a rede Mocambos, consequentemente espalhou para o Brasil todo e junto disso surgiu a proposta do Baobaxia, rede federadas de pequenos servidores, rede de comunicação comunitária. 
 
@@ -51,4 +48,5 @@ o mundo todo ta passando essa travessia, fundamental pensar que temos que sonhar
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-TC-Silva) 
