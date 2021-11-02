@@ -2,7 +2,7 @@
 title: ID21 - Nelson Pretto
 description: 
 published: true
-date: 2021-11-02T18:49:55.207Z
+date: 2021-11-02T18:50:40.046Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:47:28.760Z
@@ -18,7 +18,7 @@ Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidad
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
 Vídeo
- - [Título Original](https://www.youtube.com/watch?v=G6ADBFHgzHA)
+ - [ID21 - Nelson Pretto](https://www.youtube.com/watch?v=G6ADBFHgzHA)
  - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_nelson-pretto.mov)
 
  - [Relatório](https://archive.org/details/ID21_0-5/video)
