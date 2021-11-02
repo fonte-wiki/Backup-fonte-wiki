@@ -2,13 +2,15 @@
 title: Lista de Sebastian
 description: 
 published: true
-date: 2021-10-29T13:57:02.517Z
+date: 2021-11-02T21:21:24.396Z
 tags: listas
 editor: markdown
 dateCreated: 2021-10-26T07:17:52.689Z
 ---
 
 # Lista de Sebastian Gerlic
+
+Lista de conteúdos educacionais enviada por [Sebastian Gerlic](/pessoas/sebastian-gerlic).
 
  - [Arco Digital](/recursos/arco-digital)
  - [Celular vicia?](/recursos/celular-vicia)
