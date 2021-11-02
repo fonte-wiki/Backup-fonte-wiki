@@ -2,13 +2,13 @@
 title: ID21 - Nelson Pretto
 description: 
 published: true
-date: 2021-11-02T18:52:55.077Z
+date: 2021-11-02T18:59:40.578Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:47:28.760Z
 ---
 
-# 6 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Nelson Pretto
 
 > Nelson Pretto, professor de Educação na Universidade Federal da Bahia (FACED/UFBA), traz seu olhar sobre a inclusão digital (comunitária) no Brasil - ou, como ele diz, a “desigualdade digital".  
 
@@ -19,7 +19,7 @@ O estudo vai fornecer subsídios à produção criativa de um grupo de artis
 
 ## Vídeo
 
- - [ID21 - Nelson Pretto](https://www.youtube.com/watch?v=G6ADBFHgzHA)
+ - [6 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=G6ADBFHgzHA)
  - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_nelson-pretto.mov)
 
 ### Transcrição 
