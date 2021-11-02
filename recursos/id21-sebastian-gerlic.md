@@ -2,7 +2,7 @@
 title: ID21 - Sebastian Gerlic
 description: contribuição de Sebastian Gerlic no projeto ID21
 published: true
-date: 2021-11-02T21:09:08.907Z
+date: 2021-11-02T21:17:04.311Z
 tags: id21, neos, critical data comics
 editor: markdown
 dateCreated: 2021-10-29T14:20:02.522Z
@@ -41,3 +41,4 @@ Isolamento à informação, isolamento aos canais de participação social.
 
  - [Relatório](https://archive.org/details/ID21_0-5/video)
  - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Sebastia%CC%81n-Gerlic-Thyde%CC%82wa%CC%81) 
+ - [Sebastian Gerlic](/pessoas/sebastian-gerlic) é um dos colaboradores da fonte.wiki e enviou uma [seleção de conteúdos educacionais](/listas/sebastian-gerlic)
