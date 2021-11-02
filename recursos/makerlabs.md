@@ -2,7 +2,7 @@
 title: MakerLabs
 description: 
 published: true
-date: 2021-11-02T20:54:52.126Z
+date: 2021-11-02T20:55:16.939Z
 tags: id21, critical data comics, ricardo ruiz
 editor: markdown
 dateCreated: 2021-10-29T18:14:50.187Z
@@ -23,7 +23,7 @@ dateCreated: 2021-10-29T18:14:50.187Z
 
 ## Observações
 
-- Enviado por Ricardo Ruiz
+- Enviado por [Ricardo Ruiz](/pessoas/ricardo-ruiz)
 
 ## Listas
 
