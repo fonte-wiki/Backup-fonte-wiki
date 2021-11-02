@@ -2,13 +2,13 @@
 title: ID21 - Sebastian Gerlic
 description: contribuição de Sebastian Gerlic no projeto ID21
 published: true
-date: 2021-10-29T14:21:38.425Z
+date: 2021-11-02T21:09:08.907Z
 tags: id21, neos, critical data comics
 editor: markdown
 dateCreated: 2021-10-29T14:20:02.522Z
 ---
 
-# 10 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Sebastian Gerlic
 
 > Sebástian Gerlic, presidente da ONG, compartilha conosco a trajetória da Thydêwá desde sua fundação. Thydêwá significa ‘esperança da terra’ e dá nome à organização não-governamental sediada em Ilhéus/BA - que promove a cultura de paz como caminho para a transformação social, trabalhando com a diversidade cultural em diálogo entre indígenas e não-indígenas. 
 
@@ -17,14 +17,12 @@ O uso das tecnologias digitais, assim como os impactos da inclusão digital em 
 Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
-Vídeo
- - [Título Original](https://www.youtube.com/watch?v=_s7BWK_OdC0)
+## Vídeo
+
+ - [10 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=_s7BWK_OdC0)
  - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_sebastian-gerlic.mov)
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Sebastia%CC%81n-Gerlic-Thyde%CC%82wa%CC%81) 
-
-# Transcrição
+### Transcrição
 Transcrição Sebastián Gerlic
 Thydêwá
 
@@ -41,4 +39,5 @@ Isolamento à informação, isolamento aos canais de participação social.
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Sebastia%CC%81n-Gerlic-Thyde%CC%82wa%CC%81) 
