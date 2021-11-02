@@ -2,13 +2,13 @@
 title: Rodrigo Savazoni
 description: 
 published: true
-date: 2021-11-02T00:40:08.619Z
+date: 2021-11-02T21:01:24.112Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:40:08.619Z
 ---
 
-# 9 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Rodrigo Savazoni
 
 > Rodrigo Savazoni, diretor executivo do Instituto Procomum - que inventa, ativa e participa de redes cujo foco é promover acordos de convivência e modelos de colaboração para a transformação social, contribuindo de forma criativa e inovadora para a construção de um mundo comum entre diferentes.  
 
@@ -17,14 +17,13 @@ O uso das tecnologias digitais, assim como os impactos da inclusão digital em 
 Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
-Vídeo
- - [Título Original](https://www.youtube.com/watch?v=E40wHYKZnvg)
+## Vídeo
+ 
+ - [9 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=E40wHYKZnvg)
  - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_rodrigo-savazoni.mp4)
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcrição](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-rodrigo-savazoni) 
+### Transcrição
 
-# Transcrição
 Olá tudo bem? Meu nome é Rodrigo Savazoni atualmente eu sou diretor executivo do Instituto Procomum que é uma organização da sociedade civil com sede em Santos e São Paulo que trabalha né que tem a missão de defender os bens comuns e também sou pesquisador do Lab Livre e doutorando em ciências humanas e sociais pela Universidade Federal do ABC. 
 Quando vocês me propuseram né a busca por uma reflexão aí, iniciar uma reflexão com a temática da inclusão digital, obviamente que minha cabeça vôou lá pros idos dos anos 2000 quando primeiro telecentros começaram a ser construída na prefeitura da Marta Suplicy e depois todo o período que foi né a construção de políticas públicas de inclusão digital utilizando software livre no início do governo Lula. Me lembro de estar na casa do Sérgio Amadeu da Silveira quando a Karina chegou pra gente para conversar logo em 2003 para
 discutir, por exemplo, a estruturação de uma rede telecentros na Amazônia, chamaria Tapaka Pauá, a rede da floresta. Enfim vários voos e sobrevoos né sobre esse sonho que nutrimos de construir né uma uma internet democrática né que realmente influísse  todo mundo dentro do ciber espaço e trouxesse as pessoas para dentro dessa potencial grande ágora né de conversação, de  trocas e potencialmente nos fizesse viver melhor.
@@ -41,4 +40,5 @@ E aí o dia que em alguma medida a isso para ficar um recorte né, a gente pode 
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcrição](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-rodrigo-savazoni) 
