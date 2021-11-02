@@ -2,13 +2,13 @@
 title: Cinthia Mendonça
 description: 
 published: true
-date: 2021-11-01T03:28:05.543Z
+date: 2021-11-02T19:10:11.289Z
 tags: id21
 editor: markdown
 dateCreated: 2021-11-01T03:28:05.543Z
 ---
 
-# 2 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
+# ID21 - Cinthia Mendonça
 
 > Cinthia Mendonça, diretora da Silo - Arte e Latitude Rural, organização da sociedade civil que cria, acolhe e difunde arte, ciência, tecnologia e agroecologia em zonas rurais, áreas periféricas e de preservação ambiental, estimulando o cruzamento entre técnicas intuitivas e saberes científicos. Na Silo acontecem imersões e práticas transdisciplinares, como residências artísticas e laboratórios de experimentação e inovação.  
 
@@ -17,14 +17,13 @@ O uso das tecnologias digitais, assim como os impactos da inclusão digital em 
 Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
 O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
 
-Vídeo
- - [Título Original](https://www.youtube.com/watch?v=0QHC605pvsk)
- - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_cinthia-mendonca.mov)
+## Vídeo
 
- - [Relatório](https://archive.org/details/ID21_0-5/video)
- - [Transcricao](https://ia801402.us.archive.org/15/items/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Cinthia%20Mendonc%CC%A7a.pdf)
+ - [2 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=0QHC605pvsk)
+   - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_cinthia-mendonca.mov)
 
-# Transcricao
+
+### Transcricao
 Sou Cinthia Mendonça, Diretora da Silo Arte Latitude Rural 
 Sou artista e pesquisadora, vivo na Serra Mantiqueira, zona rural na tríplice fronteira dos estados do RJ, SP e MG. Nessa região eu atuo como diretora da Silo Arte Latitude rural, organização da sociedade civil dedicada à arte, ciência e tecnologia
 nossa ideia é criar e difundir essas 3 frentes nas zonas rurais, periféricas e de preservação ambiental, através de experiências imersivas e praticas transdisciplinares como são as residências artísticas e laboratórios de experimentação e inovação
@@ -71,4 +70,5 @@ O interessante é ver a ideia de Inclusão digital como uma ideia de alfabetiza�
 
 ## Observações
 
-- Enviado por Arquivo ID21
+ - [Relatório](https://archive.org/details/ID21_0-5/video)
+ - [Transcricao](https://ia801402.us.archive.org/15/items/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Cinthia%20Mendonc%CC%A7a.pdf)
