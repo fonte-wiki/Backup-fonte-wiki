@@ -1,9 +1,9 @@
 ---
-title: Ricardo Ruiz
+title: ID21 - Ricardo Ruiz
 description: 
 published: true
-date: 2021-11-02T21:00:23.593Z
-tags: 
+date: 2021-11-02T21:08:27.727Z
+tags: id21
 editor: markdown
 dateCreated: 2021-11-02T00:41:44.138Z
 ---
