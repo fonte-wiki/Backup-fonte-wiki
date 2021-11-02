@@ -2,13 +2,15 @@
 title: Lista de Ricardo Ruiz
 description: Conteúdo enviado por Ricardo Ruiz
 published: true
-date: 2021-11-02T21:15:20.333Z
+date: 2021-11-02T21:15:57.474Z
 tags: id21, ricardo ruiz, como mensurar a inovação, inovação
 editor: markdown
 dateCreated: 2021-10-29T15:43:18.230Z
 ---
 
 # Lista de Ricardo Ruiz
+
+Lista de conteúdos educacionais enviada por [Ricardo Ruiz](/pessoas/ricardo-ruiz).
 
 - [Aprendendo na Web](/recursos/aprendendo-na-web)
 - [Chupadados](/recursos/chupadados)
@@ -34,3 +36,4 @@ dateCreated: 2021-10-29T15:43:18.230Z
 - [TIM Tec](recursos/tim-tec)
 - [Web Arte](/recursos/web-arte)
 - [Como mensurar a inovação - CURSO](/recursos/como-mensurar-a-inovacao-curso)
+
