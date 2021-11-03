@@ -2,7 +2,7 @@
 title: Lista de Ricardo Ruiz
 description: Conteúdo enviado por Ricardo Ruiz
 published: true
-date: 2021-11-02T21:20:51.102Z
+date: 2021-11-03T23:56:05.343Z
 tags: id21, ricardo ruiz, como mensurar a inovação, inovação
 editor: markdown
 dateCreated: 2021-10-29T15:43:18.230Z
@@ -16,7 +16,7 @@ Lista de conteúdos educacionais enviada por [Ricardo Ruiz](/pessoas/ricardo-rui
 - [Chupadados](/recursos/chupadados)
 - [Climate Science](/recursos/climate-science)
 - [Coletânea de cursos de Linux](/recursos/coletanea-de-cursos-de-linux)
-- [Cultura digital SEBRAE](/recursos/cultura-digita-sebrae)
+- [Cultura digital e PBL SEBRAE](/recursos/cultura-digital-pbl-sebrae)
 - [Desarquivo](/recursos/desarquivo)
 - [Educação na cultura digital](/recursos/educacao-na-cultura-digital)
 - [Caminhos para a inovação - Cultura digital](/recursos/caminhos-para-a-inovacao)
