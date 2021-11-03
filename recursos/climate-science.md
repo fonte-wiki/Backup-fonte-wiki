@@ -2,13 +2,13 @@
 title: Climate Science
 description: ClimateScience é uma instituição beneficente liderada por voluntários de voluntários motivados de 30 países e uma pequena equipe de funcionários. O nosso objetivo é tornar o processo de aprendizado interessante, acessível e confiável.
 published: true
-date: 2021-11-02T19:11:05.984Z
+date: 2021-11-03T23:52:45.237Z
 tags: id21, ricardo ruiz, climatesciense
 editor: markdown
 dateCreated: 2021-10-29T16:05:14.732Z
 ---
 
-# ClimateScience
+# Climate Science
 
 > ClimateScience é uma instituição beneficente liderada por voluntários de voluntários motivados de 30 países e uma pequena equipe de funcionários. O nosso objetivo é tornar o processo de aprendizado interessante, acessível e confiável.
 
