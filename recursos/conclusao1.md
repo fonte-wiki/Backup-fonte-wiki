@@ -2,7 +2,7 @@
 title: Conclusão 1
 description: 
 published: true
-date: 2021-11-01T01:57:40.746Z
+date: 2021-11-04T01:44:12.793Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:57:40.746Z
@@ -13,6 +13,7 @@ dateCreated: 2021-11-01T01:57:40.746Z
 > Veja no vídeo abaixo um resumo do que aprendemos até aqui. Perceba o quanto você já aprendeu, e como o seu aprendizado se relaciona ao seu objetivo maior. Ao final, anexe na atividade um arquivo de texto contando o que você achou de mais interessante na aula.
 
  - [Vídeo no Youtube](https://www.youtube.com/watch?v=t9HkzFq9_G8)
+ - [Cópia no Web Archive](https://web.archive.org/web/20211019100357/https://www.youtube.com/watch?v=t9HkzFq9_G8)
 
 ## Observações
 
