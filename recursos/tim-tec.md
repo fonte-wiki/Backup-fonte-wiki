@@ -2,7 +2,7 @@
 title: TIM Tec
 description: IM Tec é uma plataforma do tipo MOOC desenvolvida em software livre na qual são disponibilizados cursos online livres, oferecidos e gratuitos.
 published: true
-date: 2021-11-02T21:12:28.349Z
+date: 2021-11-04T00:37:16.870Z
 tags: ricardo ruiz, mooc
 editor: markdown
 dateCreated: 2021-11-01T01:19:31.908Z
@@ -14,7 +14,7 @@ dateCreated: 2021-11-01T01:19:31.908Z
 Os cursos de TIM Tec são requisitos ao Eixo Tecnológico: Informação e Comunicação do Pronatec. Há também cursos dirigidos a professores e ao fortalecimento de competências selecionadas para a formação de qualquer profissional, como escrita de textos.
 
  - [Título Original](https://cursos.timtec.com.br/courses)
- - [Cópia no Web Archive](https://web.archive.org/web/*/https://cursos.timtec.com.br/courses)
+ - [Cópia no Web Archive](https://web.archive.org/web/20210924125729/https://cursos.timtec.com.br/courses)
 
   
 ## Observações
