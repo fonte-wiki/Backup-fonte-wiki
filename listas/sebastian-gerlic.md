@@ -1,8 +1,8 @@
 ---
-title: Lista de Sebastian
+title: Lista de Sebastian Gerlic
 description: 
 published: true
-date: 2021-11-02T21:21:24.396Z
+date: 2021-11-12T14:26:34.199Z
 tags: listas
 editor: markdown
 dateCreated: 2021-10-26T07:17:52.689Z

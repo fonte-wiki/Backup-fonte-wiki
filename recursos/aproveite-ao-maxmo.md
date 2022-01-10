@@ -2,7 +2,7 @@
 title: Aproveite ao máximo este curso
 description: 
 published: true
-date: 2021-11-01T01:36:16.524Z
+date: 2021-11-12T14:30:26.374Z
 tags: ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T01:36:16.524Z

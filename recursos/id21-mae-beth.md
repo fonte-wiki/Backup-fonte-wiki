@@ -2,7 +2,7 @@
 title: ID21 - Mãe Beth
 description: 
 published: true
-date: 2021-11-02T20:56:29.214Z
+date: 2022-01-05T08:17:20.580Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:45:33.054Z
@@ -10,12 +10,12 @@ dateCreated: 2021-11-02T00:45:33.054Z
 
 # ID21 - Mãe Beth 
 
-> Mãe Beth de Oxum, ialorixá do terreiro Ilê Axé Oxum e coordenadora do Ponto de Cultura Coco de Umbigada e do LABCoco - laboratório de tecnologia e inovação cidadã -, em Olinda, Pernambuco. A Coco de Umbigada é uma organização comunitária, que mantém atividades artísticas, culturais e educacionais oferecidas para a comunidade como forma de resgate de práticas, valores e da auto-estima por meio do protagonismo cultural.  
+Mãe Beth de Oxum responde às questões elaboradas pelo projeto [ID21](/id21). Mãe Beth é ialorixá do terreiro Ilê Axé Oxum e coordenadora do Ponto de Cultura Coco de Umbigada e do LABCoco - laboratório de tecnologia e inovação cidadã -, em Olinda, Pernambuco. A Coco de Umbigada é uma organização comunitária, que mantém atividades artísticas, culturais e educacionais oferecidas para a comunidade como forma de resgate de práticas, valores e da auto-estima por meio do protagonismo cultural.  
 
-> Sobre o ID21:
-O uso das tecnologias digitais, assim como os impactos da inclusão digital em comunidades distantes dos núcleos urbanos, é um assunto complexo tratado de forma simplista - e que demanda olhares mais cuidadosos sobre o tema.
-Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
-O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
+<video width="640" controls>
+  <source src="https://archive.org/download/id21-videos/id21_mae-beth.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos embutidos
+</video>
 
 ## Vídeo
  - [5 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=_gIoWXE8i64)
@@ -39,7 +39,7 @@ eu acho que a direção dos projetos de inclusão digital é a periferia. Eu ach
 Quero concluir dizendo que quando a tecnologia encontra a cultura, encontra esse lugar da diversidade sabe, onde estão as mulheres, onde estão a adversidade, quando a tecnologia encontra a cultura e a formação diferenciada as pessoas estão bem mais preparadas para o mercado de trabalho. Para finalizar, a gente gostaria de enviar um recado. A gente esta aqui com o LAB Coco, laboratório de tecnologia inovação cidadã trabalhando com os alunos e alunas, negros e negras, estudantes de escola pública. A gente atendeu 150 alunos da região metropolitana do Recife e desenvolvendo game roteirizado com a mitologia afro-brasileira e na realidade são métodos com base nas tecnologias abertas e a gente cria uma perspectiva de combate ao racismo e de apropriação das tecnologias. Ou seja esses alunos que tem uma escola que realmente não atende essa demanda, não tem um laboratório a gente aqui consegue trazer esses alunos no nosso ponto de cultura, para o nosso terreiro e nessa perspectiva de que minimiza preconceito, minimiza a intolerância religiosa de matriz africana e tem o acesso às tecnologias abertas e  as tecnologias da produção desse game e um uso inteligente da tecnologia das redes sociais.
 Axé.
 
-## Observações
+## Mais informações
 
  - [Relatório](https://archive.org/details/ID21_0-5/video)
  - [Transcrição ](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Mae-Beth) 

@@ -2,13 +2,13 @@
 title: Radar da Inovação
 description: 
 published: true
-date: 2021-11-01T03:08:15.608Z
+date: 2021-11-12T14:32:14.885Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T03:08:15.608Z
 ---
 
-# Radar da inovação.
+# Radar da inovação
 
 > O radar da inovação desenvolvido por professores da Kellog Business School sob a coordenação de Mohanbir Sawhney e abrange as diferentes dimensões de uma organização. É uma ferramenta com uma visão holística sobre inovação, e mais do que apontar um ranking competitivo em busca da inovação, o radar permite que as organizações possam compreender as diferentes áreas em que inovam, e como podem ampliar ações inovadoras nas diferentes dimensões de atuação.
 

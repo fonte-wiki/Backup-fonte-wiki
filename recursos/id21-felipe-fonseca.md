@@ -2,7 +2,7 @@
 title: ID21 - Felipe Fonseca
 description: 
 published: true
-date: 2021-11-02T19:14:56.716Z
+date: 2022-01-05T08:16:56.966Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-01T03:29:57.198Z
@@ -10,21 +10,25 @@ dateCreated: 2021-11-01T03:29:57.198Z
 
 # ID21 - Felipe Fonseca
 
-> Idealizador do projeto ID21, Felipe Fonseca, pesquisador/doutorando no OpenDoTT (@northumbriauni @mozilla), compartilha um pouco de sua trajetória e traz sua visão crítica e impulsionadora - para além da questão do acesso às tecnologias digitais.
-"Como que a gente pensa nas possibilidades dessas tecnologias para que seja construído um futuro mais justo, mais equilibrado e mais democrático - no sentido de que as pessoas tenham mais voz, mais participação nas decisões sobre o que acontece com a vida delas?"  
+Idealizador dos projetos [ID21](/id21) e fonte.wiki, [Felipe Fonseca](/pessoas/felipe-fonseca), pesquisador/doutorando no OpenDoTT, compartilha um pouco de sua trajetória e traz sua visão crítica e impulsionadora - para além da questão do acesso às tecnologias digitais.
 
-> Sobre o ID21:
-O uso das tecnologias digitais, assim como os impactos da inclusão digital em comunidades distantes dos núcleos urbanos, é um assunto complexo tratado de forma simplista - e que demanda olhares mais cuidadosos sobre o tema.
-Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
-O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
+<video width="640" controls>
+  <source src="https://archive.org/download/id21-videos/id21_felipe-fonseca.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos embutidos
+</video>
 
-Vídeo
+"Como a gente pensa nas possibilidades dessas tecnologias para que seja construído um futuro mais justo, mais equilibrado e mais democrático - no sentido de que as pessoas tenham mais voz, mais participação nas decisões sobre o que acontece com a vida delas?"  
+
+
+## Vídeo
+
  - [3 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR
-](https://www.youtube.com/watch?v=ljqicP_exxw)
+](https://www.youtube.com/watch?v=ljqicP_exxw) (Youtube)
    - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_felipe-fonseca.mp4)
 
 
-### Transcricao
+### Transcrição
+
 Felipe Fonseca, conhecido como FF
 Participei de diversos projetos que orbitavam a ideia de Inclusão Digital 
 Quem me conhece a mais tempo sabe que eu sempre fui crítico de uma ideia superficial de que a questão da tecnologia em comunidades no Br se tratava meramente de inclusão, fiz parte da rede metareciclagem, fui um dos fundadores da rede metareciclagem e através da minha atuação nessa rede participei da construção de alguns projetos e também tive a oportunidade de contribuir com outros projetos que orbitavam essa questão.
@@ -46,7 +50,8 @@ Então do ponto que eu vejo hoje eu imagino, eu espero que essa nossa construç�
 Então assim é a  minha contribuição para a discussão e eu espero que a gente possa e\\ voltar a sonhar nessa construção coletiva de um país mais solidário, mais justo, mais sustentável no qual o bem viver, o bem-estar do coletivo estejam no centro e não a competição, o individualismo, a exclusão e as desigualdades. É isso, mando um abraço para todo mundo que participou do projeto e espero que a gente possa continuar e construir mais coisas no futuro.
 
 
-## Observações
+## Mais informações
 
  - [Relatório](https://archive.org/details/ID21_0-5/video)
  - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Felipe-Fonseca%20) 
+ - [Felipe Fonseca](pessoas/felipe-fonseca) também contribuiu com uma [lista de conteúdos educacionais](/listas/felipe-fonseca) para a fonte.wiki.

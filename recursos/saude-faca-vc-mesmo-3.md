@@ -2,7 +2,7 @@
 title: Saúde faça você mesmo 3/4
 description: As tecnologias de fabricação digital permitiram uma expansão de laboratórios makers para trabalharem com cuidade e saúde faça você mesmo. Ferramenta para pedagogia e inserção social
 published: true
-date: 2021-11-01T01:13:37.610Z
+date: 2021-11-12T14:29:49.203Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:13:37.610Z

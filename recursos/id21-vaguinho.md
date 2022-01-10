@@ -2,7 +2,7 @@
 title: ID21 - Vaguinho
 description: 
 published: true
-date: 2021-11-02T21:06:39.749Z
+date: 2022-01-05T08:18:14.666Z
 tags: id21
 editor: markdown
 dateCreated: 2021-11-02T00:34:56.781Z
@@ -10,12 +10,12 @@ dateCreated: 2021-11-02T00:34:56.781Z
 
 # ID21 - Vaguinho
 
-> Vagner do Nascimento é quem traz a voz neste 8° vídeo da série. Vaguinho, como é conhecido, é liderança no Quilombo da Independência (Paraty/RJ), também chamado de ‘Quilombo do Campinho’, e coordenador do Fórum de Comunidades Tradicionais (FCT) - movimento das comunidades indígena, caiçara e quilombola da região que abrange os municípios de Angra dos Reis/RJ, Paraty e Ubatuba/SP.  
+Vagner do Nascimento fala ao projeto [ID21](/id21). Vaguinho, como é conhecido, é liderança no Quilombo da Independência (Paraty/RJ), também chamado de ‘Quilombo do Campinho’, e coordenador do Fórum de Comunidades Tradicionais (FCT) - movimento das comunidades indígena, caiçara e quilombola da região que abrange os municípios de Angra dos Reis/RJ, Paraty e Ubatuba/SP.  
 
-> Sobre o ID21:
-O uso das tecnologias digitais, assim como os impactos da inclusão digital em comunidades distantes dos núcleos urbanos, é um assunto complexo tratado de forma simplista - e que demanda olhares mais cuidadosos sobre o tema.
-Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
-O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
+<video width="640" controls>
+  <source src="https://archive.org/download/id21-videos/id21_vaguinho-nascimento.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos embutidos
+</video>
 
 ## Vídeo
 
@@ -41,7 +41,7 @@ Mas estas comunidades estão aquém de terem uma estrutura de inclusão digital 
 Através dos seus esforços e dos seus equipamentos, privados, e que não são tão bons, conseguimos avançar, não muito, mas pelo menos um pouco, para que as comunidades consigam se comunicar, falar das suas problemáticas e avançar no desafio de inclusão digital, que ainda ha muito o que se fazer.
 Por esforços do nosso trabalho, estamos fazendo debates para a comunidade se apropriar da importância deste tema , para que as comunidades saiam deste processo de exclusão , não só digital, mas todo o processo de exclusão que as nossas comunidades passam históricamente.
 
-## Observações
+## Mais informações
 
  - [Relatório](https://archive.org/details/ID21_0-5/video)
  - [Transcrição](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-Vaguinho) 

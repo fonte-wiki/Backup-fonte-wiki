@@ -2,7 +2,7 @@
 title: Oca Digital
 description: 
 published: true
-date: 2021-10-29T14:12:51.316Z
+date: 2021-11-12T14:26:58.493Z
 tags: sebastian, oca, digital
 editor: markdown
 dateCreated: 2021-10-29T14:12:51.316Z

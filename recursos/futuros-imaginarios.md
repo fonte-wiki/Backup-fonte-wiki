@@ -2,7 +2,7 @@
 title: Futuros imaginários
 description: Reflete sobre o desenvolvimento tecnológico levando em consideração suas motivações políticas e objetivos econômicos, como também sua repercussão social, conectando informações da ciência, tecnologia, economia, política, história e comunicação de massa.
 published: true
-date: 2021-10-29T16:35:40.770Z
+date: 2021-11-12T14:28:48.575Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-10-29T16:35:40.770Z

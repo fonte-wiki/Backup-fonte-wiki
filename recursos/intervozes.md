@@ -2,7 +2,7 @@
 title: Dez maneiras de combater a desinformação intervozes
 description: Diante de um fenômeno tão complexo, coleção de certezas, mas importantes de serem afirmadas.
 published: true
-date: 2021-10-29T18:05:44.566Z
+date: 2021-11-12T14:29:00.595Z
 tags: ricardo ruiz
 editor: markdown
 dateCreated: 2021-10-29T18:05:44.566Z

@@ -2,7 +2,7 @@
 title: Formação de professores em cultura digital - UFScar
 description: Formação do especialista em planejamento e desenvolvimento do processo de ensino-aprendizagem no contexto da cultura digital
 published: true
-date: 2021-10-29T16:31:50.513Z
+date: 2021-11-12T14:28:42.400Z
 tags: id21, ricardo ruiz, cultura digital, ufscar
 editor: markdown
 dateCreated: 2021-10-29T16:31:50.513Z

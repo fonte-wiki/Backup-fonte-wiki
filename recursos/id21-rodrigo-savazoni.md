@@ -2,7 +2,7 @@
 title: ID21 - Rodrigo Savazoni
 description: 
 published: true
-date: 2021-11-02T21:02:22.747Z
+date: 2022-01-05T08:18:09.472Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:40:08.619Z
@@ -10,18 +10,17 @@ dateCreated: 2021-11-02T00:40:08.619Z
 
 # ID21 - Rodrigo Savazoni
 
-> Rodrigo Savazoni, diretor executivo do Instituto Procomum - que inventa, ativa e participa de redes cujo foco é promover acordos de convivência e modelos de colaboração para a transformação social, contribuindo de forma criativa e inovadora para a construção de um mundo comum entre diferentes.  
+Rodrigo Savazoni, diretor executivo do [Instituto Procomum](https://procomum.org), fala ao projeto [ID21](/id21). O Procomum inventa, ativa e participa de redes cujo foco é promover acordos de convivência e modelos de colaboração para a transformação social, contribuindo de forma criativa e inovadora para a construção de um mundo comum entre diferentes.  
 
-> Sobre o ID21:
-O uso das tecnologias digitais, assim como os impactos da inclusão digital em comunidades distantes dos núcleos urbanos, é um assunto complexo tratado de forma simplista - e que demanda olhares mais cuidadosos sobre o tema.
-Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
-O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
+<video width="640" controls>
+  <source src="https://archive.org/download/id21-videos/id21_rodrigo-savazoni.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos embutidos
+</video>
 
 ## Vídeo
  
  - [9 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=E40wHYKZnvg)
  - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_rodrigo-savazoni.mp4)
-
 
 
 ### Transcrição
@@ -40,7 +39,7 @@ se mantém né porque acho que uma das coisas importantes quando a gente pensava
 Não à toa a gente nos últimos tempos tem trabalhado com essa ideia de inovação cidadania né. O próprio termo inovação é complicado né porque inovação no fundo é um processo que ocorre dentro do mercado mas a gente optou por fazer essa disputa tentando né construir essa relação para tentar também capturar né sequestrar de quem não sequestrou. Sequestrar de volta né essa possibilidade de pensar as comunidades como sujeitas a produção tecnológica né como um potencial ator na produção de tecnologias né então acho que é sentido é o desafio de lá de trás não mudou tanto assim né em alguma medida ele permanece, ele persiste Talvez o nome tenha mudado talvez não faça muito sentido a gente falar em digital e inclusão digital mas eu acho que isso tudo tá um pouco associado a própria ideia de inovação cidadã quando passa por isso e pensar nessa dimensão é pensar essa ampliação da propriedade tecnologia né Tecnologia não só a como Black Box né como caixa-preta como dispositivos artefatos ligados ao mundo digital, mas também como vários tipos de processos criativos inclusive metodológicos que fazem com que as pessoas possam transformar né produzir uma diferença dentro de seus contextos e consequentemente melhorar a luz né
 E aí o dia que em alguma medida a isso para ficar um recorte né, a gente pode olhar também para o fato de que eu tenho filhos adolescentes não percebam que é a inexistência de uma pedagogia né do computador né, do software. O aplicativo é uma versão muito reduzida do potencial do software né. O fato da gente não trabalhar mais com computadores com a mesma sequência né que tem no dia a dia como fazíamos antes né. A transposição disso tudo para o smartphone assim, eu fico às vezes, eu tenho vontade mesmo de voltar a ofertar né as formações para a moçada que tá chegando baseados em computadores e desktops com softwares né rodando Linux para a gente poder é porque para você program o aplicativo continuar sendo absolutamente necessário embora você possa fazer também para outros dispositivos mas me parece que ainda é o computador o elemento central e a isso eu acho que a perda da centralidade do computador é uma questão relevante eu diria que isso talvez fosse um dos pontos centrais é que a gente deveria retomar ou enfim tentar construir alguma coisa não na perspectiva  passadista Mas de fato de projeção e numa direção futura assim né devolver a centralidade do computador e do software é porque para isso tudo vai vir né. Assim isso tudo é fundamental por exemplo você pensar tanto ponto de vista de algoritmos, de pensar Inteligência artificial então é o computador né que tá falando aí a IBM e a Google anunciando é a capacidade do Bits quântico é evoluções do computador né e o computador deixou de estar no centro das políticas ou das ações né dos projetos que são desenvolvidos hoje em dia então talvez uma coisa que possa ser interessante como pitaco é  pensar um projeto de inclusão digital que tenha ou que faça do computador um elemento central, em diálogo com os outros vários né que os dispositivos Mas que não que não desconsidere a importância né Eu vejo as vezes quando meu filho tem fazer uma atividade e a dificuldade que ele tem, por exemplo, de compreender né que o arquivo não que tem um repositório físico né que existe o lugar onde tu tá né assim tá tudo na nuvem né E não, tá tudo nos servidores né e eu acho que tem muita coisa assim é Óbvio que a exclusão digital, a brecha digital permanece né a gente ainda tem uma grande parcela da população sem acesso a conhecimentos e a tecnologia estão não tais como desigual como nossos são questões que se colocam muito seriamente né E que seguem e persistem né Porque esse é o grande problema do Brasil nessa coisa extensa de cenários absolutamente díspares né Desde o mais avançado né o fato da gente ter por exemplo um acelerador de partículas em Campinas que é um dos mais importantes do planeta e continuar tendo favela de palafitas aqui a 10 km da minha casa né em Santos. Eu acho que são essas as minhas contribuições queria agradecer o convite de vocês me pus a pensar. Peço um pouco de desculpas, peço desculpas pelo atraso no envio e mas é porque realmente me coloquei fiquei pensando vários dias hoje resolvi gravar para não deixar de dar minha contribuição excelente projeto que vocês estão fazendo longa vida muita sorte tamo junto valeu
 
-## Observações
+## Mais informações
 
  - [Relatório](https://archive.org/details/ID21_0-5/video)
  - [Transcrição](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-rodrigo-savazoni) 

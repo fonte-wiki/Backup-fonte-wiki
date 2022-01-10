@@ -2,7 +2,7 @@
 title: ID21 - Georgia Nicolau
 description: 
 published: true
-date: 2021-11-02T19:16:39.285Z
+date: 2022-01-05T08:17:09.166Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:43:56.442Z
@@ -10,14 +10,14 @@ dateCreated: 2021-11-02T00:43:56.442Z
 
 # ID21 - Georgia Nicolau
 
-> Georgia Nicolau, diretora do Instituto Procomum - que inventa, ativa e participa de redes cujo foco é promover acordos de convivência e modelos de colaboração para a transformação social, contribuindo de forma criativa e inovadora para a construção de um mundo comum entre diferentes.  
+Georgia Nicolau, diretora do [Instituto Procomum](https://procomum.org), fala ao projeto [ID21](/id21). O Instituto inventa, ativa e participa de redes cujo foco é promover acordos de convivência e modelos de colaboração para a transformação social, contribuindo de forma criativa e inovadora para a construção de um mundo comum entre diferentes.  
 
-> Sobre o ID21:
-O uso das tecnologias digitais, assim como os impactos da inclusão digital em comunidades distantes dos núcleos urbanos, é um assunto complexo tratado de forma simplista - e que demanda olhares mais cuidadosos sobre o tema.
-Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
-O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
+<video width="640" controls>
+  <source src="https://archive.org/download/id21-videos/id21_georgia-nicolau.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos embutidos
+</video>
 
-Vídeo
+## Vídeo
  - [4 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=vQtmTljL_LQ)
    - [Cópia no Web Archive](https://archive.org/details/id21-videos/id21_georgia-nicolau.mov)
 
@@ -34,7 +34,7 @@ Eu acho que sim, ainda reflete no sentido de que, com eu disse no começo, ainda
 E claro tem uma questão essencial que é o GAP que vai se formando cada vez mais. O que as empresas estão falando em aceitar BITCOI,NS vender NT, internet 5G e etc. Tem gente que não tem 3G. A coisa vai num exponencial que há alguns anos atrás se falava em como você pula 50 anos, o tal do LIP FROG. Eu acho que a gente tem que pensar que LIP FROG é esse?, que pulo do sapo a gente vai ter que dar para entender que o mundo virtual, digital é uma parte essencial e o que as tecnologias fizeram vão muito além do acesso a  internet. É Futuro do trabalho, futuro do dinheiro, futuro da indústria, todas essas discussões. E por outro lado o que significa ser um corpo periférico na periferia do mundo. E promover soluções. E qual o papel que a tecnologia pode desenvolver nisso de uma maneira libertária e de promoção de autonomia. Eu mesma me pergunto muito e acho até que eu fui ficando muito desanimada talvez pela potencialidade que eu vejo e pelo quanto que o dinheiro acaba impondo tantas limitações. Mas a gente segue. Eu acho que tem uma parte essencial que é promover diálogos, promover encontros, promover acesso. 
 Espero ter ajudado, um abraço.
 
-## Observações
+## Mais informações
 
  - [Relatório](https://archive.org/details/ID21_0-5/video)
  - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-georgia-nicolau-instituto-procomum) 

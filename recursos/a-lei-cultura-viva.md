@@ -2,7 +2,7 @@
 title: A lei cultura viva
 description: 
 published: true
-date: 2021-11-01T02:28:41.225Z
+date: 2021-11-12T14:31:26.577Z
 tags: id21, ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T02:28:41.225Z
@@ -12,7 +12,8 @@ dateCreated: 2021-11-01T02:28:41.225Z
 > Veja a vídeo-aula e leia o panfleto abaixo, de Wanderlynne Selva, que traz um histórico da Lei Cultura Viva e do funcionamento da mesma em relação à Economia Criativa e à União Européia.
 
 > Aproveite para refletir sobre os processos políticos na construção de identidade e as perspectivas econômicas resultantes das mesmas.
-- [link no Youtube](https://www.youtube.com/watch?v=PH2hDhAl5mI&t=1s)
+- [Vídeo no Youtube](https://www.youtube.com/watch?v=PH2hDhAl5mI&t=1s)
+- [Cópia no Web Archive](https://web.archive.org/web/20211019020109/https://www.youtube.com/watch?v=PH2hDhAl5mI&t=1s)
 ## Observação
 - Enviado por Ricardo Ruiz
 

@@ -2,7 +2,7 @@
 title: Web Arte
 description: Conversações e definições sobre arte e tecnologia, net arte e web arte, internet e suas linguagens de programação
 published: true
-date: 2021-11-04T00:49:01.578Z
+date: 2021-11-12T14:30:07.697Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:22:03.504Z

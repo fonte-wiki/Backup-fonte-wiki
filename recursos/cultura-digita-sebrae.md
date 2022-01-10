@@ -2,7 +2,7 @@
 title: Cultura digital SEBRAE
 description: Objetiva instruir professores de todos os segmentos e níveis educacionais em Aprendizagem Baseada em Projetos ou Aprendizagem Baseada em Projetos.
 published: true
-date: 2021-10-29T16:16:37.653Z
+date: 2021-11-12T14:28:18.286Z
 tags: id21, ricardo ruiz, sebrae, cultura digital
 editor: markdown
 dateCreated: 2021-10-29T16:16:37.653Z

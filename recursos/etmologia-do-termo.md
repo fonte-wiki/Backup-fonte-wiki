@@ -2,7 +2,7 @@
 title: Etmologia do termo
 description: 
 published: true
-date: 2021-11-04T01:38:15.559Z
+date: 2021-11-12T14:33:45.809Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-04T01:38:15.559Z

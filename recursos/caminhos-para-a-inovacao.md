@@ -2,7 +2,7 @@
 title: Caminhos para a inovação
 description: Aqui você encontra cursos que auxiliam professores e alunos em usos construtivos e contextualizados de tecnologias digitais, privilegiando a criação, a colaboração e a resolução de desafios.
 published: true
-date: 2021-10-29T16:27:46.254Z
+date: 2021-11-12T14:28:36.306Z
 tags: id21, critical data comics, ricardo ruiz, inovação, cultura digital
 editor: markdown
 dateCreated: 2021-10-29T16:27:46.254Z

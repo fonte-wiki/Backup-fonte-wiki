@@ -2,7 +2,7 @@
 title: Etimologia do termo
 description: 
 published: true
-date: 2021-11-02T19:14:03.947Z
+date: 2021-11-12T14:30:38.393Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:45:21.545Z

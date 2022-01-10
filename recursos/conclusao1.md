@@ -2,7 +2,7 @@
 title: Conclusão 1
 description: 
 published: true
-date: 2021-11-04T01:44:12.793Z
+date: 2021-11-12T14:30:50.502Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:57:40.746Z

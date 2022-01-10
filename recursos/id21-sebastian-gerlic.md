@@ -2,7 +2,7 @@
 title: ID21 - Sebastian Gerlic
 description: contribuição de Sebastian Gerlic no projeto ID21
 published: true
-date: 2021-11-02T21:17:04.311Z
+date: 2022-01-05T08:18:11.774Z
 tags: id21, neos, critical data comics
 editor: markdown
 dateCreated: 2021-10-29T14:20:02.522Z
@@ -10,12 +10,12 @@ dateCreated: 2021-10-29T14:20:02.522Z
 
 # ID21 - Sebastian Gerlic
 
-> Sebástian Gerlic, presidente da ONG, compartilha conosco a trajetória da Thydêwá desde sua fundação. Thydêwá significa ‘esperança da terra’ e dá nome à organização não-governamental sediada em Ilhéus/BA - que promove a cultura de paz como caminho para a transformação social, trabalhando com a diversidade cultural em diálogo entre indígenas e não-indígenas. 
+Sebástian Gerlic manda suas respostas ao projeto [ID21](/id21). Sebastian é presidente da Thydêwá e conta sua história. Thydêwá significa ‘esperança da terra’ e dá nome à organização não-governamental sediada em Ilhéus/BA - que promove a cultura de paz como caminho para a transformação social, trabalhando com a diversidade cultural em diálogo entre indígenas e não-indígenas. 
 
-> Sobre o ID21:
-O uso das tecnologias digitais, assim como os impactos da inclusão digital em comunidades distantes dos núcleos urbanos, é um assunto complexo tratado de forma simplista - e que demanda olhares mais cuidadosos sobre o tema.
-Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
-O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
+<video width="640" controls>
+  <source src="https://archive.org/download/id21-videos/id21_sebastian-gerlic.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos embutidos
+</video>
 
 ## Vídeo
 

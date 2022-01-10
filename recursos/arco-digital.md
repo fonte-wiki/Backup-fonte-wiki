@@ -2,7 +2,7 @@
 title: Arco Digital
 description: 
 published: true
-date: 2021-10-26T07:12:34.794Z
+date: 2021-11-12T14:26:10.278Z
 tags: thydewá, kariri-xocó
 editor: markdown
 dateCreated: 2021-10-26T07:02:27.363Z

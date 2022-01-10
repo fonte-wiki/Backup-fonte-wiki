@@ -2,7 +2,7 @@
 title: ID21 - TC Silva
 description: 
 published: true
-date: 2021-11-02T21:05:06.717Z
+date: 2022-01-05T08:18:11.867Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:36:13.517Z
@@ -10,12 +10,12 @@ dateCreated: 2021-11-02T00:36:13.517Z
 
 # ID21 - TC Silva
 
-> TC Silva, da Casa de Cultura Tainã e da Rede Mocambos - que estimulam a valorização das manifestações artísticas, culturais, sociais, alimentares, e muitos outros elementos que constituem os saberes e fazeres de comunidades tradicionais brasileiras. Partindo da apropriação tecnológica digital, que possibilita que os conhecimentos e práticas tradicionais sejam registrados, organizados e difundidos, a Tainã busca produzir e difundir conteúdos e informações relevantes para as comunidades parceiras e para o público em geral.  
+TC Silva fala ao projeto [ID21](/id21). TC é fundador da Casa de Cultura Tainã e da Rede Mocambos - que estimulam a valorização das manifestações artísticas, culturais, sociais, alimentares, e muitos outros elementos que constituem os saberes e fazeres de comunidades tradicionais brasileiras. Partindo da apropriação tecnológica digital, que possibilita que os conhecimentos e práticas tradicionais sejam registrados, organizados e difundidos, a Tainã busca produzir e difundir conteúdos e informações relevantes para as comunidades parceiras e para o público em geral.  
 
-> Sobre o ID21:
-O uso das tecnologias digitais, assim como os impactos da inclusão digital em comunidades distantes dos núcleos urbanos, é um assunto complexo tratado de forma simplista - e que demanda olhares mais cuidadosos sobre o tema.
-Nesse sentido, o ID21 - idealizado por Felipe Fonseca com o apoio da Universidade de Bristol, na Inglaterra - está ligado a uma oficina sobre alfabetização digital e inclusão social, em parceria com a @unicamp.oficial. E contou com o Instituto Neos e Anna Gallafrio na condução da pesquisa que fomenta o diálogo com lideranças reconhecidas nessa área, para atualizar a discussão sobre a relevância da inclusão digital, quais são as novas questões que surgiram em tempos recentes e quais os caminhos a seguir.
-O estudo vai fornecer subsídios à produção criativa de um grupo de artistas de quadrinhos - explorando, em linguagem gráfica, aspectos políticos das culturas digitais e da alfabetização digital.  
+<video width="640" controls>
+  <source src="https://archive.org/download/id21-videos/id21_tc-taina.mp4" type="video/mp4">
+  Seu navegador não suporta vídeos embutidos
+</video>
 
 ## Vídeo
  - [11 Vídeo - ID21 | um olhar atualizado sobre a Inclusão Digital Comunitária no BR](https://www.youtube.com/watch?v=MB2JfOTS82g&t=288s)
@@ -46,7 +46,7 @@ mais do que educar é o cuidar!!!! o territorio - não uma instituição
 é obrigado a cuidar, a conviver - uma cosmovisão africana, mais evoluída, não é para mim, é p nos
 o mundo todo ta passando essa travessia, fundamental pensar que temos que sonhar com outro mundo possivel para nos
 
-## Observações
+## Mais informações
 
  - [Relatório](https://archive.org/details/ID21_0-5/video)
  - [Transcricao](https://archive.org/details/transcricoes-inclusao-digital-critical-data-comics/Transcricao-TC-Silva) 

@@ -2,7 +2,7 @@
 title: Celulares Indigenas
 description: 
 published: true
-date: 2021-10-29T14:25:05.774Z
+date: 2021-11-12T14:27:41.770Z
 tags: sebastian, indigena, celulares
 editor: markdown
 dateCreated: 2021-10-29T14:25:05.774Z

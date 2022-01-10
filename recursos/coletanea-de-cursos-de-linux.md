@@ -2,7 +2,7 @@
 title: Coletânea de cursos de Linux
 description:  O Portal GSTI¹ é uma plataforma completa dedicada a profissionais de Tecnologia da Informação.
 published: true
-date: 2021-10-29T16:09:07.609Z
+date: 2021-11-12T14:28:12.304Z
 tags: id21, critical data comics, ricardo ruiz, linux, ti
 editor: markdown
 dateCreated: 2021-10-29T16:09:07.609Z

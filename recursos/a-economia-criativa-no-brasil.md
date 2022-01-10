@@ -2,7 +2,7 @@
 title: A Economia Criativa no Brasil
 description: 
 published: true
-date: 2021-11-01T02:24:14.840Z
+date: 2021-11-12T14:31:20.509Z
 tags: id21, ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T02:24:14.840Z
@@ -12,6 +12,7 @@ dateCreated: 2021-11-01T02:24:14.840Z
 
 > Acompanhe na vídeo-aula abaixo alguns aspectos históricos políticos e legislativos relacionados à Economia Criativa dos anos 1990 até os dias atuais.
  - [Vídeo no Youtube](https://www.youtube.com/watch?v=9ElOpyRJeYo)
+ - [Cópia no Web Archive](https://web.archive.org/web/20211104233939/https://www.youtube.com/watch?v=9ElOpyRJeYo)
  
 
 ## Observações

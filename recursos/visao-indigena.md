@@ -2,7 +2,7 @@
 title: Visão Indigena
 description: 
 published: true
-date: 2021-10-29T14:08:34.863Z
+date: 2021-11-12T14:26:52.472Z
 tags: sebastian, indigena
 editor: markdown
 dateCreated: 2021-10-29T14:08:34.863Z

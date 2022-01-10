@@ -2,7 +2,7 @@
 title: Como mensurar a inovação - Curso
 description: O curso é um desdobramento de dissertação de mestrado apresentada na Faculdade de Ciências da Adminsitração de Pernambuco - FCAP/ UPE. Menção honrosa de melhor dissertação de 2018 na instituição
 published: true
-date: 2021-11-01T03:17:22.234Z
+date: 2021-11-12T14:30:14.102Z
 tags: ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T01:28:43.627Z
@@ -36,8 +36,8 @@ Your content here
 - [Conclusão 3](/recursos/conclusão-3)
 - [O que são políticas públicas?](/recursos/o-que-sao-politicas-publicas)
 - [Investimentos em inovação no Brasil](/recursos/investimentos-em-inovacao-no-brasil)
-- [PPA 2016-2019 e LOA 2017](ppa-2016-2019-loa-2017)
-- [Politicas públicas para a inovação](politicas-publicas-inovacao)
+- [PPA 2016-2019 e LOA 2017](/recursos/ppa-2016-2019-loa-2017)
+- [Politicas públicas para a inovação](/recursos/politicas-publicas-inovacao)
 - [Conclusão 4](/recursos/conclusão-4)
 - [Ferramentas para medir a inovação](/recursos/ferramentas-para-medir-a-inovacao)
 - [Radar da inovação](/recursos/radar-da-inovacao)

@@ -2,7 +2,7 @@
 title: Saúde faça você mesmo 1/4
 description: As tecnologias de fabricação digital permitiram uma expansão de laboratórios makers para trabalharem com cuidade e saúde faça você mesmo. 
 published: true
-date: 2021-11-01T01:08:03.911Z
+date: 2021-11-12T14:29:37.167Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:08:03.911Z

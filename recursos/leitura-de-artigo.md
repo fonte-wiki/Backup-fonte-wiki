@@ -2,7 +2,7 @@
 title: Leitura de arquivo
 description: 
 published: true
-date: 2021-11-01T02:10:11.275Z
+date: 2021-11-12T14:31:02.569Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T02:10:11.275Z
@@ -13,6 +13,7 @@ dateCreated: 2021-11-01T02:10:11.275Z
 > Leia o artigo a seguir, chamado de "A dialética da Informação". Ele discute melhor tudo o que vimos até aqui, como os conceitos de inovação, inovação social e inovação tecnológica, com o intuito de analisar a dicotomia existente entre esses termos em suas epistemologias e práticas.
 
  - [A dialética da inovação](https://readruiz.medium.com/a-dial%C3%A9tica-da-inova%C3%A7%C3%A3o-8fd3b712e5e6)
+ - [Cópia no Web Archive](https://web.archive.org/web/20211018221801/https://readruiz.medium.com/a-dial%C3%A9tica-da-inova%C3%A7%C3%A3o-8fd3b712e5e6)
 
 ## Observações
 

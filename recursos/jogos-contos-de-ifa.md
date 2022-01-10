@@ -2,7 +2,7 @@
 title: Jogo contos de Ifá
 description: Contos de Ifá são laboratórios de inovação para a promoção da identidade negra e feminina de comunidades tradicionais.
 published: true
-date: 2021-10-29T18:08:33.134Z
+date: 2021-11-12T14:29:06.799Z
 tags: id21, critical data comics, ricardo ruiz
 editor: markdown
 dateCreated: 2021-10-29T18:08:33.134Z
