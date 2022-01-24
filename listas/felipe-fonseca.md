@@ -2,7 +2,7 @@
 title: Lista de Felipe Fonseca
 description: 
 published: true
-date: 2022-01-05T07:39:59.269Z
+date: 2022-01-24T13:46:00.517Z
 tags: listas
 editor: markdown
 dateCreated: 2021-11-09T11:42:02.293Z
@@ -12,8 +12,9 @@ dateCreated: 2021-11-09T11:42:02.293Z
 
 Lista de conteúdos enviada por [Felipe Schmidt Fonseca](/pessoas/felipe-fonseca):
  
-## Uso consciente de tecnologias 
+## Uso crítico de tecnologias 
 
+ - [Mozilla Web Literacy Curriculum](/recursos/mozilla-web-literacy)
  - [Data Detox](/recursos/data-detox-kit)
  - [The Glassroom](/recursos/glassroom)
  - [Deep Fake Lab](/recursos/deep-fake-lab)
