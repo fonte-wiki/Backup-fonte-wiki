@@ -2,7 +2,7 @@
 title: Semente
 description: Projeto Semente
 published: true
-date: 2022-04-04T20:43:31.903Z
+date: 2022-04-04T20:43:52.466Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -21,5 +21,5 @@ O projeto Semente tem como principal objetivo oferecer caminhos para a criação
 
 ----
 
-Semente é uma parceria do Instituto Neos com a Universidade de Bristol. Tem apoio do 
+Semente é uma parceria do Instituto Neos com a Universidade de Bristol.
 
