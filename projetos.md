@@ -2,7 +2,7 @@
 title: Projetos
 description: Projetos de fonte.wiki
 published: true
-date: 2022-04-04T20:28:22.184Z
+date: 2022-04-04T20:33:33.606Z
 tags: projetos
 editor: markdown
 dateCreated: 2022-04-04T20:28:22.184Z
@@ -13,6 +13,6 @@ dateCreated: 2022-04-04T20:28:22.184Z
 Projetos ligados ao repositório fonte.wiki
 
  - [ID21](/id21)
- - [Semente](semente)
+ - [Semente](/semente)
  
  
