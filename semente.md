@@ -2,7 +2,7 @@
 title: Semente
 description: Projeto Semente
 published: true
-date: 2022-04-04T20:43:52.466Z
+date: 2022-04-04T20:46:55.758Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -18,6 +18,14 @@ O projeto Semente tem como principal objetivo oferecer caminhos para a criação
 - **Instituindo**. Acesso e infraestrutura. Participação social. Soberania e tecnologia.
 - **Além do uso**. Apropriação crítica. Aprendizado distribuído. Metodologias para projetos de vida.
 - **Linguagens**. Criatividade tática. Mobilização e comunicação.
+
+## Atividades previstas
+
+- Quatro oficinas online.
+- Confecção de publicação - guia/cartilha/manual de projetos de políticas digitais.
+- Encontro em Julho 2022 (Ubatuba/SP).
+
+
 
 ----
 
