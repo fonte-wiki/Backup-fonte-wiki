@@ -1,8 +1,8 @@
 ---
-title: Conclusão 5
+title: Como Mensurar a Inovação - Conclusão 5
 description: 
 published: true
-date: 2021-11-12T14:32:20.999Z
+date: 2022-08-25T12:36:44.226Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T03:14:54.040Z
