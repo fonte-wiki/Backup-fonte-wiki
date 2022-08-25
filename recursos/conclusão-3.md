@@ -1,8 +1,8 @@
 ---
-title: Conclusão 3
+title: Como Mensurar a Inovação - Conclusão 3
 description: 
 published: true
-date: 2021-11-12T14:31:32.702Z
+date: 2022-08-25T12:38:08.291Z
 tags: ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T02:35:55.007Z
