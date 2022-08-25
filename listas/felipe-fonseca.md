@@ -2,7 +2,7 @@
 title: Lista de Felipe Fonseca
 description: 
 published: true
-date: 2022-01-24T13:46:00.517Z
+date: 2022-08-25T12:28:09.581Z
 tags: listas
 editor: markdown
 dateCreated: 2021-11-09T11:42:02.293Z
@@ -42,6 +42,9 @@ Lista de conteúdos enviada por [Felipe Schmidt Fonseca](/pessoas/felipe-fonseca
  - [Inspirador](/recursos/inspirador)
  - [O método Santalab](/recursos/santalab)
 
+## Coleções de material
+
+ - [La aventura de aprender](/recursos/la-aventura-de-aprender)
  
  
  
