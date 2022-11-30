@@ -2,7 +2,7 @@
 title: Semente
 description: Projeto Semente
 published: true
-date: 2022-11-30T09:14:12.786Z
+date: 2022-11-30T09:14:47.404Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -10,7 +10,7 @@ dateCreated: 2022-04-04T20:32:13.049Z
 
 # Semente
 
-([English Version here](semente_en))
+([English Version here](/semente_en))
 
 Semente tem por objetivo criar métodos para cultivar projetos de tecnologia e sociedade que reflitam e ampliem as potencialidades e recursos já existentes em cada contexto. Ao longo dos próximos meses, vamos organizar encontros focais pela internet, para conversar sobre diferentes aspectos da Semente.
 
