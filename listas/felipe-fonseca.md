@@ -2,7 +2,7 @@
 title: Lista de Felipe Fonseca
 description: 
 published: true
-date: 2022-08-25T12:28:09.581Z
+date: 2023-01-04T10:27:16.414Z
 tags: listas
 editor: markdown
 dateCreated: 2021-11-09T11:42:02.293Z
@@ -41,6 +41,7 @@ Lista de conteúdos enviada por [Felipe Schmidt Fonseca](/pessoas/felipe-fonseca
  - [A viagem do herói e seus aliados-chave](/recursos/a-viagem-do-heroi)
  - [Inspirador](/recursos/inspirador)
  - [O método Santalab](/recursos/santalab)
+ - [Guia como montar um laboratório de experimentação e innovação em uma biblioteca](/recursos/laboratorio-biblioteca)
 
 ## Coleções de material
 
