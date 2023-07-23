@@ -2,7 +2,7 @@
 title: Listas
 description: Coleções de conteúdo educacional
 published: true
-date: 2022-01-05T08:02:50.503Z
+date: 2023-07-23T22:06:24.467Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-26T07:05:25.301Z
@@ -17,5 +17,7 @@ Nesta pasta você pode encontrar coleções de conteúdo educacional aberto cria
  - [Ricardo Ruiz](/listas/ricardo-ruiz)
  - [Sebastian Gerlic](/listas/sebastian-gerlic)
  - [Milena Franceschinelli](/listas/milena-franceschinelli)
+ 
+ 
  
  
