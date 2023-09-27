@@ -2,7 +2,7 @@
 title: Página Inicial
 description: Acervo aberto de conteúdo educacional sobre políticas públicas de tecnologia e sociedade.
 published: true
-date: 2022-04-04T20:26:48.023Z
+date: 2023-09-27T12:13:17.513Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-08T17:58:25.513Z
@@ -17,7 +17,7 @@ Você pode navegar pelo conteúdo do site de diversas formas:
  - pelas [coleções](listas) de conteúdos educacionais enviadas por [pessoas](/pessoas) com experiência em projetos de tecnologia e sociedade.
  - pelas [palavras-chave](/t) associadas ao conteúdo.
  - acessando a [listagem completa](recursos) de recursos educacionais.
- - conhecendo outros [projetos](projetos).
+ - conhecendo outros [Projetos](projetos).
 
 ## Origens: ID21
 
