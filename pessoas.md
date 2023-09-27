@@ -2,7 +2,7 @@
 title: Pessoas
 description: As fontes da fonte.wiki.
 published: true
-date: 2021-11-12T14:26:22.188Z
+date: 2023-09-27T19:21:13.123Z
 tags: pessoas
 editor: markdown
 dateCreated: 2021-10-26T07:06:49.250Z
@@ -12,5 +12,6 @@ dateCreated: 2021-10-26T07:06:49.250Z
 
 Quem está mantendo a fonte?
 
+ - [Felipe Schmidt Fonseca](/pessoas/felipe-fonseca)
  - [Ricardo Ruiz](/pessoas/ricardo-ruiz)
  - [Sebastian Gerlic](/pessoas/sebastian-gerlic)
