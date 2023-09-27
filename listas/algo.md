@@ -2,7 +2,7 @@
 title: Algo
 description: Discriminação Algorítimica
 published: true
-date: 2023-09-27T17:06:27.580Z
+date: 2023-09-27T17:22:07.273Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -25,8 +25,3 @@ dateCreated: 2023-09-26T20:04:06.398Z
 ### Websites
 
 - [Desvelar](https://desvelar.org/)
-
-
-### Ferramenta PReferida de comunicação?
-
-
