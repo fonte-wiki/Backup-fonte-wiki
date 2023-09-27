@@ -2,7 +2,7 @@
 title: Página Inicial
 description: Acervo aberto de conteúdo educacional sobre políticas públicas de tecnologia e sociedade.
 published: true
-date: 2023-09-27T12:15:51.982Z
+date: 2023-09-27T19:25:42.620Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-08T17:58:25.513Z
@@ -30,6 +30,6 @@ Entre em [contato por email](mailto:n9c9nm6wq@relay.firefox.com) para contribuir
 
 ## Sobre fonte.wiki
 
-Este projeto é executado pelo [Instituto Neos](https://coletivoneos.org/) e conta com apoio da [Universidade de Bristol](https://bristol.ac.uk/) e do [Bristol Digital Futures Institute](https://www.bristol.ac.uk/bristol-digital-futures-institute/).
+Este projeto foi criado pelo [Instituto Neos](https://coletivoneos.org/) e contou com apoio da [Universidade de Bristol](https://bristol.ac.uk/) e do [Bristol Digital Futures Institute](https://www.bristol.ac.uk/bristol-digital-futures-institute/).
 
-Estamos desenvolvendo este site em tempo real. O formato dele ainda vai continuar mudando nos próximos tempos.
+O site usa o software [Wiki.js](https://js.wiki/).
