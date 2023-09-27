@@ -2,7 +2,7 @@
 title: Página Inicial
 description: Acervo aberto de conteúdo educacional sobre políticas públicas de tecnologia e sociedade.
 published: true
-date: 2023-09-27T12:13:17.513Z
+date: 2023-09-27T12:15:51.982Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-08T17:58:25.513Z
@@ -14,14 +14,14 @@ dateCreated: 2021-10-08T17:58:25.513Z
 
 Você pode navegar pelo conteúdo do site de diversas formas:
 
- - pelas [coleções](listas) de conteúdos educacionais enviadas por [pessoas](/pessoas) com experiência em projetos de tecnologia e sociedade.
+ - pelas [coleções](listas) de conteúdos educacionais enviadas por [pessoas](pessoas) com experiência em projetos de tecnologia e sociedade.
  - pelas [palavras-chave](/t) associadas ao conteúdo.
  - acessando a [listagem completa](recursos) de recursos educacionais.
- - conhecendo outros [Projetos](projetos).
+ - conhecendo outros [projetos](projetos/projetos).
 
 ## Origens: ID21
 
-O projeto fonte.wiki originou-se de um levantamento sobre o estado atual da inclusão digital comunitária no Brasil, chamado [ID21](id21):
+O projeto fonte.wiki originou-se de um levantamento sobre o estado atual da inclusão digital comunitária no Brasil, chamado [ID21](projetos/id21):
 
 [![id21-](https://raw.githubusercontent.com/fonte-wiki/id21/main/relatorio/id21-estrutura.png)](/id21)
 
