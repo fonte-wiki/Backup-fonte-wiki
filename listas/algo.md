@@ -2,7 +2,7 @@
 title: Algo
 description: Discriminação Algorítimica
 published: true
-date: 2023-10-04T22:41:26.937Z
+date: 2023-10-04T22:46:22.841Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -21,12 +21,17 @@ dateCreated: 2023-09-26T20:04:06.398Z
 ### Textos
 
 - [Deivison Nkosi - Colonialismo Digital](https://deivisonnkosi.com.br/artigos/colonialismo-digital/colonialismo-digital/)
+- [Racial Justice (em inglês)](https://movementbuilding.mozillafoundation.org/category/ai-impacts-in-the-consumer-space-social-justice/#racial-justice)
+
 
 ### Websites
 
 - [Desvelar](https://desvelar.org/)
 - [D4BL - Data for Black Lives](https://d4bl.org/)
-- 
+- [DecolonizAI](https://www.decolonizai.com/)
+- [Decolonize Design](https://www.decolonizedesign.com/)
+
+
 
 
 ### Games
