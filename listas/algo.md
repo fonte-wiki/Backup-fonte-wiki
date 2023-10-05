@@ -2,7 +2,7 @@
 title: Algo
 description: Discriminação Algorítimica
 published: true
-date: 2023-10-04T22:46:22.841Z
+date: 2023-10-05T17:20:57.715Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -39,3 +39,4 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Papers, Please](https://papersplea.se/)
 - [The biometric outrun](https://www.greens-efa.eu/tools/game/index.html)
 - [Games for change](https://www.gamesforchange.org/)
+- [Total Refusal](https://totalrefusal.com/)
