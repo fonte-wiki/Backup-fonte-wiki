@@ -2,7 +2,7 @@
 title: Algo
 description: Discriminação Algorítimica
 published: true
-date: 2023-10-10T15:12:47.798Z
+date: 2023-10-10T15:27:25.429Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -45,9 +45,10 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Racismo Algorítmico - Ação Educativa](https://desvelar.org/curso-racismo-algoritmico/)
 
 
-### Games
+### Games / recursos online interativos
 
 - [Papers, Please](https://papersplea.se/)
 - [The biometric outrun](https://www.greens-efa.eu/tools/game/index.html)
 - [Games for change](https://www.gamesforchange.org/)
 - [Total Refusal](https://totalrefusal.com/)
+- [Mapeamento de danos e discriminação algorítmica](https://desvelar.org/casos-de-discriminacao-algoritmica/)
