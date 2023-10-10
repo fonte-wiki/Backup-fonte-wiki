@@ -2,7 +2,7 @@
 title: Algo
 description: Discriminação Algorítimica
 published: true
-date: 2023-10-10T15:08:42.097Z
+date: 2023-10-10T15:12:47.798Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -30,7 +30,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Desvelar](https://desvelar.org/)
 - [D4BL - Data for Black Lives](https://d4bl.org/)
 - [DecolonizAI](https://www.decolonizai.com/)
-- [Decolonize Design](https://www.decolonizedesign.com/)
+- [Decolonising Design](http://www.decolonisingdesign.com/)
 
 
 ### Campanhas
