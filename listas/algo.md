@@ -2,7 +2,7 @@
 title: Algo
 description: Discriminação Algorítimica
 published: true
-date: 2023-10-10T13:25:06.211Z
+date: 2023-10-10T15:08:42.097Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -39,7 +39,10 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Tire meu rosto da sua mira](https://tiremeurostodasuamira.org.br/)
 - [PLs para banimento de reconhecimento facial em espaços públicos](https://opanoptico.com.br/projetos-de-lei-em-todo-brasil-pedem-o-banimento-do-reconhecimento-facial-em-espacos-publicos/)
 
+### Cursos
 
+- [Tecla - Planos de Aula](https://tecla.org.br/planos-de-aula/)
+- [Racismo Algorítmico - Ação Educativa](https://desvelar.org/curso-racismo-algoritmico/)
 
 
 ### Games
