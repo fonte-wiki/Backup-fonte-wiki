@@ -2,7 +2,7 @@
 title: Algo
 description: Discriminação Algorítimica
 published: true
-date: 2023-10-10T15:27:25.429Z
+date: 2023-10-10T16:20:04.076Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -23,6 +23,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Deivison Nkosi - Colonialismo Digital](https://deivisonnkosi.com.br/artigos/colonialismo-digital/colonialismo-digital/)
 - [Racial Justice (em inglês)](https://movementbuilding.mozillafoundation.org/category/ai-impacts-in-the-consumer-space-social-justice/#racial-justice)
 - [Windhoek Statement on Artificial Intelligence in Southern Africa](https://unesdoc.unesco.org/ark:/48223/pf0000383197)
+- [How AI reduces the world to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/)
 
 
 ### Websites
