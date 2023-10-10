@@ -2,7 +2,7 @@
 title: Algo
 description: Discriminação Algorítimica
 published: true
-date: 2023-10-10T16:22:18.904Z
+date: 2023-10-10T16:23:44.160Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
