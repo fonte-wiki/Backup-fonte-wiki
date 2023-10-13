@@ -1,8 +1,8 @@
 ---
 title: Algo
-description: Discriminação Algorítimica
+description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-10-10T16:23:44.160Z
+date: 2023-10-13T15:30:06.373Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
