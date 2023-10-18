@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-10-13T15:31:21.496Z
+date: 2023-10-18T22:28:56.236Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -18,7 +18,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [ID21 - TC Silva](https://fonte.wiki/recursos/id21-tc-silva)
 - [ID21 - Vaguinho](https://fonte.wiki/recursos/id21-vaguinho)
 
-### Textos / Documentos
+### Textos / Livros / Documentos
 
 - [Deivison Nkosi - Colonialismo Digital](https://deivisonnkosi.com.br/artigos/colonialismo-digital/colonialismo-digital/)
 - [Racial Justice (em inglês)](https://movementbuilding.mozillafoundation.org/category/ai-impacts-in-the-consumer-space-social-justice/#racial-justice)
@@ -29,7 +29,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 
 ### Websites
 
-- [Desvelar](https://desvelar.org/)
+- [Desvelar](https://desvelar.org/) (e sua newsletter)
 - [D4BL - Data for Black Lives](https://d4bl.org/)
 - [DecolonizAI](https://www.decolonizai.com/)
 - [Decolonising Design](http://www.decolonisingdesign.com/)
