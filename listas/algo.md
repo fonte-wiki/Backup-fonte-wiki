@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-10-18T22:28:56.236Z
+date: 2023-10-18T22:29:53.029Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -29,7 +29,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 
 ### Websites
 
-- [Desvelar](https://desvelar.org/) (e sua newsletter)
+- [Desvelar](https://desvelar.org/) (e sua [biblioteca](https://desvelar.org/biblioteca-justica-racial-tecnologias-digitais/) recheada de referências)
 - [D4BL - Data for Black Lives](https://d4bl.org/)
 - [DecolonizAI](https://www.decolonizai.com/)
 - [Decolonising Design](http://www.decolonisingdesign.com/)
