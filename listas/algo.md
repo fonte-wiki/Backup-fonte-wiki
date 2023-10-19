@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-10-18T22:29:53.029Z
+date: 2023-10-19T15:48:58.212Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -20,6 +20,8 @@ dateCreated: 2023-09-26T20:04:06.398Z
 
 ### Textos / Livros / Documentos
 
+- Tarcizio Silva - [Racismo Algorítmico: inteligência artificial e discriminação nas redes digitais](https://archive.org/details/tarcizio-silva-racismo-algoritmico)
+- Tarcizio Silva (org) - [Comunidades, Algoritmos e Ativismos Digitais: olhares afrodiaspóricos](https://literarua.commercesuite.com.br/livro/olhares-afrodiasporicos) - versão PDF na íntegra disponível [aqui](https://www.researchgate.net/publication/339954112_Comunidades_Algoritmos_e_Ativismos_Digitais_olhares_afrodiasporicos)
 - [Deivison Nkosi - Colonialismo Digital](https://deivisonnkosi.com.br/artigos/colonialismo-digital/colonialismo-digital/)
 - [Racial Justice (em inglês)](https://movementbuilding.mozillafoundation.org/category/ai-impacts-in-the-consumer-space-social-justice/#racial-justice)
 - [Windhoek Statement on Artificial Intelligence in Southern Africa](https://unesdoc.unesco.org/ark:/48223/pf0000383197)
