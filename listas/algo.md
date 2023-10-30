@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-10-19T15:55:01.467Z
+date: 2023-10-30T18:54:39.614Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -17,6 +17,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [ID21 - Mãe Beth de Oxum](https://fonte.wiki/recursos/id21-mae-beth)
 - [ID21 - TC Silva](https://fonte.wiki/recursos/id21-tc-silva)
 - [ID21 - Vaguinho](https://fonte.wiki/recursos/id21-vaguinho)
+- [Joy Buolamwini - Como eu luto contra o preconceito em algoritmos](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=pt)
 
 ### Textos / Livros / Documentos
 
