@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-10-30T18:54:39.614Z
+date: 2023-10-30T18:55:52.123Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -11,13 +11,6 @@ dateCreated: 2023-09-26T20:04:06.398Z
 # Discriminação Algorítmica
 
 ## Referências
-
-### Vídeos
-
-- [ID21 - Mãe Beth de Oxum](https://fonte.wiki/recursos/id21-mae-beth)
-- [ID21 - TC Silva](https://fonte.wiki/recursos/id21-tc-silva)
-- [ID21 - Vaguinho](https://fonte.wiki/recursos/id21-vaguinho)
-- [Joy Buolamwini - Como eu luto contra o preconceito em algoritmos](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=pt)
 
 ### Textos / Livros / Documentos
 
@@ -31,6 +24,12 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [How AI reduces the world to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/)
 - [ Racial discrimination and emerging digital technologies : a human rights analysis : report of the Special Rapporteur on Contemporary Forms of Racism, Racial Discrimination, Xenophobia and Related Intolerance - UN](https://digitallibrary.un.org/record/3879751)
 
+### Vídeos
+
+- [ID21 - Mãe Beth de Oxum](https://fonte.wiki/recursos/id21-mae-beth)
+- [ID21 - TC Silva](https://fonte.wiki/recursos/id21-tc-silva)
+- [ID21 - Vaguinho](https://fonte.wiki/recursos/id21-vaguinho)
+- [Joy Buolamwini - Como eu luto contra o preconceito em algoritmos](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms?language=pt)
 
 ### Websites
 
