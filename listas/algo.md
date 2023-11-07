@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-10-30T18:55:52.123Z
+date: 2023-11-07T15:24:37.836Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -33,7 +33,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 
 ### Websites
 
-- [Desvelar](https://desvelar.org/) (e sua [biblioteca](https://desvelar.org/biblioteca-justica-racial-tecnologias-digitais/) recheada de referências)
+- [Desvelar](https://desvelar.org/) e seu - [Mapeamento de danos e discriminação algorítmica](https://desvelar.org/casos-de-discriminacao-algoritmica/)
 - [D4BL - Data for Black Lives](https://d4bl.org/)
 - [DecolonizAI](https://www.decolonizai.com/)
 - [Decolonising Design](http://www.decolonisingdesign.com/)
@@ -50,11 +50,16 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Tecla - Planos de Aula](https://tecla.org.br/planos-de-aula/)
 - [Racismo Algorítmico - Ação Educativa](https://desvelar.org/curso-racismo-algoritmico/)
 
-
-### Games / recursos online interativos
+### Games
 
 - [Papers, Please](https://papersplea.se/)
 - [The biometric outrun](https://www.greens-efa.eu/tools/game/index.html)
 - [Games for change](https://www.gamesforchange.org/)
 - [Total Refusal](https://totalrefusal.com/)
-- [Mapeamento de danos e discriminação algorítmica](https://desvelar.org/casos-de-discriminacao-algoritmica/)
+- Third World: The Bottom Dimension. Available on [steam](https://store.steampowered.com/app/2154250/Third_World_The_Bottom_Dimension/). More info [here](https://www.serpentinegalleries.org/whats-on/gabriel-massan-collaborators-third-world-the-bottom-dimension-exhibition/)
+
+
+### Coleções de materiais
+
+ - [Biblioteca Desvelar](https://desvelar.org/biblioteca-justica-racial-tecnologias-digitais/) recheada de referências)
+ - [algo-br no Zotero](https://www.zotero.org/groups/5249368/algo-br)
