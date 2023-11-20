@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-11-20T12:33:56.689Z
+date: 2023-11-20T12:37:15.501Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -63,9 +63,9 @@ dateCreated: 2023-09-26T20:04:06.398Z
 
 #### Brasil
 
-- Dandara - [YouTube](https://www.youtube.com/watch?v=YoYHebQSZ7Q)
-- Mandinga: Um Conto de Banzo - [YouTube](https://www.youtube.com/watch?v=B5xmmUhq1mg&t=114s)
-- Árida: Backland’s Awakening (Despertar do Sertão) - [YouTube](https://www.youtube.com/watch?v=fjQ7Nm4omlI)
+- Dandara - [Steam](https://store.steampowered.com/app/612390/Dandara_Trials_of_Fear_Edition/) / [YouTube](https://www.youtube.com/watch?v=YoYHebQSZ7Q)
+- Mandinga: Um Conto de Banzo - [Steam](https://store.steampowered.com/app/1475890/Mandinga__A_Tale_of_Banzo/?l=brazilian) / [YouTube](https://www.youtube.com/watch?v=B5xmmUhq1mg&t=114s)
+- Árida: Backland’s Awakening (Despertar do Sertão) - [Steam](https://store.steampowered.com/app/907760/ARIDA_Backlands_Awakening/) [YouTube](https://www.youtube.com/watch?v=fjQ7Nm4omlI)
 - [Contos de Ifá](/recursos/jogos-contos-de-ifa) ([website](http://contosdeifa.wordpress.com/))
 
 #### Games engajados
