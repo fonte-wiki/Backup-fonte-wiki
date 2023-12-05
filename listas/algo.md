@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-11-20T12:37:15.501Z
+date: 2023-12-05T10:18:18.237Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -32,6 +32,9 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Windhoek Statement on Artificial Intelligence in Southern Africa](https://unesdoc.unesco.org/ark:/48223/pf0000383197)
 - [How AI reduces the world to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/)
 - [ Racial discrimination and emerging digital technologies : a human rights analysis : report of the Special Rapporteur on Contemporary Forms of Racism, Racial Discrimination, Xenophobia and Related Intolerance - UN](https://digitallibrary.un.org/record/3879751)
+- [Afrofuturismo](https://pt.wikipedia.org/wiki/Afrofuturismo) (Wikipedia)
+- [Sun Ra](https://pt.wikipedia.org/wiki/Sun_Ra) (Wikipedia)
+- [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery) (Wikipedia)
 
 ### Vídeos
 
@@ -80,6 +83,12 @@ dateCreated: 2023-09-26T20:04:06.398Z
 ### Quadrinhos
 
 - [Comics Race](https://cargocollective.com/rafaelcoutinhoartbr/Comics-Race)
+
+### Filmes
+
+- [Quilombo](https://www.imdb.com/title/tt0091816/), de Cacá Diegues
+- [Black Panther](https://www.imdb.com/title/tt1825683/)
+- [Black Panther: Wakanda Forever](https://www.imdb.com/title/tt9114286/)
 
 ### Coleções de materiais
 
