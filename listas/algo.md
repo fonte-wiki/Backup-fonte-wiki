@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-05T10:18:18.237Z
+date: 2023-12-05T13:51:56.222Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -32,9 +32,15 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Windhoek Statement on Artificial Intelligence in Southern Africa](https://unesdoc.unesco.org/ark:/48223/pf0000383197)
 - [How AI reduces the world to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/)
 - [ Racial discrimination and emerging digital technologies : a human rights analysis : report of the Special Rapporteur on Contemporary Forms of Racism, Racial Discrimination, Xenophobia and Related Intolerance - UN](https://digitallibrary.un.org/record/3879751)
+
+### Referências Culturais
+
 - [Afrofuturismo](https://pt.wikipedia.org/wiki/Afrofuturismo) (Wikipedia)
 - [Sun Ra](https://pt.wikipedia.org/wiki/Sun_Ra) (Wikipedia)
 - [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery) (Wikipedia)
+- [Joãosinho Trinta](https://pt.wikipedia.org/wiki/Jo%C3%A3osinho_Trinta) (Wikipedia)
+- [Jay-Z](https://pt.wikipedia.org/wiki/Jay-Z) (Wikipedia)
+- [Tecnobrega](https://pt.wikipedia.org/wiki/Tecnobrega) e 
 
 ### Vídeos
 
