@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-05T14:01:30.457Z
+date: 2023-12-06T08:45:51.559Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -41,7 +41,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery) (Wikipedia)
 - [Joãosinho Trinta](https://pt.wikipedia.org/wiki/Jo%C3%A3osinho_Trinta) (Wikipedia)
 - [Jay-Z](https://pt.wikipedia.org/wiki/Jay-Z) (Wikipedia)
-- [Tecnobrega](https://pt.wikipedia.org/wiki/Tecnobrega) e 
+- [Tecnobrega](https://pt.wikipedia.org/wiki/Tecnobrega)
 
 ### Vídeos
 
