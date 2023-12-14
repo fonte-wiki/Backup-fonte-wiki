@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-14T12:43:03.221Z
+date: 2023-12-14T12:58:57.203Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -97,6 +97,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Quilombo](https://www.imdb.com/title/tt0091816/), de Cacá Diegues
 - [Black Panther](https://www.imdb.com/title/tt1825683/)
 - [Black Panther: Wakanda Forever](https://www.imdb.com/title/tt9114286/)
+- [The Last Angel of History](https://www.imdb.com/title/tt0113604/?ref_=fn_al_tt_1) ([YouTube](https://www.youtube.com/watch?v=gcbSUwPjass))
 
 ### Coleções de materiais
 
