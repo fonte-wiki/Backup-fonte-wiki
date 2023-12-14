@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-06T08:45:51.559Z
+date: 2023-12-14T12:43:03.221Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -16,6 +16,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - Recorte da [conversa com Dani e Milton](https://cloud.globalinnovationgathering.org/s/tHdPkb3cRfY772x) (audio)
 - [Ed King - Games Engajados](https://youtu.be/-OG4I80y7Ow)
 - [Rafa Coutinho - Desenvolvendo um game](https://youtu.be/-Sn3DK0BFZ0)
+- Giseli: [Afrofuturismo, Jay Z e Joãosinho 30](https://cloud.globalinnovationgathering.org/s/q9yGJkAf77ExCCQ) (audio)
 
 
 ## Referências
