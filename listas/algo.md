@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-19T06:41:12.172Z
+date: 2023-12-19T21:59:03.871Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -35,6 +35,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Racial discrimination and emerging digital technologies : a human rights analysis : report of the Special Rapporteur on Contemporary Forms of Racism, Racial Discrimination, Xenophobia and Related Intolerance - UN](https://digitallibrary.un.org/record/3879751)
 - [Introdução ao livro Capitalism Realism](https://pt.wikipedia.org/wiki/Capitalist_Realism), de [Mark Fisher](https://pt.wikipedia.org/wiki/Mark_Fisher)
 - [Lentes Antirracistas sobre Regulação de IA](https://desvelar.org/2023/12/12/lentes-antirracistas-sobre-regulacao-de-inteligencia-artificial/)
+- [Tecnomagia e Tecnoxamanismo: Genealogias Possíveis](https://archive.org/details/TECNOMAGIA-E-TECNOXAMANISMO/)
 
 ### Referências Culturais
 
