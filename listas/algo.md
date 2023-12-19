@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-19T22:08:39.363Z
+date: 2023-12-19T22:10:03.905Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -59,6 +59,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [D4BL - Data for Black Lives](https://d4bl.org/)
 - [DecolonizAI](https://www.decolonizai.com/)
 - [Decolonising Design](http://www.decolonisingdesign.com/)
+- [Class Wargames](https://www.classwargames.net/)
 
 
 ### Campanhas
