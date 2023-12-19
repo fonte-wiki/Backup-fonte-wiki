@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-19T21:59:03.871Z
+date: 2023-12-19T22:08:39.363Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -81,6 +81,11 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - Árida: Backland’s Awakening (Despertar do Sertão) - [Steam](https://store.steampowered.com/app/907760/ARIDA_Backlands_Awakening/) [YouTube](https://www.youtube.com/watch?v=fjQ7Nm4omlI)
 - [Contos de Ifá](/recursos/jogos-contos-de-ifa) ([website](http://contosdeifa.wordpress.com/))
 
+#### Mundo
+
+- This War of Mine - [Steam](https://store.steampowered.com/app/282070/This_War_of_Mine/) [YouTube](https://www.youtube.com/watch?v=ulPGoBD5GrE&pp=ygUQdGhpcyB3YXIgb2YgbWluZQ%3D%3D)
+- while True: learn\(\) - [Steam](https://store.steampowered.com/app/619150/while_True_learn/) [YouTube](https://www.youtube.com/watch?v=-SsAokkQmDg&pp=ygUad2hpbGUgdHJ1ZSBsZWFybiAgZ2FtZXBsYXk%3D)
+
 #### Games engajados
 
 - [Papers, Please](https://papersplea.se/)
@@ -100,6 +105,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [Black Panther](https://www.imdb.com/title/tt1825683/)
 - [Black Panther: Wakanda Forever](https://www.imdb.com/title/tt9114286/)
 - [The Last Angel of History](https://www.imdb.com/title/tt0113604/?ref_=fn_al_tt_1) ([YouTube](https://www.youtube.com/watch?v=gcbSUwPjass))
+- [Waking Life](https://www.imdb.com/title/tt0243017/?ref_=fn_al_tt_1)
 
 ### Coleções de materiais
 
