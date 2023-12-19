@@ -2,7 +2,7 @@
 title: Listas
 description: Coleções de conteúdo educacional
 published: true
-date: 2023-07-23T22:06:24.467Z
+date: 2023-12-19T06:42:20.144Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-26T07:05:25.301Z
@@ -12,6 +12,7 @@ dateCreated: 2021-10-26T07:05:25.301Z
 
 Nesta pasta você pode encontrar coleções de conteúdo educacional aberto criadas por [pessoas](/pessoas) com experiência em projetos de tecnologia e sociedade.
 
+ - [ALGO](/listas/algo)
  - [ID21](/listas/id21)
  - [Felipe Fonseca](/listas/felipe-fonseca)
  - [Ricardo Ruiz](/listas/ricardo-ruiz)
