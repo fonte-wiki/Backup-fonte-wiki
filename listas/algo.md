@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-28T10:18:07.497Z
+date: 2023-12-28T12:28:30.976Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -88,6 +88,8 @@ dateCreated: 2023-09-26T20:04:06.398Z
 
 - This War of Mine - [Steam](https://store.steampowered.com/app/282070/This_War_of_Mine/) [YouTube](https://www.youtube.com/watch?v=ulPGoBD5GrE&pp=ygUQdGhpcyB3YXIgb2YgbWluZQ%3D%3D)
 - while True: learn\(\) - [Steam](https://store.steampowered.com/app/619150/while_True_learn/) [YouTube](https://www.youtube.com/watch?v=-SsAokkQmDg&pp=ygUad2hpbGUgdHJ1ZSBsZWFybiAgZ2FtZXBsYXk%3D)
+- Erica - [Steam](https://store.steampowered.com/app/1514930/Erica/)
+- Life is Strange - [Steam](https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/)
 
 #### Games engajados
 
