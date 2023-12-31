@@ -2,7 +2,7 @@
 title: Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2023-12-28T12:28:30.976Z
+date: 2023-12-31T02:00:41.648Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -62,6 +62,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 - [DecolonizAI](https://www.decolonizai.com/)
 - [Decolonising Design](http://www.decolonisingdesign.com/)
 - [Class Wargames](https://www.classwargames.net/)
+- [Cabanagem200](https://www.cabanagem200.net/)
 
 
 ### Campanhas
