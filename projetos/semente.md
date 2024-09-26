@@ -1,14 +1,15 @@
 ---
-title: Semente
-description: Projeto Semente
+title: semente
+description: semente - ferramentas para comunidades
 published: true
-date: 2022-11-30T09:30:41.925Z
+date: 2024-09-26T09:37:08.958Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
 ---
 
-# Semente
+# semente
+
 
 ([English Version here](/semente_en))
 
