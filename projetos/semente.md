@@ -2,7 +2,7 @@
 title: semente
 description: semente - ferramentas para comunidades
 published: true
-date: 2024-09-26T09:37:08.958Z
+date: 2024-10-07T11:33:15.842Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -10,9 +10,10 @@ dateCreated: 2022-04-04T20:32:13.049Z
 
 # semente
 
+Semente é um conjunto de ferramentas para a criação e o aprimoramento de projetos comunitários, coletivos e cooperativos. 
+
 
 ([English Version here](/semente_en))
-
 
 ![header.png](/header.png)
 
