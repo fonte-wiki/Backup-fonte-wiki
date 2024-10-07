@@ -2,7 +2,7 @@
 title: semente
 description: semente - ferramentas para comunidades
 published: true
-date: 2024-10-07T12:03:05.634Z
+date: 2024-10-07T12:05:23.614Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -30,12 +30,20 @@ O gráfico abaixo foi produzido pela artista [Marina Nicolaiewsky](https://marin
 
 ![visual.jpg](/visual.jpg)
 
+Veja também:
+
+- [Documentação sobre a fase 0.1](https://github.com/semente-de/documentation/tree/main/0.1-2022) (primordialmente em inglês).
+
 
 ### 0.2 - Testes (2023)
 
 Durante o ano de 2023
 
+- [Documentação sobre a fase 0.2](https://github.com/semente-de/documentation/tree/main/0.2-2023) (primordialmente em inglês).
+
 ### 0.3 - 
+
+- [Documentação sobre a fase 0.3](https://github.com/semente-de/documentation/tree/main/0.3-2024) (primordialmente em inglês).
 
 ## Equipe
 
