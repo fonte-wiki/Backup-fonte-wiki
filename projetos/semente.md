@@ -2,7 +2,7 @@
 title: semente
 description: semente - ferramentas para comunidades
 published: true
-date: 2024-10-07T11:45:12.331Z
+date: 2024-10-07T11:50:55.668Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -18,7 +18,15 @@ Semente é um conjunto de ferramentas para a criação e o aprimoramento de proj
 
 ## Bases
 
-A partir do estudo [ID21](/pt-br/projetos/id21) sobre inclusão digital comunitária e do repositório educacional [fonte.wiki](/), semente foi uma criação original desenvolvida em 2022 em parceria com o Instituto Neos (Ubatuba, SP) e apoio da Universidade de Bristol, no Reino Unido.
+O kit de ferramentas semente foi uma criação original desenvolvida em 2022 em parceria com o Instituto Neos (Ubatuba, SP) e apoio da Universidade de Bristol, no Reino Unido. Parte do estudo [ID21](/pt-br/projetos/id21) sobre inclusão digital comunitária e do repositório educacional [fonte.wiki](/), além da longa experiência de sua [equipe](#equipe) em métodos participativos.
+
+Após uma primeira fase de concepção e reflexão. foram realizadas durante o ano de 2022 quatro oficinas online focadas nos temas *solo*, *tempo*, *manejo* e *frutos*. 
+
+
+
+## Equipe
+
+
 
 
 
