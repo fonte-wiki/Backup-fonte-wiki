@@ -2,7 +2,7 @@
 title: semente
 description: semente - ferramentas para comunidades
 published: true
-date: 2024-10-07T11:52:12.807Z
+date: 2024-10-07T11:58:04.512Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -18,22 +18,24 @@ Semente é um conjunto de ferramentas para a criação e o aprimoramento de proj
 
 ## Bases
 
-O kit de ferramentas semente foi uma criação original desenvolvida em 2022 em parceria com o Instituto Neos (Ubatuba, SP) e apoio da Universidade de Bristol, no Reino Unido. Parte do estudo [ID21](/pt-br/projetos/id21) sobre inclusão digital comunitária e do repositório educacional [fonte.wiki](/), além da longa experiência de sua [equipe](#equipe) em métodos participativos.
+Semente baseia-se no estudo [ID21](/pt-br/projetos/id21) sobre inclusão digital comunitária e no repositório educacional [fonte.wiki](/), além da longa experiência de sua [equipe](#equipe) em métodos participativos. Até o momento, foram realizadas três etapas de desenvolvimento:
 
-### 0.1 - Kit de ferramentas
+### 0.1 - Protótipo
 
-Após uma primeira fase de concepção e reflexão, foram realizadas durante o ano de 2022 quatro oficinas online focadas nos temas *solo*, *tempo*, *manejo* e *frutos*. 
+![deck.jpg](/deck.jpg)
 
-### 0.2 - Protótipo
+Após uma fase inicial de concepção e reflexão juntamente ao Instituto Neos (Ubatuba, SP), foram realizadas durante o ano de 2022 quatro oficinas online focadas nos temas *solo*, *tempo*, *manejo* e *frutos*. Uma primeira versão do tabuleiro semente foi então objeto de oficinas participativas durante o festival [Tropixel Sementes](https://wiki.ubatuba.cc/doku.php?id=tropixel:sementes).
+
+
+![visual.jpg](/visual.jpg)
+
+
+### 0.2 - Testes
 
 ### 0.3 - 
 
 ## Equipe
 
 
-
-![deck.jpg](/deck.jpg)
-
-![visual.jpg](/visual.jpg)
 
 ----
