@@ -2,7 +2,7 @@
 title: semente
 description: semente - ferramentas para comunidades
 published: true
-date: 2024-10-07T12:05:23.614Z
+date: 2024-10-07T12:07:54.591Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -47,6 +47,17 @@ Durante o ano de 2023
 
 ## Equipe
 
+A equipe semente é composta por:
 
+- Bernardo Schepop.
+- Felipe Schmidt Fonseca.
+- Maira Begalli.
 
-----
+Fases anteriores do projeto também tiveram a participação de:
+
+- Cynthia Demétrio.
+- Priscila Romão.
+
+## Parcerias
+
+semente tem o apoio da Universidade de Bristol.
