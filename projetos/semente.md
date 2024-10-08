@@ -2,7 +2,7 @@
 title: semente
 description: semente - ferramentas para comunidades
 published: true
-date: 2024-10-07T12:51:15.165Z
+date: 2024-10-08T12:50:36.760Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -24,7 +24,7 @@ Semente baseia-se no estudo [ID21](/pt-br/projetos/id21) sobre inclusão digital
 
 ![deck.jpg](/deck.jpg)
 
-Após uma fase inicial de concepção e reflexão juntamente ao Instituto Neos (Ubatuba, SP), foram realizadas durante o ano de 2022 quatro oficinas online focadas nos temas *solo*, *tempo*, *manejo* e *frutos*. Uma primeira versão do tabuleiro semente foi então objeto de oficinas participativas durante o festival [Tropixel Sementes](https://wiki.ubatuba.cc/doku.php?id=tropixel:sementes).
+Após uma fase inicial de concepção e reflexão juntamente ao Instituto Neos (Ubatuba, SP), foram realizadas durante o ano de 2022 quatro oficinas online focadas nos temas *solo*, *tempo*, *manejo* e *frutos*. Uma primeira versão do tabuleiro semente foi então objeto de oficinas participativas durante o festival [Tropixel Sementes](https://tropixel.org/22-sementes).
 
 O gráfico abaixo foi produzido pela artista [Marina Nicolaiewsky](https://marinanica.wixsite.com/vida) após as oficinas e apresentações de semente durante o festival.
 
