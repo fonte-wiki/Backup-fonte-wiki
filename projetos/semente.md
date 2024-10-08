@@ -2,7 +2,7 @@
 title: semente
 description: semente - ferramentas para comunidades
 published: true
-date: 2024-10-08T12:50:36.760Z
+date: 2024-10-08T15:44:23.334Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -43,6 +43,10 @@ Durante o ano de 2023, semente foi apresentado em diversos contextos e recebeu f
 - [Oficina online](https://github.com/semente-de/documentation/tree/main/0.2-2023/mozfest) (em inglês) durante o Mozilla Festival.
 - Apresentação no [Coletivo Digital](https://github.com/semente-de/documentation/tree/main/0.2-2023/coletivo-digital), em São Paulo. 
 - [Documentação completa da fase 0.2](https://github.com/semente-de/documentation/tree/main/0.2-2023) (primordialmente em inglês).
+
+#### Veja também: 
+
+- O texto (em inglês) "[Seeds of Digital Reforestation](https://is.efeefe.me/stuff/seeds-digital-reforestation)" contando as primeiras etapas do desenvolvimento de semente foi publicado como capítulo do livro Driving Design 2, editado pela Distributed Design Platform.
 
 ### 0.3 - Imersão (2024-2025)
 
