@@ -2,7 +2,7 @@
 title: Lista de Felipe Fonseca
 description: 
 published: true
-date: 2024-10-22T13:50:30.942Z
+date: 2024-10-22T13:52:32.902Z
 tags: listas
 editor: markdown
 dateCreated: 2021-11-09T11:42:02.293Z
@@ -66,7 +66,7 @@ Cooperatives work for the sustainable development of their communities through p
 
 - [Community Rule](/recursos/community-rule) com modelos de governança em comunidade.
 - [La mediación cultural en Medialab Prado](/recursos/mediacion-cultural-medialab-prado) (em espanhol).
-- [Diretrizes de participação na comunidade Mozilla](/recursos/diretrizes-participacao-comunidade-mozilla).
+- [Diretrizes de participação na comunidade Mozilla](/recursos/diretrizes-participacao-mozilla).
 - [Lá vem todo mundo](/recursos/la-vem-todo-mundo), livro de Clay Shirky.
 - [The art of hosting good conversations online](/recursos/art-hosting-conversations-online), texto de Howard Rheingold. Também [Virtual Community](/recursos/virtual-community), livro disponível na íntegra para navegação online.
 - [Radical Networks](/recursos/radical-networks).
