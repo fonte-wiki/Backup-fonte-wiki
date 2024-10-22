@@ -2,7 +2,7 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-10-22T13:22:15.073Z
+date: 2024-10-22T13:32:40.415Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
@@ -17,6 +17,9 @@ Lista de conteúdos relacionados com o projeto semente.
 - [Community Rule](/recursos/community-rule) com modelos de governança em comunidade.
 - [La mediación cultural en Medialab Prado](/recursos/mediacion-cultural-medialab-prado) (em espanhol).
 - [Diretrizes de participação na comunidade Mozilla](/recursos/diretrizes-participacao-comunidade-mozilla).
+- [Lá vem todo mundo](/recursos/la-vem-todo-mundo), livro de Clay Shirky.
+- [The art of hosting good conversations online](/recursos/art-hosting-conversations-online), texto de Howard Rheingold. Também [Virtual Community](/recursos/virtual-community), livro disponível na íntegra para navegação online.
+
 
 - Um clássico: ["The Art of Hosting Good Conversations Online"](http://www.rheingold.com/texts/artonlinehost.html) de Howard Rheingold. Ele também é o autor de "[Virtual Community](http://www.rheingold.com/vc/book/)". 
 - [Radical Networks](https://www.youtube.com/watch?v=70CNGXQ1-eY), sobre o Burning Man.
