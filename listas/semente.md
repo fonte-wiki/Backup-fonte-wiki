@@ -2,7 +2,7 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-10-22T12:58:17.305Z
+date: 2024-10-22T13:07:34.171Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
@@ -14,18 +14,18 @@ Lista de conteúdos relacionados com o projeto semente.
 
 ## Mediação e Comunidades
 
-- [CommunityRule](https://communityrule.info/) has straightforward templates for community governance.
-- [Mediación Cultural en Medialab Prado](https://www.youtube.com/watch?v=sprdd6NZqPU) (Spanish).
+- [CommunityRule](https://communityrule.info/) com modelos de governança em comunidade.
+- [Mediación Cultural en Medialab Prado](https://www.youtube.com/watch?v=sprdd6NZqPU) (em espanhol).
 - [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 - [Here comes everybody](https://www.penguinrandomhouse.com/books/300615/here-comes-everybody-by-clay-shirky/), by Clay Shirky. [Goodreads page](https://www.goodreads.com/book/show/1998185.Here_Comes_Everybody) and [talk](https://www.youtube.com/watch?v=p8wR-GXeOQo).
-- A classic: Howard Rheingold's ["The Art of Hosting Good Conversations Online"](http://www.rheingold.com/texts/artonlinehost.html). Rheingold was also the author of "[Virtual Community](http://www.rheingold.com/vc/book/)". 
-- [Radical Networks](https://www.youtube.com/watch?v=70CNGXQ1-eY), about Burning Man.
-- [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view) (full book in PDF)
-- Some interesting references on online communities:
-	- [How to kickstart a community](https://meta.discourse.org/t/how-to-kick-start-a-community/51295/2) (in the context of [discourse](https://discourse.org/), a software for online forums, but has useful tips overall). More about using discourse for online communities [here](https://blog.discourse.org/2014/08/building-a-discourse-community/) and [here](https://blog.discourse.org/2018/08/launching-a-successful-discourse-community/).
-	- Feverbee talks about principles of online communities. I don't agree with much of their vocabulary and assumptions (for instance "[building addictive communities](https://vimeo.com/109945437)"), but like their idea of [Superusers](https://www.feverbee.com/superusercasestudy/).  And there may be relevant cases and advice [here](https://www.feverbee.com/wp-content/uploads/2015/03/theprovenpath.pdf).
+- Um clássico: ["The Art of Hosting Good Conversations Online"](http://www.rheingold.com/texts/artonlinehost.html) de Howard Rheingold. Ele também é o autor de "[Virtual Community](http://www.rheingold.com/vc/book/)". 
+- [Radical Networks](https://www.youtube.com/watch?v=70CNGXQ1-eY), sobre o Burning Man.
+- [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view) (íntegra em PDF)
+- Referências sobre comunidades online:
+	- [How to kickstart a community](https://meta.discourse.org/t/how-to-kick-start-a-community/51295/2) (no contexto do [discourse](https://discourse.org/), software para fóruns online, mas com dicas úteis em geral). Mais sobre como usar o discourse para comunidades online [aqui](https://blog.discourse.org/2014/08/building-a-discourse-community/) e [aqui](https://blog.discourse.org/2018/08/launching-a-successful-discourse-community/).
+	- Feverbee fala sobre princípios de comunidades online. Não concordo com o vocabulário e suposições deles (por exemplo "[building addictive communities](https://vimeo.com/109945437)"), mas gosto da ideia de [Superusers](https://www.feverbee.com/superusercasestudy/). E tem casos e conselhos interessantes [aqui](https://www.feverbee.com/wp-content/uploads/2015/03/theprovenpath.pdf).
 
-Another relatively old piece on ("web") communities that may still be valuable: [The 12 principles of collaboration](http://endofweb.pbworks.com/f/12principles.pdf). They are:
+Outra referência relativamente antiga sobre comunidades ("web") que ainda pode ter relevância: [The 12 principles of collaboration](http://endofweb.pbworks.com/f/12principles.pdf). São os seguintes:
 
 1. Purpose: We have a shared goal or interest.
 2. Identity: We know who’s who.
