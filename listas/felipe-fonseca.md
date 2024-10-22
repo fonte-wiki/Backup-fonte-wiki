@@ -2,7 +2,7 @@
 title: Lista de Felipe Fonseca
 description: 
 published: true
-date: 2024-10-22T13:52:32.902Z
+date: 2024-10-22T13:56:39.554Z
 tags: listas
 editor: markdown
 dateCreated: 2021-11-09T11:42:02.293Z
@@ -30,39 +30,11 @@ Listas de conteúdos enviada por [Felipe Schmidt Fonseca](/pessoas/felipe-fonsec
 - [Platform Design Toolkit](https://www.boundaryless.io/pdt-toolkit/).
 - [The Preston Model](https://thenextsystem.org/the-preston-model).
 - [MEDLab](https://www.colorado.edu/lab/medlab/) "experiments with democratic ownership and governance in the online economy".
-
-
-#### The 7 cooperative principles
-
-Found for instance [here](https://ncbaclusa.coop/resources/7-cooperative-principles/) and [here](https://www.electric.coop/seven-cooperative-principles%E2%80%8B):
-
-1. Open and Voluntary Membership
-Membership in a cooperative is open to all people who can reasonably use its services and stand willing to accept the responsibilities of membership, regardless of race, religion, gender, or economic circumstances.
-
-2. Democratic Member Control
-Cooperatives are democratic organizations controlled by their members, who actively participate in setting policies and making decisions. Representatives (directors/trustees) are elected among the membership and are accountable to them. In primary cooperatives, members have equal voting rights (one member, one vote); cooperatives at other levels are organized in a democratic manner.
-
-3. Members’ Economic Participation
-Members contribute equitably to, and democratically control, the capital of their cooperative. At least part of that capital remains the common property of the cooperative. Members allocate surpluses for any or all of the following purposes: developing the cooperative; setting up reserves; benefiting members in proportion to their transactions with the cooperative; and supporting other activities approved by the membership.
-
-4. Autonomy and Independence
-Cooperatives are autonomous, self-help organizations controlled by their members. If they enter into agreements with other organizations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control as well as their unique identity.
-
-5. Education, Training, and Information
-Education and training for members, elected representatives (directors/trustees), CEOs, and employees help them effectively contribute to the development of their cooperatives. Communications about the nature and benefits of cooperatives, particularly with the general public and opinion leaders, help boost cooperative understanding.
-
-6. Cooperation Among Cooperatives
-By working together through local, national, regional and international structures, cooperatives improve services, bolster local economies, and deal more effectively with social and community needs.
-
-7. Concern for Community
-Cooperatives work for the sustainable development of their communities through policies supported by the membership.
-
+- Os 7 princípios do cooperativismo.
 
 ### Mediação e comunidades
 
 > Também incluídas na [lista semente](/listas/semente).
-
-## Mediação e Comunidades
 
 - [Community Rule](/recursos/community-rule) com modelos de governança em comunidade.
 - [La mediación cultural en Medialab Prado](/recursos/mediacion-cultural-medialab-prado) (em espanhol).
