@@ -2,7 +2,7 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-10-22T13:07:34.171Z
+date: 2024-10-22T13:22:15.073Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
@@ -14,10 +14,10 @@ Lista de conteúdos relacionados com o projeto semente.
 
 ## Mediação e Comunidades
 
-- [CommunityRule](https://communityrule.info/) com modelos de governança em comunidade.
-- [Mediación Cultural en Medialab Prado](https://www.youtube.com/watch?v=sprdd6NZqPU) (em espanhol).
-- [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
-- [Here comes everybody](https://www.penguinrandomhouse.com/books/300615/here-comes-everybody-by-clay-shirky/), by Clay Shirky. [Goodreads page](https://www.goodreads.com/book/show/1998185.Here_Comes_Everybody) and [talk](https://www.youtube.com/watch?v=p8wR-GXeOQo).
+- [Community Rule](/recursos/community-rule) com modelos de governança em comunidade.
+- [La mediación cultural en Medialab Prado](/recursos/mediacion-cultural-medialab-prado) (em espanhol).
+- [Diretrizes de participação na comunidade Mozilla](/recursos/diretrizes-participacao-comunidade-mozilla).
+
 - Um clássico: ["The Art of Hosting Good Conversations Online"](http://www.rheingold.com/texts/artonlinehost.html) de Howard Rheingold. Ele também é o autor de "[Virtual Community](http://www.rheingold.com/vc/book/)". 
 - [Radical Networks](https://www.youtube.com/watch?v=70CNGXQ1-eY), sobre o Burning Man.
 - [The Art of Community](https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view) (íntegra em PDF)
