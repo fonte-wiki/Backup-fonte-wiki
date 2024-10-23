@@ -2,13 +2,13 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-10-22T13:52:34.505Z
+date: 2024-10-23T13:57:05.413Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
 ---
 
-# Semente - lista
+# semente - lista
 
 Lista de conteúdos relacionados com o projeto semente.
 
