@@ -2,7 +2,7 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-10-23T13:58:39.391Z
+date: 2024-10-24T10:39:05.418Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
@@ -23,5 +23,8 @@ Lista de conteúdos relacionados com o projeto semente.
 - [Discourse](/recursos/discourse).
 - [Feverbee](/recursos/feverbee).
 - [12 Principles of Collaboration](/recursos/12-principles-collaboration).
-- [Ferramentas de co-criação] 
+
+
+## Ferramentas de co-criação
+
 
