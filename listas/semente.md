@@ -2,7 +2,7 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-10-24T10:39:05.418Z
+date: 2024-10-24T19:04:30.703Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
@@ -27,4 +27,13 @@ Lista de conteúdos relacionados com o projeto semente.
 
 ## Ferramentas de co-criação
 
-
+- Participatory Design Toolkit: https://www.greencommunitiesonline.org/sites/default/files/participatory-design-toolkit.pdf
+- Design Method Toolkit by the Digital Society School: https://toolkits.dss.cloud/design/
+- Collective Imagination Practices Toolkit: https://www.collectiveimagination.tools/
+- CMD Methods: https://cmdmethods.nl/
+- Playbook Intro - Observatory of Public Sector Innovation: https://oecd-opsi.org/playbook-intro/
+- Inclusive Design Jam | Community for Inclusive & Equitable Design: https://inclusivedesignjam.com/
+- Social Impact Navigator: https://www.phineo.org/en/social-impact-navigator
+- Urbinat - Healthy corridors as drivers of social housing neighbourhoods for the co-creation of social, environmental and marketable NBS: https://urbinat.eu/
+- Butterfly Works Toolkit: https://toolbox.butterflyworks.org/toolkit
+- Co-Creation Navigator: https://ccn.waag.org/
