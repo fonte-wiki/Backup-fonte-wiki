@@ -2,7 +2,7 @@
 title: Lista - Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2024-10-24T10:39:29.398Z
+date: 2024-10-28T17:00:18.732Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
@@ -24,6 +24,7 @@ dateCreated: 2023-09-26T20:04:06.398Z
 ### Textos / Livros / Documentos
 
 - [Racismo Algorítmico: inteligência artificial e discriminação nas redes digitais](https://archive.org/details/tarcizio-silva-racismo-algoritmico)
+- [Google, Microsoft, and Perplexity Are Promoting Scientific Racism in Search Results](https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/)
 - [Algorithmic Reparation](/recursos/algorithmic-reparation).
 - [Comunidades, Algoritmos e Ativismos Digitais: olhares afrodiaspóricos](https://literarua.commercesuite.com.br/livro/olhares-afrodiasporicos) - versão PDF na íntegra disponível [aqui](https://www.researchgate.net/publication/339954112_Comunidades_Algoritmos_e_Ativismos_Digitais_olhares_afrodiasporicos)
 - [Griots e Tecnologias Digitais](https://desvelar.org/griots-e-tecnologias-digitais/)
