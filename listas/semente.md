@@ -2,7 +2,7 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-11-19T06:20:29.645Z
+date: 2024-11-19T06:36:09.468Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
@@ -14,7 +14,6 @@ Lista de conteúdos relacionados com o projeto semente.
 
 ## Mediação e Comunidades
 
-- [Community Rule](/recursos/community-rule) com modelos de governança em comunidade.
 - [La mediación cultural en Medialab Prado](/recursos/mediacion-cultural-medialab-prado) (em espanhol).
 - [Diretrizes de participação na comunidade Mozilla](/recursos/diretrizes-participacao-mozilla).
 - [Lá vem todo mundo](/recursos/la-vem-todo-mundo), livro de Clay Shirky.
@@ -23,7 +22,6 @@ Lista de conteúdos relacionados com o projeto semente.
 - [Discourse](/recursos/discourse).
 - [Feverbee](/recursos/feverbee).
 - [12 Principles of Collaboration](/recursos/12-principles-collaboration).
-
 
 ## Ferramentas de co-criação
 
@@ -37,5 +35,25 @@ Lista de conteúdos relacionados com o projeto semente.
 - [Urbinat](/recursos/urbinat)
 - [Butterfly Works Toolkit](/recursos/butterfly-works-toolkit)
 - [Co-Creation Navigator](/recursos/co-creation-navigator)
+- [Platform Design Toolkit](/recursos/platform-design-toolkit)
+
+
+## Governança coletiva
+
+- [Feminist Co-leadership](/recursos/feminist-co-leadership)
+- [Community Rule](/recursos/community-rule) com modelos de governança em comunidade.
+
+
+
+## Inclusão e Cultura Digital
+
+- [Mozilla Web Literacy](/recursos/mozilla-web-literacy)
+- [Anarchive](/recursos/anarchive)
+
+
+## Sementes e Florestas
+
+- [Feral Labs Nodebook](/recursos/feral-labs-nodebook)
+- [Forest Framework](/recursos/forest-framework)
 
 
