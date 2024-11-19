@@ -2,7 +2,7 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-11-19T06:39:56.529Z
+date: 2024-11-19T06:45:06.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
@@ -45,6 +45,7 @@ Lista de conteúdos relacionados com o projeto semente.
 - [Sharing Power](/recursos/sharing-power)
 - [Shared Leadership](/recursos/shared-leadership)
 - [Feminist Leadership Toolkit](/recursos/feminist-leadership-toolkit)
+- [Doing More with More]](/recursos/doing-more-with-more)
 
 ## Inclusão e Cultura Digital
 
