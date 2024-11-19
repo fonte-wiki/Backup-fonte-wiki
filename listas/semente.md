@@ -2,7 +2,7 @@
 title: Lista - semente
 description: 
 published: true
-date: 2024-10-24T19:05:19.184Z
+date: 2024-11-19T06:20:29.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T09:35:11.402Z
@@ -27,13 +27,15 @@ Lista de conteúdos relacionados com o projeto semente.
 
 ## Ferramentas de co-criação
 
-- Participatory Design Toolkit: https://www.greencommunitiesonline.org/sites/default/files/participatory-design-toolkit.pdf
-- Design Method Toolkit by the Digital Society School: https://toolkits.dss.cloud/design/
-- Collective Imagination Practices Toolkit: https://www.collectiveimagination.tools/
-- CMD Methods: https://cmdmethods.nl/
-- Playbook Intro - Observatory of Public Sector Innovation: https://oecd-opsi.org/playbook-intro/
-- Inclusive Design Jam | Community for Inclusive & Equitable Design: https://inclusivedesignjam.com/
-- Social Impact Navigator: https://www.phineo.org/en/social-impact-navigator
-- Urbinat - Healthy corridors as drivers of social housing neighbourhoods for the co-creation of social, environmental and marketable NBS: https://urbinat.eu/
-- Butterfly Works Toolkit: https://toolbox.butterflyworks.org/toolkit
-- Co-Creation Navigator: https://ccn.waag.org/
+- [Participatory Design Toolkit](/recursos/participatory-design-toolkit)
+- [Design Method Toolkit](/recursos/design-method-toolkit)
+- [Collective Imagination Practices Toolkit](/recursos/collective-imagination-practices)
+- [CMD Methods](/recursos/cmd-methods)
+- [Playbook Intro](/recursos/playbook-intro)
+- [Inclusive Design Jam](/recursos/inclusive-design-jam)
+- [Social Impact Navigator](/recursos/social-impact-navigator)
+- [Urbinat](/recursos/urbinat)
+- [Butterfly Works Toolkit](/recursos/butterfly-works-toolkit)
+- [Co-Creation Navigator](/recursos/co-creation-navigator)
+
+
