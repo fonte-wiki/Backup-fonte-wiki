@@ -2,7 +2,7 @@
 title: semente - histórico
 description: 
 published: true
-date: 2025-02-14T12:23:10.294Z
+date: 2025-02-14T12:26:30.672Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-13T18:16:16.921Z
@@ -10,7 +10,7 @@ dateCreated: 2025-02-13T18:16:16.921Z
 
 ## semente - Histórico
 
-semente baseia-se no estudo [ID21](/pt-br/projetos/id21) sobre inclusão digital comunitária e no repositório educacional [fonte.wiki](/), além da longa experiência de sua [equipe](#equipe) em métodos participativos. Até o momento, foram realizadas três etapas de desenvolvimento:
+[semente](/projetos/semente) baseia-se no estudo [ID21](/pt-br/projetos/id21) sobre inclusão digital comunitária e no repositório educacional [fonte.wiki](/), além da longa experiência de sua [equipe](#equipe) em métodos participativos. Até o momento, foram realizadas três etapas de desenvolvimento:
 
 ### 0.1 - Protótipo (2022)
 
