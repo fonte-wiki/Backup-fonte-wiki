@@ -2,7 +2,7 @@
 title: semente
 description: método para criação e aprimoramento de projetos em comunidade
 published: true
-date: 2025-02-14T12:31:03.777Z
+date: 2025-02-14T17:42:26.960Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -34,7 +34,10 @@ Ao longo dos anos, semente contou com a contribuição e participação de muita
 
 - Cynthia Demétrio.
 - Juan Blanco Prada.
-- Priscila Romão.
+- Marina Nicolaiewsky.
+- Manu Rabinovich.
+- Priscilla Romão.
 - Renata Coelho.
 - Robert Elmar.
+- Sofia Galvão.
 - Tatiana Prado.
