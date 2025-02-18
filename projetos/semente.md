@@ -2,7 +2,7 @@
 title: semente
 description: método para criação e aprimoramento de projetos em comunidade
 published: true
-date: 2025-02-18T01:07:06.217Z
+date: 2025-02-18T01:49:31.097Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -70,6 +70,7 @@ Ao longo dos anos, semente contou com a contribuição e participação de muita
 - Cynthia Demétrio.
 - Fabiane Borges.
 - Felipe Penin.
+- Geide de Paula.
 - Juan Blanco Prada.
 - Marcus Binns.
 - Marina Nicolaiewsky.
