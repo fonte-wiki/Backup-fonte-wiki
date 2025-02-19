@@ -2,7 +2,7 @@
 title: semente
 description: método para criação e aprimoramento de projetos em comunidade
 published: true
-date: 2025-02-19T02:10:18.938Z
+date: 2025-02-19T19:28:01.529Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -21,6 +21,8 @@ Ao contrário dos modelos tradicionais, semente propõe uma **abordagem flexíve
 
 O método semente inverte a lógica linear dos projetos, **valorizando o ciclo completo e espiralado**. O elemento de renovação a cada volta da espiral é a **sementeira** (combinação entre ideias, sonhos, intenções, desejos, e pessoas, comunidades, grupos). A sementeira é o ponto de recomeço do ciclo, onde se reúnem as ideias, os desejos e as pessoas.
 
+![semente neos](https://raw.githubusercontent.com/semente-de/documentation/9c3358a4e3b526762dabce7047140dffad7d3683/0.3/neos/ubatuba-cc/20250215_195706-horizontal.jpg)
+
 A visualização ampla do ciclo de vida de um projeto criado sob a perspectiva de semente passa por três etapas:
 
 1.  **Semeadura**: O processo de colocar a semente no solo, preparando o terreno para o desenvolvimento do projeto.
@@ -36,8 +38,6 @@ A Semeadura se inicia quando a semente é colocada em contato com o Solo, entend
 A transição entre a Semeadura e o Manejo se dá com o **broto** (que pode ser uma descrição detalhada de projeto, um protótipo, ou um piloto). A passagem do Manejo para a Regeneração acontece com os **frutos**: resultados do projeto, que podem ser tanto materiais quanto imateriais.
 
 Além disso, o método propõe a criação de uma **"composteira"**, um espaço para armazenar para solução posterior os **problemas**, as **dificuldades encontradas** e os **aprendizados**. A ideia é sistematizá-los para que sejam considerados em projetos futuros, **evitando a repetição de erros**. Por sua vez, o **silo** é onde se **guarda o que vem dos frutos** para **gerar mais sementes**.
-
-O silo surgiu durante as sessões de desenvolvimento do método Semente.
 
 *semente* **busca gerar condições para que a comunidade realize seus objetivos**, tenha resultados positivos e realimente o processo, criando novos desejos e intenções. Os frutos do projeto não são o objetivo final, mas sim parte de um ciclo maior de desenvolvimento e transformação.
 
