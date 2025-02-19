@@ -2,7 +2,7 @@
 title: semente - histórico
 description: 
 published: true
-date: 2025-02-14T12:26:30.672Z
+date: 2025-02-19T19:13:20.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-13T18:16:16.921Z
@@ -24,17 +24,17 @@ O gráfico abaixo foi produzido pela artista [Marina Nicolaiewsky](https://marin
 
 Veja também:
 
-- [Apresentação de slides resumindo a fase 0.1](https://github.com/semente-de/documentation/blob/main/0.1-2022/22-stage-1/semente_pub.pdf) (PDF em inglês, no repositório git).
-- [Documentação completa da fase 0.1](https://github.com/semente-de/documentation/tree/main/0.1-2022) (primordialmente em inglês).
+- [Apresentação de slides resumindo a fase 0.1](https://github.com/semente-de/documentation/blob/main/0.1/22-stage-1/semente_pub.pdf) (PDF em inglês, no repositório git).
+- [Documentação completa da fase 0.1](https://github.com/semente-de/documentation/tree/main/0.1) (primordialmente em inglês).
 
 ### 0.2 - Testes (2023)
 
 Durante o ano de 2023, semente foi apresentado em diversos contextos e recebeu feedback de participantes:
 
-- [Oficina](https://github.com/semente-de/documentation/tree/main/0.2-2023/critical-infrastructure)  (em inglês) durante o evento de lançamento do Critical Infrastructures Lab na Universidade de Amsterdam.
-- [Oficina online](https://github.com/semente-de/documentation/tree/main/0.2-2023/mozfest) (em inglês) durante o Mozilla Festival.
-- Apresentação no [Coletivo Digital](https://github.com/semente-de/documentation/tree/main/0.2-2023/coletivo-digital), em São Paulo. 
-- [Documentação completa da fase 0.2](https://github.com/semente-de/documentation/tree/main/0.2-2023) (primordialmente em inglês).
+- [Oficina](https://github.com/semente-de/documentation/tree/main/0.2/critical-infrastructure)  (em inglês) durante o evento de lançamento do Critical Infrastructures Lab na Universidade de Amsterdam.
+- [Oficina online](https://github.com/semente-de/documentation/tree/main/0.2/mozfest) (em inglês) durante o Mozilla Festival.
+- Apresentação no [Coletivo Digital](https://github.com/semente-de/documentation/tree/main/0.2/coletivo-digital), em São Paulo. 
+- [Documentação completa da fase 0.2](https://github.com/semente-de/documentation/tree/main/0.2) (primordialmente em inglês).
 
 #### Veja também: 
 
@@ -42,4 +42,4 @@ Durante o ano de 2023, semente foi apresentado em diversos contextos e recebeu f
 
 ### 0.3 - Imersão e Lab (2024-2025)
 
-- [Documentação completa da fase 0.3](https://github.com/semente-de/documentation/tree/main/0.3-2024) (em andamento).
+- [Documentação completa da fase 0.3](https://github.com/semente-de/documentation/tree/main/0.3) (em andamento).
