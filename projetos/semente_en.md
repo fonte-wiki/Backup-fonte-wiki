@@ -2,7 +2,7 @@
 title: Semente - English Version
 description: Semente toolkit
 published: true
-date: 2024-10-07T12:47:00.428Z
+date: 2025-02-20T18:06:32.379Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-11-29T17:03:03.997Z
@@ -12,7 +12,7 @@ dateCreated: 2022-11-29T17:03:03.997Z
 
 # Semente
 
-The [portuguese version](https://fonte.wiki/pt-br/projetos/semente) of this page may be more up-to-date.
+The [portuguese version](https://fonte.wiki/projetos/semente) of this page may be more up-to-date.
 
 Semente is a toolkit in the making to co-create community-based digital policy. Its current prototype results from a collaboration between the Instituto Neos in Brazil and the University of Bristol. Semente builds knowledge exchange in projects such as [fonte.wiki](https://fonte.wiki) and [ID21](/id21). It is informed by decades of digital rights activism in Brazil and the intention to regenerate fair and inclusive futures with the critical appropriation of digital technologies.
 
