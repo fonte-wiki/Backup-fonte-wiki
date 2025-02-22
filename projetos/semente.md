@@ -2,7 +2,7 @@
 title: semente
 description: método para criação e aprimoramento de projetos em comunidade
 published: true
-date: 2025-02-22T16:35:19.458Z
+date: 2025-02-22T16:35:50.038Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -12,7 +12,7 @@ dateCreated: 2022-04-04T20:32:13.049Z
 
 *semente* é um **método colaborativo** para **desenhar e visualizar projetos e processos coletivos de forma cíclica e regenerativa**. Ele surge de um **incômodo com a formatação tradicional de projetos**, que geralmente possuem começo, meio e fim definidos, desconectados da vida e das experiências das pessoas envolvidas.
 
-- *[This page in English](projetos/semente_en).*
+- *[This page in English](/projetos/semente_en).*
 
 Ao contrário dos modelos tradicionais, semente propõe uma **abordagem flexível e adaptável**, que permite iniciar o projeto por diferentes pontos:
 
