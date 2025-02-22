@@ -2,7 +2,7 @@
 title: semente
 description: método para criação e aprimoramento de projetos em comunidade
 published: true
-date: 2025-02-22T16:33:32.809Z
+date: 2025-02-22T16:34:11.340Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -64,6 +64,8 @@ semente tem o apoio da Universidade de Bristol e foi criado em Ubatuba, SP. Sua 
 ## Colaboradorxs
 
 Ao longo dos anos, semente contou com a contribuição e participação de muita gente:
+
+*Lista atualizada em 19.02.2025.*
 
 - Allan Iwama.
 - Anna Gallafrio.
