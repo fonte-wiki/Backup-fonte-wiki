@@ -2,7 +2,7 @@
 title: semente
 description: método para criação e aprimoramento de projetos em comunidade
 published: true
-date: 2025-02-22T16:35:50.038Z
+date: 2025-02-22T16:42:57.969Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -73,6 +73,7 @@ Ao longo dos anos, semente contou com a contribuição e participação de muita
 - Anna Gallafrio.
 - Celina Rosa.
 - Cynthia Demétrio.
+- Daniela Del Valle Dominguez.
 - Fabiane Borges.
 - Felipe Penin.
 - Geide de Paula.
