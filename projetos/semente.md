@@ -2,7 +2,7 @@
 title: semente
 description: método para criação e aprimoramento de projetos em comunidade
 published: true
-date: 2025-02-22T16:42:57.969Z
+date: 2025-06-23T07:19:59.605Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z
@@ -65,29 +65,4 @@ semente tem o apoio da Universidade de Bristol e foi criado em Ubatuba, SP. Sua 
 
 ## Colaboradorxs
 
-Ao longo dos anos, semente contou com a contribuição e participação de muita gente:
-
-*Lista atualizada em 19.02.2025.*
-
-- Allan Iwama.
-- Anna Gallafrio.
-- Celina Rosa.
-- Cynthia Demétrio.
-- Daniela Del Valle Dominguez.
-- Fabiane Borges.
-- Felipe Penin.
-- Geide de Paula.
-- Gisele Silva.
-- Heloise Amazonas.
-- João Evoé.
-- Juan Blanco Prada.
-- Marcus Binns.
-- Marina Nicolaiewsky.
-- Manu Rabinovich.
-- Mariana Romão.
-- Mariana Vilela.
-- Priscilla Romão.
-- Renata Coelho.
-- Robert Elmar.
-- Sofia Galvão.
-- Tatiana Prado.
+Ao longo dos anos, semente contou com a contribuição e participação de muita gente, seja participando das etapas que deram origem ao projeto, seja contribuindo durante oficinas e discussões. Uma lista completa dessas pessoas a quem agradecemos pode ser encontrada no [site do projeto](https://semente.de/about/#contributors). 
