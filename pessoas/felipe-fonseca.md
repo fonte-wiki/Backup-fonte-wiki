@@ -2,7 +2,7 @@
 title: Felipe Schmidt Fonseca
 description: 
 published: true
-date: 2021-11-12T14:33:57.905Z
+date: 2025-07-18T09:43:28.979Z
 tags: pessoas
 editor: markdown
 dateCreated: 2021-11-09T11:19:01.915Z
@@ -10,7 +10,7 @@ dateCreated: 2021-11-09T11:19:01.915Z
 
 # Felipe Schmidt Fonseca
 
-Felipe (efeefe) é pesquisador / doutorando no projeto [OpenDoTT](https://opendott.org) (Northumbria University + Mozilla Foundation). Foi fundador e articulador de uma série de projetos de tecnologia e sociedade ao longo das últimas décadas, entre eles este site.
+Felipe (efeefe) é pesquisador e ativista. Foi fundador e articulador de uma série de projetos de tecnologia e sociedade ao longo das últimas décadas, entre eles este site.
 
  ## Veja mais
  
