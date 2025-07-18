@@ -2,7 +2,7 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-18T08:25:30.163Z
+date: 2025-07-18T11:51:14.341Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
@@ -36,7 +36,9 @@ Divisor foi criado como parte do projeto do [Lab Mãe D'água](https://fonte.wik
 
 `theme: "Tema do Jekyll a usar"` - o padrão é minima. Ainda precisamos testar a compatibilidade com outros temas.
 
-`github_pages_url: "URL do seu site no GitHub pages"` - opcional.
+`github_repository_url: "https://github.com/<your-username>/<your-repo>.git"` - endereço do seu repositório.
+
+`github_pages_url: "https://<your-username>.github.io/<your-repo>"` - URL do seu site no GitHub pages.
 
 `about_page_title: "Título da página sobre o site"` - o menu de navegação terá um link para esta página.
 
