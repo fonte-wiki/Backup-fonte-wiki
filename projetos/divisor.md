@@ -2,7 +2,7 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-18T07:27:01.769Z
+date: 2025-07-18T08:25:30.163Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
@@ -16,9 +16,11 @@ Divisor foi criado como parte do projeto do [Lab Mãe D'água](https://fonte.wik
 
 ## Como usar
 
-**1. Clonar o repositório**
+**1. Clonar e entrar no repositório**
 
-`git@github.com:fonte-wiki/Divisor.git`
+`git clone git@github.com:fonte-wiki/Divisor.git`
+
+`cd Divisor`
 
 **2. Instalar as dependências**
 
@@ -32,11 +34,11 @@ Divisor foi criado como parte do projeto do [Lab Mãe D'água](https://fonte.wik
 
 `description: "Descrição do site"`
 
-`theme: "Tema do Jekyll a usar" - o padrão é minima. Ainda precisamos testar a compatibilidade com outros temas.`
+`theme: "Tema do Jekyll a usar"` - o padrão é minima. Ainda precisamos testar a compatibilidade com outros temas.
 
-`github_pages_url: "URL do seu site no GitHub pages" - opcional.`
+`github_pages_url: "URL do seu site no GitHub pages"` - opcional.
 
-`about_page_title: "Título da página sobre o site" - o menu de navegação terá um link para esta página.`
+`about_page_title: "Título da página sobre o site"` - o menu de navegação terá um link para esta página.
 
 `about_page_body: "Texto da página sobre o site".`
 
@@ -46,13 +48,13 @@ Divisor foi criado como parte do projeto do [Lab Mãe D'água](https://fonte.wik
 
 *Mapeamento de conteúdo*
 
-`home_page_source: "home.md" - caminho no repositório para a página inicial do seu site.`
+`home_page_source: "home.md"` - caminho no repositório para a página inicial do seu site.
 
-`subpages_folder: "pages" - caminho no repositório para uma pasta de onde seu site buscará as subpáginas.`
+`subpages_folder: "pages"` - caminho no repositório para uma pasta onde o aplicativo buscará subpáginas para seu site (opcional).
 
-`destination_folder: "site_contents" - nome da pasta onde você quer gravar a seleção de conteúdo convertido e editado.`
+`destination_folder: "site_contents"` - nome da pasta onde você quer gravar a seleção de conteúdo convertido e editado.
 
-`media_destination_folder: "assets/media" - nome da pasta onde gravar os arquivos de mídia copiados do repositório-fonte.`
+`media_destination_folder: "assets/media"` - nome da pasta onde gravar os arquivos de mídia copiados do repositório-fonte.
 
 **4. Gerar o site**
 
