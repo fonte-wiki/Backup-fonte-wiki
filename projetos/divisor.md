@@ -2,7 +2,7 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-18T07:25:23.171Z
+date: 2025-07-18T07:27:01.769Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
@@ -88,7 +88,7 @@ Próximas etapas de desenvolvimento
 
 ## Lost here?
 
-You will find ENGLISH documentation directly on the [repository](https://github.com/fonte-wiki/divisor).
+Learn more in ENGLISH directly in the [repository](https://github.com/fonte-wiki/divisor).
 
 ---
 
