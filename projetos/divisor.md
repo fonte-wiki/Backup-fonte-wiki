@@ -2,7 +2,7 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-18T07:11:05.456Z
+date: 2025-07-18T07:12:17.141Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
@@ -78,9 +78,9 @@ Use o servidor interno do Jekyll para testar o site em seu sistema:
 
 Próximas etapas de desenvolvimento
 
-- CI/CD para atualização automática do conteúdo
-- Uso de outros temas do Jekyll
-- Mais opções de customização
+- CI/CD para atualização automática do conteúdo quando as páginas de origem na fonte.wiki são editadas
+- Uso de outros temas do Jekyll - por enquanto só testado com *minima*
+- Mais opções de customização e transformação de conteúdo
 
 ---
 
