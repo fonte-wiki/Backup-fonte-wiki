@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Julho
 description: 
 published: true
-date: 2025-07-18T12:32:25.506Z
+date: 2025-07-21T10:10:35.454Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-12T11:15:04.725Z
@@ -13,6 +13,10 @@ dateCreated: 2025-07-12T11:15:04.725Z
 Atividades realizadas no lab em Julho de 2025
 
 ## FF - anotações
+
+### 21.07.2025
+
+Terminei a configuração inicial do Divisor e testei o processo de começar com um fork e customizar para publicação, com um site para o Lab Mãe D'água. Está aqui: https://maedagua.github.io/. 
 
 ### 18.07.2025
 
