@@ -2,13 +2,11 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-21T11:16:03.082Z
+date: 2025-07-21T14:04:43.451Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
 ---
-
-# Divisor
 
 Divisor ("de águas") é um aplicativo em Python para automatizar a criação de sites baseados em [Jekyll](https://jekyllrb.com/) a partir de trechos selecionados da [fonte.wiki](https://fonte.wiki). Ele permite replicar partes do repositório [Backup-fonte-wiki](https://github.com/fonte-wiki/Backup-fonte-wiki) com customizações pontuais. O aplicativo permite a publicação do site resultante via GitHub pages.
 
