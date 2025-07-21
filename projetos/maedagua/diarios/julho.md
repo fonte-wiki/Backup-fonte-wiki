@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Julho
 description: 
 published: true
-date: 2025-07-21T10:11:33.013Z
+date: 2025-07-21T10:16:57.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-12T11:15:04.725Z
@@ -22,7 +22,7 @@ Terminei a configuração inicial do Divisor e testei o processo de começar com
 
 Mais algumas iterações com jules e cheguei a um protótipo que parece funcionar. Inspirado pela analogia da *fonte*, resolvi chamar o aplicativo de [Divisor](/projetos/divisor). Está rodando razoavelmente bem no meu ambiente local. Próximas etapas: ~~testar a publicação no GitHub pages~~, permitir usar outros temas do Jekyll compatíveis com GitHub Pages, e oferecer mais opções de customização.
 
-**Atualizando:** a publicação no GitHub pages está funcionando. Fiz um [site para o próprio projeto Divisor](https://fonte-wiki.github.io/Divisor/) e uma [primeira versão de site para a Mãe D'água](https://maedagua.github.io/labmaedagua.github.io/).
+**Atualizando:** a publicação no GitHub pages está funcionando. Fiz um [site para o próprio projeto Divisor](https://fonte-wiki.github.io/Divisor/) e uma ~~primeira versão de site para a Mãe D'água~~ (PS.: tirei esse site do ar mais tarde).
 
 ### 14.07.2025
 
