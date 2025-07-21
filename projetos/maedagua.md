@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-17T18:43:35.270Z
+date: 2025-07-21T10:21:51.826Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -12,7 +12,10 @@ dateCreated: 2025-06-28T16:10:28.630Z
 
 ## SOBRE
 
-![capalab.png](/capalab.png)
+![capalab.png](/projetos/maedagua/capalab.png)
+
+Repositório wiki: https://fonte.wiki/projetos/maedagua
+
 pic: Faw Carvalho
 
 .Quando o projeto começou (unisanta 2012, links das publicações [Referências](/projetos/maedagua/referencias), hiperguardiões, o que guima fez depois. Infoamazonia, Bailux, etc, [Histórico](/projetos/maedagua/historico)
