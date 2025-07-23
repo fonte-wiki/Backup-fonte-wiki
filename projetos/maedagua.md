@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-23T20:03:03.549Z
+date: 2025-07-23T20:03:59.082Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -32,6 +32,7 @@ Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/dee
 
 .pensar em um equilíbrio semente x tragedia do commons.
 dopplerganger
+https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/
 
 ## **FRENTES DE PESQUISA**
 
