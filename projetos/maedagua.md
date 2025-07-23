@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-23T20:00:32.205Z
+date: 2025-07-23T20:02:15.000Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -20,10 +20,9 @@ Teste do primeiro protótipo [Mãe d'Água em 2012](https://www.flickr.com/photo
 
 **Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantastico que habita e também protege mares e Oceanos. Também é redundante afirmar, cientificamente, que a vida é codependente da existência de água - item tão abundante nesse planeta, que se torna cada vez mais [excasso](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradado](https://www.science.org/doi/abs/10.1126/science.1208277).
 
-Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf),voltada para experimentação em tecnologias críticas, nas bases da [MetaReciclagem](https://www.metareciclagem.org/).Um módulo de monitoramento de qualidade de água, que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf).
+Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf),voltada para experimentação em tecnologias críticas, nas bases da [MetaReciclagem](https://www.metareciclagem.org/). Um módulo de monitoramento de qualidade de água, que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf).
 
-[Referências](/projetos/maedagua/referencias), hiperguardiões, o que guima fez depois. Infoamazonia, Bailux, etc, [Histórico](/projetos/maedagua/historico)
-.Mãe d'água como Orixá, tecnomagia, colaborações e desenvolvimento de tecnologias com outras narrativas.
+- github guima//bailux
 
 Em 2025, a proposta ressurge como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
 
@@ -32,6 +31,7 @@ Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/dee
 ## **OBJETIVOS**
 
 .pensar em um equilíbrio semente x tragedia do commons.
+dopplerganger
 
 ## **FRENTES DE PESQUISA**
 
@@ -54,7 +54,7 @@ _ Minidocumentário (depois)
 
 O que é lalallal, nome, número do edital
 
-.criar uma narrativa visual, open design, design instrucional, licenças livres (Kel/ LACO e LAD)
+.criar uma narrativa visual, open design, design instrucional, licenças livres (Kel/ LACO e LAD) .Mãe d'água como Orixá, tecnomagia, colaborações e desenvolvimento de tecnologias com outras narrativas.
 - [Tecnologias Críticas e Instrumentos Científicos Abertos](/projetos/maedagua/tecnologiascriticas) Guima/Ian - Cobric 2025
 
 ## **PUBLICAÇÕES**
