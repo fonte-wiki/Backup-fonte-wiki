@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-23T19:32:27.198Z
+date: 2025-07-23T19:53:12.158Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -13,16 +13,21 @@ dateCreated: 2025-06-28T16:10:28.630Z
 
 ![maedagua.png](/projetos/maedagua/maedagua.png)
 
-Nesta imagem, o primeiro teste do protótipo [Mãe d'Água em 2012](https://www.flickr.com/photos/maedagua/), no Caruara, Santos, Brasil. 
+Teste do primeiro protótipo [Mãe d'Água em 2012](https://www.flickr.com/photos/maedagua/), no Caruara, Santos, Brasil. 
+
 
 ## SOBRE
 
-**Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantastico que habita e também protege mares e Oceanos. Também é redudante afirmar, cientificamente, que a vida é co-dependente da existência de água - tão abundante nesse planeta e se tornando cada vez mais [excassa](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradada](https://www.science.org/doi/abs/10.1126/science.1208277), infelizmente.
+**Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantastico que habita e também protege mares e Oceanos. Também é redudante afirmar, cientificamente, que a vida é codependente da existência de água - item tão abundante nesse planeta, que se torna cada vez mais [excasso](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradado](https://www.science.org/doi/abs/10.1126/science.1208277).
+
+Para nós, **Mãe d'Água** se desenvolve como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf), uma zona autônoma temporária, voltada para experimentação em tecnologias críticas e abertas com ciência cidadã, em 2012 na [MetaReciclagem](https://www.metareciclagem.org/). Surge assim, um módulo de monitoramento de qualidade de água, que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf).
 
 [Referências](/projetos/maedagua/referencias), hiperguardiões, o que guima fez depois. Infoamazonia, Bailux, etc, [Histórico](/projetos/maedagua/historico)
 .Mãe d'água como Orixá, tecnomagia, colaborações e desenvolvimento de tecnologias com outras narrativas.
 
-Onde está sediado atualmente.
+Em 2025, a proposta ressurge como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
+
+Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ## **OBJETIVOS**
 
