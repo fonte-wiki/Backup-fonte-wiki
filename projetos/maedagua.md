@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-23T20:03:59.082Z
+date: 2025-07-23T20:04:40.640Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -23,6 +23,7 @@ Teste do primeiro protótipo [Mãe d'Água em 2012](https://www.flickr.com/photo
 Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf), voltada para experimentação em tecnologias críticas, nas bases da [MetaReciclagem](https://www.metareciclagem.org/). Um módulo de monitoramento de qualidade de água que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf).
 
 - github guima//bailux
+- pubs de 2012
 
 Em 2025, a proposta ressurge como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
 
