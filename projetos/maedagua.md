@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-24T12:24:44.254Z
+date: 2025-07-24T12:24:57.892Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -69,7 +69,7 @@ O que é lalallal, nome, número do edital
 
 ## **PUBLICAÇÕES**
 
-Em breve :)
+Em breve
 
 ## **PARCEIROS**
 - [Bonde Verde](https://www.instagram.com/bondeverde)
