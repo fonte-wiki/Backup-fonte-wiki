@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-24T12:24:09.137Z
+date: 2025-07-24T12:24:44.254Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -68,13 +68,14 @@ O que é lalallal, nome, número do edital
 - [Tecnologias Críticas e Instrumentos Científicos Abertos](/projetos/maedagua/tecnologiascriticas) Guima/Ian - Cobric 2025
 
 ## **PUBLICAÇÕES**
-ALALLALLALA
+
+Em breve :)
 
 ## **PARCEIROS**
-[Bonde Verde](https://www.instagram.com/bondeverde)
-[Global Inonvation Gathering](https://globalinnovationgathering.org/)
-SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
-Paradoxo [Universidade Federal do ABC](https://www.ufabc.edu.br)
+- [Bonde Verde](https://www.instagram.com/bondeverde)
+- [Global Inonvation Gathering](https://globalinnovationgathering.org/)
+- SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
+- Paradoxo [Universidade Federal do ABC](https://www.ufabc.edu.br)
 
 ----------------------------
 
