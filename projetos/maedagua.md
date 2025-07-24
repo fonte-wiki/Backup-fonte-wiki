@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-24T15:12:26.474Z
+date: 2025-07-24T15:13:28.024Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -28,7 +28,7 @@ Naquela época, as atividades desenvolvidas geraram duas publicações:
 
 **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. Revista LABVERDE, v. 1, p. 144-158, 2013.
 
-Posteriormente Mãe d´Água permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. Uma parte significativa sobre o desenvolvimento desses sensores pode ser acessada [aqui](https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/).
+Posteriormente Mãe d´Água permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. Uma parte significativa da narrativa do desenvolvimento desses sensores pode ser acessada [aqui](https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/).
 
 Em 2025, a proposta ressurge como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
 
