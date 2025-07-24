@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-24T11:54:49.474Z
+date: 2025-07-24T11:55:15.171Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -24,7 +24,7 @@ Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.a
 
 Naquela época, as atividades desenvolvidas geraram duas publicações:
 
-**Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. In: Karla Brunet; Raquel Rennó. (Org.). Tropixel: arte, ciência, tecnologia e sociedade. 1ed.Salvador: EDUFBA, 2015, p. 165-188.
+**Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. Tropixel: arte, ciência, tecnologia e sociedade. 1ed.Salvador: EDUFBA, 2015, p. 165-188.
 
 **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. Revista LABVERDE, v. 1, p. 144-158, 2013.
 
