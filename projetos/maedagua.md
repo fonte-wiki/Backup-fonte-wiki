@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-24T12:17:28.881Z
+date: 2025-07-24T12:19:37.136Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -38,7 +38,7 @@ Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/dee
 
 Nosso objetivo é o [“rewild”](https://www.noemamag.com/we-need-to-rewild-the-internet/), ou seja, tornar as experimentações em tecnologia selvagens novamente - ou simplesmente ["vivas](https://networkcultures.org/wp-content/uploads/2025/05/the-internet-of-dead-things-UPDATED.pdf) novamente". Buscamos unir duas grandes áreas vistas como antagônicas, mas que podem e devem se integrar: a área ambiental e os sistemas de informação tecnológicos. Desenolver, e implementar soluções colaborativas baseadas em padrões abertos, criando espaços comunitários capazes de dialogar com a produção científica para alcançar inovações que sejam desenvolvidas coletivamente para resolver problemas reais da sociedade, não apenas gerando um hype que consome recursos-gera lixo e não possui significado algum.
 
-Ao longo dos anos, muitas iniciativas não apenas se inspiraram em **Mãe d' Água**, mas também sequestraram a narrativa para projetos comerciais e de interesses específicos, criando [*doppelgangers*](https://books.google.com.br/books?hl=pt-BR&lr=&id=aMsLEQAAQBAJ&oi=fnd&pg=PA3&dq=naomi+klein+doppler+ganger&ots=f3EMGX_QFA&sig=MoPvPVI4GueuV0f-c8j8w_Zsisk&redir_esc=y#v=onepage&q&f=false): um duplo esvaziado que se apropria do projeto mas não é o projeto, e muito menos pode ser reconhecido como um remix ou uma validação de algo de uso aberto.
+Ao longo dos anos, muitas iniciativas não apenas se inspiraram em **Mãe d' Água**, mas também sequestraram a narrativa para projetos comerciais e de interesses específicos, criando [*doppelgangers*](https://www.theguardian.com/books/2023/sep/09/doppelganger-a-trip-into-the-mirror-world-by-naomi-klein-review-a-case-of-mistaken-identity): um duplo esvaziado que se apropria do projeto mas não é o projeto, e muito menos pode ser reconhecido como um remix ou uma validação de algo de uso aberto.
 
 Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é uma retomada para modelos de documentação - e análise crítica ao compartilhamento/apropriação além do estabelecimento de identidade visual e sistematização de assets. Já que agora o conceito "parece real mas não é" pode ser aplicado como nunca.
 
