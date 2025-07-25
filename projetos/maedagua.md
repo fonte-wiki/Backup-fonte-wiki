@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-25T17:34:42.226Z
+date: 2025-07-25T17:40:38.176Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -66,12 +66,8 @@ _ Minidocumentário (depois)
 ###### BioEduca: desenvolvimento de materiais pedagógicos e estratégias de ensino aprendizagem para a Biologia
 
 [Nesta proposta](https://fapesp.br/17237/edital-praticar-ciencia), **Lab Mãe d´Água** tem como objetivo promover o ensino de Ciências da Natureza no Ensino Médio por meio de atividades e trabalhos que visam o aprendizado baseado em pesquisa experimental, envolvendo a pesquisa e o desenvolvimento de:
-
-- o desenho e a construção de instrumentos científicos 
-experimentais de código aberto para o monitoramento ambiental e sua utilização para gerar e analisar dados ambientais. oferecendo uma estratégia de criação e implementação para atividades no Ensino Médio. A proposta é baseada em métodos empáticos e participativos de pesquisa em design, envolvendo o processo de desenvolvimento dos instrumentos científicos e que possam ser aplicados em atividades de campo, voltadas para a realidade local.
-
-.criar uma narrativa visual, open design, design instrucional, licenças livres (Kel/ LACO e LAD) .Mãe d'água como Orixá, tecnomagia, colaborações e desenvolvimento de tecnologias com outras narrativas.
-- [Tecnologias Críticas e Instrumentos Científicos Abertos](/projetos/maedagua/tecnologiascriticas) Guima/Ian - Cobric 2025
+- [Design Aberto e outras narrativas sobre tecnologias](/projetos/maedagua/designenarrativas)
+- [Tecnologias Críticas e Instrumentos Científicos Abertos](/projetos/maedagua/tecnologiascriticas)
 
 ## **PUBLICAÇÕES**
 
