@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-25T17:02:22.813Z
+date: 2025-07-25T17:09:47.681Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -45,7 +45,8 @@ Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é
 
 ## **FRENTES DE PESQUISA**
 
-Atualmente se desdobra dem 2 iniciativas de pesquisa, recebendo fomento para suas diferentes frentes:
+Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/):
+
 
 ### CAPES
 
