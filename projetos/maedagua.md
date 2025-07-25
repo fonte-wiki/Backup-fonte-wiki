@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-25T12:51:07.183Z
+date: 2025-07-25T17:02:22.813Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -24,9 +24,9 @@ Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.a
 
 Naquela época, as atividades desenvolvidas geraram duas publicações:
 
-**Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. Tropixel: arte, ciência, tecnologia e sociedade. 1ed. Salvador: EDUFBA, 2015, p. 165-188.
+**Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. [Tropixel: arte, ciência, tecnologia e sociedade](http://dx.doi.org/10.13140/RG.2.1.3633.8644). 1ed. Salvador: EDUFBA, 2015, p. 165-188.
 
-**Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. Revista LABVERDE, v. 1, p. 144-158, 2013.
+**Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
 Posteriormente Mãe d´Água permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. 
 
