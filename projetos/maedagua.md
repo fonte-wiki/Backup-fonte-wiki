@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-26T20:02:42.862Z
+date: 2025-07-26T20:27:28.841Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -18,7 +18,7 @@ Teste do primeiro protótipo [Mãe d'Água em 2012](https://www.flickr.com/photo
 
 ## SOBRE
 
-**Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantastico que habita e também protege mares e Oceanos. Também é redundante afirmar, cientificamente, que a vida é codependente da existência de água - item tão abundante nesse planeta, que se torna cada vez mais [excasso](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradado](https://www.science.org/doi/abs/10.1126/science.1208277).
+**Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantastico que habita e também protege Mares e Oceanos. Também é redundante afirmar, cientificamente, que a vida é codependente da existência de água - item tão abundante nesse planeta, que se torna cada vez mais [excasso](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradado](https://www.science.org/doi/abs/10.1126/science.1208277).
 
 Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf), voltada para experimentação em tecnologias críticas, nas bases da [MetaReciclagem](https://www.metareciclagem.org/). Um módulo de monitoramento de qualidade de água que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf).
 
