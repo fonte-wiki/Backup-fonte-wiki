@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: 
 published: true
-date: 2025-07-26T16:03:25.138Z
+date: 2025-07-26T16:04:23.002Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
@@ -21,7 +21,12 @@ Surge a condição [cronicamente online](https://kumarrayna.medium.com/the-effec
 > ![captura_de_tela_de_2025-07-04_15-41-20.png](/projetos/captura_de_tela_de_2025-07-04_15-41-20.png)
 {.is-info}
 
+água, e energia que são utilizados para a manutenção dessas estruturas.
 
+
+## Objetivos
+
+- água, e energia que são utilizados para a manutenção dessas estruturas.
 
 
 
