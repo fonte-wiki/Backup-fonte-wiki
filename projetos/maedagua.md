@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-25T17:46:44.522Z
+date: 2025-07-26T19:54:02.991Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -45,12 +45,15 @@ Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é
 
 ## **FRENTES DE PESQUISA**
 
-Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/):
+Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/)
+
+![imag1.png](/projetos/maedagua/imag1.png)
 
 
-### CAPES
+### CAPES SESU PROEXT-PG 03/2024 
 
-O que é lalallal, nome, número do edital
+###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras
+[A proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) está vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, e tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa.
 
 Atividades de Extensão COLAB, conteúdeo/aula em vídeo + artigo sobre temas específicos da nossa realidade:
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
@@ -60,7 +63,7 @@ Atividades de Extensão COLAB, conteúdeo/aula em vídeo + artigo sobre temas es
 _ ZASF + Sensores (depois)
 _ Minidocumentário (depois)
 
-
+![img2.png](/projetos/maedagua/img2.png)
 ### FAPESP PRATICAR CIÊNCIA 2025/03919-2 
 
 ###### BioEduca: desenvolvimento de materiais pedagógicos e estratégias de ensino aprendizagem para a Biologia
