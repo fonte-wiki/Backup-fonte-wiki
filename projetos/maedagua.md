@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-26T19:54:02.991Z
+date: 2025-07-26T20:02:42.862Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -53,15 +53,14 @@ Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas comp
 ### CAPES SESU PROEXT-PG 03/2024 
 
 ###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras
-[A proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) está vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, e tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa.
+[A proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) está vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, e tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, vamos trabalhar com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
 
-Atividades de Extensão COLAB, conteúdeo/aula em vídeo + artigo sobre temas específicos da nossa realidade:
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
-- [Zonas Costeiras: direito dos ecossistemas e qualidade de vida](/projetos/maedagua/direitoszonascosteiras)
+- [Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida](/projetos/maedagua/direitoszonascosteiras)
 - [Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins](/projetos/maedagua/eeji)
-- repositórios abertos//citar queda cultura digital, critica aos fablabs, ciencia aberta e cidada para pessoas;
-_ ZASF + Sensores (depois)
-_ Minidocumentário (depois)
+- [A Importância da Criação de Manutenção de Repositórios Abertos como Ambientes de Experimentação](/projetos/maedagua/repositoriosabertos)
+- ZASF + Sensores (2026)
+- Minidocumentário (2026)
 
 ![img2.png](/projetos/maedagua/img2.png)
 ### FAPESP PRATICAR CIÊNCIA 2025/03919-2 
