@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: 
 published: true
-date: 2025-07-26T16:07:07.358Z
+date: 2025-07-26T16:11:12.013Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-25T17:43:00.612Z
 
 # Design Aberto e outras narrativas sobre tecnologias
 
-###### autores: Kevelyn Oliveira,Carolina Saravalli, Maira Begalli
+###### autores: Kevelyn Oliveira, Carolina Saravalli, Maira Begalli
 
 ## Introdução
 
@@ -21,7 +21,7 @@ Surge a condição [cronicamente online](https://kumarrayna.medium.com/the-effec
 > ![captura_de_tela_de_2025-07-04_15-41-20.png](/projetos/captura_de_tela_de_2025-07-04_15-41-20.png)
 {.is-info}
 
-água, e energia que são utilizados para a manutenção dessas estruturas.
+Enquanto essas estruturas se tornam sedutoras e atrativas, muitos projetos e iniciativas comunitárias ["flopam"](https://www.dicionarioinformal.com.br/flopar/) sem apelo, sem apropriação de linguagem/tom de voz, sem estratégia.
 
 
 ## Objetivos
