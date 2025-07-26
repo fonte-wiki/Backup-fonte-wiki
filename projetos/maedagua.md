@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-26T20:28:20.201Z
+date: 2025-07-26T23:10:23.215Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -28,7 +28,7 @@ Naquela época, as atividades desenvolvidas geraram duas publicações:
 
 **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
-Posteriormente Mãe d´Água permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. 
+Posteriormente **Mãe d´Água** permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. 
 
 Em 2025, a [proposta ressurge](https://is.efeefe.me/stuff/ritualised-repetitions) como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
 
@@ -58,7 +58,7 @@ Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas comp
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
 - [Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida](/projetos/maedagua/direitoszonascosteiras)
 - [Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins](/projetos/maedagua/eeji)
-- [A Importância da Criação de Manutenção de Repositórios Abertos como Ambientes de Experimentação](/projetos/maedagua/repositoriosabertos)
+- [A Importância da Criação e Manutenção de Repositórios Abertos como Ambientes de Experimentação](/projetos/maedagua/repositoriosabertos)
 - ZASF + Sensores (2026)
 - Minidocumentário (2026)
 
