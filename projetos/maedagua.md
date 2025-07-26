@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-26T20:27:28.841Z
+date: 2025-07-26T20:28:20.201Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -71,7 +71,7 @@ Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas comp
 - [Design Aberto e outras narrativas sobre tecnologias](/projetos/maedagua/designenarrativas)
 - [Tecnologias Críticas e Instrumentos Científicos Abertos](/projetos/maedagua/tecnologiascriticas)
 
-## **PUBLICAÇÕES**
+## **TRABALHOS E PUBLICAÇÕES**
 
 Em breve
 
