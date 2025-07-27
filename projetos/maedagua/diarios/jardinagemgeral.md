@@ -2,19 +2,17 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2025-07-27T20:21:58.902Z
+date: 2025-07-27T20:24:04.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
 ---
 
-A página de Jardinagem Geral é um bloco de notas que aponta itens no geral, que podem ser melhorados nesse wiki.
+A página de Jardinagem Geral funciona como um bloco de notas que aponta itens, no geral, que podem ser melhorados aqui no wiki.
 
-Os itens podem ser editados/eliminados a medida que forem solucionados, e acrescentados novos itens. 
+Os itens podem ser editados/eliminados a medida que forem solucionados, e outros itens podem ser acrescentados.
 
-Está inicialmente atrelada como Diários de Pesquisa, ao projeto Mãe d'Água como possibilidade de melhoria do que já existe e adaptação para o futuro.
-
-Por favor, mantenha as categorias.
+Jardinagem Geral está inicialmente atrelada como Diários de Pesquisa>Lab Mãe d'Água pela possibilidade de melhoria do que já existe e adaptações para o futuro.
 
 
 # DESIGN
