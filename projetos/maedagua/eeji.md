@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T18:01:36.409Z
+date: 2025-07-28T18:07:39.307Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -32,4 +32,17 @@ Imagem 2: Capivaras (*Hydrochoerus hydrochaeris*) na beira de corpo d’água na
 
 Autor: Venicio Cantareli, 2025. 
 
+O relevo da região é bastante variado, abrangendo desde planícies litorâneas até áreas montanhosas, como Maciço da Juréia e a Serra dos Itatins. Esses maciços rochosos chegam a altitudes de até 1.200 metros, formando paisagens marcadas por morros cobertos por vegetação densa e rios que descem até o mar (WIKIPÉDIA, 2025). 
+
+Imagem 3: Relevo da Estação Juréia-Itatins
+Autor: Venicio Cantareli, 2025. 
+
+O clima da Estação Ecológica de Juréia-Itatins, de acordo com sua localização geográfica, o clima é classificado como Af, segundo a classificação de Köppen-Geiger, caracterizado por ser tropical úmido, com chuvas bem distribuídas ao longo do ano e sem estação seca definida. Essa classificação foi confirmada por Álvares (2013), em estudo que atualizou o mapa climático do Brasil. Com isso, estão previstas chuvas ao longo do ano, com precipitação média anual em torno de 2.200 mm. As temperaturas deveriam ser amenas, variando entre 19 °C e 22 °C, com umidade relativa do ar elevada, cerca de 2.200 mm a 2.300 mm por ano (WIKIPARQUES, 2025).
+
+
+A região abriga populações pesqueiras, de etnia predominantemente mestiça (indígena, africana e europeia), com a identidade cultural fortemente ligada à tradição caiçara - que apesar de todas interferências antrópicas têm mantido práticas culturais e modos de vida ligados à pesca artesanal (FUNDAÇÃO FLORESTAL, 2024).      
+
+
 **O objetivo central** desse trabalho é criar um glossário da fauna e flora colaborativo, a partir da caracterização do SSE da EEJI, integrando os saberes científicos e os conhecimentos locais, a fim de promover uma compreensão aprofundada das dinâmicas do território. **Como objetivos secundários, espera-se:** 1) Integrar o conhecimento ecológico da população local com informações já relatadas na literatura científica; 2) Documentar as mudanças sazonais no território (variações do clima, e eventos extremos), e nas espécies (comportamento, fisionomia, recorrências) com base na percepção da população local; 3) Identificar e detalhar as principais espécies de fauna e flora, que atuam como bioindicadores e biomarcadoras das mudanças atuais no SSE da EEJI; 4) Estimular um ambiente de colaboração e extensão acadêmica entre docentes, alunos, pesquisadores e população da EEJI; 5) Disponibilizar o conteúdo produzido em formatos abertos e que promovam a extensão científica sobre a biodiversidade da EEJI.
+
+
