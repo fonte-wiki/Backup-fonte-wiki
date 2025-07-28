@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T18:48:30.319Z
+date: 2025-07-28T18:50:36.779Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -45,7 +45,7 @@ O clima da Estação Ecológica de Juréia-Itatins, de acordo com sua localizaç
 A região abriga populações pesqueiras, de etnia predominantemente mestiça (indígena, africana e europeia), com a identidade cultural fortemente ligada à tradição caiçara - que apesar de todas interferências antrópicas têm mantido práticas culturais e modos de vida ligados à pesca artesanal (FUNDAÇÃO FLORESTAL, 2024).      
 
 Imagem 4: Pescadores da Estação Juréia-Itatins  
-
+![pescadores.1.png](/projetos/maedagua/pescadores.1.png)
 Autor: Venicio Cantareli, 2025. 
 
 Os indivíduos que vivem em áreas do entorno ou dentro da zona de amortecimento da EEJI têm enfrentado desafios constantes, já que muitas vezes, acabam sofrendo com restrições legais excessivas ou falta de apoio governamental, o que tem gerado conflitos entre conservação e sobrevivência cultural dessas populações. E, frequentemente denunciam que ações de fiscalização ambiental tratam práticas tradicionais como crimes ambientais, apesar de estas serem sustentáveis e historicamente enraizadas no território (DIEGUES, 2000; SANTILLI, 2005; SOS MATA ATLÂNTICA, 2013).                                                                                                           
