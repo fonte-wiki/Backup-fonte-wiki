@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T19:12:26.194Z
+date: 2025-07-28T19:17:18.403Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -82,6 +82,10 @@ A pesquisa foi realizada em dois momentos, sendo o primeiro por meio do levantam
 - FUNDAÇÃO FLORESTAL. Estação Ecológica Juréia-Itatins. São Paulo: Governo do Estado de São Paulo, 2024. Disponível em: https://fflorestal.sp.gov.br. Acesso em: 11 jul. 2025.
 
 - INSTITUTO CHICO MENDES – ICMBio. Sistema Nacional de Unidades de Conservação (SNUC). Brasília: MMA, 2023. Disponível em: https://www.gov.br/icmbio. Acesso em: 11 jul. 2025.
+
+- NEVES, V. W. ; Ramires, Milena ; SOUZA, U. P. ; RIBEIRO, R. B. . Análise da variação de linha de costa e cobertura de vegetação praial na Reserva de Desenvolvimento Sustentável Barra do Una, litoral sul do Estado de São Paulo, Brasil. In: XII Encontro Nacional de Pos-graduação, 2023, Santos. Anais do XII Encontro Nacional de Pos-graduação, 2023. v. 7. p. 136-141.
+
+- OLIVEIRA, P.; CALASANS, B. O.; Ramires, Milena . OS ROBALOS E A PESCA ESPORTIVA NA RESERVA DE DESENVOLVIMENTO SUSTENTÁVEL DA BARRA DO UNA (PERUÍBE/SP). In: 19º Congresso Nacional de Iniciação Científica, 2019, São Paulo. Anais do 19º Congresso Nacional de Iniciação Científica, 2019. 
 
 - SANTILLI, Juliana. Socioambientalismo e novos direitos: proteção jurídica à diversidade biológica e cultural. São Paulo: Peirópolis, 2005.
 
