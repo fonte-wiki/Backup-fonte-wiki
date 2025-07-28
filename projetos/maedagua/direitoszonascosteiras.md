@@ -2,7 +2,7 @@
 title: Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida
 description: 
 published: true
-date: 2025-07-28T15:16:17.706Z
+date: 2025-07-28T15:18:52.200Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -38,4 +38,4 @@ autores: [Tiago Andrade](http://lattes.cnpq.br/8753419609363897), [Maira Begalli
 ## Conclusões
 
 
-## Referências Bibliogáficas
+## Referências Bibliográficas
