@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T18:17:41.926Z
+date: 2025-07-28T18:25:13.766Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -60,8 +60,10 @@ O turismo tradicional, apesar de ser promovido como possibilidade de fonte de re
 
 ## Materiais e Métodos
 
+A pesquisa foi realizada em dois momentos, sendo o primeiro por meio do levantamento de dados secundários, feito a partir de revisão bibliográfica, entre julho à setembro de 2025, em bases de pesquisas acadêmica como: o Web Scholar, Google Acadêmico, ResearchGate, Scielo usando as palavra-chaves: Estação Ecológica de Juréia Itatins, EEJI, Mata Atlântica, Pescadores da Mata Atlântica. Com esses dados foram sistematizadas as informações de espécies e a caracterização do território (com dados de  clima, localização geográfica, vegetação, populações humanas baseadas no território, número de indivíduos e descendência), que forneceram informações fundamentais para a elaboração do glossário colaborativo.
 
-## Reusltados e Discussão
+
+## Resultados e Discussão
 
 ## Conclusão
 
