@@ -1,14 +1,14 @@
 ---
-title: Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida
+title: Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento
 description: 
 published: true
-date: 2025-07-28T15:24:08.535Z
+date: 2025-07-28T16:02:40.108Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
 ---
 
-# Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida
+# Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento
 autores: [Tiago Andrade](http://lattes.cnpq.br/8753419609363897), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
 
 
