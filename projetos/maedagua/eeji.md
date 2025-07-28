@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T18:11:13.097Z
+date: 2025-07-28T18:15:10.195Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -67,5 +67,34 @@ O turismo tradicional, apesar de ser promovido como possibilidade de fonte de re
 
 
 ## Referências Bibliográficas
+
+
+- ALVARES, C. A. et al. Köppen’s climate classification map for Brazil. Meteorologische Zeitschrift, v. 22, n. 6, p. 711–728, 2013. DOI: 10.1127/0941-2948/2013/0507.
+
+- BERKES, F.; COLDING, J.; FOLKE, C. Navigating Social-Ecological Systems: Building Resilience for Complexity and Change. Cambridge: Cambridge University Press, 2003.
+
+- BEY, Hakim; HUGHES, Michael. Superando o Turismo. Revista Carbono, n. 08, 2014. Disponível em: https://revistacarbono.com/artigos/08-hakimbey-michaelhughes/ Acesso em: 21 jul. 2025.
+
+- DIEGUES, Antonio Carlos. O mito moderno da natureza intocada. São Paulo: NUPAUB/USP, 2000.
+
+- FERRO, Carlos Fioravanti; CESAR, Eduardo. Caranguejada de risco: ecologia e contaminação em manguezais da região de Juréia‑Itatins. Revista Pesquisa FAPESP, São Paulo, n. 225, p. 56‑59, nov. 2014. Disponível em: https://revistapesquisa.fapesp.br/wp-content/uploads/2014/11/056-059_Caranguejo_225.pdf. Acesso em: 21 jul. 2025.      
+
+- FUNDAÇÃO FLORESTAL. Estação Ecológica Juréia-Itatins. São Paulo: Governo do Estado de São Paulo, 2024. Disponível em: https://fflorestal.sp.gov.br. Acesso em: 11 jul. 2025.
+
+- INSTITUTO CHICO MENDES – ICMBio. Sistema Nacional de Unidades de Conservação (SNUC). Brasília: MMA, 2023. Disponível em: https://www.gov.br/icmbio. Acesso em: 11 jul. 2025.
+
+- SANTILLI, Juliana. Socioambientalismo e novos direitos: proteção jurídica à diversidade biológica e cultural. São Paulo: Peirópolis, 2005.
+
+- SÃO PAULO (Estado). Guia de Áreas Protegidas do Estado de São Paulo: Estação Ecológica Juréia-Itatins. São Paulo: Sistema Ambiental Paulista, 2024. Disponível em: https://guiadeareasprotegidas.sp.gov.br/ap/estacao-ecologica-jureia-itatins. Acesso em: 11 jul. 2025.
+
+- SÃO PAULO (Estado). Lei nº 5.649, de 28 de abril de 1987. Cria a Estação Ecológica da Juréia-Itatins e dá outras providências. Disponível em:https://www.al.sp.gov.br/norma/?id=26223. Acesso em: 23 jul. 2025.  
+
+- SÃO PAULO (Estado). Lei Complementar nº 12.406, de 12 de dezembro de 2006. Dispõe sobre a criação do Mosaico de Unidades de Conservação da Juréia-Itatins. Disponível em:https://www.al.sp.gov.br/norma/?id=69101. Acesso em: 21 jul. 2025.    
+
+- SOS MATA ATLÂNTICA. Unidades de Conservação e Populações Tradicionais: Conflitos e Caminhos para o Diálogo. 2013.
+
+- WIKIPARQUES. Estação Ecológica Juréia-Itatins. Disponível em: https://www.wikiparques.org/wiki/Esta%C3%A7%C3%A3o_Ecol%C3%B3gica_Jur%C3%A9ia-Itatins#Objetivos_espec.C3.ADficos_da_unidade. Acesso em: 11 jul. 2025.
+
+- WIKIPÉDIA. Estação Ecológica de Juréia-Itatins. Wikipédia: a enciclopédia livre. Disponível em: https://pt.wikipedia.org/wiki/Estação_Ecológica_de_Juréia-Itatins. Acesso em: 11 jul. 2025.
 
 
