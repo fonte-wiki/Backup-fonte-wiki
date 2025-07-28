@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-28T19:38:16.882Z
+date: 2025-07-28T19:39:15.708Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -59,7 +59,7 @@ A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programa
 - [Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins](/projetos/maedagua/eeji)
 - [A Importância da Criação e Manutenção de Repositórios Abertos como Ambientes de Experimentação](/projetos/maedagua/repositoriosabertos)
 - ZASF + Sensores (2026)
-- Minidocumentário (2026)
+- Minidocumentário (2027)
 
 ![img2.png](/projetos/maedagua/img2.png)
 
