@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T18:51:35.331Z
+date: 2025-07-28T19:05:11.625Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -31,7 +31,7 @@ Imagem 2: Capivaras (*Hydrochoerus hydrochaeris*) na beira de corpo d’água na
 ![capivaras.1.png](/projetos/maedagua/capivaras.1.png)
 Autor: Venicio Cantareli, 2025. 
 
-O relevo da região é bastante variado, abrangendo desde planícies litorâneas até áreas montanhosas, como Maciço da Juréia e a Serra dos Itatins. Esses maciços rochosos chegam a altitudes de até 1.200 metros, formando paisagens marcadas por morros cobertos por vegetação densa e rios que descem até o mar (WIKIPÉDIA, 2025). 
+O relevo da região é bastante variado (Imagem 3), abrangendo desde planícies litorâneas até áreas montanhosas, como Maciço da Juréia e a Serra dos Itatins. Esses maciços rochosos chegam a altitudes de até 1.200 metros, formando paisagens marcadas por morros cobertos por vegetação densa e rios que descem até o mar (WIKIPÉDIA, 2025). Entre os anos de 2018 e 2022, um estudo utilizando imagens de satélite e ferramentas de geoprocessamento, identificou uma retração de aproximadamente 1 quilômetro da linha costeira, com perda de 11 hectares de faixa de areia na EEJI. Também foi observada a supressão de 7,8 hectares de vegetação praial no mesmo período. Esses resultados indicam um processo significativo de erosão costeira, agravado por fatores naturais e antrópicos, como mudanças climáticas e ocupação irregular (NEVES *et al*., 2023)
 
 Imagem 3: Relevo da Estação Juréia-Itatins
 ![paisagem.2.png](/projetos/maedagua/paisagem.2.png)
