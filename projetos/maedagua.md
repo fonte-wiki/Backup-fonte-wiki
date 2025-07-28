@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-28T20:00:01.862Z
+date: 2025-07-28T20:01:28.713Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -90,4 +90,4 @@ Em breve
 
 - [Diários de pesquisa](/projetos/maedagua/diarios)
 - [Jardinagem Geral](/projetos/maedagua/jardinagemgeral)
-- [Referâncias](/projetos/maedagua/referencias)
+- [Referências](/projetos/maedagua/referencias)
