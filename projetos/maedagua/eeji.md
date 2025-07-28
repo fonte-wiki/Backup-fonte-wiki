@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T18:34:31.214Z
+date: 2025-07-28T18:48:30.319Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -28,13 +28,15 @@ Tanto por apresentar uma grande diversidade de ambientes naturais, com florestas
 
 Imagem 2: Capivaras (*Hydrochoerus hydrochaeris*) na beira de corpo d’água na EEJI
 
-
+![capivaras.1.png](/projetos/maedagua/capivaras.1.png)
 
 Autor: Venicio Cantareli, 2025. 
 
 O relevo da região é bastante variado, abrangendo desde planícies litorâneas até áreas montanhosas, como Maciço da Juréia e a Serra dos Itatins. Esses maciços rochosos chegam a altitudes de até 1.200 metros, formando paisagens marcadas por morros cobertos por vegetação densa e rios que descem até o mar (WIKIPÉDIA, 2025). 
 
 Imagem 3: Relevo da Estação Juréia-Itatins
+![paisagem.2.png](/projetos/maedagua/paisagem.2.png)
+
 Autor: Venicio Cantareli, 2025. 
 
 O clima da Estação Ecológica de Juréia-Itatins, de acordo com sua localização geográfica, o clima é classificado como Af, segundo a classificação de Köppen-Geiger, caracterizado por ser tropical úmido, com chuvas bem distribuídas ao longo do ano e sem estação seca definida. Essa classificação foi confirmada por Álvares (2013), em estudo que atualizou o mapa climático do Brasil. Com isso, estão previstas chuvas ao longo do ano, com precipitação média anual em torno de 2.200 mm. As temperaturas deveriam ser amenas, variando entre 19 °C e 22 °C, com umidade relativa do ar elevada, cerca de 2.200 mm a 2.300 mm por ano (WIKIPARQUES, 2025).
