@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T18:07:39.307Z
+date: 2025-07-28T18:11:13.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -42,7 +42,30 @@ O clima da Estação Ecológica de Juréia-Itatins, de acordo com sua localizaç
 
 A região abriga populações pesqueiras, de etnia predominantemente mestiça (indígena, africana e europeia), com a identidade cultural fortemente ligada à tradição caiçara - que apesar de todas interferências antrópicas têm mantido práticas culturais e modos de vida ligados à pesca artesanal (FUNDAÇÃO FLORESTAL, 2024).      
 
+Imagem 4: Pescadores da Estação Juréia-Itatins  
+
+Autor: Venicio Cantareli, 2025. 
+
+Os indivíduos que vivem em áreas do entorno ou dentro da zona de amortecimento da EEJI têm enfrentado desafios constantes, já que muitas vezes, acabam sofrendo com restrições legais excessivas ou falta de apoio governamental, o que tem gerado conflitos entre conservação e sobrevivência cultural dessas populações. E, frequentemente denunciam que ações de fiscalização ambiental tratam práticas tradicionais como crimes ambientais, apesar de estas serem sustentáveis e historicamente enraizadas no território (DIEGUES, 2000; SANTILLI, 2005; SOS MATA ATLÂNTICA, 2013).                                                                                                           
+                                                                            
+Apesar de ser uma das áreas mais bem preservadas da Mata Atlântica que abriga cerca de 14% de remanescentes de Mata Atlântica do estado de São Paulo, a EEJI enfrenta diversos problemas e ameaças que colocam em risco sua biodiversidade, sua integridade e resiliência ecológica, como a pressão fundiária e imobiliária, com tentativas ao longo dos anos de ocupação irregular e loteamento em áreas próximas ou até mesmo dentro da unidade. Também, há registros de caça e pesca ilegal, que impactam diretamente espécies ameaçadas e os ecossistemas locais causando um desequilíbrio e prejuízos ambientais (INSTITUTO CHICO MENDES, 2023). 
+
+Outro ponto delicado é a expansão de atividades turísticas desordenadas, como o acesso de visitantes não autorizados a cachoeiras e trilhas, o que tem ocasionado a degradação de trilhas, poluição de rios e perturbação da fauna silvestre. Mesmo que a visitação seja controlada e permitida apenas para fins de educação ambiental ou pesquisa, nem sempre as regras são respeitadas e a fiscalização é insuficiente (SOS MATA ATLÂNTICA, 2013)
+
+O turismo tradicional, apesar de ser promovido como possibilidade de fonte de renda para destinos “ecológicos”, tende a transformar culturas vivas em produtos e reforçar relações coloniais entre visitantes e comunidades locais. Um tipo de turismo que comumente mercantiliza a autenticidade de territórios, gerando impactos socioambientais negativos e irreversíveis - uma vez que não promove o protagonismo das populações locais, ou supera a lógica extrativista (BEY, 2014).
+
+
 
 **O objetivo central** desse trabalho é criar um glossário da fauna e flora colaborativo, a partir da caracterização do SSE da EEJI, integrando os saberes científicos e os conhecimentos locais, a fim de promover uma compreensão aprofundada das dinâmicas do território. **Como objetivos secundários, espera-se:** 1) Integrar o conhecimento ecológico da população local com informações já relatadas na literatura científica; 2) Documentar as mudanças sazonais no território (variações do clima, e eventos extremos), e nas espécies (comportamento, fisionomia, recorrências) com base na percepção da população local; 3) Identificar e detalhar as principais espécies de fauna e flora, que atuam como bioindicadores e biomarcadoras das mudanças atuais no SSE da EEJI; 4) Estimular um ambiente de colaboração e extensão acadêmica entre docentes, alunos, pesquisadores e população da EEJI; 5) Disponibilizar o conteúdo produzido em formatos abertos e que promovam a extensão científica sobre a biodiversidade da EEJI.
+
+## Materiais e Métodos
+
+
+## Reusltados e Discussão
+
+## Conclusão
+
+
+## Referências Bibliográficas
 
 
