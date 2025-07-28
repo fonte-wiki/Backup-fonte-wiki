@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-28T19:22:25.416Z
+date: 2025-07-28T19:29:59.377Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
