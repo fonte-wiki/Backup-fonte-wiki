@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-28T19:39:15.708Z
+date: 2025-07-28T20:00:01.862Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -81,9 +81,13 @@ Em breve
 - SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
 - Paradoxo/ [Universidade Federal do ABC](https://www.ufabc.edu.br)
 
+## Ficha Técnica
+Em breve
+
 ----------------------------
 
 ## Seções do site
 
 - [Diários de pesquisa](/projetos/maedagua/diarios)
 - [Jardinagem Geral](/projetos/maedagua/jardinagemgeral)
+- [Referâncias](/projetos/maedagua/referencias)
