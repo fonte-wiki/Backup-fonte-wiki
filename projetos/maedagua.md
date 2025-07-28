@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-28T09:24:09.167Z
+date: 2025-07-28T19:38:16.882Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -55,7 +55,7 @@ Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas comp
 A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) está vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, e tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, vamos trabalhar com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
 
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
-- [Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida](/projetos/maedagua/direitoszonascosteiras)
+- [Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento](/projetos/maedagua/direitoszonascosteiras)
 - [Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins](/projetos/maedagua/eeji)
 - [A Importância da Criação e Manutenção de Repositórios Abertos como Ambientes de Experimentação](/projetos/maedagua/repositoriosabertos)
 - ZASF + Sensores (2026)
