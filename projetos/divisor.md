@@ -2,15 +2,15 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-21T14:04:43.451Z
+date: 2025-07-28T10:56:14.801Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
 ---
 
-Divisor ("de águas") é um aplicativo em Python para automatizar a criação de sites baseados em [Jekyll](https://jekyllrb.com/) a partir de trechos selecionados da [fonte.wiki](https://fonte.wiki). Ele permite replicar partes do repositório [Backup-fonte-wiki](https://github.com/fonte-wiki/Backup-fonte-wiki) com customizações pontuais. O aplicativo permite a publicação do site resultante via GitHub pages.
+# Divisor (de águas)
 
-Divisor foi criado como parte do projeto do [Lab Mãe D'água](https://fonte.wiki/projetos/maedagua). O código-fonte está disponível neste [repositório no GitHub](https://github.com/fonte-wiki/Divisor).
+Divisor é uma ferramenta baseada em Python que automatiza a criação de um site em Jekyll a partir de um repositório git. Por padrão, utiliza o [repositório de fonte.wiki](https://github.com/fonte-wiki/Backup-fonte-wiki).
 
 A ideia central é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem ter que configurar manualmente um ambiente Jekyll ou gerenciar o processo de conversão de conteúdo manualmente. O site resultante será implantado no GitHub Pages por padrão.
 
@@ -30,7 +30,7 @@ site_metadata:
   description: "Site criado com fonte.wiki e Divisor"
   theme: "minima"
 
-  github_repository_url: "https://github.com/seu-usuario-git/seu-repositorio.git" # Recomendado: use o URL HTTPS
+  github_repository_url: "https://github.com/seu-usuario-git/seu-repositorio.git" # Recomendado: use a URL HTTPS
 
   github_pages_url: "https://seu-usuario-git.github.io/seu-repositorio/" #edite esta linha
   about_page_title: "Sobre este site"
@@ -105,7 +105,7 @@ Esta opção é ideal se você deseja gerar um site estático único a partir do
     O repositório de destino é configurado no arquivo `config.yml` através do campo `github_repository_url`.
 7.  **Configuração do GitHub Pages:**
     Se você implantar manualmente seus arquivos de origem Jekyll gerados em um branch gh-pages, precisará configurar o GitHub Pages:
-    * **Certifique-se que o branch `gh-pages` exista:**
+    * **Garanta que o branch `gh-pages` exista:**
     Se não existir, crie-o:
     ```bash
     git checkout --orphan gh-pages
@@ -170,7 +170,7 @@ Esta opção fornece uma maneira totalmente automatizada de manter seu site sinc
     Faça o commit das suas alterações no `config.yml` (e dos arquivos de fluxo de trabalho renomeados da etapa 3) para o seu repositório forkado. Um evento `push` acionará automaticamente o fluxo de trabalho `generate-website.yml`, que, após a conclusão, acionará o fluxo de trabalho `deploy-website.yml`.
 
 
-## Detalhes do Workflow Automático
+## Detalhes do Fluxo de Trabalho Automatizado
 
 Este repositório inclui dois fluxos de trabalho do GitHub Actions que automatizam o processo de geração e implantação do site:
 
@@ -202,3 +202,20 @@ site_metadata:
 ```
 
 Depois de alterar o tema, faça o commit das alterações no seu arquivo `config.yml`. Se você estiver usando a configuração automatizada, o fluxo de trabalho do GitHub Actions irá regenerar e implantar automaticamente seu site com o novo tema.
+
+## Templates e Layouts Personalizados
+
+Você pode personalizar a aparência do seu site fornecendo seus próprios templates e layouts. Para fazer isso, crie os diretórios `_layouts` e `_includes` dentro do diretório `divisor`.
+
+*   `divisor/_layouts`: Coloque seus layouts personalizados neste diretório.
+*   `divisor/_includes`: Coloque seus includes personalizados neste diretório.
+
+Quando você executa o comando `generate`, o Divisor copiará o conteúdo desses diretórios para o site gerado, sobrescrevendo quaisquer arquivos padrão com o mesmo nome. Isso permite que você adicione novos templates ou substitua os padrão fornecidos pelo tema.
+
+## Limpando o ambiente
+
+Para remover os diretórios `source_repo` e `site_contents`, você pode usar o comando `clean`:
+
+```bash
+python cli.py clean
+```
