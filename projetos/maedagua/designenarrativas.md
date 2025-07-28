@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: 
 published: true
-date: 2025-07-26T19:35:25.762Z
+date: 2025-07-28T15:11:06.914Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-25T17:43:00.612Z
 
 # Design Aberto e outras narrativas sobre tecnologias
 
-###### autores: [Kevelyn Oliveira](https://www.linkedin.com/in/kelveira/), [Carolina Saravalli](https://www.linkedin.com/in/carolinasaravalli/), Maira Begalli
+###### autores: [Kevelyn Oliveira](https://www.linkedin.com/in/kelveira/), [Carolina Saravalli](https://www.linkedin.com/in/carolinasaravalli/), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
 
 ## Introdução
 
