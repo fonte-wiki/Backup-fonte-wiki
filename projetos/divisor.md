@@ -2,7 +2,7 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-28T10:56:14.801Z
+date: 2025-07-28T11:26:15.633Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
@@ -14,11 +14,15 @@ Divisor é uma ferramenta baseada em Python que automatiza a criação de um sit
 
 A ideia central é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem ter que configurar manualmente um ambiente Jekyll ou gerenciar o processo de conversão de conteúdo manualmente. O site resultante será implantado no GitHub Pages por padrão.
 
+Divisor foi criado como parte do projeto [Lab Mãe D'água](/projetos/maedagua).
+
 ## Como funciona
 
-O primeiro passo básico é buscar o conteúdo do repositório de origem. Em seguida, a ferramenta irá gerar um site Jekyll com base no arquivo de configuração `config.yml`. O site gerado será colocado na `destination_folder` definida no arquivo de configuração.
+Divisor começa baixando conteúdo do repositório de origem. A ferramenta gerará um site Jekyll com base no arquivo de configuração `config.yml`. O site gerado será colocado na pasta `destination_folder` definida no arquivo de configuração.
 
-O arquivo `config.yml` permite que você personalize o site gerado. Você pode definir o título, a descrição, o tema e outras opções do site. Você também pode mapear arquivos e pastas específicos do seu repositório de origem para o site gerado.
+Para iniciar a configuração, renomeie o arquivo `config.yml.sample` para `config.yml`. Abra o arquivo para editá-lo.
+
+O arquivo `config.yml` permite que você personalize o site gerado. Você pode definir o título, a descrição, o tema e outras opções do site. Você também pode escolher o mapeamento da home page e uma pasta do repositório com subpáginas para o site gerado.
 
 ## Configuração
 
@@ -105,7 +109,7 @@ Esta opção é ideal se você deseja gerar um site estático único a partir do
     O repositório de destino é configurado no arquivo `config.yml` através do campo `github_repository_url`.
 7.  **Configuração do GitHub Pages:**
     Se você implantar manualmente seus arquivos de origem Jekyll gerados em um branch gh-pages, precisará configurar o GitHub Pages:
-    * **Garanta que o branch `gh-pages` exista:**
+    * **Certifique-se de que o branch `gh-pages` exista:**
     Se não existir, crie-o:
     ```bash
     git checkout --orphan gh-pages
@@ -162,12 +166,12 @@ Esta opção fornece uma maneira totalmente automatizada de manter seu site sinc
 6.  **Configure o `config.yml` do Divisor:**
     * Renomeie `config.yml.sample` para `config.yml`.
     * Edite o arquivo `config.yml` para personalizar seu site.
-    * Crucialmente, certifique-se de que `site_metadata.github_pages_url` esteja definido corretamente para o URL do GitHub Pages do seu repositório forkado. Por exemplo, se o seu repositório forkado for `seu-nome-de-usuario/divisor`, github_pages_url deve ser `https://seu-nome-de-usuario.github.io/divisor/`.
+    * Importante: certifique-se de que `site_metadata.github_pages_url` esteja definido corretamente para o URL do GitHub Pages do seu repositório forkado. Por exemplo, se o seu repositório forkado for `seu-nome-de-usuario/divisor`, github_pages_url deve ser `https://seu-nome-de-usuario.github.io/divisor/`.
     * O baseurl gerado pelo Divisor em `_config.yml` (dentro de `site_contents`) será derivado disso e deve corresponder ao caminho do seu GitHub Pages (por exemplo, `/divisor`).
 7.  **Configuração dos Arquivos de Fluxo de Trabalho:**
     Os arquivos de fluxo de trabalho do GitHub Actions necessários já estão incluídos no diretório `.github/workflows/` deste repositório, mas requerem renomeação conforme descrito na etapa 3.
 8.  **Commit e push:**
-    Faça o commit das suas alterações no `config.yml` (e dos arquivos de fluxo de trabalho renomeados da etapa 3) para o seu repositório forkado. Um evento `push` acionará automaticamente o fluxo de trabalho `generate-website.yml`, que, após a conclusão, acionará o fluxo de trabalho `deploy-website.yml`.
+    Como por padrão o arquivo `config.yml` não é monitorado pelo git, você precisa forçá-lo no commit: `add config.yml -f`. Em seguida faça o commit das suas alterações no `config.yml` (e dos arquivos de fluxo de trabalho renomeados da etapa 3) para o seu repositório. Um evento `push` acionará automaticamente o fluxo de trabalho `generate-website.yml`, que, após a conclusão, acionará o fluxo de trabalho `deploy-website.yml`.
 
 
 ## Detalhes do Fluxo de Trabalho Automatizado
