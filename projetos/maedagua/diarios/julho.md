@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Julho
 description: 
 published: true
-date: 2025-07-21T10:16:57.008Z
+date: 2025-07-29T09:41:58.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-12T11:15:04.725Z
@@ -12,7 +12,11 @@ dateCreated: 2025-07-12T11:15:04.725Z
 
 Atividades realizadas no lab em Julho de 2025
 
-## FF - anotações
+## FF 
+
+### 29.07.2025
+
+Ao longo dos últimos dias, fiz mais um sprint de desenvolvimento do [Divisor](/projetos/divisor), e acho que por enquanto está estável: consigo gerar o site em jekyll, escolher um tema alternativo, e publicar com GitHub pages. Em futuras etapas, ainda quero implementar um script de configuração e dar uma limpada maior no código.
 
 ### 21.07.2025
 
