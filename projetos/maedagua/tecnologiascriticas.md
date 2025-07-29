@@ -2,13 +2,13 @@
 title: Tecnologias Críticas e Instrumentos Científicos Abertos
 description: 
 published: true
-date: 2025-07-29T17:47:27.323Z
+date: 2025-07-29T17:48:50.263Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
 ---
 
-# Tecnologias Críticas e Instrumentos Científicos Abertos
+# Tecnologias Críticas e Instrumentos Científicos Abertos como ferramenta de Ensino das Ciências da Natureza
 autores: [Ricardo Guimarães](http://lattes.cnpq.br/3849375002807332), [Ian Costa](http://lattes.cnpq.br/9701753965733142), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
 
 construção de instrumentos científicos 
