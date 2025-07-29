@@ -2,7 +2,7 @@
 title: Tecnologias Críticas e Instrumentos Científicos Abertos
 description: 
 published: true
-date: 2025-07-29T17:43:33.535Z
+date: 2025-07-29T17:47:27.323Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -13,3 +13,17 @@ autores: [Ricardo Guimarães](http://lattes.cnpq.br/3849375002807332), [Ian Cost
 
 construção de instrumentos científicos 
 experimentais de código aberto para o monitoramento ambiental e sua utilização para gerar e analisar dados ambientais, que possam ser aplicados em atividades de campo, voltadas para a realidade local dos alunos em diferentes contextos.
+
+## Introdução
+
+
+## Materiais e Métodos
+
+
+## Resultados e Discussão
+
+
+## Conclusões 
+
+
+## Referências Bibliográficas
