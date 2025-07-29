@@ -1,8 +1,8 @@
 ---
-title: Tecnologias Críticas e Instrumentos Científicos Abertos
+title: Tecnologias Críticas e Instrumentos Científicos Abertos como ferramenta de Ensino das Ciências da Natureza
 description: 
 published: true
-date: 2025-07-29T17:48:50.263Z
+date: 2025-07-29T17:49:46.480Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
