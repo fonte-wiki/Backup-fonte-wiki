@@ -2,7 +2,7 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-28T11:26:15.633Z
+date: 2025-07-29T21:54:39.922Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
@@ -10,19 +10,17 @@ dateCreated: 2025-07-17T21:53:08.947Z
 
 # Divisor (de águas)
 
-Divisor é uma ferramenta baseada em Python que automatiza a criação de um site em Jekyll a partir de um repositório git. Por padrão, utiliza o [repositório de fonte.wiki](https://github.com/fonte-wiki/Backup-fonte-wiki).
+Divisor é uma ferramenta baseada em Python que automatiza a criação de um site com tecnologia Jekyll a partir de um repositório Git. Por padrão, usa o repositório de Backup da fonte.wiki.
 
-A ideia central é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem ter que configurar manualmente um ambiente Jekyll ou gerenciar o processo de conversão de conteúdo manualmente. O site resultante será implantado no GitHub Pages por padrão.
+A ideia central é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem ter que configurar manualmente um ambiente Jekyll ou gerenciar o processo de conversão de conteúdo. O site resultante será implantado no GitHub Pages por padrão.
 
-Divisor foi criado como parte do projeto [Lab Mãe D'água](/projetos/maedagua).
+Divisor foi criado no âmbito do [Lab Mãe D'Água](https://fonte.wiki/projetos/maedagua).
 
 ## Como funciona
 
-Divisor começa baixando conteúdo do repositório de origem. A ferramenta gerará um site Jekyll com base no arquivo de configuração `config.yml`. O site gerado será colocado na pasta `destination_folder` definida no arquivo de configuração.
+Divisor parte do conteúdo do repositório de origem. Em seguida, a ferramenta gera um site Jekyll com base no arquivo de configuração `config.yml`. O site gerado é salvo na `destination_folder` definida no arquivo de configuração.
 
-Para iniciar a configuração, renomeie o arquivo `config.yml.sample` para `config.yml`. Abra o arquivo para editá-lo.
-
-O arquivo `config.yml` permite que você personalize o site gerado. Você pode definir o título, a descrição, o tema e outras opções do site. Você também pode escolher o mapeamento da home page e uma pasta do repositório com subpáginas para o site gerado.
+O arquivo `config.yml` permite que você personalize o site gerado. Você pode definir o título, a descrição, o tema e outras opções do site. Você também pode mapear arquivos e pastas específicos do seu repositório de origem para o site gerado.
 
 ## Configuração
 
@@ -34,11 +32,9 @@ site_metadata:
   description: "Site criado com fonte.wiki e Divisor"
   theme: "minima"
 
-  github_repository_url: "https://github.com/seu-usuario-git/seu-repositorio.git" # Recomendado: use a URL HTTPS
+  github_repository_url: "https://github.com/seu-usuario-git/seu-repositorio.git" # Recomendado: use o URL HTTPS
 
   github_pages_url: "https://seu-usuario-git.github.io/seu-repositorio/" #edite esta linha
-  about_page_title: "Sobre este site"
-  about_page_body: "Este é um parágrafo de descrição de amostra."
 
 source_repository: "https://github.com/fonte-wiki/Backup-fonte-wiki" #deixe isto para usar o fonte.wiki como o repositório de origem
 
@@ -56,8 +52,6 @@ content_mapping:
 *   `theme`: O tema Jekyll a ser usado. O padrão é "minima". Para uma lista de temas disponíveis, execute `python cli.py themes`.
 *   `github_repository_url`: O endereço do seu repositório.
 *   `github_pages_url`: O URL do seu site do GitHub Pages.
-*   `about_page_title`: O título da página "Sobre".
-*   `about_page_body`: O conteúdo da página "Sobre".
 
 ### `source_repository`
 
@@ -166,12 +160,12 @@ Esta opção fornece uma maneira totalmente automatizada de manter seu site sinc
 6.  **Configure o `config.yml` do Divisor:**
     * Renomeie `config.yml.sample` para `config.yml`.
     * Edite o arquivo `config.yml` para personalizar seu site.
-    * Importante: certifique-se de que `site_metadata.github_pages_url` esteja definido corretamente para o URL do GitHub Pages do seu repositório forkado. Por exemplo, se o seu repositório forkado for `seu-nome-de-usuario/divisor`, github_pages_url deve ser `https://seu-nome-de-usuario.github.io/divisor/`.
+    * Crucialmente, certifique-se de que `site_metadata.github_pages_url` esteja definido corretamente para o URL do GitHub Pages do seu repositório forkado. Por exemplo, se o seu repositório forkado for `seu-nome-de-usuario/divisor`, github_pages_url deve ser `https://seu-nome-de-usuario.github.io/divisor/`.
     * O baseurl gerado pelo Divisor em `_config.yml` (dentro de `site_contents`) será derivado disso e deve corresponder ao caminho do seu GitHub Pages (por exemplo, `/divisor`).
 7.  **Configuração dos Arquivos de Fluxo de Trabalho:**
     Os arquivos de fluxo de trabalho do GitHub Actions necessários já estão incluídos no diretório `.github/workflows/` deste repositório, mas requerem renomeação conforme descrito na etapa 3.
 8.  **Commit e push:**
-    Como por padrão o arquivo `config.yml` não é monitorado pelo git, você precisa forçá-lo no commit: `add config.yml -f`. Em seguida faça o commit das suas alterações no `config.yml` (e dos arquivos de fluxo de trabalho renomeados da etapa 3) para o seu repositório. Um evento `push` acionará automaticamente o fluxo de trabalho `generate-website.yml`, que, após a conclusão, acionará o fluxo de trabalho `deploy-website.yml`.
+    Faça o commit das suas alterações no `config.yml` (e dos arquivos de fluxo de trabalho renomeados da etapa 3) para o seu repositório forkado. Um evento `push` acionará automaticamente o fluxo de trabalho `generate-website.yml`, que, após a conclusão, acionará o fluxo de trabalho `deploy-website.yml`.
 
 
 ## Detalhes do Fluxo de Trabalho Automatizado
@@ -216,6 +210,10 @@ Você pode personalizar a aparência do seu site fornecendo seus próprios templ
 
 Quando você executa o comando `generate`, o Divisor copiará o conteúdo desses diretórios para o site gerado, sobrescrevendo quaisquer arquivos padrão com o mesmo nome. Isso permite que você adicione novos templates ou substitua os padrão fornecidos pelo tema.
 
+### Personalizando o CSS
+
+Para adicionar seu próprio CSS personalizado, você pode criar um arquivo chamado `extended.css` no diretório `divisor/assets`. Este arquivo será carregado após o CSS padrão do tema, permitindo que você substitua quaisquer estilos que desejar. Esta é a maneira recomendada de adicionar estilos personalizados para qualquer tema.
+
 ## Limpando o ambiente
 
 Para remover os diretórios `source_repo` e `site_contents`, você pode usar o comando `clean`:
@@ -223,3 +221,7 @@ Para remover os diretórios `source_repo` e `site_contents`, você pode usar o c
 ```bash
 python cli.py clean
 ```
+
+## `setup.py`
+
+O arquivo `setup.py` é um script Python padrão usado para empacotar e distribuir a ferramenta Divisor. Ele define o nome do pacote, a versão, as dependências e os pontos de entrada. Você não precisa interagir com este arquivo diretamente, a menos que queira modificar o empacotamento da ferramenta.
