@@ -1,8 +1,8 @@
 ---
-title: lalala
+title: Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil
 description: 
 published: true
-date: 2025-07-30T17:40:46.418Z
+date: 2025-07-30T17:42:09.509Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
