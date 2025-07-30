@@ -2,14 +2,14 @@
 title: Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil
 description: 
 published: true
-date: 2025-07-30T17:42:09.509Z
+date: 2025-07-30T18:44:56.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
 ---
 
 # Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil
-autores: [Leonardo Freire de Mello]( http://lattes.cnpq.br/2650858119455746), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
+autores: [Leonardo Freire de Mello]( https://lattes.cnpq.br/2650858119455746), [Maira Begalli](https://lattes.cnpq.br/4559907236737788)
 
 
 ## Introdução
