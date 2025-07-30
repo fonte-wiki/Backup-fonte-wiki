@@ -2,13 +2,13 @@
 title: Cuidado e dissenso
 description: 
 published: true
-date: 2021-12-22T00:30:22.281Z
+date: 2025-07-30T05:54:52.246Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:30:15.668Z
 ---
 
-# Soberania popular como pratica ativista 
+# Soberania popular como prática ativista 
 
 > Cuidado com dissenso: pensando mobilizações político-artísticas no
 Rio de Janeiro a partir de uma ética-prática do cuidado
