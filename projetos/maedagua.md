@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-29T22:14:16.784Z
+date: 2025-07-31T12:21:46.667Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -71,9 +71,12 @@ A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programa
 - [Design Aberto e outras narrativas sobre tecnologias](/projetos/maedagua/designenarrativas)
 - [Tecnologias Críticas e Instrumentos Científicos Abertos como ferramenta de Ensino das Ciências da Natureza](/projetos/maedagua/tecnologiascriticas)
 
-## Trabalhos e publicações
+## Publicações e Produtos
 
 Em breve
+
+-------------------------
+
 
 ## Parceiros
 - [Bonde Verde](https://www.instagram.com/bondeverde)
