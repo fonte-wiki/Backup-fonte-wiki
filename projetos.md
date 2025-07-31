@@ -2,7 +2,7 @@
 title: Projetos
 description: 
 published: true
-date: 2025-07-29T09:39:18.549Z
+date: 2025-07-31T19:42:06.203Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T09:39:18.549Z
@@ -17,3 +17,5 @@ Projetos ligados à fonte.wiki:
 - [semente](/projetos/semente)
 - [ALGO](/listas/algo)
 - [ID21](/projetos/id21)
+
+- [Site Milena](/projetos/milena)
