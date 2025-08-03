@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-07-31T13:17:45.987Z
+date: 2025-08-03T13:11:46.169Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -81,8 +81,10 @@ Em breve
 ## Parceiros
 - [Bonde Verde](https://www.instagram.com/bondeverde)
 - [Global Innovation Gathering](https://globalinnovationgathering.org/)
-- SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
 - Paradoxo/ [Universidade Federal do ABC](https://www.ufabc.edu.br)
+- [Reuse City](https://reuse.city/)
+- SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
+
 
 ## Ficha Técnica
 Em breve
