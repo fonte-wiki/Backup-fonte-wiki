@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: 
 published: true
-date: 2025-07-29T16:42:20.734Z
+date: 2025-08-03T20:25:46.940Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -48,11 +48,6 @@ Outro ponto delicado é a expansão de atividades turísticas desordenadas, como
 
 O turismo tradicional, apesar de ser promovido como possibilidade de fonte de renda para destinos “ecológicos”, tende a transformar culturas vivas em produtos e reforçar relações coloniais entre visitantes e comunidades locais. Um tipo de turismo que comumente mercantiliza a autenticidade de territórios, gerando impactos socioambientais negativos e irreversíveis - uma vez que não promove o protagonismo das populações locais, ou supera a lógica extrativista (BEY, 2014).
 
-**O objetivo central** desse trabalho é criar um glossário da fauna e flora colaborativo, a partir da caracterização do SSE da EEJI, integrando os saberes científicos e os conhecimentos locais, a fim de promover uma compreensão aprofundada das dinâmicas do território - uma vez que estudos com pescadores na região revelaram coincidências entre o saber popular e dados científicos, destacando a importância e a potencialidade de integrar o conhecimento local aos esforços de conservação e manejo sustentável (OLIVEIRA *et al*, 2019). **Como objetivos secundários, espera-se:** 1) Integrar o conhecimento ecológico da população local com informações já relatadas na literatura científica; 2) Documentar as mudanças sazonais no território (variações do clima, e eventos extremos), e nas espécies (comportamento, fisionomia, recorrências) com base na percepção da população local; 3) Identificar e detalhar as principais espécies de fauna e flora, que atuam como bioindicadores e biomarcadoras das mudanças atuais no SSE da EEJI; 4) Estimular um ambiente de colaboração e extensão acadêmica entre docentes, alunos, pesquisadores e população da EEJI; 5) Disponibilizar o conteúdo produzido em formatos abertos e que promovam a extensão científica sobre a biodiversidade da EEJI.
-
-## Materiais e Métodos
-
-A pesquisa foi realizada em dois momentos, sendo o primeiro por meio do levantamento de dados secundários, feito a partir de revisão bibliográfica, entre julho à setembro de 2025, em bases de pesquisas acadêmica como: o Web Scholar, Google Acadêmico, ResearchGate, Scielo usando as palavra-chaves: Estação Ecológica de Juréia Itatins, EEJI, Mata Atlântica, Pescadores da Mata Atlântica. Com esses dados foram sistematizadas as informações de espécies e a caracterização do território (com dados de  clima, localização geográfica, vegetação, populações humanas baseadas no território, número de indivíduos e descendência), que forneceram informações fundamentais para a elaboração do glossário colaborativo.
 
 
 ## Resultados e Discussão
