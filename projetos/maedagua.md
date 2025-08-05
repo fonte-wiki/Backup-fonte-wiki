@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-08-03T13:11:46.169Z
+date: 2025-08-05T13:38:06.547Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -56,7 +56,7 @@ A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programa
 
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
 - [Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento](/projetos/maedagua/direitoszonascosteiras)
-- [Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins](/projetos/maedagua/eeji)
+- [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial)
 - [A Importância da Criação e Manutenção de Repositórios Abertos como Ambientes de Experimentação](/projetos/maedagua/repositoriosabertos)
 - ZASF + Sensores (2026)
 - Minidocumentário (2027)
