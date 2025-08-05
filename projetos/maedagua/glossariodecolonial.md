@@ -2,7 +2,7 @@
 title: Glossário Decolonial Colaborativo
 description: 
 published: true
-date: 2025-08-05T13:35:45.898Z
+date: 2025-08-05T13:36:55.509Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
