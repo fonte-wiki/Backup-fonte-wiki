@@ -2,17 +2,14 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-08-08T17:25:01.238Z
+date: 2025-08-08T17:28:35.764Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
 ---
 
-# Lab Mãe D'água
+![prancheta_4.png](/projetos/maedagua/prancheta_4.png)
 
-![maedagua.png](/projetos/maedagua/maedagua.png)
-
-*Teste do primeiro protótipo [Mãe d'Água em 2012](https://www.flickr.com/photos/maedagua/), no Caruara, Santos, Brasil.*
 
 
 ## Sobre
@@ -21,7 +18,11 @@ dateCreated: 2025-06-28T16:10:28.630Z
 
 Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf), voltada para experimentação em tecnologias críticas, nas bases da [MetaReciclagem](https://metareciclagem.github.io/). Um módulo de monitoramento de qualidade de água que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf).
 
-Naquela época, as atividades desenvolvidas geraram duas publicações:
+
+![maedagua.png](/projetos/maedagua/maedagua.png)
+*Teste do primeiro protótipo [Mãe d'Água em 2012](https://www.flickr.com/photos/maedagua/), no Caruara, Santos, Brasil.*
+
+**Naquela época, as atividades desenvolvidas geraram duas publicações:**
 
 **Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. [Tropixel: arte, ciência, tecnologia e sociedade](http://dx.doi.org/10.13140/RG.2.1.3633.8644). 1ed. Salvador: EDUFBA, 2015, p. 165-188.
 
