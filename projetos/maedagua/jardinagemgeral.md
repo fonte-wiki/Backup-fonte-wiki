@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2025-08-03T13:35:18.359Z
+date: 2025-08-08T17:29:31.286Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -15,7 +15,6 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 # DESIGN
-- **Em Lab Mãe d'Água home:** trocar as imagens atuais pelos assets de design, quando chegarem
 - **Em Lab Mãe d'Água Design:** subir o pack de Id, o esquema de badges
 - **Em Lab Mãe d'Água site:** adaptar paleta de cores, deletar botão de saiba mais
 
