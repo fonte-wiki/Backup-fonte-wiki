@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-08-05T17:01:30.596Z
+date: 2025-08-08T17:25:01.238Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -45,7 +45,7 @@ Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é
 
 Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/)
 
-![imag1.png](/projetos/maedagua/imag1.png)
+![prancheta_4_cópia_2.png](/projetos/maedagua/prancheta_4_cópia_2.png)
 
 
 ### CAPES SESU PROEXT-PG 03/2024 
@@ -61,7 +61,7 @@ A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programa
 - ZASF + Sensores (2026)
 - Minidocumentário (2027)
 
-![img2.png](/projetos/maedagua/img2.png)
+![prancheta_4_cópia.png](/projetos/maedagua/prancheta_4_cópia.png)
 
 ### FAPESP Praticar Ciência 2025/03919-2 
 
