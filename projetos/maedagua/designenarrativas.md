@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: 
 published: true
-date: 2025-08-09T17:29:42.594Z
+date: 2025-08-09T17:30:00.140Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
@@ -31,7 +31,7 @@ Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](ht
 - Estabelecer uma linguagem replicável para: 1.vídeos curtos-tutorais; 2.vídeos no formato podcast/conversa; 3.vídeos com apelo imagético/documental, como forma de reforçar e tornar a linguagem mais assertiva e reconhecível;
 - Submeter a proposta da criação a eventos e prêmios da categoria, disseminando o conceito da proposta e sublinhando a importância de iniciativas correlatas.
 
-## Identidade Visual
+## Sistema de Identidade Visual
 Disponibilizamos o [nosso board para remixes aqui](https://miro.com/app/board/uXjVIOQ2yps=/?share_link_id=472618172290). 
 Cite, gentilmente essa fonte <3
 
