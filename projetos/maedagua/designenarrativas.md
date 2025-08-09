@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: 
 published: true
-date: 2025-08-09T17:28:48.238Z
+date: 2025-08-09T17:29:42.594Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
@@ -35,7 +35,7 @@ Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](ht
 Disponibilizamos o [nosso board para remixes aqui](https://miro.com/app/board/uXjVIOQ2yps=/?share_link_id=472618172290). 
 Cite, gentilmente essa fonte <3
 
-Lembre-se que tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+Lembre-se: **Mãe d'Água** é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
 
 
