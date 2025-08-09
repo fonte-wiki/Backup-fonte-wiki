@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: 
 published: true
-date: 2025-08-08T17:31:50.682Z
+date: 2025-08-09T17:28:00.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
@@ -32,7 +32,10 @@ Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](ht
 - Submeter a proposta da criação a eventos e prêmios da categoria, disseminando o conceito da proposta e sublinhando a importância de iniciativas correlatas.
 
 ## Identidade Visual
-Em Breve
+Disponibilizamos o [nosso board aqui] (https://miro.com/app/board/uXjVIOQ2yps=/?share_link_id=472618172290). Vocẽ pode baixar, usar, reapropriar.
+Cite, gentilmente essa fonte <3
+
+Lembre-se que tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 
 
