@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: 
 published: true
-date: 2025-08-09T17:31:19.009Z
+date: 2025-08-09T17:32:50.226Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -49,7 +49,7 @@ Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas comp
 
 ###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras
 
-A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) está vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, e tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, vamos trabalhar com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
+A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, vamos trabalhar com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
 
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
 - [Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento](/projetos/maedagua/direitoszonascosteiras)
