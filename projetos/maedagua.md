@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-10T13:15:07.174Z
+date: 2025-08-10T20:18:25.088Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -47,15 +47,16 @@ Atualmente o **Mãe d' Água** se desdobra em duas frentes de pesquisas compleme
 
 A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. 
 
-Trabalhamos na elaboraçao de bases referenciais:
+Trabalhamos na elaboração de bases referenciais, para gerar [artigos](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Artigo) colaborativos com informações enciclopédicas, sobre:
 
 - [Antropoceno e Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
 - [Direito das Zonas Costeiras](/projetos/maedagua/direitoszonascosteiras)
 - [Repositórios Abertos](/projetos/maedagua/repositoriosabertos)
 
-Para gerarmos produtos extensionistas:
+A partir deles geramos um conjunto de produtos extensionistas, chamado de Ipupiara - uma criatura mítica encontrada na época do Brasil Colônia em São Vicente, São Paulo. No Tupi antigo, Ipupiara significa "o que mora dentro d'água".
 
-- [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial)
+
+- [Glossário Decolonial Colaborativo(/projetos/maedagua/glossariodecolonial)
 - ZASF (previsto para 2026)
 - Minidocumentário (previsto para 2027)
 
