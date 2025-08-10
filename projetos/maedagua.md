@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-10T12:54:48.228Z
+date: 2025-08-10T13:00:31.672Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -58,6 +58,8 @@ Para gerarmos produtos extensionistas:
 - [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial)
 
 - ZASF (previsto para 2026)
+
+- Minidocumentário (previsto para 2027)
 
 ![prancheta_4_cópia.png](/projetos/maedagua/prancheta_4_cópia.png)
 
