@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-10T12:33:24.401Z
+date: 2025-08-10T12:49:22.684Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -45,12 +45,16 @@ Atualmente o **Mãe d' Água** se desdobra em duas frentes de pesquisas compleme
 
 ###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras
 
-A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, trabalhamos com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
+A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, trabalhamos com o desenvolvimento de conceitos-chave, ainda em elaboração nesse mundo em transformação:
 
-- [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
-- [Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento](/projetos/maedagua/direitoszonascosteiras)
+- [Antropoceno e Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
+- [Direito das Zonas Costeiras](/projetos/maedagua/direitoszonascosteiras)
+- [Repositórios Abertos](/projetos/maedagua/repositoriosabertos)
+
+Para gerar dois produtos, numa rede de difusão e colaboração:
+
 - [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial)
-- [A Importância da Criação e Manutenção de Repositórios Abertos como Ambientes de Experimentação](/projetos/maedagua/repositoriosabertos)
+
 - ZASF (previsto para 2026)
 
 ![prancheta_4_cópia.png](/projetos/maedagua/prancheta_4_cópia.png)
