@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-10T20:19:40.375Z
+date: 2025-08-10T20:20:09.501Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -43,7 +43,7 @@ Atualmente o **Mãe d' Água** se desdobra em duas frentes de pesquisas compleme
 
 ### CAPES SESU PROEXT-PG 03/2024 
 
-###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras
+###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações costeiras
 
 A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. 
 
