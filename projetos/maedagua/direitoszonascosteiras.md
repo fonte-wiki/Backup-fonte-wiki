@@ -1,15 +1,12 @@
 ---
-title: Zonas Costeiras - Direito dos Ecossistemas e Conceito de Desenvolvimento
-description: 
+title: Direito das Zonas Costeiras
+description: por: Tiago Andrade, Maira Begalli
 published: true
-date: 2025-07-28T18:35:43.357Z
+date: 2025-08-10T12:58:11.807Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
 ---
-
-# Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento
-autores: [Tiago Andrade](http://lattes.cnpq.br/8753419609363897), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
 
 
 ## Introdução
