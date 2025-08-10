@@ -1,16 +1,13 @@
 ---
-title: Design Aberto e outras narrativas sobre tecnologias
+title: Design Aberto e outras Narrativas sobre Tecnologias
 description: 
 published: true
-date: 2025-08-09T18:34:06.526Z
+date: 2025-08-10T12:38:06.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
 ---
 
-
-
-###### por: [Carolina Saravalli](https://www.linkedin.com/in/carolinasaravalli/), [Kevelyn Oliveira](https://www.linkedin.com/in/kelveira/), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
 
 ## Introdução
 
