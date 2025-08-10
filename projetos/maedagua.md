@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-10T12:20:17.890Z
+date: 2025-08-10T12:27:51.240Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -62,8 +62,8 @@ A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programa
 ###### BioEduca: desenvolvimento de materiais pedagógicos e estratégias de ensino aprendizagem para a Biologia
 
 [Nesta proposta](https://fapesp.br/17237/edital-praticar-ciencia), **Lab Mãe d´Água** tem como objetivo promover o ensino de Ciências da Natureza no Ensino Médio por meio de atividades e trabalhos que visam o aprendizado baseado em pesquisa experimental, envolvendo a pesquisa e o desenvolvimento de:
-- [Design Aberto e outras narrativas sobre tecnologias](/projetos/maedagua/designenarrativas)
-- [Tecnologias Críticas e Instrumentos Científicos Abertos como ferramenta de Ensino das Ciências da Natureza](/projetos/maedagua/tecnologiascriticas)
+- [Design Aberto e outras narrativas sobre Tecnologias](/projetos/maedagua/designenarrativas)
+- [Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza](/projetos/maedagua/instrumentoscientificosabertos)
 
 ## Publicações e Produtos
 
