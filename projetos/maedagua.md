@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-12T08:06:50.011Z
+date: 2025-08-12T08:08:43.170Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -27,7 +27,7 @@ Em 2025, a [proposta ressurge](https://is.efeefe.me/stuff/ritualised-repetitions
 Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ## Objetivos
-Nosso objetivo é o [“rewild”](https://www.noemamag.com/we-need-to-rewild-the-internet/), ou seja, tornar as experimentações em tecnologia selvagens novamente - ou simplesmente ["vivas](https://networkcultures.org/wp-content/uploads/2025/05/the-internet-of-dead-things-UPDATED.pdf) novamente". Buscamos unir duas grandes áreas vistas como antagônicas, mas que podem e devem se integrar: a área ambiental e os sistemas de informação tecnológicos. Desenolver, e implementar soluções colaborativas baseadas em padrões abertos, criando espaços comunitários capazes de dialogar com a produção científica para alcançar inovações que sejam desenvolvidas coletivamente para resolver problemas reais da sociedade, não apenas gerando um hype que consome recursos-gera lixo e não possui significado algum.
+Nosso objetivo é o "[rewilding](https://www.noemamag.com/we-need-to-rewild-the-internet/)", ou seja, tornar as experimentações em tecnologia selvagens novamente - ou simplesmente "[vivas](https://networkcultures.org/wp-content/uploads/2025/05/the-internet-of-dead-things-UPDATED.pdf) novamente". Buscamos unir duas grandes áreas vistas como antagônicas, mas que podem e devem se integrar: a área ambiental e os sistemas de informação tecnológicos. Desenolver, e implementar soluções colaborativas baseadas em padrões abertos, criando espaços comunitários capazes de dialogar com a produção científica para alcançar inovações que sejam desenvolvidas coletivamente para resolver problemas reais da sociedade, não apenas gerando um hype que consome recursos-gera lixo e não possui significado algum.
 
 Ao longo dos anos, muitas iniciativas não apenas se inspiraram em **Mãe d' Água**, mas também sequestraram a narrativa para projetos comerciais e de interesses específicos, criando [*doppelgangers*](https://www.theguardian.com/books/2023/sep/09/doppelganger-a-trip-into-the-mirror-world-by-naomi-klein-review-a-case-of-mistaken-identity): um duplo esvaziado que se apropria do projeto mas não é o projeto, e muito menos pode ser reconhecido como um remix ou uma validação de algo de uso aberto.
 
