@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2025-08-10T12:36:10.349Z
+date: 2025-08-13T00:50:51.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -24,8 +24,6 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 - **Em Mãe d'Água home:** ficha técnica, no final de 2025
 - **Em Mãe d'Água home:** produtos e publis
 - **Em Mãe d'Água home:** linkar reaserch gate do projeto? zotero (unificar refs)
-- **Em Mãe d'Água referencias:** subir tudo o que resgatamos (Guima)
-
 
 ## Design
 - Site do LabEcoHumana
