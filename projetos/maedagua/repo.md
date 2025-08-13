@@ -2,7 +2,7 @@
 title: Repositório
 description: 
 published: true
-date: 2025-08-12T19:51:36.316Z
+date: 2025-08-13T17:41:18.723Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-29T22:29:03.453Z
@@ -20,7 +20,7 @@ dateCreated: 2025-06-29T22:29:03.453Z
 - HiperGuardiões
 Unidade de monitoramento de qualidade da água, ar, e observação de biodiversidade, utilizando hardware livre/de baixo custo
 
-- TBox 
+- [TBox](/projetos/maedagua/repo/tbox)
 Incubadora para cultura de bactérias com temperatura controlada
 
 
