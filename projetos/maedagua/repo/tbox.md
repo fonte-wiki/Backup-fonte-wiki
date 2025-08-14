@@ -2,7 +2,7 @@
 title: TBox
 description: Caixa térmica de incubação microcontrolada
 published: true
-date: 2025-08-14T18:18:28.292Z
+date: 2025-08-14T18:44:37.706Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-13T17:42:04.656Z
@@ -34,6 +34,43 @@ O objetivo da Therminator Box (TBox) é manter uma incubadora para cultura de ba
 ## Como fazer
 
 Marque o tamanho do relevo do dissipador escolhido, para que apenas essa área fique em contato com a parte interna da incubadora. Faça um corte na caixa plástica:
+![tbox6.png](/projetos/maedagua/tbox6.png)
+
+Acople o dissipador, se necessário pode ser colada a parte de baixo na caixa plástica com silicone de alta temperatura:
+![tbox7.png](/projetos/maedagua/tbox7.png)
+
+Passe pasta térmica no dissipador e na pastilha peltier. Coloque o lado que resfria da pastilha com o dissipador externo da caixa:
+![tbox71.png](/projetos/maedagua/tbox71.png)
+Adicione um dissipador menor que fará o papel de aquecer o ar interno da incubadora:
+![tbox81.png](/projetos/maedagua/tbox81.png)
+![tbox9.png](/projetos/maedagua/tbox9.png)
+Coloque o sensor de temperatura próximo de onde ficará a amostra incubada:
+![tbox10.png](/projetos/maedagua/tbox10.png)
+
+A amostra não deve ficar sobre o dissipador interno pois o mesmo ficará com temperatura superior enquanto mantém o ar a caixa em temperatura controlada.
+
+Conecte um [Transistor NPN Darlington TIP122 na protoboard](https://cdn-shop.adafruit.com/datasheets/TIP120.pdf):
+![tbox11.png](/projetos/maedagua/tbox11.png)
+
+Conecte o fio negativo (preto) da pastilha peltier no pino 2 do transistor TIP122 e o fio positivo (vermelho) da pastilha conecte na saída Vin do arduino
+![tbox12.png](/projetos/maedagua/tbox12.png)
+
+Conecte o sensor de temperatura na entrada A0 do Arduino (Neste exemplo o Arduino está com um shield de conexão (Groove Seeedstudio)
+![tbox13.png](/projetos/maedagua/tbox13.png)
+
+Conecte um potenciômetro (sensor angular resistivo) na entrada A1 do Arduino
+![tbox14.png](/projetos/maedagua/tbox14.png)
+
+Conecte o pino 3 do transistor TIP122 no GND do Arduino
+
+
+Faça um dissipador de calor para o transistor TIP122. Passe pasta térmica na carcaça de junção dos metais
+
+Conecte o pino 1 do transistor TIP122 na saída digital 3 ~ PWM do Arduino
+
+Tampe a caixa e adicione o Display LCD
+
+Conecte a fonte 12V 5A no Arduino e ajuste no potênciometro a temperatura na qual o dissipador deverá chegar e manter o ar da caixa aquecido
 
 > Esta estufa ainda não é capaz de trabalhar com temperaturas maiores que 60⁰C por muito tempo por conta de uma limitação no tip122.
 > 
