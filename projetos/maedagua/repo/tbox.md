@@ -2,7 +2,7 @@
 title: TBox
 description: Caixa térmica de incubação microcontrolada
 published: true
-date: 2025-08-14T19:36:27.211Z
+date: 2025-08-14T19:36:41.283Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-13T17:42:04.656Z
@@ -18,7 +18,7 @@ O objetivo da Therminator Box **(TBox)** é manter uma incubadora para cultura d
 - 1 [Mini BreadBoard](https://www.sparkfun.com/breadboard-mini-modular-white.html);
 - 1 [Transistor NPN TIP122](https://cdn-shop.adafruit.com/datasheets/TIP120.pdf) 
 - 1 Fonte 12Volts 5A (no mínimo);
-- Fios para eletrônica ;
+- Fios para eletrônica;
 - 1 [Pastilha peltier 12V ~ 40W](http://peltiermodules.com/peltier.datasheet/TEC1-12705.pdf);
 ![tbox1.png](/projetos/maedagua/tbox1.png)
 - 1 Dissipador com relevo do tamanho da pastilha:
