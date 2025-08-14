@@ -2,7 +2,7 @@
 title: TBox
 description: Caixa térmica de incubação microcontrolada
 published: true
-date: 2025-08-14T18:16:23.823Z
+date: 2025-08-14T18:18:28.292Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-13T17:42:04.656Z
@@ -35,8 +35,15 @@ O objetivo da Therminator Box (TBox) é manter uma incubadora para cultura de ba
 
 Marque o tamanho do relevo do dissipador escolhido, para que apenas essa área fique em contato com a parte interna da incubadora. Faça um corte na caixa plástica:
 
+> Esta estufa ainda não é capaz de trabalhar com temperaturas maiores que 60⁰C por muito tempo por conta de uma limitação no tip122.
+> 
+> Pensando em acessibilidade e facilidade de replicação, uma versão simples (SV) foi desenvolvida:
+{.is-info}
 
 
+## Therminator Box SV (Small Version)
+
+![tboxsmall.png](/projetos/maedagua/tboxsmall.png)
 
 [firmware](https://github.com/guimasan/therminator-box/blob/master/therminatorBoxSV.ino): 
 
