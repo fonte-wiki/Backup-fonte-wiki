@@ -2,7 +2,7 @@
 title: Repositório
 description: 
 published: true
-date: 2025-08-14T19:40:10.636Z
+date: 2025-08-14T19:41:43.393Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-29T22:29:03.453Z
@@ -15,18 +15,13 @@ dateCreated: 2025-06-29T22:29:03.453Z
 - [Rede FirmWare](https://github.com/guimasan/maedagua-chicomendes/tree/main/rede-firmware-master)
 - Release [Chico Mendes](/projetos/maedagua/repo/chicomendes)
 
-## Clipping
-
-[Guima San - o hacker do monitoramento ambiental](https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/)
-
-
 ## Rollouts
-- HiperGuardiões
+- [HiperGuardiões](/projetos/maedagua/repo/hiperguardioes)
 Unidade de monitoramento de qualidade da água, ar, e observação de biodiversidade, utilizando hardware livre/de baixo custo
 
 - [TBox](/projetos/maedagua/repo/tbox)
 Incubadora para cultura de bactérias com temperatura controlada
 
+## Clipping
 
-
-https://web.archive.org/web/20201125015919/https://publiclab.org/notes/neblinalab/11-26-2015/hiperguardioes
+[Guima San - o hacker do monitoramento ambiental](https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/)
