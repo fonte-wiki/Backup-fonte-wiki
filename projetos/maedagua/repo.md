@@ -2,7 +2,7 @@
 title: Repositório
 description: 
 published: true
-date: 2025-08-14T19:11:22.291Z
+date: 2025-08-14T19:40:10.636Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-29T22:29:03.453Z
@@ -11,8 +11,8 @@ dateCreated: 2025-06-29T22:29:03.453Z
 
 ## Mãe d'Água InfoAmazônia
 - [Sobre InfoAmazônia](https://infoamazonia.org/project/rede-infoamazonia/)
-- [Rede HardWare](https://github.com/InfoAmazonia/rede-hardware)
-- [Rede FirmWare](https://github.com/InfoAmazonia/rede-firmware/)
+- [Rede HardWare](https://github.com/guimasan/maedagua-chicomendes/tree/main/rede-hardware-master)
+- [Rede FirmWare](https://github.com/guimasan/maedagua-chicomendes/tree/main/rede-firmware-master)
 - Release [Chico Mendes](/projetos/maedagua/repo/chicomendes)
 
 ## Clipping
