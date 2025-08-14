@@ -2,7 +2,7 @@
 title: TBox
 description: Caixa térmica de incubação microcontrolada
 published: true
-date: 2025-08-14T18:51:03.505Z
+date: 2025-08-14T19:36:27.211Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-13T17:42:04.656Z
@@ -10,7 +10,7 @@ dateCreated: 2025-08-13T17:42:04.656Z
 
 ## Introdução
 
-O objetivo da Therminator Box (TBox) é manter uma incubadora para cultura de bactérias com temperatura controlada. Quando ligada, a caixa porcura se regular automaticamente com a temperatura selecionada pelo botão angular (potenciômetro) desde que a temperatura desejada seja maior que a do ambiente. Caso deseje resfriar o ar da incubadora o lado da pastilha peltier deverá ser invertido ao desta montagem.
+O objetivo da Therminator Box **(TBox)** é manter uma incubadora para cultura de bactérias com temperatura controlada. Quando ligada, a caixa porcura se regular automaticamente com a temperatura selecionada pelo botão angular (potenciômetro) desde que a temperatura desejada seja maior que a do ambiente. Caso deseje resfriar o ar da incubadora o lado da pastilha peltier deverá ser invertido ao desta montagem.
 
 ## Materiais
 
@@ -96,11 +96,9 @@ Proceda a montagem como no tutorial acima, substituindo o termistor sensor de te
 
 Substitua o LCD Display pelo LED RGB Anôdo comum. O TherminatorBox SV ligará:
 
-LED Azul quando a temperatura estiver abaixo do desejado;
-
-LED Verde quando a temperatura estiver equilibrada com o desejado;
-
-LED Vermelho quando a temperatura estiver acima do dejesado;
+- LED Azul quando a temperatura estiver abaixo do desejado;
+- LED Verde quando a temperatura estiver equilibrada com o desejado;
+- LED Vermelho quando a temperatura estiver acima do dejesado.
 
 Pode ser comum o LED Vermelho ligar quando a estufa estiver se equilibrando com a temperatura, por causa do delay entre o aquecimento do ar e o da pastilha.
 
