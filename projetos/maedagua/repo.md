@@ -2,7 +2,7 @@
 title: Repositório
 description: 
 published: true
-date: 2025-08-14T19:01:12.091Z
+date: 2025-08-14T19:10:39.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-29T22:29:03.453Z
@@ -16,6 +16,8 @@ dateCreated: 2025-06-29T22:29:03.453Z
 - Release Chico Mendes
 
 ## Clipping
+
+[Guima San - o hacker do monitoramento ambiental](https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/)
 
 
 ## Rollouts
