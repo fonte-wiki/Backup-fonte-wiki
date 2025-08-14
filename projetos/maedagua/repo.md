@@ -2,7 +2,7 @@
 title: Repositório
 description: 
 published: true
-date: 2025-08-14T19:41:43.393Z
+date: 2025-08-14T20:00:09.771Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-29T22:29:03.453Z
@@ -16,11 +16,9 @@ dateCreated: 2025-06-29T22:29:03.453Z
 - Release [Chico Mendes](/projetos/maedagua/repo/chicomendes)
 
 ## Rollouts
-- [HiperGuardiões](/projetos/maedagua/repo/hiperguardioes)
-Unidade de monitoramento de qualidade da água, ar, e observação de biodiversidade, utilizando hardware livre/de baixo custo
+- [HiperGuardiões](/projetos/maedagua/repo/hiperguardioes): Unidade de monitoramento de qualidade da água, ar, e observação de biodiversidade, utilizando hardware livre/de baixo custo
 
-- [TBox](/projetos/maedagua/repo/tbox)
-Incubadora para cultura de bactérias com temperatura controlada
+- [TBox](/projetos/maedagua/repo/tbox): Incubadora para cultura de bactérias com temperatura controlada
 
 ## Clipping
 
