@@ -2,7 +2,7 @@
 title: Repositório
 description: 
 published: true
-date: 2025-08-14T19:10:39.637Z
+date: 2025-08-14T19:11:22.291Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-29T22:29:03.453Z
@@ -13,7 +13,7 @@ dateCreated: 2025-06-29T22:29:03.453Z
 - [Sobre InfoAmazônia](https://infoamazonia.org/project/rede-infoamazonia/)
 - [Rede HardWare](https://github.com/InfoAmazonia/rede-hardware)
 - [Rede FirmWare](https://github.com/InfoAmazonia/rede-firmware/)
-- Release Chico Mendes
+- Release [Chico Mendes](/projetos/maedagua/repo/chicomendes)
 
 ## Clipping
 
