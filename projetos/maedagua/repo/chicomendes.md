@@ -2,13 +2,11 @@
 title: Mãe d'Água Release Chico Mendes
 description: 
 published: true
-date: 2025-08-14T19:32:51.620Z
+date: 2025-08-14T19:33:14.939Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-14T19:14:02.592Z
 ---
-
-## Mãe d'Água - Chico Mendes V1.1.0 - 2014 
 
 ![chico01.png](/projetos/maedagua/chico01.png)
 O objetivo do projeto é detectar possíveis contaminantes como esgoto ou toxinas industriais e metais pesados na água. O sistema será capaz de ajudar a inferir, com precisão, variáveis físico-químicas que ajudam a distinguir uma água potável da água contaminada.
