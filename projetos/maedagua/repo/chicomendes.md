@@ -2,7 +2,7 @@
 title: Mãe d'Água Release Chico Mendes
 description: 
 published: true
-date: 2025-08-14T19:33:14.939Z
+date: 2025-08-14T19:37:58.979Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-14T19:14:02.592Z
@@ -25,14 +25,16 @@ The device has measuring features of acidity of the water by hydrogenic potentia
 
 O hardware foi projetado em plataforma (Eagle) e licenças abertas, de forma modular:
 
-Módulo 1 (M1): composto por um Arduino Mega, responsável por todo o processamento das informações capturadas pelos sensores e pela alimentação de energia do conjunto (conectado a uma fonte externa).
-Módulo 2 (M2): um shield para Arduino que possui o sensor de pressão barométrica e conectores para acoplamento dos sensores de pH, ORP, condutividade e temperatura da água. Desta forma modular, é possível selecionar os sensores a serem utilizados visando o custo benefício da aplicação específica desejada.
+- Módulo 1 (M1): composto por um Arduino Mega, responsável por todo o processamento das informações capturadas pelos sensores e pela alimentação de energia do conjunto (conectado a uma fonte externa).
+- Módulo 2 (M2): um shield para Arduino que possui o sensor de pressão barométrica e conectores para acoplamento dos sensores de pH, ORP, condutividade e temperatura da água. Desta forma modular, é possível selecionar os sensores a serem utilizados visando o custo benefício da aplicação específica desejada.
 Módulo 3 (M3): responsável pela comunicação celular (2G), capaz de transmitir os dados por SMS para um servidor de Internet da Rede InfoAmazonia. Como estratégia auxiliar de acesso aos dados, o M2 também possui espaço para cartão de memória SD.
+
 The hardware is designed to platform (Eagle) and open licenses, in a modular way:
 
-Module 1 (M1): composed of an Arduino Mega, responsible for all processing of information captured by the sensors and the entire power supply (connected to an external source).
-Module 2 (M2): A shield for Arduino that has the barometric pressure sensor and connector for coupling the sensors pH, ORP, conductivity and water temperature. This modular, it can select the sensor to be used aiming at the cost benefit of specific desired application.
-Module 3 (M3): responsible for cellular communication (2G), capable of transmitting data by SMS to an Internet server InfoAmazonia Network. As auxiliary data access strategy, the M2 also features SD memory card space.
+- Module 1 (M1): composed of an Arduino Mega, responsible for all processing of information captured by the sensors and the entire power supply (connected to an external source).
+- Module 2 (M2): A shield for Arduino that has the barometric pressure sensor and connector for coupling the sensors pH, ORP, conductivity and water temperature. This modular, it can select the sensor to be used aiming at the cost benefit of specific desired application.
+- Module 3 (M3): responsible for cellular communication (2G), capable of transmitting data by SMS to an Internet server InfoAmazonia Network. As auxiliary data access strategy, the M2 also features SD memory card space.
+
 O hardware completo será capaz de captar uma leitura de cada um dos sensores por hora, e enviá-las a um servidor remoto, que disponibilizará as leituras efetuadas em uma base de dados aberta. Em seguida, um software enviará mensagens de alerta sobre a qualidade da água por SMS para celulares de pessoas interessadas em ser informados sobre a qualidade da água em sua comunidade.
 
 The complete hardware is able to capture a reading of each of the sensors per hour, and send them to a remote server, which will provide readings taken in an open database. Then software will send warning messages about the quality of water by SMS to mobile phones of people interested in being informed about the water quality in their community.
