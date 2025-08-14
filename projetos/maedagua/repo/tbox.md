@@ -2,7 +2,7 @@
 title: TBox
 description: Caixa térmica de incubação microcontrolada
 published: true
-date: 2025-08-14T18:44:37.706Z
+date: 2025-08-14T18:51:03.505Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-13T17:42:04.656Z
@@ -62,15 +62,21 @@ Conecte um potenciômetro (sensor angular resistivo) na entrada A1 do Arduino
 ![tbox14.png](/projetos/maedagua/tbox14.png)
 
 Conecte o pino 3 do transistor TIP122 no GND do Arduino
-
+![tbox15.png](/projetos/maedagua/tbox15.png)
 
 Faça um dissipador de calor para o transistor TIP122. Passe pasta térmica na carcaça de junção dos metais
+![tbox16.png](/projetos/maedagua/tbox16.png)
 
 Conecte o pino 1 do transistor TIP122 na saída digital 3 ~ PWM do Arduino
+![tbox17.png](/projetos/maedagua/tbox17.png)
+![tbox18.png](/projetos/maedagua/tbox18.png)
 
 Tampe a caixa e adicione o Display LCD
+![tbox19.png](/projetos/maedagua/tbox19.png)
+![tbox20.png](/projetos/maedagua/tbox20.png)
 
 Conecte a fonte 12V 5A no Arduino e ajuste no potênciometro a temperatura na qual o dissipador deverá chegar e manter o ar da caixa aquecido
+![tbox21.png](/projetos/maedagua/tbox21.png)
 
 > Esta estufa ainda não é capaz de trabalhar com temperaturas maiores que 60⁰C por muito tempo por conta de uma limitação no tip122.
 > 
@@ -82,7 +88,7 @@ Conecte a fonte 12V 5A no Arduino e ajuste no potênciometro a temperatura na qu
 
 ![tboxsmall.png](/projetos/maedagua/tboxsmall.png)
 
-[firmware](https://github.com/guimasan/therminator-box/blob/master/therminatorBoxSV.ino): 
+[Firmware](https://github.com/guimasan/therminator-box/blob/master/therminatorBoxSV.ino): 
 
 Edite no código a temperatura (em graus Celsius) desejada, ex.: [ ] define TEMP 37 (37 é a temperatura desejada);
 
