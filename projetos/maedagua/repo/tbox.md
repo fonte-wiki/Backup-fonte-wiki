@@ -2,7 +2,7 @@
 title: TBox
 description: Caixa térmica de incubação microcontrolada
 published: true
-date: 2025-08-13T17:46:52.430Z
+date: 2025-08-14T18:01:23.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-13T17:42:04.656Z
@@ -14,14 +14,9 @@ O objetivo da Therminator Box (TBox) é manter uma incubadora para cultura de ba
 
 ## Materiais e Como Fazer
 
-- 1 Arduino UNO https://www.arduino.cc/en/Main/ArduinoBoardUno atualizado com firmware therminator-box: https://github.com/guimasan/therminator-box ;
-
-- 1 Mini BreadBoard https://www.sparkfun.com/products/12043 ;
-
-- 1 Transistor NPN TIP122 - https://cdn-shop.adafruit.com/datasheets/TIP120.pdf
-
+- [1 Arduino UNO](https://www.arduino.cc/en/Main/ArduinoBoardUno) atualizado com firmware [therminator-box](https://github.com/guimasan/T-box);
+- 1 [Mini BreadBoard](https://www.sparkfun.com/breadboard-mini-modular-white.html);
+- 1 [Transistor NPN TIP122](https://cdn-shop.adafruit.com/datasheets/TIP120.pdf) 
 - 1 Fonte 12Volts 5A (no mínimo);
-
 - Fios para eletrônica ;
-
-- 1 Pastilha peltier 12V ~ 40W http://peltiermodules.com/peltier.datasheet/TEC1-12705.pdf ;
+- 1 [Pastilha peltier 12V ~ 40W](http://peltiermodules.com/peltier.datasheet/TEC1-12705.pdf)  ;
