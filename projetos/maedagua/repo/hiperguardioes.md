@@ -2,7 +2,7 @@
 title: HiperGuardiões  - 2015
 description: 
 published: true
-date: 2025-08-18T19:14:10.012Z
+date: 2025-08-18T19:14:32.072Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-14T19:52:27.118Z
@@ -79,4 +79,4 @@ Materiais que Utiliza: cola, madeira compensada
 
 
 ----------------------------
-> **IMPORTANTE:** Hiperguardiões encontra-se na licença Creative Commons CC BY SA 4.0. Se vc é um caiçara, pescadorx, quilombola, índix, roçeirx - ou faz parte de outra comunidade ou população que necessita de monitoramente - entre em contato conosco que podemos ajudar a desenvolver um hiperguardião pra você. MAS, se você acha que isso tudo é hype e pode ser utilizado como "inovação" "tendência" "emergência" para você ganhar editais, cooptar trabalho alheio, fortalecer sua "rede das redas" ou sei lá o que: Tome cuidado! Os piratas invocados por Hakim Bey guardam esse projeto e podem puxar seu pé no meio da noite.
+
