@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-18T19:48:23.637Z
+date: 2025-08-18T20:03:05.841Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -23,9 +23,19 @@ A proposta é baseada em [design e recursos educacionais abertos](https://reposi
 
 ## Produtos
 
-- Esse processo foi batizado de Nascente - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas. o desenvolvimento de material didático
+### Nascente
 
-- a prototipação de um sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano. E o sensor que foi chamado de Iara, avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
+| ----------- | ----------- |
+|![design.png](/projetos/maedagua/design.png) | Esse processo foi batizado de Nascente - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas. o desenvolvimento de material didático |
+
+xoxooxoxoxoox
+
+### Iara
+
+| ----------- | ----------- |
+|![design.png](/projetos/maedagua/design.png) | toolkit ahahahhahahahahahha  |
+
+a prototipação de um sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano. E o sensor que foi chamado de Iara, avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura
 
 
 ## Nosso Glossário
