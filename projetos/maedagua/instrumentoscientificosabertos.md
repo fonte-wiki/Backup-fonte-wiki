@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-18T19:29:53.714Z
+date: 2025-08-18T19:35:47.740Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -19,7 +19,7 @@ Oferecemos uma estratégia de criação e implementação para atividades no Ens
 
 > Cada pessoa não vê o universo a partir do universo, mas a partir de um lugar
 
-A proposta é baseada em métodos empáticos de design, e na apropriação crítica das tecnologias digitais para promover a participação ativa de estudantes e comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia discente. 
+A proposta é baseada em [design e recursos educacionais abertos](https://repositorio.ufsc.br/handle/123456789/265123), e na apropriação crítica das tecnologias digitais para promover a participação ativa de estudantes e de comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia. 
 
 Para isso, propomos:
 
