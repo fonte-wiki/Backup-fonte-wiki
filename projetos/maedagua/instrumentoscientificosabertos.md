@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-18T19:47:29.584Z
+date: 2025-08-18T19:48:23.637Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -21,7 +21,7 @@ Oferecemos uma estratégia de criação e implementação para atividades no Ens
 
 A proposta é baseada em [design e recursos educacionais abertos](https://repositorio.ufsc.br/handle/123456789/265123), e na apropriação crítica das tecnologias digitais para promover a participação ativa de estudantes e de comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia. 
 
-**O que propomos:**
+## Produtos
 
 - Esse processo foi batizado de Nascente - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas. o desenvolvimento de material didático
 
