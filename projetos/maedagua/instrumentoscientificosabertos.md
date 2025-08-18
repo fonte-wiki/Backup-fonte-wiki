@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-18T19:35:47.740Z
+date: 2025-08-18T19:46:48.059Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -21,15 +21,30 @@ Oferecemos uma estratégia de criação e implementação para atividades no Ens
 
 A proposta é baseada em [design e recursos educacionais abertos](https://repositorio.ufsc.br/handle/123456789/265123), e na apropriação crítica das tecnologias digitais para promover a participação ativa de estudantes e de comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia. 
 
-Para isso, propomos:
+**O que propomos:**
 
-- o desenvolvimento de material didático
-- a prototipação de um sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano. Esse processo foi batizado de Nascente - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas. E o sensor que foi chamado de Iara, avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
+- Esse processo foi batizado de Nascente - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas. o desenvolvimento de material didático
+
+- a prototipação de um sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano. E o sensor que foi chamado de Iara, avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
 
 
+## Nosso Glossário
 
+Listamos abaixo alguns dos conceitos-chave que guiaram a criação do release **Iara**
 
-## Conclusões 
+### Apropriação Crítica de Tecnologias
+....
 
+### Ciência Aberta
+....
+
+### Ciência Cidadã
+....
+
+### Design Aberto
+###
+...
+### Pedagogia Hacker
+....
 
 ## Referências Bibliográficas
