@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2025-08-19T16:21:07.432Z
+date: 2025-08-19T16:21:38.486Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -27,6 +27,7 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 - **Em Mãe d'Água home:** produtos e publis
 - **Em Mãe d'Água home:** linkar reaserch gate do projeto? zotero (unificar refs)
 - **Em Mãe d'Água Instrumentos:** escrever sobre Mitologia Nascente e Iara, e também itens do Glossário
+- **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais, linkar material didático
 
 ## Design
 - Site do LabEcoHumana
