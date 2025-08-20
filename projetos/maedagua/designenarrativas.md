@@ -2,7 +2,7 @@
 title: Design Aberto e outras Narrativas sobre Tecnologias
 description: Sistema de Identidade Visual e Assets replicáveis para Mãe d'Água
 published: true
-date: 2025-08-18T19:15:52.588Z
+date: 2025-08-20T21:17:12.731Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
@@ -30,7 +30,7 @@ Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](ht
 - Submeter a proposta da criação a eventos e prêmios da categoria, disseminando o conceito da proposta e sublinhando a importância de iniciativas correlatas.
 
 ## Sistema de Identidade Visual
-Disponibilizamos o [nosso board para remixes aqui](https://miro.com/app/board/uXjVIOQ2yps=/?share_link_id=472618172290). 
+Disponibilizamos o [nosso board para remixes aqui](https://www.figma.com/design/CuGn8ZSAaxvW3Xycr2H3dR/M%C3%A3e-D-%C3%81gua---Open-Design?node-id=2-1263&t=x4CXEKZaNKDDl35w-1). 
 Cite, gentilmente essa fonte.
 
 Lembre-se: **Mãe d'Água** é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
