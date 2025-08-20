@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-19T13:21:54.076Z
+date: 2025-08-20T12:29:53.140Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -83,6 +83,7 @@ Em breve
 - Paradoxo/ [Universidade Federal do ABC](https://www.ufabc.edu.br)
 - [Reuse City](https://reuse.city/)
 - [Semente](https://semente.de/)
+- [senseBox](https://sensebox.de/en/)
 - SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
 
 
