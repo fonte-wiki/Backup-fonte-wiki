@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-21T16:46:20.580Z
+date: 2025-08-21T16:46:42.599Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -82,14 +82,12 @@ Em breve
 - [senseBox](https://sensebox.de/en/)
 - SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
 
-
 ## Ficha Técnica
 
 **Coordenação - Lab Ecologia Humana/UNISANTA:** Milena Ramires
 **Pesquisa:** Maira Begalli, Ricardo Guimarães, Felipe Fonseca
 **Design e Produtos de Mídia:** Carolina Saravalli e Kevelyn Oliveira
 
-----------------------------
 
 ## Seções do site
 
