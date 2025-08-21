@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-21T16:06:01.234Z
+date: 2025-08-21T16:08:10.926Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -50,9 +50,9 @@ Listamos abaixo alguns dos conceitos-chave que guiaram esse desenvolvimento:
 
 - **Ciência Cidadã**: Abordagem que envolve a participação de cidadãos não acadêmicos na prática científica (chamados de cidadãos cientistas), permitindo que a ciência seja realizada de forma mais colaborativa e inclusiva, com uma abordagem decolonial e plural.
 
-- Design Aberto
+- **Design Aberto**: ..
 ...
-- Pedagogia Hacker
+- **Pedagogia Hacker**:
 ....
 
 ## Referências Bibliográficas
