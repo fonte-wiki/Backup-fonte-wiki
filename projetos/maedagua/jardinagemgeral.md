@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2025-08-20T21:24:05.031Z
+date: 2025-08-21T16:15:04.949Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -15,12 +15,10 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 ## Design
-- **Em Mãe d'Água Instrumentos:** subir imagens dos badges Nascente e Iara
 
 
 ## Texto
-- **Em Mãe d'Água Instrumentos:** escrever sobre Mitologia Nascente e Iara, e também itens do Glossário
-- **Em Mãe d'Água home:** ficha técnica, no final de 2025
+- **Em Mãe d'Água Instrumentos:** escrever itens do Glossário e Referências
 - **Em Mãe d'Água home:** produtos e publis
 - **Em Mãe d'Água home:** linkar reaserch gate do projeto? zotero (unificar refs)
 - **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais, linkar material didático
