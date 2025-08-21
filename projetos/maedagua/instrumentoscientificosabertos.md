@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-21T15:57:22.921Z
+date: 2025-08-21T16:00:05.189Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -44,18 +44,20 @@ O *toolkit*/protótipo do sensor de qualidade d’água de baixo custo, confecci
 Listamos abaixo alguns dos conceitos-chave que guiaram esse desenvolvimento:
 
 
-### Apropriação Crítica de Tecnologias
+- Apropriação Crítica de Tecnologias
 ....
 
-### Ciência Aberta
+- Ciência Aberta
 ....
 
-### Ciência Cidadã
+- Ciência Cidadã
 ....
 
-### Design Aberto
+- Design Aberto
 ...
-### Pedagogia Hacker
+- Pedagogia Hacker
 ....
 
 ## Referências Bibliográficas
+....
+## Baixe Aqui
