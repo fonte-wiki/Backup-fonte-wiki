@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-21T15:29:54.458Z
+date: 2025-08-21T15:38:38.306Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -25,10 +25,17 @@ A proposta é baseada em design e recursos educacionais abertos, e na apropriaç
 
 ### Nascente
 
-O processo que envolve os vídeos-tutoriais didáticos, e o material didático-instrucional foi batizado de **Nascente** - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas.
+| ![[maedagua]nascentebadge.png](/projetos/maedagua/[maedagua]nascentebadge.png)       | Description |
+| ----------- | ----------- |
+
+
+O processo que envolve os vídeos-tutoriais, e o material instrucional foi batizado de **Nascente**, fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas.
 
 
 ### Iara
+
+| ![[maedagua]nascenteiara.png](/projetos/maedagua/[maedagua]nascentebadge.png)       | Description |
+| ----------- | ----------- |
 
 O *toolkit*/protótipo do sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano, foi chamado de **Iara**. Esse protótipo avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
 
