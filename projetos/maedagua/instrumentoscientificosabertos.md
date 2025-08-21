@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-21T18:14:29.920Z
+date: 2025-08-21T18:14:56.480Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -42,7 +42,7 @@ O *toolkit*/protótipo do sensor de qualidade d’água de baixo custo, confecci
 
 ## Nosso Glossário
 
-Listamos abaixo alguns dos conceitos-chave que guiaram esse desenvolvimento:
+Listamos abaixo alguns dos conceitos-chaves que guiam esse desenvolvimento:
 
 
 - **Apropriação Crítica de Tecnologias**: Se refere ao processo de compreender e utilizar a tecnologia de forma consciente e reflexiva, levando em consideração seus impactos sociais, culturais e ambientais, em vez de simplesmente adotar ferramentas e plataformas sem questionamento. Engloba uma análise profunda de como a tecnologia moldou as civilizações e formas de utilizá-la para promover mudanças positivas e justas.
