@@ -2,14 +2,14 @@
 title: Design Aberto e outras Narrativas sobre Tecnologias
 description: Sistema de Identidade Visual e Assets replicáveis para Mãe d'Água
 published: true
-date: 2025-08-20T21:22:52.783Z
+date: 2025-08-21T18:17:46.255Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
 ---
 
 
-## Introdução
+# Design Aberto e outras Narrativas sobre Tecnologias
 
 Ao longo dos anos 2000-2020 vimos uma transição da [estética experimental/hacker](http://dx.doi.org/10.26512/2015.04.T.20590) atrelada às plataformas de compartilhamento e troca de usuários (4chan, irc, wikis, listas), para soluções baseadas em [*branding*](https://www.researchgate.net/publication/314101152_The_Language_of_Branding_Theory_Strategies_and_Tactics) que criaram ambientes experienciáveis, voltado aos consumo em massa de conteúdos virais e produtos (TikTok, Instagram, WhatsApp). 
 
