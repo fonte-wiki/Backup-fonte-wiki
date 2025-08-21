@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-21T16:28:18.186Z
+date: 2025-08-21T16:28:56.996Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -52,8 +52,7 @@ Trabalhamos na elaboração de bases referenciais, para gerar [artigos](https://
 - [Direito das Zonas Costeiras](/projetos/maedagua/direitoszonascosteiras)
 - [Repositórios Abertos](/projetos/maedagua/repositoriosabertos)
 
-A partir deles geramos um conjunto de produtos extensionistas, chamado de **Ipupiara** - uma criatura mítica encontrada na época do Brasil Colônia em São Vicente, São Paulo. No Tupi antigo, Ipupiara significa "o que mora dentro d'água".
-
+A partir deles geramos um conjunto de produtos extensionistas, chamado de **Ipupiara** - uma criatura mítica encontrada na época do Brasil Colônia, em São Vicente, São Paulo. No Tupi antigo, Ipupiara significa "o que mora dentro d'água".
 
 - [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial)
 - ZASF (previsto para 2026)
