@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-21T16:11:07.830Z
+date: 2025-08-21T18:14:29.920Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -25,16 +25,17 @@ A proposta é baseada em design e recursos educacionais abertos, e na apropriaç
 
 ### Nascente
 
-| ![[maedagua]nascentebadge.png](/projetos/maedagua/[maedagua]nascentebadge.png)       | adjetivo: que nasce, que começa a aparecer
-| ----------- | ----------- |
+![[maedagua]nascentebadge.png](/projetos/maedagua/[maedagua]nascentebadge.png)
+*adjetivo: que nasce, que começa a aparecer*
+
 
 
 O processo que envolve os vídeos-tutoriais, e o material instrucional foi batizado de **Nascente**, fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas.
 
 ### Iara
 
-| ![[maedagua]iarabadge.png](/projetos/maedagua/[maedagua]iarabadge.png)     | sereia que vive em rios e lagos, encantada da mitologia tupi-guarani |
-| ----------- | ----------- |
+![[maedagua]iarabadge.png](/projetos/maedagua/[maedagua]iarabadge.png)
+*sereia que vive em rios e lagos, encantada da mitologia tupi-guarani*
 
 O *toolkit*/protótipo do sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano, foi chamado de **Iara**. Esse protótipo avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
 
