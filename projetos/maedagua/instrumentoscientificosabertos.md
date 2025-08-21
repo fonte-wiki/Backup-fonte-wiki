@@ -2,15 +2,14 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-21T18:14:56.480Z
+date: 2025-08-21T18:16:48.831Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
 ---
 
 
-## Introdução
-
+# Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 
 Essa iniciativa visa promover o ensino de [Ciências da Natureza e suas Tecnologias](https://movimentopelabase.org.br/wp-content/uploads/2019/06/2018_12_keyshift_Cie%CC%82ncias-da-Natureza-na-BNCC_v01.pdf), por meio de atividades e trabalhos baseados em pesquisa experimental. A proposta envolve o desenho e a prototipação de um *toolkit*, composto por instrumentos científicos experimentais de [código aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto#:~:text=O%20movimento%20de%20c%C3%B3digo%20aberto,descoberta%20e%20pesquisa%20de%20medicamentos.&text=O%20termo%20%22c%C3%B3digo%20aberto%22%20foi,comercial%20evitando%20o%20discurso%20%C3%A9tico.) para o monitoramento da qualidade da água.Um exemplo bem sucedido e já implementado é a [senseBox](https://sensebox.de/en/), um *toolkit* desenvolvido para uso em educação digital, envolvendo ciência cidadã para coleta de dados ambientais.
 
