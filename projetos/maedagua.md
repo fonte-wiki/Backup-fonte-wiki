@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-08-21T16:28:56.996Z
+date: 2025-08-21T16:46:20.580Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -73,20 +73,21 @@ A partir deles geramos um conjunto de produtos extensionistas, chamado de **Ipup
 Em breve
 
 -------------------------
-
-
 ## Parceiros
 - [Bonde Verde](https://www.instagram.com/bondeverde)
 - [Global Innovation Gathering](https://globalinnovationgathering.org/)
 - Paradoxo/ [Universidade Federal do ABC](https://www.ufabc.edu.br)
 - [Reuse City](https://reuse.city/)
-- [Semente](https://semente.de/)
+- [semente](https://semente.de/)
 - [senseBox](https://sensebox.de/en/)
 - SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
 
 
 ## Ficha Técnica
-Em breve
+
+**Coordenação - Lab Ecologia Humana/UNISANTA:** Milena Ramires
+**Pesquisa:** Maira Begalli, Ricardo Guimarães, Felipe Fonseca
+**Design e Produtos de Mídia:** Carolina Saravalli e Kevelyn Oliveira
 
 ----------------------------
 
