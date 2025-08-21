@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-21T16:08:10.926Z
+date: 2025-08-21T16:11:07.830Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -55,6 +55,6 @@ Listamos abaixo alguns dos conceitos-chave que guiaram esse desenvolvimento:
 - **Pedagogia Hacker**:
 ....
 
-## Referências Bibliográficas
+## Referências
 ....
 ## Baixe Aqui
