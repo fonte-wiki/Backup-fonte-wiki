@@ -2,11 +2,13 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2025-08-21T16:15:04.949Z
+date: 2025-08-21T18:18:31.462Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
 ---
+
+# Jardinagem Geral
 
 A página de Jardinagem Geral funciona como um bloco de notas que aponta itens, no geral, que podem ser melhorados aqui no wiki.
 
