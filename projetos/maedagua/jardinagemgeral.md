@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2025-08-21T18:18:31.462Z
+date: 2025-08-21T18:18:51.229Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -17,7 +17,7 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 ## Design
-
+...
 
 ## Texto
 - **Em Mãe d'Água Instrumentos:** escrever itens do Glossário e Referências
