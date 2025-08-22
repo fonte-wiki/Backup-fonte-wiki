@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-22T13:45:25.333Z
+date: 2025-08-22T19:33:34.965Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -44,5 +44,19 @@ Listamos abaixo alguns dos conceitos-chaves que guiam esse desenvolvimento:
 - **Pedagogia Hacker**:....
 
 ## Referências
-....
+BARBOSA, H.; HAYASHI, M. C. P. I.; SOUSA, C. M.; ROTHBERG, D. (orgs). **Apropriação social da ciência e da tecnologia: contribuições para uma agenda**. EDUEPB, p. 155-189. Campina Grande, Paraíba, 2011.
+
+OLIVEIRA, A. C. S.; SILVA, E. M. **Ciência Aberta: Dimensões para um Novo Fazer Científico**. Informação & Informação, v.21, e.2, p. 5-39, agosto, 2016. DOI: https://doi.org/10.5433/1981-8920.2016v21n2p5.
+
+RIBEIRO, S. E.; SCHLEMMER, E. **A Relação de Distinção e Semelhança Entre o Uso e a Apropriação das Tecnologias na Educação**. Revista Educação, Cultura e Sociedade, v.10, e.3, p. 339-354, outubro, 2020. DOI: https://doi.org/10.30681/ecs.v10i3.3929.
+
+RUMENOS, N. N. et al. **Ciência cidadã no Brasil: caracterização da produção acadêmica**. Revista Observatorio de la Economia Latinoamericana, v.21, n.10, p. 14592-14608, outubro, 2023. DOI: https://doi.org/10.55905/oelv21n10-010.
+
+SAMUEL, Lucas. A**propriação tecnológica: Empoderando indivíduos e comunidades na era digital**. Irisbh, 2023. Disponível em: https://irisbh.com.br/apropriacao-tecnologica-empoderando-individuos-e-comunidades-na-era-digital/. Acesso em: 20.ago.2025
+
+SILVA, A. M. T. B. **O Processo de Apropriação das Tecnologias na Prática Profissional dos Docentes da Área do Ensino das Ciências e Matemática: um estudo preliminar a partir da teoria das representações sociais**. ALEXANDRIA: Revista de Educação em Ciência e Tecnologia, v.6, n.2, p. 33-52, junho, 2013. Disponível em: https://periodicos.ufsc.br/index.php/alexandria/issue/view/2234. Acesso em: 20.ago.2025
+
+SILVA, F. C. C.; SILVEIRA, L. **O Ecossistema da Ciência Aberta**. Transinformação, v.31, e.190001, setembro, 2019. DOI: http://dx.doi.org/10.1590/2318-0889201931e190001.
+
+ 
 ## Baixe Aqui
