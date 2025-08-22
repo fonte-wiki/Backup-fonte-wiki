@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-22T19:36:02.519Z
+date: 2025-08-22T19:49:54.134Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -16,7 +16,7 @@ Essa iniciativa visa promover o ensino de [Ciências da Natureza e suas Tecnolog
 
 Oferecemos uma estratégia de criação e implementação para atividades no Ensino Médio, assim como a sua utilização para gerar e analisar dados socioambientais, a partir de uma perspectiva crítica da análise e interpretação de cada território, seguindo um ponto crucial descrito por [Milton Santos](https://www.youtube.com/watch?v=TRfYvIors78):
 
-> Cada pessoa não vê o universo a partir do universo, mas a partir de um lugar
+*Cada pessoa não vê o universo a partir do universo, mas a partir de um lugar*
 
 A proposta é baseada em design e recursos educacionais abertos, e na apropriação crítica das tecnologias digitais para promover a participação ativa de estudantes e de comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia. 
 
