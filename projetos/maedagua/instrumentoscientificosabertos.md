@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-21T18:16:48.831Z
+date: 2025-08-22T13:42:41.378Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -45,15 +45,10 @@ Listamos abaixo alguns dos conceitos-chaves que guiam esse desenvolvimento:
 
 
 - **Apropriação Crítica de Tecnologias**: Se refere ao processo de compreender e utilizar a tecnologia de forma consciente e reflexiva, levando em consideração seus impactos sociais, culturais e ambientais, em vez de simplesmente adotar ferramentas e plataformas sem questionamento. Engloba uma análise profunda de como a tecnologia moldou as civilizações e formas de utilizá-la para promover mudanças positivas e justas.
-
 - **Ciência Aberta**: Um movimento que visa tornar a pesquisa e os dados científicos acessíveis a todos, facilitando a publicação e comunicação do conhecimento científico. Utilizando o predomínio da internet e de ferramentas digitais, a ciência aberta permite a colaboração de pessoas em pesquisas em um âmbito mundial.
-
 - **Ciência Cidadã**: Abordagem que envolve a participação de cidadãos não acadêmicos na prática científica (chamados de cidadãos cientistas), permitindo que a ciência seja realizada de forma mais colaborativa e inclusiva, com uma abordagem decolonial e plural.
-
 - **Design Aberto**: ..
-...
-- **Pedagogia Hacker**:
-....
+- **Pedagogia Hacker**:....
 
 ## Referências
 ....
