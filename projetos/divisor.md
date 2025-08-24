@@ -2,13 +2,15 @@
 title: Divisor
 description: 
 published: true
-date: 2025-07-29T21:54:39.922Z
+date: 2025-08-24T14:52:38.120Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z
 ---
 
 # Divisor (de águas)
+
+![divisor.png](/projetos/maedagua/divisor.png)
 
 Divisor é uma ferramenta baseada em Python que automatiza a criação de um site com tecnologia Jekyll a partir de um repositório Git. Por padrão, usa o repositório de Backup da fonte.wiki.
 
