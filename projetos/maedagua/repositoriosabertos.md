@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-24T14:31:43.132Z
+date: 2025-08-24T14:38:01.183Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -10,11 +10,13 @@ dateCreated: 2025-07-26T20:05:21.563Z
 
 # Repositórios Abertos e Práticas de Cuidado
 
-Nas últimas décadas, o cenário da Cultura Digital no Brasil passou por grandes oscilações. No início dos anos 2000 haviam muitas iniciativas voltadas à democratização do acesso à internet - cabe ressaltar que nessa época, apenas uma pequena parcela da população tinha acesso a dispositivos de comunicação, e a maioria dessas propostas foram realizadas por iniciativas coletivas que não tinham recursos financeiros ou suporte formal.
+Nas últimas décadas, o cenário da Cultura Digital no Brasil passou por grandes oscilações. No início dos anos 2000 haviam muitas iniciativas voltadas à democratização do acesso à internet - cabe ressaltar que nessa época, apenas uma pequena parcela da população tinha acesso a dispositivos de comunicação, e a maioria dessas propostas foram realizadas por iniciativas coletivas que não tinham [recursos financeiros ou suporte formal](https://archive.org/details/cadernos-submidiaticos-07/page/n5/mode/2up).
 
-Em um dado momento houve o reconhecimento institucional sobre a importância dessas iniciativas, e surgiram políticas públicas voltadas para implementação de oportunidades para práticas de transformação mediadas por tecnologias. Mas pouco depois, na metade da década de 2010, houve um desaparecimento total dessas políticas públicas e um esvaziamento desse cenário.
+Em um dado momento houve o reconhecimento institucional sobre a importância dessas iniciativas, e surgiram políticas públicas voltadas para implementação de oportunidades para práticas de transformação mediadas por tecnologias. Mas pouco depois, na metade da década de 2010, houve um [desaparecimento total dessas políticas públicas e um esvaziamento desse cenário](https://archive.org/details/ID21_0-5/page/n21/mode/2up).
 
-Um exemplo literal é portal culturadigital.br, que costumava ser financiado e mantido pelo Ministério da Cultura (MinC). A plataforma que agregava diversos projetos e iniciativas coletivas, foi criada na gestão do ministro da Cultura Gilberto Gil (2003-2008), mas, infelizmente, não existe mais.
+Um exemplo literal é portal culturadigital.br, que costumava ser financiado e mantido pelo Ministério da Cultura (MinC). A plataforma que agregava diversos projetos e iniciativas coletivas, foi criada na gestão do [ministro da Cultura Gilberto Gil](https://www.youtube.com/watch?v=ZUpmI7n5fps) (2003-2008), mas, infelizmente, não existe mais.
+
+PUBLIC LAB
 
 Esses dois casos, certamente não isolados, nos levam a problematizar sobre a importância do cuidado, de onde e para quem “confiamos” a guarda de acervos coletivos. Assim como a alertar sobre a necessidade da criação e manutenção de repositórios abertos, em um momento da humanidade de desmaterialização e desintegração da produção artística, científica e cultural. Compreendendo, a maneira que esses repositórios possam vir a apoiar comunidades (locais ou distribuídas) como ambientes seguros de troca e experimentação, em contraponto à monocultura das plataformas sob a gestão de big techs.
 
