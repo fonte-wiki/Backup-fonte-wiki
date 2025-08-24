@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-24T19:47:47.406Z
+date: 2025-08-24T19:48:46.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -28,7 +28,7 @@ Outro desafio é conceber e disponibilizar uma infraestrutura para sistematizar 
 
 ![divisor.png](/projetos/maedagua/divisor.png)
 
-**Divisor de Águas** é uma expressão popular que tem origem na geografia física, onde é uma formação de relevo, como uma montanha ou serra, que separa diferentes bacias hidrográficas, direcionando as águas para distintos rios ou mares.
+**Divisor de Águas** é uma expressão popular que tem origem na geografia física, onde representa uma formação de relevo, como uma montanha ou serra, que separa diferentes bacias hidrográficas, direcionando as águas para distintos rios ou mares.
 
 A intenção da ferramenta é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem a necessidade de configuração manual de um ambiente, ou de gerenciar o processo de conversão de conteúdo. Também estabelece uma diferenciação, uma divisão das interfaces entre o [wiki](https://fonte.wiki/pt-br/projetos/maedagua) - que funciona como um ambiente de organização, trabalho e sistematização para quem o alimenta, e [o site estático](https://maedagua.fonte.wiki/) customizado com a Identidade Visual, logotipo, fontes, e direcionamento para url específica, de acordo com cada demanda.
 
