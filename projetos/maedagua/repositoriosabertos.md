@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-24T14:41:53.227Z
+date: 2025-08-24T14:46:07.166Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -24,17 +24,13 @@ Nesse contexto, a palavra cuidado pode ser explorada em dois sentidos. O primeir
 
 Plataformas [wikis](https://pt.wikiversity.org/wiki/Ajuda:O_que_%C3%A9_uma_Wiki%3F) mostram-se como uma alternativa potencial nesse sentido, por permitirem um formato de edição colaborativa, intuitiva, que independe de habilidades de programação ou acesso a servidores. Em contrapartida, precisam da “jardinagem”: uma analogia ao cuidado necessário para manutenção de jardins, que remete à ação concreta de cultivo, checagem, investimento de tempo e compromisso. Um wiki precisa ser planejado desde a hierarquia de seu conteúdo, até a moderação, revisão e edição para sua contínua atualização. 
 
-Outro desafio é conceber e disponibilizar uma infraestrutura para sistematizar projetos, narrativas e arquivos coletivos, que seja atrativa e esteja disponível para outras pessoas fora daquela bolha específica, garantindo assim a externalização dessa documentação em um formato compartilhável para outros públicos. Sob essa perspectiva, desenvolvemos o Divisor de Águas, uma ferramenta baseada em [Python](https://www.python.org/) que automatiza a criação de um site com tecnologia [Jekyll](https://jekyllrb.com/) a partir de um [repositório Git](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git) - nesse caso, o backup da [fonte.wiki](https://fonte.wiki/).
+Outro desafio é conceber e disponibilizar uma infraestrutura para sistematizar projetos, narrativas e arquivos coletivos, que seja atrativa e esteja disponível para outras pessoas fora daquela bolha específica, garantindo assim a externalização dessa documentação em um formato compartilhável para outros públicos. Sob essa perspectiva, desenvolvemos o [Divisor de Águas](https://fonte.wiki/projetos/divisor), uma ferramenta baseada em [Python](https://www.python.org/) que automatiza a criação de um site com tecnologia [Jekyll](https://jekyllrb.com/) a partir de um [repositório Git](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git) - nesse caso, o backup da [fonte.wiki](https://fonte.wiki/).
 
 A ideia central do Divisor de Águas é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem a necessidade de configuração manual de um ambiente, ou de gerenciar o processo de conversão de conteúdo. Também estabelece uma diferenciação, uma divisão das interfaces entre o wiki  - que funciona como um ambiente de organização, trabalho e sistematização para quem o alimenta, e o site estático customizado com a Identidade Visual, logotipo, fontes,e url específica, de acordo com cada projeto.
 
+IMAGEM
+
 O segundo significado de cuidado remete ao aviso de perigo iminente. Ao olharmos para o universo dos arquivos digitais, coletivos, das comunidades de interesse, é importante considerarmos que existe o perigo do desaparecimento, da desatualização, da violação e exposição de dados, ou mesmo de que um determinado conteúdo seja usado de maneiras contrárias às intenções originais de quem os publicou. O cuidado aqui aponta que existe uma fronteira, que quando ultrapassada pode expor, fragilizar, esvaziar esse conteúdo - o que pode ser danoso para aqueles que têm apreço por ele.
-
-## Notas
-- alalalla
-- Gilberto Gil declarado ministro hacker, MinC Dilma-Temer-Bolsonaro, rupturas desde Marta (des-carta)
-- O Divisor de Águas foi desenvolvido no âmbito de pesquisa do Lab Mãe d’ Água, está hospedado na fonte.wiki, e pode ser acessado no github - url
-
 
 
 ## Referências Bibliográficas
