@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-24T14:58:03.503Z
+date: 2025-08-24T14:58:22.061Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -26,7 +26,7 @@ Plataformas [wikis](https://pt.wikiversity.org/wiki/Ajuda:O_que_%C3%A9_uma_Wiki%
 
 Outro desafio é conceber e disponibilizar uma infraestrutura para sistematizar projetos, narrativas e arquivos coletivos, que seja atrativa e esteja disponível para outras pessoas fora daquela bolha específica, garantindo assim a externalização dessa documentação em um formato compartilhável para outros públicos. Sob essa perspectiva, desenvolvemos o [Divisor de Águas](https://fonte.wiki/projetos/divisor), uma ferramenta baseada em [Python](https://www.python.org/) que automatiza a criação de um site com tecnologia [Jekyll](https://jekyllrb.com/) a partir de um [repositório Git](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git) - nesse caso, o backup da [fonte.wiki](https://fonte.wiki/).
 
-A ideia central é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem a necessidade de configuração manual de um ambiente, ou de gerenciar o processo de conversão de conteúdo. Também estabelece uma diferenciação, uma divisão das interfaces entre o [wiki](https://fonte.wiki/pt-br/projetos/maedagua) - que funciona como um ambiente de organização, trabalho e sistematização para quem o alimenta, e [o site estático](https://maedagua.fonte.wiki/) customizado com a Identidade Visual, logotipo, fontes, e url específica, de acordo com cada projeto.
+A ideia central é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem a necessidade de configuração manual de um ambiente, ou de gerenciar o processo de conversão de conteúdo. Também estabelece uma diferenciação, uma divisão das interfaces entre o [wiki](https://fonte.wiki/pt-br/projetos/maedagua) - que funciona como um ambiente de organização, trabalho e sistematização para quem o alimenta, e [o site estático](https://maedagua.fonte.wiki/) customizado com a Identidade Visual, logotipo, fontes, e direcionamento para url específica, de acordo com cada projeto.
 
 O segundo significado de cuidado remete ao aviso de perigo iminente. Ao olharmos para o universo dos arquivos digitais, coletivos, das comunidades de interesse, é importante considerarmos que existe o perigo do desaparecimento, da desatualização, da violação e exposição de dados, ou mesmo de que um determinado conteúdo seja usado de maneiras contrárias às intenções originais de quem os publicou. O cuidado aqui aponta que existe uma fronteira, que quando ultrapassada pode expor, fragilizar, esvaziar esse conteúdo - o que pode ser danoso para aqueles que têm apreço por ele.
 
