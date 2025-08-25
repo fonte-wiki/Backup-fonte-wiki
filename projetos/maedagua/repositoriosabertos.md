@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-25T19:14:57.037Z
+date: 2025-08-25T19:16:10.642Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -16,7 +16,7 @@ Em um dado momento houve o reconhecimento institucional sobre a importância des
 
 Um exemplo literal é portal culturadigital.br, que costumava ser financiado e mantido pelo Ministério da Cultura (MinC). A plataforma que agregava diversos projetos e iniciativas coletivas, foi criada na gestão do [ministro da Cultura Gilberto Gil](https://www.youtube.com/watch?v=ZUpmI7n5fps) (2003-2008), mas, infelizmente, hoje não existe mais.
 
-Esse caso, certamente não isolado, nos leva a problematizar sobre a importância do cuidado, de onde e para quem “confiamos” a guarda dos acervos coletivos. Assim como, alertar sobre a necessidade da criação e manutenção de repositórios abertos, [em um momento que humanidade vive a desmaterialização e a desintegração da produção artística, científica e cultural](https://www.researchgate.net/publication/355046424_The_Big_Techification_of_Everything). Compreendendo, também, a maneira que esses repositórios possam vir a apoiar comunidades (locais ou distribuídas) como ambientes seguros de troca e experimentação, em contraponto à [monocultura das plataformas sob gestão de big techs](https://www.noemamag.com/we-need-to-rewild-the-internet/).
+Esse caso, certamente não isolado, nos leva a problematizar sobre a importância termos cuidado de onde e para quem “confiamos” a guarda dos acervos coletivos. Assim como, alertar sobre a necessidade da criação e manutenção de repositórios abertos, [em um momento que humanidade vive a desmaterialização e a desintegração da produção artística, científica e cultural](https://www.researchgate.net/publication/355046424_The_Big_Techification_of_Everything). Compreendendo, também, a maneira que esses repositórios possam vir a apoiar comunidades (locais ou distribuídas) como ambientes seguros de troca e experimentação, em contraponto à [monocultura das plataformas sob gestão de big techs](https://www.noemamag.com/we-need-to-rewild-the-internet/).
 
 Nesse contexto, a palavra cuidado pode ser explorada em dois sentidos. O primeiro deles é concreto e prático, embora também afetivo: o cuidado no sentido de manutenção, de cuidar daquilo que é importante para que esteja e continue acessível, não se desatualize. Pensar em estruturas que considerem uma documentação viva, ou seja, uma documentação digital com compartilhamento que “acontece enquanto as coisas acontecem”.
 
