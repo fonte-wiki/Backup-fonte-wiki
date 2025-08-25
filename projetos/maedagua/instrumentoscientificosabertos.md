@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-22T19:50:31.433Z
+date: 2025-08-25T11:50:56.890Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -53,7 +53,7 @@ RIBEIRO, S. E.; SCHLEMMER, E. **A Relação de Distinção e Semelhança Entre o
 
 RUMENOS, N. N. et al. **Ciência cidadã no Brasil: caracterização da produção acadêmica**. Revista Observatorio de la Economia Latinoamericana, v.21, n.10, p. 14592-14608, outubro, 2023. DOI: https://doi.org/10.55905/oelv21n10-010.
 
-SAMUEL, Lucas. A**propriação tecnológica: Empoderando indivíduos e comunidades na era digital**. Irisbh, 2023. Disponível em: https://irisbh.com.br/apropriacao-tecnologica-empoderando-individuos-e-comunidades-na-era-digital/.
+SAMUEL, Lucas. **Apropriação tecnológica: Empoderando indivíduos e comunidades na era digital**. Irisbh, 2023. Disponível em: https://irisbh.com.br/apropriacao-tecnologica-empoderando-individuos-e-comunidades-na-era-digital/.
 
 SILVA, A. M. T. B. **O Processo de Apropriação das Tecnologias na Prática Profissional dos Docentes da Área do Ensino das Ciências e Matemática: um estudo preliminar a partir da teoria das representações sociais**. ALEXANDRIA: Revista de Educação em Ciência e Tecnologia, v.6, n.2, p. 33-52, junho, 2013. Disponível em: https://periodicos.ufsc.br/index.php/alexandria/issue/view/2234.
 
