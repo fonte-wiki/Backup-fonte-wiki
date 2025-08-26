@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-26T12:17:58.495Z
+date: 2025-08-26T12:19:49.500Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -34,6 +34,6 @@ Voltando para a palavra cuidado, também há um segundo significado mais subjeti
 
 Infelizmente, comunidades de interesse, grupos de ativismo e até mesmo centros de pesquisa  e ensino caíram na logíca dos algoritmos das plataformas digitais em busca de engajamento e visibilidade, seguindo a máxima [de que quanto mais exposto, mais recompensado](https://floatvibes.substack.com/p/rituais-de-humilhacao-a-era-low-profile). Para ganhar escala frequentemente entram em *trends* e publicizam suas fragilidades, por acreditarem que estão em um processo de validação, reconhecimento, inclusão e participação social. A maior parte das vezes, não compreenderem que seus dados e conteúdos [são o produto comercializado](https://idec.org.br/dicas-e-direitos/venda-da-iris-do-olho-conheca-os-perigos-por-tras-dessa-pratica). Depositando, ainda, todo resgistro documental em sites que podem desaparecer a qualquer momento, sem nenhum tipo de acesso ao *backup*.
 
-Se no passado uma das grandes problematizações sobre a inclusão era sobre o acesso, hoje é sobre elucidar as pessoas de onde estão sendo incluídas e o que cada um desses ambientes pode proporcionar. Se antes o principal desafio era levar o sinal para populações em lugares de vias de díficil acesso (ribeirinhos, indigenas, quilombolas, pescadores, etc), atualmente falamos em [instalações de *data centers* que causam grandes impactos](https://elpais.com/tecnologia/2025-08-09/el-patio-trasero-de-la-ia-un-mapa-de-la-fiebre-del-oro-del-siglo-xxi.html) [ambientais](https://www.youtube.com/watch?v=yj26gqIJMrM), e das instabilidades que [eventos climáticos](https://dl.acm.org/doi/10.1145/3232755.3232775) extremos podem gerar nas infraestruturas, causando grandes apagões de conexões e perda de dados, em todo planeta.
+Se no passado uma das grandes problematizações sobre a inclusão era sobre o acesso, hoje é sobre elucidar as pessoas onde estão sendo incluídas e o que cada um desses ambientes pode proporcionar. Se antes o principal desafio era levar o sinal para populações em lugares de vias de díficil acesso (ribeirinhos, indigenas, quilombolas, pescadores, etc), atualmente falamos em [instalações de *data centers* que causam grandes impactos](https://elpais.com/tecnologia/2025-08-09/el-patio-trasero-de-la-ia-un-mapa-de-la-fiebre-del-oro-del-siglo-xxi.html) [ambientais](https://www.youtube.com/watch?v=yj26gqIJMrM), e das instabilidades que [eventos climáticos](https://dl.acm.org/doi/10.1145/3232755.3232775) extremos podem gerar nas infraestruturas, causando grandes apagões de conexões e perda de dados, em todo planeta.
 
 
