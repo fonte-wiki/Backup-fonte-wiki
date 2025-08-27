@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-25T11:50:56.890Z
+date: 2025-08-27T10:59:20.426Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -41,11 +41,15 @@ Listamos abaixo alguns dos conceitos-chaves que guiam esse desenvolvimento:
 - **Apropriação Crítica de Tecnologias**: Se refere ao processo de compreender e utilizar a tecnologia de forma consciente e reflexiva, levando em consideração seus impactos sociais, culturais e ambientais, em vez de simplesmente adotar ferramentas e plataformas sem questionamento. Engloba uma análise profunda de como a tecnologia moldou as civilizações e formas de utilizá-la para promover mudanças positivas e justas.
 - **Ciência Aberta**: Um movimento que visa tornar a pesquisa e os dados científicos acessíveis a todos, facilitando a publicação e comunicação do conhecimento científico. Utilizando o predomínio da internet e de ferramentas digitais, a ciência aberta permite a colaboração de pessoas em pesquisas em um âmbito mundial.
 - **Ciência Cidadã**: Abordagem que envolve a participação de cidadãos não acadêmicos na prática científica (chamados de cidadãos cientistas), permitindo que a ciência seja realizada de forma mais colaborativa e inclusiva, com uma abordagem decolonial e plural.
-- **Design Aberto**: ..
-- **Pedagogia Hacker**:....
+- **Design Aberto**: Estratégia relacionada aos processos criativos colaborativos e compartilhados, que tem como uma de suas características fundamentais a aproximação entre o produto e o usuário final,enquanto abre possibilidades para o co-desenvolvimento de partes potencialmente interessadas.
 
 ## Referências
+
+CABEZA, E. U. R.; MOURA, M.; ROSSI, D. D**esign aberto: prática projetual para a transformação social**. Strategic Design Research Journal, São Leopoldo, v. 7, n. 2, p. 56-65, agosto, 2014. DOI: https://doi.org/10.4013/sdrj.2014.72.02.  
+
 BARBOSA, H.; HAYASHI, M. C. P. I.; SOUSA, C. M.; ROTHBERG, D. (orgs). **Apropriação social da ciência e da tecnologia: contribuições para uma agenda**. EDUEPB, p. 155-189. Campina Grande, Paraíba, 2011.
+
+LIMA, C. S.; ROCHA, B. M. O**pen design: Compartilhamento e democratização nas práticas de projeto**. Gestão & Tecnologia de Projetos, v.15, n.3, p. 6-17, julho, 2020. DOI: https://doi.org/10.11606/gtp.v15i3.166815.
 
 OLIVEIRA, A. C. S.; SILVA, E. M. **Ciência Aberta: Dimensões para um Novo Fazer Científico**. Informação & Informação, v.21, e.2, p. 5-39, agosto, 2016. DOI: https://doi.org/10.5433/1981-8920.2016v21n2p5.
 
