@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-28T18:20:01.138Z
+date: 2025-08-28T18:21:28.561Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
