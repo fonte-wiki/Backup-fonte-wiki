@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-27T17:50:37.380Z
+date: 2025-08-28T18:20:01.138Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -14,7 +14,7 @@ Nas últimas décadas, o cenário da Cultura Digital no Brasil passou por grande
 
 Em um dado momento, olhando estrategicamente para esse contexto, e de uma forma quase experimental, houve o reconhecimento institucional sobre a importância dessas iniciativas. Com isso, surgiram políticas públicas voltadas para implementação de oportunidades para transformação mediada por tecnologias que na verdade eram frutos de iniciativas distribuídas semeadas anteriormente. Mas pouco depois, na metade da década de 2010, houve o [esvaziamento desse cenário](https://archive.org/details/ID21_0-5/page/n21/mode/2up).
 
-Um exemplo literal é portal culturadigital.br, que costumava ser financiado e mantido pelo Ministério da Cultura (MinC) e pela Rede Nacional de Pesquisa (RNP). A plataforma baseada em software livre, que hospedava a documentação de diversos projetos e iniciativas coletivas, hoje não existe mais.  Ela foi removida durante a gestão de Jair Bolsonaro (2019-2022), que também havia encerrado as atividades do ministério, transformando-o em Secretaria. 
+Um exemplo literal é portal culturadigital.br, que costumava ser financiado e mantido pelo Ministério da Cultura (MinC) e pela Rede Nacional de Pesquisa (RNP). A plataforma baseada em software livre, que hospedava a documentação de diversos projetos e iniciativas coletivas, hoje não existe mais. Ela foi removida durante um período de fragilidade nos processos democráticos do país, e com isso simbolicamente também tivemos “o apagamento” de muitas elaborações sobre cultura e diversidade. 
 
 Esse caso, certamente não isolado, nos leva a problematizar sobre a importância de [cuidar](https://fonte.wiki/pt-br/projetos/cuidado) para quem e onde “confiamos” a guarda de acervos coletivos. Assim como, alertar sobre a necessidade da criação e manutenção de repositórios abertos, [em um momento que humanidade vive a desmaterialização e a desintegração da produção artística, científica e cultural](https://www.researchgate.net/publication/355046424_The_Big_Techification_of_Everything). Compreendendo, também, a maneira que esses repositórios possam vir a apoiar comunidades (locais ou distribuídas) como ambientes seguros de troca e experimentação, em contraponto à [monocultura das plataformas sob gestão de big techs](https://www.noemamag.com/we-need-to-rewild-the-internet/).
 
