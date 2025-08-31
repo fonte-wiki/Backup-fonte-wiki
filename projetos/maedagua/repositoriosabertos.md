@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-08-29T14:00:34.501Z
+date: 2025-08-31T12:38:25.296Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-26T20:05:21.563Z
 
 # Repositórios Abertos e Práticas de Cuidado
 
-Nas últimas décadas, o cenário da Cultura Digital no Brasil passou por grandes oscilações. No início dos anos 2000 haviam muitas iniciativas voltadas à democratização do acesso à internet - cabe ressaltar que nessa época, apenas uma pequena parcela da população tinha acesso a dispositivos de comunicação, e a maioria dessas propostas eram realizadas por iniciativas coletivas sem [suporte formal](https://archive.org/details/cadernos-submidiaticos-07/page/n5/mode/2up).
+Nas últimas décadas, o cenário da Cultura Digital no Brasil passou por grandes oscilações. No início dos anos 2000, havia muitas iniciativas voltadas à democratização do acesso à internet - cabe ressaltar que nessa época, apenas uma pequena parcela da população tinha acesso a dispositivos de comunicação, e a maioria dessas propostas eram realizadas por iniciativas coletivas sem [suporte formal](https://archive.org/details/cadernos-submidiaticos-07/page/n5/mode/2up).
 
 Em um dado momento, olhando estrategicamente para esse contexto, e de uma forma quase experimental, houve o reconhecimento institucional sobre a importância dessas iniciativas. Com isso, surgiram políticas públicas voltadas para implementação de oportunidades para transformação mediada por tecnologias que na verdade eram frutos de iniciativas distribuídas semeadas anteriormente. Mas pouco depois, na metade da década de 2010, houve o [esvaziamento desse cenário](https://archive.org/details/ID21_0-5/page/n21/mode/2up).
 
