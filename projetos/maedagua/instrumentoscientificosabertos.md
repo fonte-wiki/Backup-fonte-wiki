@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-08-27T10:59:20.426Z
+date: 2025-09-01T13:17:23.724Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -49,7 +49,7 @@ CABEZA, E. U. R.; MOURA, M.; ROSSI, D. D**esign aberto: prática projetual para 
 
 BARBOSA, H.; HAYASHI, M. C. P. I.; SOUSA, C. M.; ROTHBERG, D. (orgs). **Apropriação social da ciência e da tecnologia: contribuições para uma agenda**. EDUEPB, p. 155-189. Campina Grande, Paraíba, 2011.
 
-LIMA, C. S.; ROCHA, B. M. O**pen design: Compartilhamento e democratização nas práticas de projeto**. Gestão & Tecnologia de Projetos, v.15, n.3, p. 6-17, julho, 2020. DOI: https://doi.org/10.11606/gtp.v15i3.166815.
+LIMA, C. S.; ROCHA, B. M. **Open design: Compartilhamento e democratização nas práticas de projeto**. Gestão & Tecnologia de Projetos, v.15, n.3, p. 6-17, julho, 2020. DOI: https://doi.org/10.11606/gtp.v15i3.166815.
 
 OLIVEIRA, A. C. S.; SILVA, E. M. **Ciência Aberta: Dimensões para um Novo Fazer Científico**. Informação & Informação, v.21, e.2, p. 5-39, agosto, 2016. DOI: https://doi.org/10.5433/1981-8920.2016v21n2p5.
 
