@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-09-01T13:17:23.724Z
+date: 2025-09-01T13:18:07.383Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -45,7 +45,7 @@ Listamos abaixo alguns dos conceitos-chaves que guiam esse desenvolvimento:
 
 ## Referências
 
-CABEZA, E. U. R.; MOURA, M.; ROSSI, D. D**esign aberto: prática projetual para a transformação social**. Strategic Design Research Journal, São Leopoldo, v. 7, n. 2, p. 56-65, agosto, 2014. DOI: https://doi.org/10.4013/sdrj.2014.72.02.  
+CABEZA, E. U. R.; MOURA, M.; ROSSI, D. **Design aberto: prática projetual para a transformação social**. Strategic Design Research Journal, São Leopoldo, v. 7, n. 2, p. 56-65, agosto, 2014. DOI: https://doi.org/10.4013/sdrj.2014.72.02.  
 
 BARBOSA, H.; HAYASHI, M. C. P. I.; SOUSA, C. M.; ROTHBERG, D. (orgs). **Apropriação social da ciência e da tecnologia: contribuições para uma agenda**. EDUEPB, p. 155-189. Campina Grande, Paraíba, 2011.
 
