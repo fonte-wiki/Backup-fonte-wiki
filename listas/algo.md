@@ -2,22 +2,23 @@
 title: Lista - Algo
 description: Levantamento colaborativo sobre discriminação algorítimica
 published: true
-date: 2024-10-28T17:00:18.732Z
+date: 2025-09-16T05:26:17.066Z
 tags: projetos
 editor: markdown
 dateCreated: 2023-09-26T20:04:06.398Z
 ---
 
-# Discriminação Algorítmica
+# ALGO - Discriminação Algorítmica
 
-## Laboratório ALGO
+ALGO foi um laboratório de co-criação sobre discriminação algorítmica no Brasil. Reuniu pessoas de diversas regiões do país para coletar referências e insights sobre o tema, com o objetivo de informar a criação de videogames antirracistas. O Lab aconteceu no fim de 2023.
+
+## Lab - sessões
 
 - Primeiro encontro - [tópicos](https://docutopia.sustrato.red/s/ITmyF3pkx#)
 - Recorte da [conversa com Dani e Milton](https://cloud.globalinnovationgathering.org/s/tHdPkb3cRfY772x) (audio)
 - [Ed King - Games Engajados](https://youtu.be/-OG4I80y7Ow)
 - [Rafa Coutinho - Desenvolvendo um game](https://youtu.be/-Sn3DK0BFZ0)
 - Giseli: [Afrofuturismo, Jay Z e Joãosinho 30](https://cloud.globalinnovationgathering.org/s/q9yGJkAf77ExCCQ) (audio)
-
 
 ## Referências
 
