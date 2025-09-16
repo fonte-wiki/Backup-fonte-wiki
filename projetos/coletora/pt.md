@@ -2,7 +2,7 @@
 title: Coletora (Português)
 description: 
 published: true
-date: 2025-09-16T05:46:39.108Z
+date: 2025-09-16T05:49:50.529Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T05:42:05.243Z
@@ -10,7 +10,7 @@ dateCreated: 2025-09-16T05:42:05.243Z
 
 # Coletora (Português)
 
-Coletora é uma metodologia emergente que explora formas de registro e documentação de iniciativas em comunidade. Baseia-se em algumas décadas de aprendizados sobre formas de praticar memória, permanência, rituais coletivos de morte e regeneração.
+Coletora é uma metodologia emergente que explora formas de registro e documentação de iniciativas em comunidade. Baseia-se em algumas décadas de aprendizados sobre formas coletivas e individuais de praticar memória, permanência e regeneração. Tem também por objetivos (ou talvez esse termo seja impreciso, quem sabe "vontades") refletir sobre esquecimento e morte de iniciativas, apagamentos, e reformulações.
 
 **Observação:** as versões em português e [inglês](/projetos/coletora/en) dessa wiki vão evoluir em paralelo. Algumas páginas serão traduzidas, outras não. Isso é intencional.
 
