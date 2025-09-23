@@ -2,7 +2,7 @@
 title: Design Aberto e outras Narrativas sobre Tecnologias
 description: Sistema de Identidade Visual e Assets replicáveis para Mãe d'Água
 published: true
-date: 2025-08-21T18:17:46.255Z
+date: 2025-09-23T18:57:26.132Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-25T17:43:00.612Z
@@ -28,6 +28,7 @@ Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](ht
 
 - Desenvolver um sistema de Identidade Visual para **Mãe d´Água** agregando conceitos e formas sofisticadas, como: [solarpunk](https://aesthetics.fandom.com/wiki/Solarpunk), [afrofuturismo](https://www.nexojornal.com.br/expresso/2020/08/05/o-que-e-afrofuturismo-e-como-ele-aparece-na-cultura-pop), para refletir a mitologia do Orixá que representa 70% da superfície do Planeta e toda vida que nele existe, com tecnologias livres e abertas do it yourself  (DIY);
 - Disponibilizar o pack de assets abertos, como: paleta de cores, fonte, logotipo, patterns, e uma proposta de [badges](https://en.wikipedia.org/wiki/Badge#:~:text=A%20badge%20is%20a%20device,or%20as%20a%20simple%20means) que vão funcionar como [tokens](https://pt.wikipedia.org/wiki/Token_(chave_eletr%C3%B4nica)) de enredamento para classificar cada release de desenvolvimento lançado. Esses itens serão manualizados e o guide de uso também será publicado;
+![badges.png](/projetos/badges.png)
 - Estabelecer uma linguagem replicável para: 1.vídeos curtos-tutorais; 2.vídeos no formato podcast/conversa; 3.vídeos com apelo imagético/documental, como forma de reforçar e tornar a linguagem mais assertiva e reconhecível;
 - Submeter a proposta da criação a eventos e prêmios da categoria, disseminando o conceito da proposta e sublinhando a importância de iniciativas correlatas.
 
