@@ -2,7 +2,7 @@
 title: Coletora (English)
 description: 
 published: true
-date: 2025-09-24T06:40:22.395Z
+date: 2025-09-24T09:20:47.894Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T05:42:10.187Z
@@ -10,7 +10,7 @@ dateCreated: 2025-09-16T05:42:10.187Z
 
 # Coletora (English)
 
-*Coletora** is an open (open-source, open-ended) and emerging methodology informed by 20+ years of community-centred activity. The notes in this wiki are an exercise of simultaneous reflection and practice.
+*[Coletora](/projetos/coletora)** is an open (open-source, open-ended) and emerging methodology informed by 20+ years of community-centred activity. The notes in this wiki are an exercise of simultaneous reflection and practice.
 
 The [spring](en/spring).
 
