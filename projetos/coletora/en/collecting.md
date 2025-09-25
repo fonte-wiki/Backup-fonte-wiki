@@ -2,7 +2,7 @@
 title: Collecting
 description: 
 published: true
-date: 2025-09-25T23:33:50.997Z
+date: 2025-09-25T23:37:39.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-25T23:20:01.655Z
@@ -17,6 +17,8 @@ dateCreated: 2025-09-25T23:20:01.655Z
 > Some weeks ago, talking to one of the students of [NØSCHOOL in Nevers](https://noschoolnevers.com/), I described "my work" as *writing emails*. Later that day, I wrote in my book that my practice is threefold: *I meet people, I walk, I keep notes*. That is, I don't _make_ things... that's not what I centrally do. Not how I define myself. Of course, in material terms I do every so often break, disassemble, change, or repurpose concrete objects. But more importantly: I collect stuff. Physical stuff certainly, but mostly digital stuff. And I store. And organise. And share stories about the things I collect and transform[1]. I have [carried many bags](https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf) over the last decades, and I miss the time when collecting and sharing stuff was easier. I'm old enough to have been a blogger on my formative years. This project (is it a project though?) is partly a reaction to that nostalgic feeling.
 
 *At that point, the idea was to channel this urge of returning to easier ways of collecting, that seemed to have disappeared - through manifold disappointments following the revelations of Assange, Manning and Snowden, the disappearance of politically situated open-source, the corporate capture of initially socially-minded online sociability (blogging turned corporate social media turned algorithmically curated timelines), the waves of crypto, metaverse, AI, and whatnot. I'm pasting below a first outburst of ideas, which now seems to be using too much of a project vocabulary, probably influenced by years of freelancing and jumping from one precarious opportunity to the next.*
+
+***PS.:** oh how pretentious it sounds in hindsight, but I'll excuse myself for the Benjaminian nod, and for a very particular reason[2].*
 
 > (DEPRECATED PROJECT NAME) is a solution (argh!) for autonomous archival, composed of 
 > 
