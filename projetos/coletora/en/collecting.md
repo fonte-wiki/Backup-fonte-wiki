@@ -2,7 +2,7 @@
 title: Collecting
 description: 
 published: true
-date: 2025-09-25T23:37:39.528Z
+date: 2025-09-25T23:38:24.908Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-25T23:20:01.655Z
@@ -20,7 +20,7 @@ dateCreated: 2025-09-25T23:20:01.655Z
 
 ***PS.:** oh how pretentious it sounds in hindsight, but I'll excuse myself for the Benjaminian nod, and for a very particular reason[2].*
 
-> (DEPRECATED PROJECT NAME) is a solution (argh!) for autonomous archival, composed of 
+> (DEPRECATED PROJECT NAME) is a solution for autonomous archival, composed of 
 > 
 > - a set of digital open-source tools,
 > - an open protocol for persistent and sovereign archival,
@@ -60,6 +60,11 @@ dateCreated: 2025-09-25T23:20:01.655Z
 > 4. Share
 > 
 > Here again, you are in full control of your data. Whether you want to keep your notes to yourself, share some or all of them with colleagues and project partners, or make them public to a broader audience, it's always your choice. Create a self-hosted blog with jekyll or hugo, select notes and export them to your fediweb presence, integrate your documentation with a git-backed wiki, or transform your ideas on public ebooks on the fly. You can opt to export your contents to proprietary social media (as all of us need to play the game of public visibility), but you will do that on your terms and maintaining a local copy of your data that will outlive the inevitable disappearance of those corporations.
+
+Will write more later about:
+
+- the Benjaminian nod
+- Obsidian
 
 ---
 
