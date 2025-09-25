@@ -2,7 +2,7 @@
 title: Spring
 description: 
 published: true
-date: 2025-09-25T21:53:52.443Z
+date: 2025-09-25T21:59:49.116Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T06:51:07.020Z
@@ -28,4 +28,4 @@ Open-ended documentation as disguise. Never to be captured. Virtual as in Terran
 
 I edited this text again after first writing, but decided to keep the original mention to a particular date. It's just a departure. The water spring contains the whole river. The river is the spring, and much more. This is not only a subtle nod to the inevitable inconsistency of digital files, it's also a tactics of disguise, of intentional opacity - and here I pretend I did read [Glissant](https://en.wikipedia.org/wiki/%C3%89douard_Glissant). Haven't yet, it's on my list, but I have smarter friends who quoted and contextualised this concept of his. And I like it, as it reminds me of something we did a long time ago in Pará: [maps in which we recognise ourselves; maps that mislead those we're not interested in](https://hacknet.fonte.wiki/). And certainly, [the only things that interest me are those that are not mine. Law of man. Law of the anthropophagite](https://391.org/manifestos/1928-anthropophagite-manifesto-oswald-de-andrade/).
 
-Text-weaving as labyrinth-making. Or, as I feel more authorised to subvert my native language: *textear como labirintar*.
+Text-weaving as labyrinth-making. Or, as I feel more authorised to subvert my native language: *textear como labirintar*. I seem to have trouble being linear. And it's not new. Perhaps these pages are the first time I decide not to care about it, at least "in public". These pages are live - in fonte.wiki, in Coletora -, but arguably no one will read them. Or someone will, and tomorrow I'll have edited these words out. [Be water, my friend](https://www.youtube.com/watch?v=SAEDIKjxKPk). 
