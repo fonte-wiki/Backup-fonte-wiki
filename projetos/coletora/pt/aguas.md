@@ -2,7 +2,7 @@
 title: Águas
 description: 
 published: true
-date: 2025-09-25T09:41:57.393Z
+date: 2025-09-25T09:46:17.173Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T12:06:16.926Z
@@ -23,3 +23,5 @@ Voltando aqui um dia depois pra continuar escrevendo sobre as águas. Faz sentid
 Percebo que meu texto tem aberto parentesis com frequência. É só uma coisa de momento, uma expansão temporária antes de retornar a um modo mais linear? Não sei. Lembro-me de ter incorporado o modo de pensar em linhas de tempo desde bem cedo na minha experiência com a internet. Comecei como blogueiro e listeiro - conseguia lidar com múltiplos fios de conversas. Mas ainda assim, fios, linearidades paralelas.
 
 Certamente, as wikis embaralharam minha percepção e abriram novos campos. Adotei lá em 2003 e sigo até hoje. Ainda assim, fui um adepto e evangelista dos fluxos em RSS e ATOM, e mesmo que tenha no geral abandonado o hábito dos blogues e microblogues, ainda mantenho meu [crescente acervo  de links](https://links.efeefe.me/). E mesmo aqui: é uma coleção linear, em cronologia reversa, mas também pode ser navegada através daS tags e busca. Um (meta-)exemplo relevante nesse contexto: por muito tempo eu pensava em criar uma plataforma de *aprendizado distribuído* (e tenho uma [sub-lista de links](https://links.efeefe.me/?searchterm=&searchtags=metalearning) coletados ao longo dos anos com a tag "metalearning"). Hoje já não sei se uma plataforma digital para aprendizado distribuído faz sentido (ou então, a internet inteira *já é essa platforma*). Mas quero apontar aqui para essa ambiguidade entre linearidade e multi-dimensionalidade.
+
+Quanto desvio nesse texto. E olha que nem comecei. Minha intenção era iniciar dizendo que há uns meses, antes de começar uma viagem que me acabaria me trazendo (uma vez mais) a esses temas, perguntei a minha mãe de santo sobre como me preparar. Ela me disse pra levar minha guia de Caboclo d'Oxum. E assim fiz, exercitando meu ponto. *O olhar sereno, sincero respeito*.
