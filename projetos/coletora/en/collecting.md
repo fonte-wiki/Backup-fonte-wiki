@@ -2,7 +2,7 @@
 title: Collecting
 description: 
 published: true
-date: 2025-09-25T23:29:24.920Z
+date: 2025-09-25T23:30:19.731Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-25T23:20:01.655Z
@@ -12,7 +12,7 @@ dateCreated: 2025-09-25T23:20:01.655Z
 
 **[Coletora](/projetos/coletora) > [Coletora - English](/projetos/coletora/en)**
 
-*I wrote the following paragraph on 12/07/2025. I'd make a point here about time and spirals and how the beginning is never a beginning (or, in other words, [a seed always comes from another seed](https://semente.de)), but there will be more about that as I dig deeper into the [spring](/projetos/coletora/en/en/spring). Suffice to say for now that on that day I first drafted a project definition that was itself a reference to a past conversation, and has since been edited and transformed into something slightly different, as water bodies do.*
+*I wrote the following paragraph on 12/07/2025. I'd make a point here about time and spirals and how the beginning is never a beginning (or, in other words, [a seed always comes from another seed](https://semente.de)), but there will be more about that as I dig deeper into the [spring](/projetos/coletora/en/en/spring). Suffice to say for now that on that day I first drafted a project definition that was itself a reference to a past conversation, and has since been edited and transformed into something slightly different. As water bodies such as this source here tend to do.*
 
 > Some weeks ago, talking to one of the students of [NØSCHOOL in Nevers](https://noschoolnevers.com/), I described "my work" as *writing emails*. I'd later write that my practice is threefold: I meet people, I walk, I keep notes. I don't _make_ things, that's not what I centrally do - not how I define myself. Of course, in material terms I do sometimes break, disassemble, change, repurpose concrete objects. But more importantly, I collect stuff. Physical certainly, but mainly digital stuff. And I store, and organise, and share stories about the things I collect and transform[1]. I have [carried many bags](https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf) over these decades, and miss the time when collecting stuff was easier. I'm old enough to have been a blogger on my formative years. This project (is it a project though?) is partly a reaction to that feeling.
 
