@@ -2,7 +2,7 @@
 title: Spring
 description: 
 published: true
-date: 2025-09-25T22:16:09.499Z
+date: 2025-09-25T22:20:57.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T06:51:07.020Z
@@ -34,9 +34,12 @@ Wiki-sourcing. There, saw it? I just edited one of the sentences above. It was s
 
 It starts with a spring. If I were to devise a cosmology right now, there's where I'd start. No fiat lux, no big bang, no igbin snail (though the latter can arguably be interpreted as a spring, can it not?). Still: *um olho d'água*. A water spring. *Uma fonte*, and here is where it comes full circle - oh no, that's an easy expression in this too easy language that I don't want to overuse. No ellyptical circles, please. On that I prefer to resort once again to the igbin and think of spirals. But that's again diverting from my point, so I'll save this thought - spirals - for later (or rather for earlier, as I did indeed write quite a lot on spirals already).
 
-New paragraph, start over. Pretend you just arrived here, dear oh inexistent reader of these lines I'll eventually delete or let rot and disappear. I was writing about springs. Water springs. In Portuguese, that would be a *nascente* or *olho d'água*. But there's another word that I'm trying to approach here: *uma fonte*. For *fonte* can be translated as "fountain", that sort of upward-squirting demonstration of water abundance, but it also can mean "source". As in "water source". And as - through one of those likely poorly-translated anglicisms we Brazilians adopt every so often - "source code". Código-fonte.
+New paragraph, start over. Pretend you just arrived here, dear oh inexistent reader of these lines I'll eventually delete or let rot and disappear. I was writing about springs. Water springs. In Portuguese, that would be a *nascente* or *olho d'água*. But there's another word that I'm trying to approach here: *uma fonte*. For *fonte* can be translated as "fountain", that sort of upward-squirting demonstration of water abundance, but it also can mean "source". As in "water source". And as - through one of those likely poorly-translated anglicisms we Brazilians adopt every so often - "source code". *Código-fonte*.
 
 Quick side note: so many ideas go through my head when I'm AFK, and then I come back here, start typing, and go in completely different directions. I noticed today that this is making me a bit anxious. But I'll weather on.
 
 It's late and tomorrow I'll start travelling again (I wrote a bit about this year's travels [somewhere else, but in Portuguese only](/projetos/coletora/pt)).
 
+In summary, for now: water spring > water source > source code > *código-fonte* > *fonte*.
+
+This wiki. fonte.wiki. Be water.
