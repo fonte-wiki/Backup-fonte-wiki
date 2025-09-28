@@ -2,7 +2,7 @@
 title: Collecting
 description: 
 published: true
-date: 2025-09-25T23:38:24.908Z
+date: 2025-09-28T02:19:24.877Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-25T23:20:01.655Z
@@ -14,11 +14,11 @@ dateCreated: 2025-09-25T23:20:01.655Z
 
 *I wrote the following paragraph on 12/07/2025. I'd make a point here about time and spirals and how the beginning is never a beginning (or, in other words, [a seed always comes from another seed](https://semente.de)), but there will be more about that as I dig deeper into the [spring](/projetos/coletora/en/en/spring). Suffice to say for now that on that day I first drafted a project definition that was itself a reference to a past conversation, and has since been edited and transformed into something slightly different. As water bodies such as this source here tend to do.*
 
-> Some weeks ago, talking to one of the students of [NØSCHOOL in Nevers](https://noschoolnevers.com/), I described "my work" as *writing emails*. Later that day, I wrote in my book that my practice is threefold: *I meet people, I walk, I keep notes*. That is, I don't _make_ things... that's not what I centrally do. Not how I define myself. Of course, in material terms I do every so often break, disassemble, change, or repurpose concrete objects. But more importantly: I collect stuff. Physical stuff certainly, but mostly digital stuff. And I store. And organise. And share stories about the things I collect and transform[1]. I have [carried many bags](https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf) over the last decades, and I miss the time when collecting and sharing stuff was easier. I'm old enough to have been a blogger on my formative years. This project (is it a project though?) is partly a reaction to that nostalgic feeling.
+> Some weeks ago, talking to one of the students of [NØSCHOOL in Nevers](https://noschoolnevers.com/), I described "my work" as *writing emails*. Later that day, I wrote in my book that my practice is threefold: *I meet people, I walk, I keep notes*. That is, I don't _make_ things... that's not what I centrally do. Not how I define myself. Of course, in material terms I do every so often break, disassemble, change, or repurpose concrete objects. But more importantly: I collect stuff. Physical stuff certainly, but mostly digital stuff. And I store. And organise. And share stories about the things I collect and transform[^1]. I have [carried many bags](https://theanarchistlibrary.org/mirror/u/uk/ursula-k-le-guin-the-carrier-bag-theory-of-fiction.pdf) over the last decades, and I miss the time when collecting and sharing stuff was easier. I'm old enough to have been a blogger on my formative years. This project (is it a project though?) is partly a reaction to that nostalgic feeling.
 
-*At that point, the idea was to channel this urge of returning to easier ways of collecting, that seemed to have disappeared - through manifold disappointments following the revelations of Assange, Manning and Snowden, the disappearance of politically situated open-source, the corporate capture of initially socially-minded online sociability (blogging turned corporate social media turned algorithmically curated timelines), the waves of crypto, metaverse, AI, and whatnot. I'm pasting below a first outburst of ideas, which now seems to be using too much of a project vocabulary, probably influenced by years of freelancing and jumping from one precarious opportunity to the next.*
+*At that point, the idea was to channel this urge of returning to easier ways of collecting, which seemed to have disappeared - through manifold disappointments following the revelations of Assange, Manning and Snowden, the fading out of politically situated open-source, the corporate capture of initially socially-minded online sociability (blogging turned corporate social media turned algorithmically curated timelines), the waves of crypto, metaverse, AI, and whatnot. I'm pasting below what was a first outburst of ideas, which now seems to be using too much of a tech project vocabulary, probably influenced by years of freelancing and jumping from one precarious opportunity to the next.*
 
-***PS.:** oh how pretentious it sounds in hindsight, but I'll excuse myself for the Benjaminian nod, and for a very particular reason[2].*
+***PS.:** oh how confusingly solutionist and pretentious it sounds in hindsight, but I'll excuse myself for the Benjaminian nod with another fragment of a story[^2].*
 
 > (DEPRECATED PROJECT NAME) is a solution for autonomous archival, composed of 
 > 
@@ -69,3 +69,5 @@ Will write more later about:
 ---
 
 [1] That formulation would be reused for my talk at [Fixfest 2025 in London](https://fixfest.therestartproject.org/fixfest-2025). As I type these words, the recording has not yet been published, and I tend to ignore my "speaker notes". But I probably said something along the lines of the following: *I send emails. I meet people. I collect stories and links. I share those stories (and repeat myself a lot). I walk. I write.*
+
+[^2] 
