@@ -2,7 +2,7 @@
 title: Collecting
 description: 
 published: true
-date: 2025-09-28T02:25:42.934Z
+date: 2025-09-28T02:40:43.560Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-25T23:20:01.655Z
@@ -18,7 +18,7 @@ dateCreated: 2025-09-25T23:20:01.655Z
 
 *At that point, the idea was to channel this urge of returning to easier ways of collecting, which seemed to have disappeared - through manifold disappointments following the revelations of Assange, Manning and Snowden, the fading out of politically situated open-source, the corporate capture of initially socially-minded online sociability (blogging turned corporate social media turned algorithmically curated timelines), the waves of crypto, metaverse, AI, and whatnot. I'm pasting below what was a first outburst of ideas.*
 
-***PS.:** oh how confusingly solutionist and pretentious it sounds in hindsight. I'm excusing myself for using too much of a tech project vocabulary after years of freelancing and jumping from one precarious opportunity to the next. And for the Benjaminian nod with another story fragment: [the Benjaminian nod](#Benjaminian).
+***PS.:** oh how confusingly solutionist and pretentious it sounds in hindsight. I'm excusing myself for using too much of a tech project vocabulary after years of freelancing and jumping from one precarious opportunity to the next. And for the Benjaminian nod with another story fragment: [the Benjaminian nod](/projetos/coletora/en/Loire#Benjaminian).
 
 ## A project that never was
 
@@ -63,9 +63,10 @@ dateCreated: 2025-09-25T23:20:01.655Z
 > 
 > Here again, you are in full control of your data. Whether you want to keep your notes to yourself, share some or all of them with colleagues and project partners, or make them public to a broader audience, it's always your choice. Create a self-hosted blog with jekyll or hugo, select notes and export them to your fediweb presence, integrate your documentation with a git-backed wiki, or transform your ideas on public ebooks on the fly. You can opt to export your contents to proprietary social media (as all of us need to play the game of public visibility), but you will do that on your terms and maintaining a local copy of your data that will outlive the inevitable disappearance of those corporations.
 
+---
+
 Will write more later about:
 
-- the Benjaminian nod
 - Obsidian
 
 ---
