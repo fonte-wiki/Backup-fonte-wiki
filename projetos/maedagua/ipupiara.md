@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-02T18:14:50.117Z
+date: 2025-10-02T18:45:46.276Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
