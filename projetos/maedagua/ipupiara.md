@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-02T17:59:43.634Z
+date: 2025-10-02T18:10:15.896Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -12,6 +12,8 @@ dateCreated: 2025-10-02T17:43:04.800Z
 e existe um oceano livre por aqui
 
 ## Ipupiara
+
+![ipupiara_1.png](/projetos/maedagua/ipupiara_1.png)
 
 Imagem, mitologia, história, o que aconteceu em São Vicente
 Guardião, moço-bonito (autopsia)
