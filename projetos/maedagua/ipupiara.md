@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-02T18:10:15.896Z
+date: 2025-10-02T18:12:00.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -17,6 +17,7 @@ e existe um oceano livre por aqui
 
 Imagem, mitologia, história, o que aconteceu em São Vicente
 Guardião, moço-bonito (autopsia)
+Medusa, recontar a história me too
 Espectro, Ipupiara como ZASF, terrorismo poético, tecnomagia
 linkar os 3 temas
 
