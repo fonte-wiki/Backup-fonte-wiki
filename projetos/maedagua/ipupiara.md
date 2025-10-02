@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-02T17:56:38.656Z
+date: 2025-10-02T17:59:32.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -32,4 +32,5 @@ Como tudo era no princípio, artigo do efe de obras mortas no museu (território
 
 Inspirado na imagem dos acervos da proclamação da republica, vamos reler esse quadro buscando uma leitura da ecologia da paisagem, contemplando ciclos da biodiversidade, espécies de fauna e flora, geografia, clima, etc.
 
-Glossário https://fonte.wiki/projetos/maedagua/glossariodecolonial
+
+[Glossário](/projetos/maedagua/glossariodecolonial) 
