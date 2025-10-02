@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-10-02T17:28:48.115Z
+date: 2025-10-02T17:34:50.029Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -59,7 +59,7 @@ A partir delas geramos um conjunto de produtos extensionistas, agregados numa [Z
 ![ipupiara_1.png](/projetos/maedagua/ipupiara_1.png)
 
 
-Ipupiara, como ZASF, abriga além do conteúdo da nossa base conceitual, um [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) elaborado a partir da releitura do quadro [Fundação de São Vicente, de Bedenito Calixto](https://doi.org/10.1590/1982-02672019v27e17d2) e um documentário sobre o processo.
+[Ipupiara](/projetos/maedagua/ipupiara), como ZASF, abriga além do conteúdo da nossa base conceitual, um [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) elaborado a partir da releitura do quadro [Fundação de São Vicente, de Bedenito Calixto](https://doi.org/10.1590/1982-02672019v27e17d2) e um documentário sobre o processo.
 
 ![prancheta_4_cópia.png](/projetos/maedagua/prancheta_4_cópia.png)
 
