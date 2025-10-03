@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: 
 published: true
-date: 2025-09-01T10:52:50.093Z
+date: 2025-10-03T21:26:41.499Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -18,7 +18,9 @@ Um exemplo literal é portal culturadigital.br, que costumava ser financiado e m
 
 Esse caso, certamente não isolado, nos leva a problematizar sobre a importância de [cuidar](https://fonte.wiki/pt-br/projetos/cuidado) para quem e onde “confiamos” a guarda de acervos coletivos. Assim como, alertar sobre a necessidade da criação e manutenção de repositórios abertos, [em um momento que humanidade vive a desmaterialização e a desintegração da produção artística, científica e cultural](https://www.researchgate.net/publication/355046424_The_Big_Techification_of_Everything). Compreendendo, também, a maneira que esses repositórios possam vir a apoiar comunidades (locais ou distribuídas) como ambientes seguros de troca e experimentação, em contraponto à [monocultura das plataformas sob gestão de big techs](https://www.noemamag.com/we-need-to-rewild-the-internet/).
 
-Nesse contexto, a palavra cuidado pode ser explorada em dois sentidos. O primeiro deles é concreto e prático, embora também afetivo: o cuidado no sentido de manutenção, de cuidar daquilo que é importante para que esteja e continue acessível, não se desatualize. Pensar em estruturas que considerem uma documentação viva, ou seja, uma documentação digital com compartilhamento que “acontece enquanto as coisas acontecem”.
+Nesse contexto, a palavra **cuidado **pode ser explorada em dois sentidos. O primeiro deles é concreto e prático, embora também afetivo: o cuidado no sentido de manutenção, de cuidar daquilo que é importante para que esteja e continue acessível, não se desatualize. Pensar em estruturas que considerem uma documentação viva, ou seja, uma documentação digital com compartilhamento que “acontece enquanto as coisas acontecem”.
+
+![cuidado.png](/projetos/maedagua/cuidado.png)
 
 Plataformas [wikis](https://pt.wikiversity.org/wiki/Ajuda:O_que_%C3%A9_uma_Wiki%3F) mostram-se uma alternativa potencial nesse sentido, por permitirem um formato de edição colaborativo e intuitivo, que independe de habilidades de programação ou acesso a servidores. Em contrapartida, precisam da “jardinagem”: uma analogia ao cuidado necessário para manutenção de jardins, que remete à ação concreta de cultivo, checagem, investimento de tempo e compromisso. Já que um wiki precisa ser planejado desde a hierarquia de seu conteúdo, até a moderação, revisão e edição para que mantenha sua contínua atualização. 
 
