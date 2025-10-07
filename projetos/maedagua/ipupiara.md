@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T18:35:12.282Z
+date: 2025-10-07T18:40:11.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -20,14 +20,14 @@ e existe um oceano livre por aqui
 ![ipu1.png](/projetos/maedagua/ipu1.png)
 A "morte" de Ipupiara (GÂNDAVO, 1575).
 
-Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na Praça 22 de janeiro, retratando-o de forma asustadora. Mas, ela pegou fogo misteriosamente em 2016. 
+Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na [**Praça 22 de Janeiro**](https://maps.app.goo.gl/ixfp87b4SQrkwcMH8), retratando-o de forma asustadora. Mas, ela pegou [fogo misteriosamente em 2016](https://g1.globo.com/sp/santos-regiao/noticia/2016/02/monumento-lenda-do-ipupiara-pega-fogo-em-sao-vicente-sp.html). 
 
 ![ipu3.png](/projetos/maedagua/ipu3.png)
 A estátua, com a representação de Ipupiara, que não existe mais
 
-E, como a história funciona como um conjunto de memórias, que podem influenciar na elaboração de narrativas e desejos de futuros, [vamos contá-la de outra forma dessa vez](https://www.bbc.com/portuguese/internacional-54669548).
+Como a história funciona como um conjunto de memórias, que pode influenciar  narrativas e desejos de futuros, [vamos contá-la de outra forma dessa vez](https://www.bbc.com/portuguese/internacional-54669548).
 
-Ibupiara, como retratado em sua autópsia (CÔRREA, 2006), não é um monstro, mas um moço bonito, da mesma família dos botos de água-doce. 
+**Ipupiara**, como retratado em sua autópsia (CÔRREA, 2006), não é um monstro, mas um moço bonito, da mesma família dos [botos de água-doce](https://www.nationalgeographicbrasil.com/animais/2023/07/boto-cor-de-rosa-a-lenda-do-animal-que-se-transforma-em-humano-e-outras-curiosidades-0). 
 
 ![ipu2.png](/projetos/maedagua/ipu2.png)
 A autópsia de Ipupiara (CÔRREA, 2006).
