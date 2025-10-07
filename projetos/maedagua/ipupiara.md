@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T18:09:28.027Z
+date: 2025-10-07T18:16:12.287Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -20,20 +20,19 @@ e existe um oceano livre por aqui
 ![ipu1.png](/projetos/maedagua/ipu1.png)
 A "morte" de Ipupiara (GÂNDAVO,1575).
 
-Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. 
-
-(iMAGEM autopsia)
-
-Chegaram a criar uma estátua na Praça 22 de janeiro, retratando-o de forma asustadora. Mas, ela pegou fogo misteriosamente em 2016. 
+Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na Praça 22 de janeiro, retratando-o de forma asustadora. Mas, ela pegou fogo misteriosamente em 2016. 
 
 (iMAGEM estatua)
 
 E, como a história funciona como um conjunto de memórias, que podem influenciar na elaboração de narrativas e desejos de futuros, [vamos contá-la de outra forma dessa vez](https://www.bbc.com/portuguese/internacional-54669548).
 
+Ibupiara, como retratado em sua autópsia (CÔRREA, 2006), não é um monstro, mas um moço bonito, da mesma família dos botos de água-doce. 
+
+(iMAGEM autopsia)
+
+Vive em bando, em águas salgadas, tem um cérebro muito inteligente, conectado em rede. Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de brain net. 
 
 
-Guardião, moço-bonito 
-Medusa, recontar a história me too
 Espectro, Ipupiara como ZASF, terrorismo poético, tecnomagia
 linkar os 3 temas
 
