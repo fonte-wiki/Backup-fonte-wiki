@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T18:40:11.446Z
+date: 2025-10-07T18:52:10.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -32,11 +32,11 @@ Como a história funciona como um conjunto de memórias, que pode influenciar  n
 ![ipu2.png](/projetos/maedagua/ipu2.png)
 A autópsia de Ipupiara (CÔRREA, 2006).
 
-Vive em bandos, em águas salgadas, tem um cérebro muito inteligente, conectado em rede. Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de brain net, e desenhar imaginários livres para guardar os oceanos e mares de exploradores.
+Vive em bandos, [em águas salgadas, tem um cérebro muito inteligente, conectado em rede](https://super.abril.com.br/ciencia/a-verdadeira-inteligencia-dos-golfinhos/#:~:text=Al%C3%A9m%20disso%2C%20vis%C3%A3o%20e%20audi%C3%A7%C3%A3o,grande%20quanto%20cumprimentar%20um%20ET.). Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de *BraiNet*, ou seja uma colaboração direta entre cérebros (JIANG, *et al*., 2019), e desenhar imaginários livres para guardar os oceanos e mares de exploradores.
 
-O primeiro relato, de Gândavo (1564), conta que certa noite Ipupiara aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles eram amigos, e se encontravam para planejar futuros livres - assim como era antes da chamada "Fundação" de São Vicente. Quando o Capitão Baltasar Ferreira viu a felicidade e a interação dos dois, golepou Ipupiara com uma espada. E fez sua morte servir como exemplo, para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
+O primeiro relato, de Gândavo (1564), conta que certa noite **Ipupiara** aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles se encontravam para planejar futuros livres - assim como era antes da chamada "Fundação" de São Vicente. Quando o Capitão Baltasar Ferreira viu a interação dos dois, golpeou Ipupiara com uma espada. E fez sua morte "servir de exemplo", para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
 
-Desde então, Ipupiara virou um espectro livre, que às vezes aparece, às vezes some, como éter que inflamou a queima da estátua indevida. Encantou-se e ainda está por aí. 
+Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece, às vezes some, como éter que inflamou a queima da estátua indevida. *Encantou-se e ainda está por aí. *
 
 
 objetivo da ZASF - prototipo que possam ser replicados por comunidades de interesse e dados fiquem livres de big techs
@@ -58,5 +58,6 @@ Inspirado na imagem dos acervos da proclamação da republica, vamos reler esse 
 
 ## Referências
 - CORRÊA, Walmor. **Unheimlich – imaginário popular brasileiro**. Porto Alegre, 2006 Disponível em https://www.walmorcorrea.com.br/tb9xwueavmf3u42349n0vtea53195m.
-- GÂNDAVO, P. M. História da Província de Santa Cruz: A que vulgarmente. chamamos Brasil, 1575. Biblioteca Nacional de Portgual. Disponível em https://purl.pt/121/4/res-365-p_PDF/res-365-p_PDF_24-C-R0150/res-365-p_0000_capa-capa_t24-C-R0150.pdf .
+- GÂNDAVO, P. M. **História da Província de Santa Cruz: A que vulgarmente. chamamos Brasil, 1575**. Biblioteca Nacional de Portgual. Disponível em https://purl.pt/121/4/res-365-p_PDF/res-365-p_PDF_24-C-R0150/res-365-p_0000_capa-capa_t24-C-R0150.pdf .
+- JIANG, L., STOCCO, A., LOSEY, D.M., *et al*. **BrainNet: Uma interface cérebro-a-cérebro multipessoal para colaboração direta entre cérebros**. Sci Rep 9:6115, 2019. Disponível em: https://doi.org/10.1038/s41598-019-41895-7 .
 - NAVARRO, E. A. **Dicionário de Tupi Antigo: a Língua Indígena Clássica do Brasil**. São Paulo: Global Editora, 2013.
