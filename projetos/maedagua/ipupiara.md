@@ -1,8 +1,8 @@
 ---
-title: Você não está na Internet, está no Ipupiara
+title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T18:57:01.553Z
+date: 2025-10-07T19:04:30.272Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -39,8 +39,9 @@ Vive em bandos, [em águas salgadas, tem um cérebro muito inteligente, conectad
 
 O primeiro relato, de Gândavo (1564), conta que certa noite **Ipupiara** aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles se encontravam para planejar futuros livres - assim como era antes da chamada "Fundação" de São Vicente. Quando o Capitão Baltasar Ferreira viu a interação dos dois, golpeou Ipupiara com uma espada. E fez sua morte "servir de exemplo", para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
 
-Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece, às vezes some, como éter que inflamou a queima da estátua indevida. *Encantou-se e ainda está por aí. *
+Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece, às vezes some, como éter que inflamou a queima da estátua indevida. *Encantou-se, mas ainda está por aí.*
 
+## Zona Autônoma sem Fio - ZASF
 
 objetivo da ZASF - prototipo que possam ser replicados por comunidades de interesse e dados fiquem livres de big techs
  uso e a avaliação crítica de tecnologias livres que auxiliem na gestão sustentável dos recursos naturais e na conservação dos ecossistemas locais
