@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T18:16:12.287Z
+date: 2025-10-07T18:18:20.880Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -28,7 +28,8 @@ E, como a história funciona como um conjunto de memórias, que podem influencia
 
 Ibupiara, como retratado em sua autópsia (CÔRREA, 2006), não é um monstro, mas um moço bonito, da mesma família dos botos de água-doce. 
 
-(iMAGEM autopsia)
+![ipu2.png](/projetos/maedagua/ipu2.png)
+A autópsia de Ipupiara (CÔRREA, 2006).
 
 Vive em bando, em águas salgadas, tem um cérebro muito inteligente, conectado em rede. Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de brain net. 
 
