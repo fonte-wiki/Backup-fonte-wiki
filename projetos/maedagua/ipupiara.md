@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T18:18:56.202Z
+date: 2025-10-07T18:35:12.282Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -22,7 +22,8 @@ A "morte" de Ipupiara (GÂNDAVO, 1575).
 
 Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na Praça 22 de janeiro, retratando-o de forma asustadora. Mas, ela pegou fogo misteriosamente em 2016. 
 
-(iMAGEM estatua)
+![ipu3.png](/projetos/maedagua/ipu3.png)
+A estátua, com a representação de Ipupiara, que não existe mais
 
 E, como a história funciona como um conjunto de memórias, que podem influenciar na elaboração de narrativas e desejos de futuros, [vamos contá-la de outra forma dessa vez](https://www.bbc.com/portuguese/internacional-54669548).
 
@@ -31,11 +32,12 @@ Ibupiara, como retratado em sua autópsia (CÔRREA, 2006), não é um monstro, m
 ![ipu2.png](/projetos/maedagua/ipu2.png)
 A autópsia de Ipupiara (CÔRREA, 2006).
 
-Vive em bando, em águas salgadas, tem um cérebro muito inteligente, conectado em rede. Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de brain net. 
+Vive em bandos, em águas salgadas, tem um cérebro muito inteligente, conectado em rede. Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de brain net, e desenhar imaginários livres para guardar os oceanos e mares de exploradores.
 
+O primeiro relato, de Gândavo (1564), conta que certa noite Ipupiara aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles eram amigos, e se encontravam para planejar futuros livres - assim como era antes da chamada "Fundação" de São Vicente. Quando o Capitão Baltasar Ferreira viu a felicidade e a interação dos dois, golepou Ipupiara com uma espada. E fez sua morte servir como exemplo, para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
 
-Espectro, Ipupiara como ZASF, terrorismo poético, tecnomagia
-linkar os 3 temas
+Desde então, Ipupiara virou um espectro livre, que às vezes aparece, às vezes some, como éter que inflamou a queima da estátua indevida. Encantou-se e ainda está por aí. 
+
 
 objetivo da ZASF - prototipo que possam ser replicados por comunidades de interesse e dados fiquem livres de big techs
  uso e a avaliação crítica de tecnologias livres que auxiliem na gestão sustentável dos recursos naturais e na conservação dos ecossistemas locais
