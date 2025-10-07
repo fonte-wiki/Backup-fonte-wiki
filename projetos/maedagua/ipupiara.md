@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T17:52:15.175Z
+date: 2025-10-07T18:00:47.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -18,7 +18,7 @@ e existe um oceano livre por aqui
 **Ipupiara**, é um encantado da mitologia tupi *aquele que mora dentro d'água salgada* (NAVARRO, 2013). Seus primeiros registros datam da época do Brasil Colônia, nas praias de São Vicente, no litoral de São Paulo - e tiveram uma abordagem colonial, que não só o descreveu como um monstro marinho, mas também como uma criatura que deveria ser dominada e destruída pelo homem branco. 
 
 ![ipu1.png](/projetos/maedagua/ipu1.png)
-A morte de Ipupiara, relatada na História da Província de Santa Cruz, de Pero de Magalhães Gândavo.
+A morte de Ipupiara, relatada na História da Província de Santa Cruz, de Pero de Magalhães Gândavo, de 1575.
 
 Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. 
 
@@ -55,5 +55,5 @@ Inspirado na imagem dos acervos da proclamação da republica, vamos reler esse 
 [Glossário](/projetos/maedagua/glossariodecolonial) 
 
 ## Referências
-
-- NAVARRO, E. A. **Dicionário de Tupi Antigo: a Língua Indígena Clássica do Brasil**. São Paulo: Global Editora, 2013. 
+- GÂNDAVO, P.M. História da Província de Santa Cruz: A que vulgarmente. chamamos Brasil, 1575. Biblioteca Nacional de Portgual. Disponível em https://purl.pt/121/4/res-365-p_PDF/res-365-p_PDF_24-C-R0150/res-365-p_0000_capa-capa_t24-C-R0150.pdf .
+- NAVARRO, E. A. **Dicionário de Tupi Antigo: a Língua Indígena Clássica do Brasil**. São Paulo: Global Editora, 2013.
