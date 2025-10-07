@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T19:07:50.440Z
+date: 2025-10-07T19:26:43.548Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -35,15 +35,22 @@ Já que a história funciona como um conjunto de memórias, que pode influenciar
 
 A autópsia de Ipupiara (CÔRREA, 2006).
 
-Vive em bandos, [em águas salgadas, tem um cérebro muito inteligente, conectado em rede](https://super.abril.com.br/ciencia/a-verdadeira-inteligencia-dos-golfinhos/#:~:text=Al%C3%A9m%20disso%2C%20vis%C3%A3o%20e%20audi%C3%A7%C3%A3o,grande%20quanto%20cumprimentar%20um%20ET.). Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de *BraiNet*, ou seja uma colaboração direta entre cérebros (JIANG, *et al*., 2019), e desenhar imaginários livres para guardar os oceanos e mares de exploradores.
+Vive em bandos, [em águas salgadas, tem um cérebro muito inteligente, e conectado em rede](https://super.abril.com.br/ciencia/a-verdadeira-inteligencia-dos-golfinhos/#:~:text=Al%C3%A9m%20disso%2C%20vis%C3%A3o%20e%20audi%C3%A7%C3%A3o,grande%20quanto%20cumprimentar%20um%20ET.). Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de *BraiNet* - fazer uma colaboração direta entre cérebros (JIANG, *et al*., 2019), e desenhar imaginários livres para guardar os oceanos e mares de exploradores.
 
-O primeiro relato, de Gândavo (1564), conta que certa noite **Ipupiara** aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles se encontravam para planejar futuros livres - assim como era antes da chamada "Fundação" de São Vicente. Quando o Capitão Baltasar Ferreira viu a interação dos dois, golpeou Ipupiara com uma espada. E fez sua morte "servir de exemplo", para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
+O primeiro relato de Gândavo (1564), conta em uma determinada noite (de céu estrelado) **Ipupiara** aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles se encontravam para planejar futuros livres - assim como eram as coisas, antes da chamada "Fundação" de São Vicente. Quando o Capitão Baltasar Ferreira viu a interação dos dois, golpeou Ipupiara com uma espada. E fez sua morte "servir de exemplo", para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
 
 Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece, às vezes some, como éter que inflamou a queima da estátua indevida. *Encantou-se, mas ainda está por aí.*
 
 ## Zona Autônoma sem Fio - ZASF
 
-objetivo da ZASF - prototipo que possam ser replicados por comunidades de interesse e dados fiquem livres de big techs
+**Ipupiara** surge como uma ZASF, que na verdade é uma proposta para a criação de redes wi-fi autônomas de uso experimental e informacional. É uma ação de uso crítico de tecnologias para a criação de zonas autônomas sem fio, em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados.
+
+> Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
+{.is-info}
+
+Funciona como uma rede localizada em ambiente público, e acessível a qualquer dispositivo que queira se conectar a ela. Uma vez dentro da rede, qualquer tentativa de navegar na internet direciona o dispositivo para um site local, no caso o Ipupiara, oferecendo conteúdo sobre X, X, X e o Glossário Decolonial 
+
+A documentação desse protótipo encontra-se aberta para que possa ser replicado, em outras comunidades de interesse e seus dados seguros, livres de big techs
  uso e a avaliação crítica de tecnologias livres que auxiliem na gestão sustentável dos recursos naturais e na conservação dos ecossistemas locais
  mecanismos participativos para monitoramento de parâmetros ambientais e impactos socioeconômicos das atividades pesqueiras, promovendo a sustentabilidade a longo prazo;
 Capacitar as comunidades para contribuir com a formulação de políticas públicas que visem a proteção do meio ambiente e a valorização das práticas tradicionais.
