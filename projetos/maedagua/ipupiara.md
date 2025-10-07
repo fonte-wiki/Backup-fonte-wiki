@@ -2,13 +2,13 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T18:52:10.852Z
+date: 2025-10-07T18:54:13.279Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
 ---
 
-# Você não está na Internet, está no Ipupiara
+# Você está no Ipupiara
 e existe um oceano livre por aqui
 
 ## Ipupiara
