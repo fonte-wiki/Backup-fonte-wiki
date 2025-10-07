@@ -2,7 +2,7 @@
 title: Você não está na Internet, está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T18:54:13.279Z
+date: 2025-10-07T18:55:12.389Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -18,11 +18,13 @@ e existe um oceano livre por aqui
 **Ipupiara**, é um encantado da mitologia tupi *aquele que mora dentro d'água salgada* (NAVARRO, 2013). Seus primeiros registros datam da época do Brasil Colônia, nas praias de São Vicente, no litoral de São Paulo - e tiveram uma abordagem colonial, que não só o descreveu como um monstro marinho, mas também como uma criatura que deveria ser dominada e destruída pelo homem branco. 
 
 ![ipu1.png](/projetos/maedagua/ipu1.png)
+
 A "morte" de Ipupiara (GÂNDAVO, 1575).
 
 Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na [**Praça 22 de Janeiro**](https://maps.app.goo.gl/ixfp87b4SQrkwcMH8), retratando-o de forma asustadora. Mas, ela pegou [fogo misteriosamente em 2016](https://g1.globo.com/sp/santos-regiao/noticia/2016/02/monumento-lenda-do-ipupiara-pega-fogo-em-sao-vicente-sp.html). 
 
 ![ipu3.png](/projetos/maedagua/ipu3.png)
+
 A estátua, com a representação de Ipupiara, que não existe mais
 
 Como a história funciona como um conjunto de memórias, que pode influenciar  narrativas e desejos de futuros, [vamos contá-la de outra forma dessa vez](https://www.bbc.com/portuguese/internacional-54669548).
@@ -30,6 +32,7 @@ Como a história funciona como um conjunto de memórias, que pode influenciar  n
 **Ipupiara**, como retratado em sua autópsia (CÔRREA, 2006), não é um monstro, mas um moço bonito, da mesma família dos [botos de água-doce](https://www.nationalgeographicbrasil.com/animais/2023/07/boto-cor-de-rosa-a-lenda-do-animal-que-se-transforma-em-humano-e-outras-curiosidades-0). 
 
 ![ipu2.png](/projetos/maedagua/ipu2.png)
+
 A autópsia de Ipupiara (CÔRREA, 2006).
 
 Vive em bandos, [em águas salgadas, tem um cérebro muito inteligente, conectado em rede](https://super.abril.com.br/ciencia/a-verdadeira-inteligencia-dos-golfinhos/#:~:text=Al%C3%A9m%20disso%2C%20vis%C3%A3o%20e%20audi%C3%A7%C3%A3o,grande%20quanto%20cumprimentar%20um%20ET.). Aparece em noites de lua cheia, perto da orla, e chama moças para sincronizar sinapses, brincar de *BraiNet*, ou seja uma colaboração direta entre cérebros (JIANG, *et al*., 2019), e desenhar imaginários livres para guardar os oceanos e mares de exploradores.
