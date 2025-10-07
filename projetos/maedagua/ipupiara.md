@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-07T19:06:02.769Z
+date: 2025-10-07T19:07:09.742Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -27,7 +27,7 @@ Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do
 
 A estátua, com a representação de Ipupiara, que não existe mais
 
-Como a história funciona como um conjunto de memórias, que pode influenciar  narrativas e desejos de futuros, [vamos contá-la de outra forma dessa vez](https://www.bbc.com/portuguese/internacional-54669548).
+Já que a história funciona como um conjunto de memórias, que pode influenciar  narrativas e desejos de futuros, dessa vez, [vamos contá-la de outra forma](https://www.bbc.com/portuguese/internacional-54669548).
 
 **Ipupiara**, como retratado em sua autópsia (CÔRREA, 2006), não é um monstro, mas um moço bonito, da mesma família dos [botos de água-doce](https://www.nationalgeographicbrasil.com/animais/2023/07/boto-cor-de-rosa-a-lenda-do-animal-que-se-transforma-em-humano-e-outras-curiosidades-0). 
 
