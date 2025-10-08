@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T15:19:43.828Z
+date: 2025-10-08T15:21:49.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -17,12 +17,12 @@ e existe um oceano livre por aqui
 
 **Ipupiara** é um encantado da mitologia tupi: *aquele que mora dentro d'água salgada* (NAVARRO, 2013). Seus primeiros registros datam da época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/), nas praias de São Vicente, no litoral de São Paulo - e tiveram uma abordagem colonial,que não só o descreveu como um monstro marinho, mas também como uma criatura que deveria ser dominada e destruída pelo homem branco (BOSI, 1992; GÂNDAVO, 1575). 
 
-![ipu1.png](/projetos/maedagua/ipu1.png)
+![ipu1.png](/projetos/maedagua/ipu1.png){.align-center}
 A "morte" de Ipupiara (GÂNDAVO, 1575).
 
 Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na [**Praça 22 de Janeiro**](https://maps.app.goo.gl/ixfp87b4SQrkwcMH8), que o retratava de forma asustadora, mas foi incendiada [em 2016](https://g1.globo.com/sp/santos-regiao/noticia/2016/02/monumento-lenda-do-ipupiara-pega-fogo-em-sao-vicente-sp.html). 
 
-![ipufogo.png](/projetos/maedagua/ipufogo.png)
+![ipufogo.png](/projetos/maedagua/ipufogo.png){.align-center}
 A estátua, com a representação de Ipupiara, que não existe mais. Autor: Carlos Abelha/G1, 2016.
 
 Já que a história funciona como um conjunto de memórias, que pode influenciar  narrativas e desejos de futuros, dessa vez, [vamos contá-la de outra forma](https://www.bbc.com/portuguese/internacional-54669548).
