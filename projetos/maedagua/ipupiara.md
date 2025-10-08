@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T16:31:16.320Z
+date: 2025-10-08T16:33:02.853Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -18,25 +18,32 @@ e existe um oceano livre por aqui
 **Ipupiara** é um encantado da mitologia tupi: *aquele que mora dentro d'água salgada* (NAVARRO, 2013). Seus primeiros registros datam da época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/), nas praias de São Vicente, no litoral de São Paulo - e tiveram uma abordagem colonial,que não só o descreveu como um monstro marinho, mas também como uma criatura que deveria ser dominada e destruída pelo homem branco (BOSI, 1992; GÂNDAVO, 1575). 
 
 ![ipu1.png](/projetos/maedagua/ipu1.png)
+
 Ilustração de como teria sido a "morte de Ipupiara" (GÂNDAVO, 1575).
+
 
 Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na [**Praça 22 de Janeiro**](https://maps.app.goo.gl/ixfp87b4SQrkwcMH8), que o retratava de forma asustadora, mas foi incendiada [em 2016](https://g1.globo.com/sp/santos-regiao/noticia/2016/02/monumento-lenda-do-ipupiara-pega-fogo-em-sao-vicente-sp.html). 
 
 ![ipufogo.png](/projetos/maedagua/ipufogo.png)
+
 A estátua, com a representação de Ipupiara, que não existe mais. Autor: Carlos Abelha/G1, 2016.
+
 
 Já que a história funciona como um conjunto de memórias, que pode influenciar  narrativas e desejos de futuros, dessa vez, [vamos contá-la de outra forma](https://www.bbc.com/portuguese/internacional-54669548).
 
 **Ipupiara**, como retratado em sua autópsia por Côrrea (2006), não é um monstro, mas um moço bonito, da mesma família dos [botos de água-doce](https://www.nationalgeographicbrasil.com/animais/2023/07/boto-cor-de-rosa-a-lenda-do-animal-que-se-transforma-em-humano-e-outras-curiosidades-0). 
 
 ![ipu2.png](/projetos/maedagua/ipu2.png)
+
 A autópsia de Ipupiara (CÔRREA, 2006).
+
 
 Sua espécie, vive em bandos [nas águas salgadas, tem um cérebro muito inteligente e conectado em rede](https://super.abril.com.br/ciencia/a-verdadeira-inteligencia-dos-golfinhos/#:~:text=Al%C3%A9m%20disso%2C%20vis%C3%A3o%20e%20audi%C3%A7%C3%A3o,grande%20quanto%20cumprimentar%20um%20ET.). Ele aparece em noites de lua cheia, perto da orla, e chama moças inquietas para sincronizar sinapses, brincar de [BrainNet](https://doi.org/10.1038/s41598-019-41895-7) e desenhar imaginários livres para proteger os oceanos e mares de exploradores.
 
 O primeiro relato de Gândavo (1564), conta que em uma determinada noite **Ipupiara** aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles já se encontravam há tempos para planejar futuros livres - assim como eram as coisas, antes da chamada "Fundação" de São Vicente. Quando o Capitão Baltasar Ferreira viu a interação dos dois, golpeou Ipupiara com uma espada. E assim fez sua morte "servir de exemplo", para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
 
 Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece, às vezes some, como [éter](https://michaelis.uol.com.br/busca?id=zvyO) que inflamou a queima da estátua indevida. *Encantou-se, mas ainda está por aí.*
+
 
 ## Zona Autônoma sem Fio - ZASF
 
@@ -51,6 +58,7 @@ Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer di
 #### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](https://maedagua.fonte.wiki/antropoceno)
 #### [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
 #### Minidocumentário
+
 
 A documentação desse protótipo encontra-se aberta, para que possa ser replicada em outras comunidades costeiras e pesqueiras de interesse, auxiliando-as na gestão de dados sobre recursos ecossistêmicos locais (como: monitoramento de parâmetros climáticos e ambientais, impactos socioeconômicos das atividades pesqueiras, memória e cultura, etc), para que possam fomentar estratégias táticas para a proteção desses territórios e populações.
 
