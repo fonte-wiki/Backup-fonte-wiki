@@ -1,8 +1,8 @@
 ---
 title: Glossário Decolonial Colaborativo
-description: Uma leitura socioecológica da obra "Fundação de São Vicente" em 2025
+description: Uma outra leitura da obra "Fundação de São Vicente" em 2025
 published: true
-date: 2025-10-08T16:14:23.781Z
+date: 2025-10-08T16:15:09.415Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
