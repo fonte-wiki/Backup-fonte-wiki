@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T15:35:30.839Z
+date: 2025-10-08T15:41:30.432Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -40,12 +40,11 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 
 ## Zona Autônoma sem Fio - ZASF
 
-**Ipupiara** surge como uma ZASF, que na verdade é uma proposta para a criação de redes wi-fi autônomas de uso experimental e informacional. É uma ação de uso crítico de tecnologias para a criação de zonas autônomas sem fio, em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados.
+**Ipupiara** surge como uma [ZASF](https://desvio.github.io/blog/zasf/), como uma proposta para a criação de redes *wi-fis* autônomas para uso experimental e informacional. É uma ação de uso crítico de tecnologias em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados.
 
 > Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
-{.is-info}
 
-Funciona como uma rede localizada em ambiente público, e acessível a qualquer dispositivo que queira se conectar a ela. Uma vez dentro da rede, qualquer tentativa de navegar na internet direciona o dispositivo para um site local, no caso o Ipupiara, oferecendo conteúdo sobre X, X, X e o Glossário Decolonial 
+Funciona como uma rede localizada em um ambiente X, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, oferecendo conteúdo sobre X, X, X e o Glossário Decolonial 
 
 A documentação desse protótipo encontra-se aberta para que possa ser replicado, em outras comunidades de interesse e seus dados seguros, livres de big techs
  uso e a avaliação crítica de tecnologias livres que auxiliem na gestão sustentável dos recursos naturais e na conservação dos ecossistemas locais
