@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T16:43:50.086Z
+date: 2025-10-08T16:45:58.849Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -44,13 +44,13 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 
 ## Zona Autônoma sem Fio - ZASF
 
-**Ipupiara** surge como uma [ZASF](https://desvio.github.io/blog/zasf/), como uma proposta para a criação de redes *wi-fis* autônomas para uso experimental e informacional. É uma ação de uso crítico de tecnologias em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados.
+**Ipupiara** surge como [ZASF](https://desvio.github.io/blog/zasf/), uma proposta de rede *wi-fi* autônoma para uso experimental e informacional. É uma ação de uso crítico de tecnologias em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados.
 
 
 > Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
 
 
-Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, oferecendo os conteúdos:
+Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, inicialmente oferecendo os conteúdos:
 
 #### [Repositórios Abertos e Práticas de Cuidado](https://maedagua.fonte.wiki/repositoriosabertos/)
 #### [Direitos das Zonas Costeiras e Territórios Hidrossociais](https://maedagua.fonte.wiki/direitoszonascosteiras/)
