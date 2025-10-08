@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-09-23T17:31:48.923Z
+date: 2025-10-08T12:36:15.359Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -24,7 +24,7 @@ A proposta é baseada em design e recursos educacionais abertos, e na apropriaç
 
 ![[maedagua]nascentebadge.png](/projetos/maedagua/[maedagua]nascentebadge.png)
 
-O processo que envolve os vídeos-tutoriais, e o material instrucional foi batizado de **Nascente**, fazendo analogia ao nascimento de um curso d'água e ao interesse às experimentações científicas.
+O processo que envolve os vídeos-tutoriais, e o material didático-instrucional foi batizado de **Nascente**, fazendo analogia ao nascimento de um curso d'água e ao interesse às experimentações científicas. Nascente contempla: 5 vídeos tutoriais elucidativos, de até 1 minuto, exemplificando o processo do *toolkit*, uma apostila entregue em .pdf, mas também em formato editável (google presentation), que pode ser costumizada de acordo com a realidade de cada escola, seu conteúdo agrega desde a importância da água para os seres vivos, parâmetros de qualidade e aplicações.
 
 **Iara** - *sereia que vive em rios e lagos, encantada da mitologia tupi-guarani*
 
