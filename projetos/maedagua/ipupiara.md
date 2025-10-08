@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T16:12:12.168Z
+date: 2025-10-08T16:31:16.320Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -44,7 +44,7 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 
 > Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
 
-Ela funciona como uma rede localizada em um ambiente X, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, oferecendo os conteúdos:
+Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, oferecendo os conteúdos:
 
 #### [Repositórios Abertos e Práticas de Cuidado](https://maedagua.fonte.wiki/repositoriosabertos/)
 #### [Direitos das Zonas Costeiras e Territórios Hidrossociais](https://maedagua.fonte.wiki/direitoszonascosteiras/)
