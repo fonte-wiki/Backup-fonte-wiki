@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T16:37:49.201Z
+date: 2025-10-08T16:38:29.304Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -12,7 +12,7 @@ dateCreated: 2025-10-02T17:43:04.800Z
 **e existe um oceano livre por aqui**
 
 
-**Ipupiara** é um encantado da mitologia tupi: *aquele que mora dentro d'água salgada* (NAVARRO, 2013). Seus primeiros registros datam da época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/) nas praias de São Vicente, no litoral de São Paulo - e tiveram uma abordagem colonial, que não só o descreveu como um monstro marinho, mas também como uma criatura que deveria ser dominada e destruída pelo homem branco (BOSI, 1992; GÂNDAVO, 1575). 
+**Ipupiara** é um encantado da mitologia tupi: *aquele que mora dentro d'água salgada* (NAVARRO, 2013). Seus primeiros registros datam da época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/) nas praias de São Vicente, no litoral de São Paulo - e tiveram uma abordagem colonial, que não só o descreveram como um monstro marinho, mas também como uma criatura que deveria ser dominada e destruída pelo homem branco (BOSI, 1992; GÂNDAVO, 1575). 
 
 ![ipu1.png](/projetos/maedagua/ipu1.png)
 
