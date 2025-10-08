@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T15:41:30.432Z
+date: 2025-10-08T16:08:09.410Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -44,12 +44,14 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 
 > Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
 
-Funciona como uma rede localizada em um ambiente X, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, oferecendo conteúdo sobre X, X, X e o Glossário Decolonial 
+Ela funciona como uma rede localizada em um ambiente X, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, oferecendo os conteúdos:
 
-A documentação desse protótipo encontra-se aberta para que possa ser replicado, em outras comunidades de interesse e seus dados seguros, livres de big techs
- uso e a avaliação crítica de tecnologias livres que auxiliem na gestão sustentável dos recursos naturais e na conservação dos ecossistemas locais
- mecanismos participativos para monitoramento de parâmetros ambientais e impactos socioeconômicos das atividades pesqueiras, promovendo a sustentabilidade a longo prazo;
-Capacitar as comunidades para contribuir com a formulação de políticas públicas que visem a proteção do meio ambiente e a valorização das práticas tradicionais.
+- [Repositórios Abertos e Práticas de Cuidado](https://maedagua.fonte.wiki/repositoriosabertos/)
+- [Direitos das Zonas Costeiras e Territórios Hidrossociais](https://maedagua.fonte.wiki/direitoszonascosteiras/)
+- [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](https://maedagua.fonte.wiki/antropoceno/)
+- [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
+
+A documentação desse protótipo encontra-se aberta, para que possa ser replicada em outras comunidades costeiras e pesqueiras de interesse, auxiliando-as na gestão de dados sobre recursos ecossistêmicos locais (como: monitoramento de parâmetros climáticos e ambientais, impactos socioeconômicos das atividades pesqueiras, memória e cultura, etc), para que possam fomentar estratégias táticas para a proteção desses territórios e populações.
 
 
 ## Pra muita coisa falta nome
@@ -63,10 +65,10 @@ Inspirado na imagem dos acervos da proclamação da republica, vamos reler esse 
 > *um projeto totalizante cujas forças motrizes poderão sempre buscar-se no nível  do  colo: ocupar um novo chão, explorar os seus bens, submeter os seus naturais* (BOSI, 1992).
 
 
-[Glossário](/projetos/maedagua/glossariodecolonial) 
+
 
 ## Referências
 - BOSI, Alfredo. **Dialética da colonização**. São Paulo: Companhia das Letras, 1992.
 - CORRÊA, Walmor. **Unheimlich – imaginário popular brasileiro**. Porto Alegre, 2006 Disponível em https://www.walmorcorrea.com.br/tb9xwueavmf3u42349n0vtea53195m.
-- GÂNDAVO, P. M. **História da Província de Santa Cruz: A que vulgarmente. chamamos Brasil, 1575**. Biblioteca Nacional de Portgual. Disponível em https://purl.pt/121/4/res-365-p_PDF/res-365-p_PDF_24-C-R0150/res-365-p_0000_capa-capa_t24-C-R0150.pdf .
+- GÂNDAVO, P. M. **História da Província de Santa Cruz: A que vulgarmente chamamos Brasil, 1575**. Biblioteca Nacional de Portgual. Disponível em https://purl.pt/121/4/res-365-p_PDF/res-365-p_PDF_24-C-R0150/res-365-p_0000_capa-capa_t24-C-R0150.pdf .
 - NAVARRO, E. A. **Dicionário de Tupi Antigo: a Língua Indígena Clássica do Brasil**. São Paulo: Global Editora, 2013.
