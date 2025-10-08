@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T16:47:02.437Z
+date: 2025-10-08T16:49:27.258Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -52,9 +52,9 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 
 Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, inicialmente oferecendo os conteúdos:
 
-### [Repositórios Abertos e Práticas de Cuidado](https://maedagua.fonte.wiki/repositoriosabertos/)
-### [Direitos das Zonas Costeiras e Territórios Hidrossociais](https://maedagua.fonte.wiki/direitoszonascosteiras/)
-### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](https://maedagua.fonte.wiki/antropoceno)
+### [Repositórios Abertos e Práticas de Cuidado](/projetos/maedagua/repositoriosabertos/)
+### [Direitos das Zonas Costeiras e Territórios Hidrossociais](/projetos/maedagua/direitoszonascosteiras/)
+### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
 ### [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
 ### Minidocumentário
 
