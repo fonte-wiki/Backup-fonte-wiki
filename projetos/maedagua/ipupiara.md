@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T16:39:14.611Z
+date: 2025-10-08T16:40:25.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -28,7 +28,7 @@ A estátua, com a representação de Ipupiara, que não existe mais. Autor: Carl
 
 Já que a história funciona como um conjunto de memórias, que pode influenciar  narrativas e desejos de futuros, dessa vez, [vamos contá-la de outra forma](https://www.bbc.com/portuguese/internacional-54669548).
 
-**Ipupiara**, como retratado em sua autópsia por Côrrea (2006), não é um monstro, mas um moço bonito, da mesma família dos [botos de água-doce](https://www.nationalgeographicbrasil.com/animais/2023/07/boto-cor-de-rosa-a-lenda-do-animal-que-se-transforma-em-humano-e-outras-curiosidades-0). 
+**Ipupiara**, como retratado em sua autópsia por Côrrea (2006), não é um monstro mas um *moço bonito*, da mesma família dos [botos de água-doce](https://www.nationalgeographicbrasil.com/animais/2023/07/boto-cor-de-rosa-a-lenda-do-animal-que-se-transforma-em-humano-e-outras-curiosidades-0). 
 
 ![ipu2.png](/projetos/maedagua/ipu2.png)
 
