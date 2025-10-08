@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T16:08:09.410Z
+date: 2025-10-08T16:12:12.168Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -46,25 +46,13 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 
 Ela funciona como uma rede localizada em um ambiente X, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, oferecendo os conteúdos:
 
-- [Repositórios Abertos e Práticas de Cuidado](https://maedagua.fonte.wiki/repositoriosabertos/)
-- [Direitos das Zonas Costeiras e Territórios Hidrossociais](https://maedagua.fonte.wiki/direitoszonascosteiras/)
-- [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](https://maedagua.fonte.wiki/antropoceno/)
-- [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
+#### [Repositórios Abertos e Práticas de Cuidado](https://maedagua.fonte.wiki/repositoriosabertos/)
+#### [Direitos das Zonas Costeiras e Territórios Hidrossociais](https://maedagua.fonte.wiki/direitoszonascosteiras/)
+#### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](https://maedagua.fonte.wiki/antropoceno)
+#### [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
+#### Minidocumentário
 
 A documentação desse protótipo encontra-se aberta, para que possa ser replicada em outras comunidades costeiras e pesqueiras de interesse, auxiliando-as na gestão de dados sobre recursos ecossistêmicos locais (como: monitoramento de parâmetros climáticos e ambientais, impactos socioeconômicos das atividades pesqueiras, memória e cultura, etc), para que possam fomentar estratégias táticas para a proteção desses territórios e populações.
-
-
-## Pra muita coisa falta nome
-Quem teve direito de escrever, desenhar e disponibilizar a história
-Quem escolheu as palavras para nomear as coisas
-Fundação x Ocupação (ocupar o terriório sobre uma lógica exploratória de recursos que moldou o país)
-Como tudo era no princípio, artigo do efe de obras mortas no museu (territórios imagéticos + valorizados que os ecossistemas, 1 hectare de floresta 5 USD)
-
-Inspirado na imagem dos acervos da proclamação da republica, vamos reler esse quadro buscando uma leitura da ecologia da paisagem, contemplando ciclos da biodiversidade, espécies de fauna e flora, geografia, clima, etc.
-
-> *um projeto totalizante cujas forças motrizes poderão sempre buscar-se no nível  do  colo: ocupar um novo chão, explorar os seus bens, submeter os seus naturais* (BOSI, 1992).
-
-
 
 
 ## Referências
