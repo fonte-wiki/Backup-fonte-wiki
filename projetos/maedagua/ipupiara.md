@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-08T23:53:09.418Z
+date: 2025-10-09T00:04:50.542Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -52,13 +52,17 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 
 Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, inicialmente oferecendo os conteúdos:
 
-### [Repositórios Abertos e Práticas de Cuidado](/projetos/maedagua/repositoriosabertos/)
-### [Direitos das Zonas Costeiras e Territórios Hidrossociais](/projetos/maedagua/direitoszonascosteiras/)
-### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
-### [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
-### Minidocumentário
+#### [Repositórios Abertos e Práticas de Cuidado](/projetos/maedagua/repositoriosabertos/)
+#### [Direitos das Zonas Costeiras e Territórios Hidrossociais](/projetos/maedagua/direitoszonascosteiras/)
+#### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
+#### [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
 
-Um exemplo de desenvolvimento e aplicação é a [Nhandeflix](https://vimeo.com/841716747), uma plataforma de *streaming* criada por e para comunidades indígenas. Foi desenvolvida como um serviço local baseado em intranet que fornece conteúdo audiovisual indígena acessível por meio de uma rede wi-fi local, sem a necessidade de acesso à internet. A iniciativa aborda o desafio do acesso e o impacto da internet nas práticas culturais em territórios indígenas. A plataforma agrega conteúdo selecionado e tem atraído, especialmente, os mais jovens - também engajados na participarem dos aspectos técnicos do desenvolvimento e manutenção da rede. 
+
+### Exemplos de desenvolvimento e aplicação:
+
+**[Nhandeflix](https://vimeo.com/841716747)** - uma plataforma de *streaming* criada por e para comunidades indígenas. Foi desenvolvida como um serviço local baseado em intranet que fornece conteúdo audiovisual indígena acessível por meio de uma rede wi-fi local, sem a necessidade de acesso à internet. A iniciativa aborda o desafio do acesso e o impacto da internet nas práticas culturais em territórios indígenas. Agrega conteúdo selecionado e tem atraído, especialmente, os mais jovens - também engajados na participarem dos aspectos técnicos do desenvolvimento e manutenção da rede. 
+
+**[HERMES](https://vimeo.com/398331581?fl=pl&fe=vl)** (*High-frequency Emergency and Rural Multimedia Exchange System*) - uma [rede local que opera por rádio de ondas curtas/HF](https://www.rhizomatica.org/hermes/), utilizando uma interface visual simplificada, acessível via smartphone ou computador, permitindo a transmissão e recepção de dados (chat, áudio, documentos, fotos, coordenadas de GPS, etc.) que podem ser criptografadas e protegidas por senha pelo remetente. 
 
 A documentação desse protótipo encontra-se aberta, para que possa ser replicada em outras comunidades costeiras e pesqueiras de interesse, auxiliando-as na gestão de dados sobre recursos ecossistêmicos locais (como: monitoramento de parâmetros climáticos e ambientais, impactos socioeconômicos das atividades pesqueiras, memória e cultura, etc), para que possam fomentar estratégias táticas para a proteção desses territórios e populações.
 
