@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-09T00:06:43.758Z
+date: 2025-10-09T00:09:14.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -42,6 +42,7 @@ O primeiro relato de Gândavo (1564), conta que em uma determinada noite **Ipupi
 
 Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece e às vezes some, assim como o [éter](https://michaelis.uol.com.br/busca?id=zvyO) que inflamou a queima da estátua indevida. *Encantou-se, mas ainda está por aí.*
 
+![prancheta_4_cópia.png](/projetos/maedagua/prancheta_4_cópia.png)
 
 ## Zona Autônoma sem Fio - ZASF
 
