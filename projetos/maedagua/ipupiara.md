@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-09T00:09:14.965Z
+date: 2025-10-09T00:11:14.655Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -39,6 +39,8 @@ A autópsia de Ipupiara (CÔRREA, 2006).
 Sua espécie, vive em bandos [nas águas salgadas, tem um cérebro muito inteligente e conectado em rede](https://super.abril.com.br/ciencia/a-verdadeira-inteligencia-dos-golfinhos/#:~:text=Al%C3%A9m%20disso%2C%20vis%C3%A3o%20e%20audi%C3%A7%C3%A3o,grande%20quanto%20cumprimentar%20um%20ET.). Ele aparece em noites de lua cheia, perto da orla, e chama moças inquietas para sincronizar sinapses, brincar de [BrainNet](https://doi.org/10.1038/s41598-019-41895-7) e desenhar imaginários livres para proteger os oceanos e mares de exploradores.
 
 O primeiro relato de Gândavo (1564), conta que em uma determinada noite **Ipupiara** aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles já se encontravam há tempos para planejar futuros livres - assim como eram as coisas, antes da chamada ["Fundação" de São Vicente](https://perfil.seade.gov.br/historico/hist_510.pdf). Quando o Capitão Baltasar Ferreira viu a interação dos dois, golpeou **Ipupiara** com uma espada. E assim fez sua morte "servir de exemplo", para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
+
+![ipupiara_1.png](/projetos/maedagua/ipupiara_1.png)
 
 Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece e às vezes some, assim como o [éter](https://michaelis.uol.com.br/busca?id=zvyO) que inflamou a queima da estátua indevida. *Encantou-se, mas ainda está por aí.*
 
