@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-09T00:04:50.542Z
+date: 2025-10-09T00:06:43.758Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -11,6 +11,7 @@ dateCreated: 2025-10-02T17:43:04.800Z
 # Você está no Ipupiara
 **e existe um oceano livre por aqui**
 
+![prancheta_4_cópia_2.png](/projetos/maedagua/prancheta_4_cópia_2.png)
 
 **Ipupiara** é um encantado da mitologia tupi: *aquele que mora dentro d'água salgada* (NAVARRO, 2013). Seus primeiros registros datam da época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/) nas praias de São Vicente, no litoral de São Paulo - e tiveram uma abordagem colonial que não só o descreveram como um monstro marinho, mas também como uma criatura que deveria ser dominada e destruída pelo homem branco (BOSI, 1992; GÂNDAVO, 1575). 
 
@@ -57,8 +58,9 @@ Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer di
 #### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
 #### [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
 
+![prancheta_4_cópia_2.png](/projetos/maedagua/prancheta_4_cópia_2.png)
 
-### Exemplos de desenvolvimento e aplicação:
+## Exemplos de desenvolvimento e aplicação:
 
 **[Nhandeflix](https://vimeo.com/841716747)** - uma plataforma de *streaming* criada por e para comunidades indígenas. Foi desenvolvida como um serviço local baseado em intranet que fornece conteúdo audiovisual indígena acessível por meio de uma rede wi-fi local, sem a necessidade de acesso à internet. A iniciativa aborda o desafio do acesso e o impacto da internet nas práticas culturais em territórios indígenas. Agrega conteúdo selecionado e tem atraído, especialmente, os mais jovens - também engajados na participarem dos aspectos técnicos do desenvolvimento e manutenção da rede. 
 
