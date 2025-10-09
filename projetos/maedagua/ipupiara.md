@@ -2,14 +2,14 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-09T00:12:35.411Z
+date: 2025-10-09T00:14:19.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
 ---
 
 # Você está no Ipupiara
-**e existe um oceano livre por aqui**
+**e existe um oceano livre e um mar aberto por aqui**
 
 ![prancheta_4_cópia_2.png](/projetos/maedagua/prancheta_4_cópia_2.png)
 
