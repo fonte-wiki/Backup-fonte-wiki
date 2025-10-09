@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-10-09T00:11:14.655Z
+date: 2025-10-09T00:12:35.411Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -40,16 +40,16 @@ Sua espécie, vive em bandos [nas águas salgadas, tem um cérebro muito intelig
 
 O primeiro relato de Gândavo (1564), conta que em uma determinada noite **Ipupiara** aterrorizou uma escrava índígena chamada Irecê. Enquanto na verdade, eles já se encontravam há tempos para planejar futuros livres - assim como eram as coisas, antes da chamada ["Fundação" de São Vicente](https://perfil.seade.gov.br/historico/hist_510.pdf). Quando o Capitão Baltasar Ferreira viu a interação dos dois, golpeou **Ipupiara** com uma espada. E assim fez sua morte "servir de exemplo", para manter a separação e o pacto de domínação do homem branco sobre a natureza. 
 
-![ipupiara_1.png](/projetos/maedagua/ipupiara_1.png)
-
 Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece e às vezes some, assim como o [éter](https://michaelis.uol.com.br/busca?id=zvyO) que inflamou a queima da estátua indevida. *Encantou-se, mas ainda está por aí.*
 
 ![prancheta_4_cópia.png](/projetos/maedagua/prancheta_4_cópia.png)
 
 ## Zona Autônoma sem Fio - ZASF
 
-**Ipupiara** surge como [ZASF](https://desvio.github.io/blog/zasf/), uma proposta de rede wi-fi autônoma para uso experimental e informacional. É uma ação de uso crítico de tecnologias em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados. 
+![ipupiara_1.png](/projetos/maedagua/ipupiara_1.png)
 
+
+**Ipupiara** surge como [ZASF](https://desvio.github.io/blog/zasf/), uma proposta de rede wi-fi autônoma para uso experimental e informacional. É uma ação de uso crítico de tecnologias em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados. 
 
 > Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
 
