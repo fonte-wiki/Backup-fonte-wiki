@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-10-09T11:51:48.155Z
+date: 2025-10-09T11:53:33.569Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -85,12 +85,11 @@ A partir delas geramos um conjunto de produtos extensionistas, agregados numa [Z
 
 ## Ficha Técnica
 
-**Coordenação - Lab Ecologia Humana/UNISANTA:** Milena Ramires
-
-**Pesquisa:** Maira Begalli, Ricardo Guimarães, Felipe Fonseca
+**Pesquisa e Desenvolvimento:** Maira Begalli, Ricardo Guimarães, Felipe Fonseca
 
 **Design e Produtos de Mídia:** Carolina Saravalli e Kevelyn Oliveira
 
+**Supervisão de Pesquisa - Lab Ecologia Humana/UNISANTA:** Milena Ramires
 
 ## Seções do site
 
