@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-10-09T11:56:54.859Z
+date: 2025-10-09T11:58:34.536Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -28,7 +28,7 @@ Ao longo dos anos, muitas iniciativas não apenas se inspiraram em **Mãe d' Ág
 Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é uma retomada para modelos de documentação - e análise crítica ao compartilhamento/apropriação além do estabelecimento de identidade visual e sistematização de assets. Já que agora o conceito "parece real mas não é" pode ser aplicado como nunca.
 
 
-## Frentes de pesquisa
+## Desenvolvimento e Pesquisa
 
 Atualmente o **Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/)
 
