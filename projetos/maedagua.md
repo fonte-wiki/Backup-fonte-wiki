@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-10-07T17:19:56.512Z
+date: 2025-10-09T11:51:48.155Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -14,14 +14,9 @@ dateCreated: 2025-06-28T16:10:28.630Z
 
 **Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantástico que habita e também protege Mares e Oceanos. Também é redundante afirmar, cientificamente, que a vida é codependente da existência de água - item tão abundante nesse planeta, que se torna cada vez mais [escasso](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradado](https://www.science.org/doi/abs/10.1126/science.1208277).
 
-Aqui, **Mãe d'Água** se desenvolve [desde 2012](https://www.flickr.com/photos/maedagua/) como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf) voltada para experimentação em tecnologias críticas, nas bases da [MetaReciclagem](https://metareciclagem.github.io/wiki/Mae-d%e2%80%99Agua.html). Um módulo de monitoramento de qualidade de água que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf). Naquela época, as atividades desenvolvidas geraram duas publicações:
+[Em 2012](https://www.flickr.com/photos/maedagua/) nomeamos essa [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf) como **Mãe d'Água**: um nó voltado para experimentação de tecnologias críticas formado nas bases da [MetaReciclagem](https://metareciclagem.github.io/wiki/Mae-d%e2%80%99Agua.html). Na época, usamos o desenvolvimento de um módulo de monitoramento de qualidade de água como pretexto para lembrar que o *importante são as pessoas*.
 
-- **Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. [Tropixel: arte, ciência, tecnologia e sociedade](http://dx.doi.org/10.13140/RG.2.1.3633.8644). 1ed. Salvador: EDUFBA, 2015, p. 165-188.
-- **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
-
-Posteriormente, **Mãe d´Água** permeou outros projetos, como a [Rede InfoAmazônia](https://infoamazonia.org/project/rede-infoamazonia/), o [HiperGuardiões](/projetos/maedagua/repo/hiperguardioes), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. 
-
-Em 2025, a [proposta ressurge](https://is.efeefe.me/stuff/ritualised-repetitions) como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
+Ao longo do tempo **Mãe d´Água** permeou outros projetos, como a [Rede InfoAmazônia](https://infoamazonia.org/project/rede-infoamazonia/), o [HiperGuardiões](/projetos/maedagua/repo/hiperguardioes), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. Em 2025, a [proposta ressurge](https://is.efeefe.me/stuff/ritualised-repetitions) como um laboratório diverso, que conecta pessoas e aborda temáticas transversais.
 
 Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
@@ -73,7 +68,8 @@ A partir delas geramos um conjunto de produtos extensionistas, agregados numa [Z
 
 ## Publicações e Produtos
 
-Em breve
+- **Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. [Tropixel: arte, ciência, tecnologia e sociedade](http://dx.doi.org/10.13140/RG.2.1.3633.8644). 1ed. Salvador: EDUFBA, 2015, p. 165-188.
+- **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
 -------------------------
 ## Parceiros
