@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-10-10T16:54:51.894Z
+date: 2025-10-10T16:56:17.307Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -23,16 +23,12 @@ Ao longo do tempo **Mãe d´Água** permeou outros projetos, como a [Rede InfoAm
 
 Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
--------------------------
-
 ## Objetivos
 Nosso objetivo é o "[rewilding](https://www.noemamag.com/we-need-to-rewild-the-internet/)", ou seja, tornar as experimentações em tecnologia selvagens novamente - ou simplesmente "[vivas](https://networkcultures.org/wp-content/uploads/2025/05/the-internet-of-dead-things-UPDATED.pdf) novamente". Buscamos unir duas grandes áreas vistas como antagônicas, mas que podem e devem se integrar: a área ambiental e os sistemas de informação tecnológicos. Desenolver, e implementar soluções colaborativas baseadas em padrões abertos, criando espaços comunitários capazes de dialogar com a produção científica para alcançar inovações que sejam desenvolvidas coletivamente para resolver problemas reais da sociedade, não apenas gerando um hype que consome recursos-gera lixo e não possui significado algum.
 
 Ao longo dos anos, muitas iniciativas não apenas se inspiraram em **Mãe d' Água**, mas também sequestraram a narrativa para projetos comerciais e de interesses específicos, criando [*doppelgangers*](https://www.theguardian.com/books/2023/sep/09/doppelganger-a-trip-into-the-mirror-world-by-naomi-klein-review-a-case-of-mistaken-identity): um duplo esvaziado que se apropria do projeto mas não é o projeto, e muito menos pode ser reconhecido como um remix ou uma validação de algo de uso aberto.
 
 Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é uma retomada para modelos de documentação - e análise crítica ao compartilhamento/apropriação além do estabelecimento de identidade visual e sistematização de assets. Já que agora o conceito "parece real mas não é" pode ser aplicado como nunca.
-
--------------------------
 
 ## Desenvolvimento e Pesquisa
 
@@ -59,14 +55,11 @@ Para isso, trabalhamos na elaboração de bases referenciais e criamos [artigos]
 - [Design Aberto e outras Narrativas sobre Tecnologias](/projetos/maedagua/designenarrativas)
 - [Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza](/projetos/maedagua/instrumentoscientificosabertos)
 
--------------------------
-
 ## Publicações e Produtos
 
 - **Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. [Tropixel: arte, ciência, tecnologia e sociedade](http://dx.doi.org/10.13140/RG.2.1.3633.8644). 1ed. Salvador: EDUFBA, 2015, p. 165-188.
 - **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
--------------------------
 ## Parceiros
 - [Bonde Verde](https://www.instagram.com/bondeverde)
 - [Casco Pós-Balsa](http://www.casco-pos-balsa.com)
@@ -77,8 +70,6 @@ Para isso, trabalhamos na elaboração de bases referenciais e criamos [artigos]
 - [semente](https://semente.de/)
 - [senseBox](https://sensebox.de/en/)
 - SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
-
--------------------------
 
 ## Ficha Técnica
 
