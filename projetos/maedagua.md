@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-10-10T16:46:30.946Z
+date: 2025-10-10T16:53:19.034Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -44,7 +44,7 @@ Atualmente o **Mãe d' Água** se desdobra em duas frentes de pesquisas compleme
 
 A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. 
 
-Para isso, trabalhamos na elaboração de bases referenciais, para gerar [artigos](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Artigo) colaborativos com informações enciclopédicas e podcasts. A partir delas geramos um conjunto de produtos extensionistas, agregados numa [ZASF](https://desvio.github.io/blog/zasf/) (Zona Autônoma Sem Fio) batizada de [Ipupiara](/projetos/maedagua/ipupiara) - criatura mítica que teve seus primeiros relatos documentais na época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/), em São Vicente, São Paulo. 
+Para isso, trabalhamos na elaboração de bases referenciais e criamos [artigos](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Artigo) colaborativos com informações enciclopédicas e podcasts. O que deu origem a um conjunto de produtos extensionistas, que foram agregados numa [ZASF](https://desvio.github.io/blog/zasf/) (Zona Autônoma Sem Fio) batizada de [Ipupiara](/projetos/maedagua/ipupiara) - criatura mítica que teve seus primeiros relatos documentais na época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/), em São Vicente, São Paulo. 
 
 ![prancheta_4_cópia.png](/projetos/maedagua/prancheta_4_cópia.png)
 
