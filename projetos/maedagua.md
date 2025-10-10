@@ -2,14 +2,14 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-10-10T16:43:43.332Z
+date: 2025-10-10T16:46:30.946Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
 ---
 
 
-![home.png](/projetos/maedagua/home.png)
+![home.png](/projetos/maedagua/home.png){.align-center}
 
 ![prancheta_4_cópia_2.png](/projetos/maedagua/prancheta_4_cópia_2.png)
 
