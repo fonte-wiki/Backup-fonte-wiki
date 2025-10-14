@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras
 description: por: Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-14T19:09:06.105Z
+date: 2025-10-14T19:09:52.687Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -18,3 +18,5 @@ Essas abordagens dizem respeito não somente ao reconhecimento de uma Natureza p
 
 
 ## Referências Bibliográficas
+
+- VARELLA, M. D. **Direito internacional econômico ambiental**. Belo Horizonte: Del Rey, 2004.
