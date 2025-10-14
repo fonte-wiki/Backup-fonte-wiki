@@ -1,8 +1,8 @@
 ---
-title: Direito das Zonas Costeiras
-description: por: Tiago Andrade, Maira Begalli
+title: Direito das Zonas Costeiras e Territórios Hidrossociais
+description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-14T19:09:52.687Z
+date: 2025-10-14T19:10:33.473Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
