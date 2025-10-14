@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-14T19:39:32.500Z
+date: 2025-10-14T19:45:58.755Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -18,7 +18,8 @@ O Direito Ambiental surgiu como um instrumento normatizador para bens ecossistê
 
 O reconhecimento dos Direitos da Natureza, pela primeira vez, desafiou esse entendimento ao atribuir o estatuto de pessoa a seres e agências não-humanas. Os textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições e o reconhecimento de cosmovisões andinas (WALSH, 2008). 
 
-Essas abordagens dizem respeito não somente ao reconhecimento de uma Natureza possuidora de valores intrínsecos, independente da utilidade que possam oferecer aos seres humanos (ACOSTA & MARTINEZ, 2017), um princípio que também se encontra na Carta da Terra (2000), e aponta inovações jurídicas que são responsivas às reivindicações que reverberam hoje na agenda político-econômica da América Latina, e produzindo novas relações de representação e mediação no Antropoceno (DE LA CADENA, 2015; LATOUR, 1994). Os Direitos da Natureza são vistos por esses movimentos como estrategicamente efetivos na prevenção ou limitação de conflitos ambientais, ainda que para isso seja preciso codificar agências não-humanas nos moldes legais enquanto pessoas portadoras de direitos e representadas por outrem numa relação mediada pelo Estado (VARGAS-RONCANCIO, 2021). 
+Essas abordagens reconhecem uma Natureza possuidora de valores intrínsecos, independente da utilidade que possam oferecer aos seres humanos (ACOSTA & MARTINEZ, 2017). Um princípio também declarado na Carta da Terra (2000), que aponta inovações jurídicas responsivas às reivindicações das agendas político-econômicas do mundo atual, e produz novas relações de representação e mediação envolvendo os ecossistemas e seus recusrsos (DE LA CADENA, 2015; LATOUR, 1994). 
+
 
 
 ## Referências Bibliográficas
