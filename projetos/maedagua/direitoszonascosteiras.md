@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-15T12:13:22.914Z
+date: 2025-10-15T19:42:16.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -19,6 +19,21 @@ O Direito Ambiental surgiu como um instrumento normatizador para bens ecossistê
 O reconhecimento dos Direitos da Natureza, pela primeira vez, desafiou esse entendimento ao atribuir o estatuto de pessoa a seres e agências não-humanas. Os textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições e o reconhecimento de cosmovisões andinas (WALSH, 2008). 
 
 Essas abordagens reconhecem uma Natureza possuidora de valores intrínsecos, independente da utilidade que possam oferecer aos seres humanos (ACOSTA & MARTINEZ, 2017). Um princípio também declarado na Carta da Terra (2000), que aponta inovações jurídicas responsivas às reivindicações das agendas político-econômicas do mundo atual, e produz novas relações de representação e mediação envolvendo os ecossistemas e seus recusrsos (DE LA CADENA, 2015; LATOUR, 1994). 
+
+
+Nesse sentido, as Zonas Costeiras são áreas de extrema relevância para aplicação desse contexto, uma vez que são compostas por um sistema de interação entre água, terra e ar, que envolve: estuários, restingas, costões rochosos, manguezais, marismas, entre outros. São áreas submetidas a grande variações climáticas, geomorfológicas e oceanográficas, que abrigam uma grande diversidade de espécies, em vários grupos taxonômicos (MMA, 2025).
+
+Atualmente, a maior parte da população do planeta encontra-se em Zonas Costeiras, transformando-as em Territórios Hidrossociais: uma vez que têm a água como o resultado da interação entre ambiente-tecnologia-sociedade, e na materialidade de suas dinâmicas (EMPINOTTI et al., 2021). Ou seja, a manutenção da vida das populações costeiras (de muitas espécies) depende do equilíbrio dos ecossistemas costeiros como um todo -  suas bacias de recepção e drenagem, as águas interiores próximas à costa, e o próprio sistema marinho. 
+
+São áreas que apresentam uma grande variedade também de funções e serviços ecossistêmicos: representam uma barreira importante que impede e previne a erosão costeira e a intrusão salina, protegem a costa contra tempestades, possuem elevada ciclagem de nutrientes e de substâncias poluidoras. Mas, ao mesmo tempo estão vulneráveis aos cenários ligados às mudanças climáticas e ambientais: como acidificação e mudança da temperatura nos Oceanos, grande volume de lixo, vazamentos de petróleo e elementos tóxicos, pesca e caça predatória, aumento do nível dos mares e oceanos, entre outros. 
+
+Se faz necessário, portanto, um questionamento relativo à renegociação dos Direitos das Zonas Costeiras e Territórios Hidrossociais, e soube quem consiste seu sujeito de direitos, e rompendo com um padrão de exploração indiscriminado, baseado na crença da regeneração infinita desses ecossistemas.
+Se olharmos para as Zonas Costeiras e os Territórios Hidrossociais como sujeito de direitos, teorias e práticas jurídicas poderão reivindicadas como espaços de renegociação e de possibilidade de reconhecimento, por parte não somente dos grupos diretamente afetados em busca de uma justiça democrática (Fraser, 2009), mas em nome de uma representação jurídica dessas áreas em si.  
+
+Essa posição é desafiadora da divisão fundante do Estado moderno entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais a respeito de sua proximidade maior com a natureza ou com a temporalidade histórica. Essa divisão também permitiu ao Estado operar por hierarquizações entre aqueles tidos como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas (Latour, 1994).
+
+A questão que se coloca, é em que medida é sustentável a noção moderna de direitos quando falamos de outras relações com a Terra,  uma vez que indígenas mantêm práticas relacionais e de cuidado com o território e os seres-terra que não registram enquanto existentes para o Estado, mesmo quando ele reconhece e atribui direitos à natureza. Crucialmente, esses desdobramentos chamam a atenção para a questão sobre quem deveria consistir em um sujeito de direitos frente a uma perspectiva de generalizada e complexa crise ecológica, econômica, política e social. 
+
 
 
 
