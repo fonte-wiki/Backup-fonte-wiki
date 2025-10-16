@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-16T14:56:45.392Z
+date: 2025-10-16T15:07:58.316Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -18,19 +18,19 @@ Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um 
 
 Uma abordagem que reconhece a Natureza como possuidora de valores intrínsecos, independente da utilidade que possa oferecer aos seres humanos (ACOSTA & MARTINEZ, 2017). Um princípio também declarado na Carta da Terra (2000), que aponta inovações jurídicas responsivas às reivindicações das agendas político-econômicas do mundo atual, e produz novas relações de representação e mediação envolvendo os ecossistemas e seus recusrsos (DE LA CADENA, 2015; LATOUR, 1994). 
 
-As Zonas Costeiras são áreas de extrema relevância para aplicação desse conceito, por serem compostas de um sistema de transição entre água, terra e ar, com estuários, restingas, costões rochosos, manguezais, e marismas. São áreas submetidas a variações climáticas, geomorfológicas e oceanográficas, que abrigam uma grande diversidade de espécies, em vários grupos taxonômicos (MMA, 2025).
+As **Zonas Costeiras** são áreas de extrema relevância para aplicação desse conceito, por serem compostas de um sistema de transição entre água, terra e ar, com estuários, restingas, costões rochosos, manguezais, e marismas. São áreas submetidas a variações climáticas, geomorfológicas e oceanográficas, que abrigam uma grande diversidade de espécies, em vários grupos taxonômicos (MMA, 2025).
 
 Atualmente, a maior parte da população do planeta encontra-se em Zonas Costeiras, transformando-as em Territórios Hidrossociais - já que têm a água como o resultado da interação entre ambiente-tecnologia-sociedade, assim como na materialidade de suas dinâmicas (EMPINOTTI et al., 2021). A manutenção da vida das populações costeiras (de diferentes espécies) depende do equilíbrio dos ecossistemas costeiros como um todo, desde as bacias de recepção e drenagem, as águas interiores próximas à costa, até o próprio sistema marinho. 
 
-São áreas que apresentam uma grande variedade de serviços ecossistêmicos, mas ao mesmo tempo estão vulneráveis aos cenários ligados às mudanças climáticas e ambientais, como: a acidificação e a mudança da temperatura nos Oceanos, ao grande volume de lixo, aos vazamentos de petróleo e elementos tóxicos, a pesca e caça predatórias, ao aumento do nível dos mares e oceanos, entre outros. 
+São áreas que apresentam uma grande variedade de serviços ecossistêmicos, mas ao mesmo tempo estão vulneráveis aos cenários ligados às mudanças climáticas e ambientais, como a acidificação e a mudança da temperatura nos Oceanos, ao grande volume de lixo, aos vazamentos de petróleo e elementos tóxicos, a pesca e caça predatórias, ao aumento do nível dos mares e oceanos, entre outros. 
 
-Se faz necessário, promover um questionamento relativo à renegociação dos Direitos das Zonas Costeiras e Territórios Hidrossociais, e sobre quem consiste o seu sujeito de direitos, para romper com o padrão de exploração indiscriminado, baseado na crença da regeneração infinita desses ecossistemas.
+Por isso, se faz necessário, promover um questionamento relativo à renegociação dos **Direitos das Zonas Costeiras e Territórios Hidrossociais**, e sobre quem consiste o seu sujeito de direitos, para romper com o padrão de exploração indiscriminado, baseado na crença da regeneração infinita desses ecossistemas.
 
 Ao reconhecermos as Zonas Costeiras e os Territórios Hidrossociais como sujeito de direitos, teorias e práticas jurídicas poderão reivindicadas como espaços de renegociação, por parte não somente dos grupos diretamente afetados em busca de uma justiça democrática (Fraser, 2009), mas em nome de uma representação jurídica dessas áreas em si.  
 
-Uma posição que desafia a divisão fundante do Estado moderno entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais a respeito de sua proximidade maior com a natureza ou com a temporalidade histórica. Essa divisão também permitiu ao Estado operar por hierarquizações entre aqueles tidos como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas (Latour, 1994).
+Uma posição que desafia a divisão fundante do Estado moderno entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais  - a respeito de sua proximidade maior com o meio ambiente ou com a temporalidade histórica. Uma divisão que permitiu ao Estado operar por hierarquizações entre aqueles tidos como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas (Latour, 1994).
 
-As questões que se colocam, ainda estão em aberto: Em que medida é sustentável e coerente aplicar a noção moderna de direitos quando falamos de outras relações com os ecossistemas? Quem deveria consistir o sujeito de direitos em frente a uma perspectiva de generalizada e complexa crise ecológica, econômica, política e social?
+Essa discussão levanta questões que ainda estão em aberto: Em que medida é sustentável e coerente aplicar a noção moderna de direitos quando falamos de outras relações com essas áreas? Quem deveria consistir o sujeito de direitos das **Zonas Costeiras e os Territórios Hidrossociais** em frente a uma perspectiva de generalizada e complexa crise ecológica, econômica, política e social?
 
 
 ## Referências Bibliográficas
