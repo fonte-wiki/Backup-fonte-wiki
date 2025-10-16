@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-16T14:56:05.919Z
+date: 2025-10-16T14:56:45.392Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -18,7 +18,7 @@ Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um 
 
 Uma abordagem que reconhece a Natureza como possuidora de valores intrínsecos, independente da utilidade que possa oferecer aos seres humanos (ACOSTA & MARTINEZ, 2017). Um princípio também declarado na Carta da Terra (2000), que aponta inovações jurídicas responsivas às reivindicações das agendas político-econômicas do mundo atual, e produz novas relações de representação e mediação envolvendo os ecossistemas e seus recusrsos (DE LA CADENA, 2015; LATOUR, 1994). 
 
-As Zonas Costeiras são áreas de extrema relevância para aplicação desse contexto, por serem compostas de um sistema de transição entre água, terra e ar, com: estuários, restingas, costões rochosos, manguezais, e marismas. São áreas submetidas a variações climáticas, geomorfológicas e oceanográficas, que abrigam uma grande diversidade de espécies, em vários grupos taxonômicos (MMA, 2025).
+As Zonas Costeiras são áreas de extrema relevância para aplicação desse conceito, por serem compostas de um sistema de transição entre água, terra e ar, com estuários, restingas, costões rochosos, manguezais, e marismas. São áreas submetidas a variações climáticas, geomorfológicas e oceanográficas, que abrigam uma grande diversidade de espécies, em vários grupos taxonômicos (MMA, 2025).
 
 Atualmente, a maior parte da população do planeta encontra-se em Zonas Costeiras, transformando-as em Territórios Hidrossociais - já que têm a água como o resultado da interação entre ambiente-tecnologia-sociedade, assim como na materialidade de suas dinâmicas (EMPINOTTI et al., 2021). A manutenção da vida das populações costeiras (de diferentes espécies) depende do equilíbrio dos ecossistemas costeiros como um todo, desde as bacias de recepção e drenagem, as águas interiores próximas à costa, até o próprio sistema marinho. 
 
