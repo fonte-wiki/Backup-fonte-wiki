@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-17T18:53:16.086Z
+date: 2025-10-17T19:00:29.250Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -14,7 +14,7 @@ No início do século XX, o uso e a exploração dos recursos naturais deixou de
 
 Na segunda metade dos anos 1990, foram criados mais de 30.000 dispositivos jurídicos internacionais sobre o meio ambiente, sendo 300 tratados multilaterais, 900 acordos bilaterais, e mais de 200 textos de organizações não governamentais (VARELLA, 2004). Foi assim que surgiu o [Direito Ambiental](https://www.youtube.com/watch?v=sOthPDyUy-w), como um instrumento normatizador de bens ecossistêmicos comuns, porém compreendendo a Natureza como um objeto para uso e exploração humana.
 
-Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um cenário global que aponta para os [limites ecossitêmicos](https://www.stockholmresilience.org/research/planetary-boundaries.html). O conceito, reconhecido pela Constituição da República do Equador (2008) ao  declarar os direitos da [Pachamama](https://www.jusbrasil.com.br/artigos/a-natureza-como-sujeito-de-direitos/1663473408) e pela Constituição do Estado Plurinacional da Bolívia (2009), provoca uma mudança significativa na noção de direitos, que até então, permanecia vinculada a uma pessoa jurídica. Esses textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições, e pelo reconhecimento de cosmovisões andinas (WALSH, 2008) - além de atribuirem o estatuto de pessoa a seres e agências não-humanas.
+Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um cenário global que aponta para os [limites ecossitêmicos](https://www.stockholmresilience.org/research/planetary-boundaries.html). O conceito, reconhecido pela Constituição da República do Equador (2008) ao  declarar os direitos da [Pachamama](https://www.jusbrasil.com.br/artigos/a-natureza-como-sujeito-de-direitos/1663473408) e pela Constituição do Estado Plurinacional da Bolívia (2009), provoca uma mudança significativa na noção de direitos, que até então, permanecia vinculada a uma pessoa jurídica. Esses textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições, e pelo reconhecimento de [cosmovisões andinas](https://www.scielo.br/j/bioet/a/3NRjkqKfwDpN66LwzntJBZd/?format=pdf&lang=pt) (WALSH, 2008) - além de atribuirem o estatuto de pessoa a seres e agências não-humanas.
 
 > O ciclo hidrocosmológico andino, descreve as relações físico-natural e metafísico-cosmológica das comunidades Quechua com a água por meio das suas experiências que interconectam fatores físicos, humanos e espirituais. Para as comunidades Quechua, os ritos e mitos da água desempenham um papel fundamental para o ciclo agrícola anual. Os rituais presentes no ciclo hidrocosmológico envolvem, por exemplo, orar pela chuva durante períodos de seca severa e realizar festivais em períodos que antecedem a temporada de irrigação, com o oferecimento de ofertas próximas às fontes ou entradas de água (GOUVEIA *et al*, 2023).
 
