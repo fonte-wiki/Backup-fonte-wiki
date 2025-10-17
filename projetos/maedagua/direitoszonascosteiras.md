@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-17T19:00:29.250Z
+date: 2025-10-17T19:01:51.993Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -18,7 +18,7 @@ Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um 
 
 > O ciclo hidrocosmológico andino, descreve as relações físico-natural e metafísico-cosmológica das comunidades Quechua com a água por meio das suas experiências que interconectam fatores físicos, humanos e espirituais. Para as comunidades Quechua, os ritos e mitos da água desempenham um papel fundamental para o ciclo agrícola anual. Os rituais presentes no ciclo hidrocosmológico envolvem, por exemplo, orar pela chuva durante períodos de seca severa e realizar festivais em períodos que antecedem a temporada de irrigação, com o oferecimento de ofertas próximas às fontes ou entradas de água (GOUVEIA *et al*, 2023).
 
-Uma abordagem que reconhece a Natureza como possuidora de valores intrínsecos, independente da utilidade que possa oferecer aos seres humanos (ACOSTA & MARTINEZ, 2017). Um princípio também declarado na Carta da Terra (2000), que aponta inovações jurídicas responsivas às reivindicações das agendas político-econômicas do mundo atual, e produz novas relações de representação e mediação envolvendo os ecossistemas e seus recursos (DE LA CADENA, 2015; LATOUR, 1994). 
+Uma abordagem que reconhece a Natureza como possuidora de valores intrínsecos, independente da utilidade que possa oferecer aos seres humanos (ACOSTA & MARTINEZ, 2017). Um princípio também declarado na [Carta da Terra](https://antigo.mma.gov.br/educacao-ambiental/pol%C3%ADtica-nacional-de-educa%C3%A7%C3%A3o-ambiental/documentos-referenciais/item/8071-carta-da-terra.html) (2000), que aponta inovações jurídicas responsivas às reivindicações das agendas político-econômicas do mundo atual, e produz novas relações de representação e mediação envolvendo os ecossistemas e seus recursos (DE LA CADENA, 2015; LATOUR, 1994). 
 
 As **Zonas Costeiras** são áreas de extrema relevância para aplicação desse conceito, por serem compostas de um sistema de transição entre água, terra e ar, com estuários, restingas, costões rochosos, manguezais, e marismas. São áreas submetidas a variações climáticas, geomorfológicas e oceanográficas, que abrigam uma grande diversidade de espécies, em vários grupos taxonômicos (MMA, 2025).
 
