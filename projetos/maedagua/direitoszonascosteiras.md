@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-17T20:01:32.884Z
+date: 2025-10-17T21:20:56.940Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -28,9 +28,9 @@ São áreas que apresentam uma grande variedade de serviços ecossistêmicos, ma
 
 Por isso, se faz necessário, promover um questionamento relativo à renegociação dos **Direitos das Zonas Costeiras e Territórios Hidrossociais**, e sobre quem consiste o seu sujeito de direitos, para romper com o padrão de exploração indiscriminado, baseado na crença da regeneração infinita desses ecossistemas.
 
-Ao reconhecermos as **Zonas Costeiras e os Territórios Hidrossociais** como sujeito de direitos, teorias e práticas jurídicas poderão reivindicadas como espaços de renegociação, por parte não somente dos grupos diretamente afetados em busca de uma justiça democrática (Fraser, 2009), mas em nome de uma representação jurídica dessas áreas em si.  
+Ao reconhecermos as **Zonas Costeiras e os Territórios Hidrossociais** como sujeito de direitos, teorias e práticas jurídicas poderão reivindicadas como espaços de renegociação, por parte não somente dos grupos diretamente afetados em busca de uma justiça democrática (FRASER, 2009), mas em nome de uma representação jurídica dessas áreas em si.  
 
-Uma posição que desafia a divisão fundante do [Estado moderno](https://www.ige.unicamp.br/lehg/o-nascimento-do-estado-moderno/) entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais  - a respeito de sua proximidade maior com o meio ambiente ou com a temporalidade histórica. Uma divisão que permitiu ao Estado operar por hierarquizações entre aqueles tidos como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas (Latour, 1994).
+Uma posição que desafia a divisão fundante do [Estado moderno](https://www.ige.unicamp.br/lehg/o-nascimento-do-estado-moderno/) entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais  - a respeito de sua proximidade maior com o meio ambiente ou com a temporalidade histórica. Uma divisão que permitiu ao Estado operar por hierarquizações entre aqueles tidos como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas (LATOUR, 1994).
 
 Essa discussão levanta questões que ainda estão em aberto: Em que medida é sustentável e coerente aplicar a noção moderna de direitos quando falamos de outras relações com essas áreas? Quem deveria consistir o sujeito de direitos das **Zonas Costeiras e os Territórios Hidrossociais** em frente a uma perspectiva de generalizada e complexa crise ecológica, econômica, política e social?
 
