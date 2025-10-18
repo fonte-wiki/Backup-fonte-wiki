@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-18T17:35:52.057Z
+date: 2025-10-18T17:44:20.100Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -26,11 +26,11 @@ Atualmente, a maior parte da população do planeta encontra-se em Zonas Costeir
 
 São áreas que apresentam uma grande variedade de serviços ecossistêmicos, mas ao mesmo tempo estão vulneráveis aos cenários ligados às mudanças climáticas e ambientais, como a [acidificação](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification) e a [mudança da temperatura](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/06/consequencia-do-aquecimento-global-oceano-esta-2018febril2019) nos Oceanos, ao [grande volume de lixo](https://www.nature.com/articles/s43247-025-02445-4?fromPaywallRec=false), aos [vazamentos de petróleo e elementos tóxicos](https://www.noaa.gov/education/resource-collections/ocean-coasts/oil-spills), a [pesca e caça predatórias](https://www.msc.org/pt/o-nosso-trabalho/oceanos-em-risco/sobrepesca-pesca-ilegal-e-pesca-destrutiva), ao aumento do [nível dos mares e oceanos](https://sealevel.nasa.gov/), entre outros. 
 
-Por isso, se faz necessário, promover um questionamento relativo à renegociação dos **Direitos das Zonas Costeiras e Territórios Hidrossociais**, e sobre quem consiste o seu sujeito de direitos, para romper com o padrão de exploração indiscriminado, baseado na crença da regeneração infinita desses ecossistemas.
+Por isso, se faz necessário, promover um questionamento relativo à renegociação dos **Direitos das Zonas Costeiras e Territórios Hidrossociais**, e sobre quem consiste o seu [sujeito de direitos](https://direitoestadosociedade.jur.puc-rio.br/media/artigo6%20pedro.pdf), para romper com o padrão de exploração indiscriminado, baseado na crença da regeneração infinita desses ecossistemas.
 
-Ao reconhecermos as **Zonas Costeiras e os Territórios Hidrossociais** como sujeito de direitos, teorias e práticas jurídicas poderão reivindicadas como espaços de renegociação, por parte não somente dos grupos diretamente afetados em busca de uma justiça democrática (FRASER, 2009), mas em nome de uma representação jurídica dessas áreas em si.  
+Ao reconhecermos as **Zonas Costeiras e os Territórios Hidrossociais** como sujeito de direitos, teorias e práticas jurídicas poderão reivindicadas como espaços de renegociação, por parte não somente dos grupos diretamente afetados em busca de uma [justiça democrática](https://www.scielo.br/j/ln/a/BJjZvbgHXyxwYKHyJbTYCnn/?format=pdf&lang=pt), mas em nome de uma representação jurídica dessas áreas em si.  
 
-Uma posição que desafia a divisão fundante do [Estado moderno](https://www.ige.unicamp.br/lehg/o-nascimento-do-estado-moderno/) entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais  - a respeito de sua proximidade maior com o meio ambiente ou com a temporalidade histórica. Uma divisão que permitiu ao Estado operar por hierarquizações entre aqueles tidos como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas (LATOUR, 1994).
+Uma posição que desafia a divisão fundante do [Estado moderno](https://www.ige.unicamp.br/lehg/o-nascimento-do-estado-moderno/) entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais  - a respeito de sua proximidade maior com o meio ambiente ou com a temporalidade histórica. Uma divisão que permitiu ao Estado operar por hierarquizações entre aqueles tidos [como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas](https://www.laspa.slg.br/2021/12/08/humanos-e-nao-humanos-em-latour-1994-1991/).
 
 Essa discussão levanta questões que ainda estão em aberto: Em que medida é sustentável e coerente aplicar a noção moderna de direitos quando falamos de outras relações com essas áreas? Quem deveria consistir o sujeito de direitos das **Zonas Costeiras e os Territórios Hidrossociais** em frente a uma perspectiva de generalizada e complexa crise ecológica, econômica, política e social?
 
