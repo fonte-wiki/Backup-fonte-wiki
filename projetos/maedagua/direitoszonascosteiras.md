@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-18T17:44:20.100Z
+date: 2025-10-18T17:51:07.002Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-28T15:10:37.161Z
 
 No início do século XX, o uso e a exploração dos recursos naturais deixou de ter uma abordagem doméstica, dando origem a uma série de tratados e convenções, com jurisdições nacionais e internacionais. Em ordem cronológica, temos alguns marcos do que posteriormente seria chamado como Direito Ambiental: em [1931, a Convenção para a Regulamentação da Pesca da Baleia; em 1946, a Convenção Internacional da Pesca da Baleia](https://ojs.upf.br/index.php/rhdt/article/view/13440); em [1951 o Tratado da Antártida](https://www.ats.aq/e/antarctictreaty.html); e, em [1972, a Conferência Internacional sobre Meio Ambiente de Estocolmo](https://www.un.org/en/conferences/environment/stockholm1972), promovida pela Organização das Nações Unidas (ONU) - que revelou uma forte divergência entre as percepções ambientais e os interesses econômicos dos países dos hemisférios Norte e Sul, [separados por níveis totalmente díspares de desenvolvimento e qualidade de vida](https://www.unep.org/pt-br/noticias-e-reportagens/reportagem/o-que-voce-precisa-saber-sobre-estocolmo50). 
 
-Na segunda metade dos anos 1990, foram criados mais de 30.000 dispositivos jurídicos internacionais sobre o meio ambiente, sendo 300 tratados multilaterais, 900 acordos bilaterais, e mais de 200 textos de organizações não governamentais (VARELLA, 2004). Foi assim que surgiu o [Direito Ambiental](https://www.youtube.com/watch?v=sOthPDyUy-w), como um instrumento normatizador de bens ecossistêmicos comuns, porém compreendendo a Natureza como um objeto para uso e exploração humana.
+Nos [anos 1990](https://environmentalhistory.org/20th-century/nineties/) foram criados muitos dispositivos jurídicos sobre o meio ambiente, e com isso surgiu a noção de [Direito Ambiental](https://www.youtube.com/watch?v=sOthPDyUy-w) como um instrumento normatizador de bens ecossistêmicos comuns, porém que compreende a Natureza como um objeto para uso e exploração humana.
 
 Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um cenário global que aponta para os [limites ecossitêmicos](https://www.stockholmresilience.org/research/planetary-boundaries.html). O conceito, reconhecido pela Constituição da República do Equador (2008) ao  declarar os direitos da [Pachamama](https://www.jusbrasil.com.br/artigos/a-natureza-como-sujeito-de-direitos/1663473408) e pela Constituição do Estado Plurinacional da Bolívia (2009), provoca uma mudança significativa na noção de direitos que, até então, permanecia vinculada a uma pessoa jurídica. Esses textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições, e pelo reconhecimento de [cosmovisões andinas](https://www.scielo.br/j/bioet/a/3NRjkqKfwDpN66LwzntJBZd/?format=pdf&lang=pt) - além de atribuirem o estatuto de pessoa a seres e agências não-humanas.
 
@@ -33,8 +33,3 @@ Ao reconhecermos as **Zonas Costeiras e os Territórios Hidrossociais** como suj
 Uma posição que desafia a divisão fundante do [Estado moderno](https://www.ige.unicamp.br/lehg/o-nascimento-do-estado-moderno/) entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais  - a respeito de sua proximidade maior com o meio ambiente ou com a temporalidade histórica. Uma divisão que permitiu ao Estado operar por hierarquizações entre aqueles tidos [como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas](https://www.laspa.slg.br/2021/12/08/humanos-e-nao-humanos-em-latour-1994-1991/).
 
 Essa discussão levanta questões que ainda estão em aberto: Em que medida é sustentável e coerente aplicar a noção moderna de direitos quando falamos de outras relações com essas áreas? Quem deveria consistir o sujeito de direitos das **Zonas Costeiras e os Territórios Hidrossociais** em frente a uma perspectiva de generalizada e complexa crise ecológica, econômica, política e social?
-
-
-## Referências Bibliográficas
-
-- VARELLA, M. D. **Direito internacional econômico ambiental**. Belo Horizonte: Del Rey, 2004.
