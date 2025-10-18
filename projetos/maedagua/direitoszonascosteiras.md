@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-18T17:33:36.594Z
+date: 2025-10-18T17:35:36.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -16,7 +16,7 @@ Na segunda metade dos anos 1990, foram criados mais de 30.000 dispositivos jurí
 
 Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um cenário global que aponta para os [limites ecossitêmicos](https://www.stockholmresilience.org/research/planetary-boundaries.html). O conceito, reconhecido pela Constituição da República do Equador (2008) ao  declarar os direitos da [Pachamama](https://www.jusbrasil.com.br/artigos/a-natureza-como-sujeito-de-direitos/1663473408) e pela Constituição do Estado Plurinacional da Bolívia (2009), provoca uma mudança significativa na noção de direitos que, até então, permanecia vinculada a uma pessoa jurídica. Esses textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições, e pelo reconhecimento de [cosmovisões andinas](https://www.scielo.br/j/bioet/a/3NRjkqKfwDpN66LwzntJBZd/?format=pdf&lang=pt) - além de atribuirem o estatuto de pessoa a seres e agências não-humanas.
 
-> O [ciclo hidrocosmológico andino](https://revistas.ufpr.br/made/article/view/83893), descreve as relações físico-natural e metafísico-cosmológica das comunidades Quechua com a água por meio das suas experiências que interconectam fatores físicos, humanos e espirituais. Para as comunidades Quechua, os ritos e mitos da água desempenham um papel fundamental para o ciclo agrícola anual. Os rituais presentes no ciclo hidrocosmológico envolvem, por exemplo, orar pela chuva durante períodos de seca severa e realizar festivais em períodos que antecedem a temporada de irrigação, com o oferecimento de ofertas próximas às fontes ou entradas de água.
+> O [ciclo hidrocosmológico andino](https://revistas.ufpr.br/made/article/view/83893), descreve as relações físico-natural e metafísico-cosmológica com a água por meio das suas experiências que interconectam fatores físicos, humanos e espirituais. Os ritos e mitos da água desempenham um papel fundamental, e envolvem: orar pela chuva durante períodos de seca severa e realizar festivais em períodos que antecedem a temporada de irrigação, com o oferecimento de ofertas próximas às fontes ou entradas de água.
 
 Uma abordagem que reconhece a Natureza como possuidora de valores intrínsecos, independente da utilidade que possa oferecer aos seres humanos. Um princípio também declarado na [Carta da Terra](https://antigo.mma.gov.br/educacao-ambiental/pol%C3%ADtica-nacional-de-educa%C3%A7%C3%A3o-ambiental/documentos-referenciais/item/8071-carta-da-terra.html) (2000), que aponta inovações jurídicas responsivas às reivindicações das agendas político-econômicas do mundo atual, e produz novas relações de representação e mediação envolvendo os ecossistemas e seus recursos. 
 
