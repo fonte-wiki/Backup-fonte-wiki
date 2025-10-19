@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-18T17:51:07.002Z
+date: 2025-10-19T17:38:21.761Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -22,7 +22,7 @@ Uma abordagem que reconhece a Natureza como possuidora de valores intrínsecos, 
 
 As **Zonas Costeiras** são áreas de extrema relevância para aplicação desse conceito, por serem compostas de um sistema diverso composto por estuários, restingas, costões rochosos, manguezais, e marismas. São áreas submetidas a variações climáticas, geomorfológicas e oceanográficas, que abrigam uma grande diversidade de espécies, em vários grupos taxonômicos.
 
-Atualmente, a maior parte da população do planeta encontra-se em Zonas Costeiras, transformando-as em [Territórios Hidrossociais](/projetos/maedagua/direitoszonascosteiras)https://www.scielo.br/j/ea/a/PBZcjdwhpvPCLWCXRxrVGzh/?lang=pt&format=pdf) - já que têm a água como o resultado da interação entre ambiente-tecnologia-sociedade, assim como na materialidade de suas dinâmicas. A manutenção da vida das populações costeiras (de diferentes espécies) depende do equilíbrio dos ecossistemas costeiros como um todo, desde as bacias de recepção e drenagem, as águas interiores próximas à costa, até o próprio sistema marinho. 
+Atualmente, a maior parte da população do planeta encontra-se em Zonas Costeiras, transformando-as em [Territórios Hidrossociais](https://www.scielo.br/j/ea/a/PBZcjdwhpvPCLWCXRxrVGzh/?lang=pt&format=pdf) - já que têm a água como o resultado da interação entre ambiente-tecnologia-sociedade, assim como na materialidade de suas dinâmicas. A manutenção da vida das populações costeiras (de diferentes espécies) depende do equilíbrio dos ecossistemas costeiros como um todo, desde as bacias de recepção e drenagem, as águas interiores próximas à costa, até o próprio sistema marinho. 
 
 São áreas que apresentam uma grande variedade de serviços ecossistêmicos, mas ao mesmo tempo estão vulneráveis aos cenários ligados às mudanças climáticas e ambientais, como a [acidificação](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification) e a [mudança da temperatura](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/06/consequencia-do-aquecimento-global-oceano-esta-2018febril2019) nos Oceanos, ao [grande volume de lixo](https://www.nature.com/articles/s43247-025-02445-4?fromPaywallRec=false), aos [vazamentos de petróleo e elementos tóxicos](https://www.noaa.gov/education/resource-collections/ocean-coasts/oil-spills), a [pesca e caça predatórias](https://www.msc.org/pt/o-nosso-trabalho/oceanos-em-risco/sobrepesca-pesca-ilegal-e-pesca-destrutiva), ao aumento do [nível dos mares e oceanos](https://sealevel.nasa.gov/), entre outros. 
 
