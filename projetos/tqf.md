@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-10-29T19:55:24.021Z
+date: 2025-11-03T23:44:28.237Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -10,4 +10,12 @@ dateCreated: 2025-10-29T19:55:24.021Z
 
 # Tropixel QuantumFagia
 
-Encontro planejado para 6 e 7 de dezembro de 2025, no Rio de Janeiro.
+*6 e 7 de dezembro de 2025.
+Casa Njira, Rio de Janeiro.*
+
+**Encontro ligado ao [MTB Quantumfagia](https://quantumfagia.midiatatica.net/).**
+
+## Quem vem, por quê, o que traz ou faz?
+
+- [Felipe](/pessoas/felipe-fonseca) quer abraçar pessoas. Traz ideias sobre tecnologias de memória e água, circularidade inclusiva, irreparabilidade, fazer-comum nas comonalidades e diferenças.
+
