@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: true
-date: 2025-10-20T13:27:17.591Z
+date: 2025-11-09T14:09:00.389Z
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28T16:10:28.630Z
@@ -75,6 +75,8 @@ Para isso, trabalhamos na elaboração de bases referenciais e criamos [artigos]
 **Pesquisa e Desenvolvimento:** Maira Begalli, Ricardo Guimarães, Felipe Fonseca
 
 **Colaboração em Pesquisa:** Leonardo Mello, Tiago Andrade, Julia Furgeri
+
+**Iniciação em Pesquisa:** Ian Costa, Laryssa Vitoria, Welton Santos
 
 **Design e Produtos de Mídia:** Carolina Saravalli e Kevelyn Oliveira
 
