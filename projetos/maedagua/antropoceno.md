@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: true
-date: 2025-11-09T13:33:27.404Z
+date: 2025-11-09T13:39:53.711Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
@@ -11,7 +11,6 @@ dateCreated: 2025-07-30T17:40:46.418Z
 No início do século XXI, a [intensificação das mudanças climáticas](https://brasil.un.org/pt-br/175180-o-que-s%C3%A3o-mudan%C3%A7as-clim%C3%A1ticas#:~:text=As%20concentra%C3%A7%C3%B5es%20de%20gases%20de,catastr%C3%B3ficas%20e%20decl%C3%ADnio%20da%20biodiversidade) e ambientais passou a impactar [diretamente os territórios costeiros](https://www.prb.org/resources/ripple-effects-population-and-coastal-regions/), onde atualmente vivem cerca de 40% da população mundial - uma porcentagem equivale a 3 bilhões de pessoas. 
 
 As [Zonas Costeiras](https://fonte.wiki/projetos/maedagua/direitoszonascosteiras) possuem uma composição ecológica diversa e são áreas de extrema relevância para a observação do conceito de [justiça climática](https://semil.sp.gov.br/educacaoambiental/2025/08/justica-climatica-nao-somos-afetados-da-mesma-maneira-pela-mudanca-do-clima/). Já que o aumento da temperatura média da Terra e dos oceanos tem provocado o derretimento das calotas polares, [elevando o nível do mar](https://inpo.org.br/o-oceano-esta-subindo-o-que-os-dados-oficiais-revelam-sobre-a-elevacao-do-nivel-do-mar/). Entre 2014 e 2023, o ritmo de elevação aumentou mais de 50%, com relação aos anos de 1993 à 2002, passando de 2,13 mm por ano para 4,77 mm.
-
 
 Esse cenário tem alterado os modos de vida e a permanência das populações costeiras. Como nos casos de [Tuvalu](https://www.unicef.org.au/stories/tuvalu-climate-change-photo-essay?srsltid=AfmBOop2x284nBqsYaClZjDNoJkqUIEWaEaLRPT1Hy4eItCg0Hf6e_vG), uma nação insular, que está organizando o deslocamento total de sua população devido à elevação do nível do mar, e [Veneza](https://www.bbc.com/news/world-europe-50401308) que nos últimos anos sofreu com significativas perdas ao seu patrimônio cultural e econômico.
 
@@ -23,7 +22,11 @@ Essas grandes transformações compõem um período que está sendo chamado como
 
 Embora o Antropoceno ainda não tenha a validação da [Associação Internacional de Estratigrafia](https://stratigraphy.org/), como marco geológico, o termo tem sido amplamente utilizado para descrever a intensidade e velocidade das transformações provocadas pela ação humana, especialmente após a [Revolução Industrial](https://www.fflch.usp.br/170112) e com aceleração notável ocorrida na segunda metade do século XX.
 
-Transformações que tem revelado a importância de discutir os conceitos básicos da [ecologia de populações](https://www.researchgate.net/profile/Alpina-Begossi/publication/11109051_Human_ecology_an_overview_of_man-environment_relationships/links/0f31753cd39ac54b05000000/Human-ecology-an-overview-of-man-environment-relationships.pdf?origin=journalDetail) humanas: [resiliência, vulnerabilidade e adaptação](https://www.scielo.br/j/asoc/a/ykfq5VcpRBtQDyK8VfWjwKb/?lang=en) - principalmente para as populações tradicionais que pouco contribuíram para a degradação ambiental ao longo da história da civilização contemporânea e são as mais prejudicadas atualmente. Não estamos todos "no mesmo barco", mas sim "na mesma tempestade": alguns em transatlânticos e outros sem boias, evidenciando a desigualdade na capacidade de enfrentar os desafios das zonas costeiras no mundo atual. 
+Transformações que tem revelado a importância de discutir os conceitos básicos da [ecologia de populações](https://www.researchgate.net/profile/Alpina-Begossi/publication/11109051_Human_ecology_an_overview_of_man-environment_relationships/links/0f31753cd39ac54b05000000/Human-ecology-an-overview-of-man-environment-relationships.pdf?origin=journalDetail) humanas: [resiliência, vulnerabilidade e adaptação](https://www.scielo.br/j/asoc/a/ykfq5VcpRBtQDyK8VfWjwKb/?lang=en) - principalmente para as populações tradicionais que pouco contribuíram para a degradação ambiental ao longo da história da civilização contemporânea e são as mais prejudicadas atualmente. 
+
+Características sociodemográficas, como: raça, escolaridade, renda e saneamento, estão intriscemante relacionadas a vulnerabilidade das populações costeiras. Atualmente, a maioria dessa população global já está vulnerável e segregada, com poucas ferramentas para lidar com as transformações em curso. O que significa que os já vulnerabilizados tendem a se tornar ainda mais vulnerabilizados aos riscos já existentes, e os novos que deverão surgir.
+
+Ou seja, não estamos todos "no mesmo barco", mas sim "na mesma tempestade": alguns em transatlânticos e outros sem boias, evidenciando a desigualdade na capacidade de enfrentar os desafios das zonas costeiras no mundo atual. 
 
 
 
