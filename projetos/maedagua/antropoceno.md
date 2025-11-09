@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: true
-date: 2025-11-09T13:41:47.789Z
+date: 2025-11-09T13:43:45.067Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
@@ -24,7 +24,7 @@ Embora o Antropoceno ainda não tenha a validação da [Associação Internacion
 
 Transformações que tem revelado a importância de discutir os conceitos básicos da [ecologia de populações](https://www.researchgate.net/profile/Alpina-Begossi/publication/11109051_Human_ecology_an_overview_of_man-environment_relationships/links/0f31753cd39ac54b05000000/Human-ecology-an-overview-of-man-environment-relationships.pdf?origin=journalDetail) humanas: [resiliência, vulnerabilidade e adaptação](https://www.scielo.br/j/asoc/a/ykfq5VcpRBtQDyK8VfWjwKb/?lang=en) - principalmente para as populações tradicionais que pouco contribuíram para a degradação ambiental ao longo da história da civilização contemporânea e são as mais prejudicadas atualmente. 
 
-Características sociodemográficas, como: raça, escolaridade, renda e saneamento, estão intriscemante relacionadas a vulnerabilidade das populações costeiras. Atualmente, a maioria dessa população global já está vulnerável e segregada, com poucas ferramentas para lidar com as transformações em curso. O que significa que os já vulnerabilizados tendem a se tornar ainda mais vulnerabilizados aos riscos já existentes, e os novos que deverão surgir.
+Características sociodemográficas, como: raça, escolaridade, renda e saneamento, estão [intriscemante relacionadas a vulnerabilidade das populações costeiras](https://repositorio.ipea.gov.br/server/api/core/bitstreams/4ba3e658-4312-41bb-adff-c03fc651e4d2/content#:~:text=Fronteiras%20do%20Brasil:%20o%20litoral%20em%20sua%20dimens%C3%A3o%20fronteiri%C3%A7a,-328%20%7C&text=o%20aumento%20nas%20m%C3%A9dias%20de,e%20migra%C3%A7%C3%B5es%20das%20zonas%20rurais). Atualmente, a maioria dessa população global já está vulnerável e segregada, com poucas ferramentas para lidar com as transformações em curso. O que significa que os já vulnerabilizados tendem a se tornar ainda mais vulnerabilizados aos riscos já existentes, e os novos que deverão surgir.
 
 Ou seja, não estamos todos "no mesmo barco", mas sim "na mesma tempestade": alguns em transatlânticos e outros sem boias, evidenciando a desigualdade na capacidade de enfrentar os desafios das zonas costeiras no mundo atual. 
 
