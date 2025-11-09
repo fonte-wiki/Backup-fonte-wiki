@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por
 published: true
-date: 2025-11-09T12:44:36.807Z
+date: 2025-11-09T12:48:54.414Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
@@ -13,19 +13,9 @@ No início do século XXI, a [intensificação das mudanças climáticas](https:
 As Zonas Costeiras possuem uma composição ecológica diversa (com estuários, manguezais, marismas e costões rochosos) e são áreas de extrema relevância para discussão e aplicação do conceito de [justiça climática](https://semil.sp.gov.br/educacaoambiental/2025/08/justica-climatica-nao-somos-afetados-da-mesma-maneira-pela-mudanca-do-clima/). Já que o aumento da temperatura média da Terra e dos oceanos tem provocado o derretimento das calotas polares, elevando o nível do mar e alterando a salinidade, alcalinidade e disponibilidade de nutrientes nos ecossistemas marinhos. Mudanças que afetam diretamente a segurança alimentar, os modos de vida e a permanência das populações costeiras - como no caso de [Tuvalu](https://www.unicef.org.au/stories/tuvalu-climate-change-photo-essay?srsltid=AfmBOop2x284nBqsYaClZjDNoJkqUIEWaEaLRPT1Hy4eItCg0Hf6e_vG), uma nação insular, que está organizando o deslocamento total de sua população devido à elevação do nível do mar.
 
 
-
-
-
-
-No Brasil, mais da metade da população reside em até 150 km da costa, dado que transforma essas áreas em zonas críticas de vulnerabilidade diante da [emergência climática](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/emergencias-climaticas#:~:text=Emerg%C3%AAncias%20clim%C3%A1ticas%2C%20como%20ondas%20de,a%20seguran%C3%A7a%20alimentar%20e%20h%C3%ADdrica0).
-
-Podemos dizer que a  emergência climática representa uma [policrise](https://capita.org/wp-content/uploads/2025/10/Welcome-to-the-world-of-the-polycrisis.pdf). Ou seja, uma crise composta por múltiplos fatores (ambientais, sociais, econômicos e políticos) que se retroalimentam, mas se manifestam de diferentes formas e gravidades em cada território, em suas diferentes escalas.
+No Brasil, mais da metade da população reside em até 150 km da costa, dado que transforma essas áreas em zonas críticas de vulnerabilidade diante da [emergência climática](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/emergencias-climaticas#:~:text=Emerg%C3%AAncias%20clim%C3%A1ticas%2C%20como%20ondas%20de,a%20seguran%C3%A7a%20alimentar%20e%20h%C3%ADdrica0). Podemos dizer que a  emergência climática representa uma [policrise](https://capita.org/wp-content/uploads/2025/10/Welcome-to-the-world-of-the-polycrisis.pdf). Ou seja, uma crise composta por múltiplos fatores (ambientais, sociais, econômicos e políticos) que se retroalimentam, mas se manifestam de diferentes formas e gravidades em cada território, em suas diferentes escalas.
 
 > *Pandemia, seca, inundações, tempestades e incêndios florestais de proporções gigantescas, ameaças de uma terceira guerra mundial — quão rapidamente nos acostumamos a essa lista de choques. Tanto que, de tempos em tempos, vale a pena parar e refletir sobre a estranheza da nossa situação*. Adam Tooze
-
-
-
-
 
 Essas grandes transformações compõem um período que está sendo chamado como [Antropoceno](https://www.nationalgeographicbrasil.com/historia/2023/01/o-que-e-o-antropoceno-e-por-que-esta-teoria-cientifica-responsabiliza-a-humanidade): uma nova [era geológica](https://www.sgb.gov.br/breve-historia-da-terra), caracterizada pela capacidade humana de transformar profundamente os sistemas naturais do planeta, da superfície ao subsolo, dos oceanos aos ciclos biogeoquímicos. 
 
