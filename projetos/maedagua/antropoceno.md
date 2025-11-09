@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por
 published: true
-date: 2025-11-09T12:28:30.304Z
+date: 2025-11-09T12:33:45.825Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
@@ -14,6 +14,6 @@ Podemos dizer que a  emergência climática representa uma [policrise](https://c
 
 > *Pandemia, seca, inundações, tempestades e incêndios florestais de proporções gigantescas, ameaças de uma terceira guerra mundial — quão rapidamente nos acostumamos a essa lista de choques. Tanto que, de tempos em tempos, vale a pena parar e refletir sobre a estranheza da nossa situação*. Adam Tooze
 
-Essas grandes transformações acontecem em um período que está sendo chamado como Antropoceno: uma nova era geológica, caracterizada pela capacidade humana de transformar profundamente os sistemas naturais do planeta, da superfície ao subsolo, dos oceanos aos ciclos biogeoquímicos. 
+Essas grandes transformações compõem um período que está sendo chamado como [Antropoceno](https://www.nationalgeographicbrasil.com/historia/2023/01/o-que-e-o-antropoceno-e-por-que-esta-teoria-cientifica-responsabiliza-a-humanidade): uma nova [era geológica](https://www.sgb.gov.br/breve-historia-da-terra), caracterizada pela capacidade humana de transformar profundamente os sistemas naturais do planeta, da superfície ao subsolo, dos oceanos aos ciclos biogeoquímicos. 
 
-Embora ainda não haja consenso sobre a validação desse marco pela Associação Internacional de Estratigrafia, o termo tem sido amplamente utilizado para descrever a intensidade e velocidade das transformações provocadas pela ação humana, especialmente após a Revolução Industrial e com aceleração notável a partir da segunda metade do século XX.
+Embora o Antropoceno ainda não tenha a validação da [Associação Internacional de Estratigrafia](https://stratigraphy.org/), como marco geológico, o termo tem sido amplamente utilizado para descrever a intensidade e velocidade das transformações provocadas pela ação humana, especialmente após a [Revolução Industrial](https://www.fflch.usp.br/170112) e com aceleração notável a partir da segunda metade do século XX.
