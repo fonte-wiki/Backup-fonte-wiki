@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: true
-date: 2025-11-09T13:30:57.176Z
+date: 2025-11-09T13:31:31.079Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
