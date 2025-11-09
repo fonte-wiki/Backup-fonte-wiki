@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: true
-date: 2025-11-09T13:22:58.890Z
+date: 2025-11-09T13:26:36.639Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
@@ -23,7 +23,7 @@ Essas grandes transformações compõem um período que está sendo chamado como
 
 Embora o Antropoceno ainda não tenha a validação da [Associação Internacional de Estratigrafia](https://stratigraphy.org/), como marco geológico, o termo tem sido amplamente utilizado para descrever a intensidade e velocidade das transformações provocadas pela ação humana, especialmente após a [Revolução Industrial](https://www.fflch.usp.br/170112) e com aceleração notável a partir da segunda metade do século XX.
 
-Transformações que tem revelado a importância de discutir os conceitos básicos da [ecologia de populações humanas](https://www.researchgate.net/profile/Alpina-Begossi/publication/11109051_Human_ecology_an_overview_of_man-environment_relationships/links/0f31753cd39ac54b05000000/Human-ecology-an-overview-of-man-environment-relationships.pdf?origin=journalDetail): resiliência, vulnerabilidade e adaptação - principalmente para as populações tradicionais que pouco contribuíram para a degradação ambiental ao longo da história da civilização contemporânea e são as mais prejudicadas atualmente.
+Transformações que tem revelado a importância de discutir os conceitos básicos da [ecologia de populações humanas](https://www.researchgate.net/profile/Alpina-Begossi/publication/11109051_Human_ecology_an_overview_of_man-environment_relationships/links/0f31753cd39ac54b05000000/Human-ecology-an-overview-of-man-environment-relationships.pdf?origin=journalDetail): [resiliência, vulnerabilidade e adaptação](https://www.scielo.br/j/asoc/a/ykfq5VcpRBtQDyK8VfWjwKb/?lang=en) - principalmente para as populações tradicionais que pouco contribuíram para a degradação ambiental ao longo da história da civilização contemporânea e são as mais prejudicadas atualmente.
 
 
 
