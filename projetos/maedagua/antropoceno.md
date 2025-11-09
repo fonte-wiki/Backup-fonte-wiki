@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: true
-date: 2025-11-09T13:39:53.711Z
+date: 2025-11-09T13:40:59.766Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
@@ -14,7 +14,7 @@ As [Zonas Costeiras](https://fonte.wiki/projetos/maedagua/direitoszonascosteiras
 
 Esse cenário tem alterado os modos de vida e a permanência das populações costeiras. Como nos casos de [Tuvalu](https://www.unicef.org.au/stories/tuvalu-climate-change-photo-essay?srsltid=AfmBOop2x284nBqsYaClZjDNoJkqUIEWaEaLRPT1Hy4eItCg0Hf6e_vG), uma nação insular, que está organizando o deslocamento total de sua população devido à elevação do nível do mar, e [Veneza](https://www.bbc.com/news/world-europe-50401308) que nos últimos anos sofreu com significativas perdas ao seu patrimônio cultural e econômico.
 
-No Brasil, mais da metade da população reside em até 150 km da costa, dado que aponta a vulnerabilidade desses territórios diante da [emergência climática](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/emergencias-climaticas#:~:text=Emerg%C3%AAncias%20clim%C3%A1ticas%2C%20como%20ondas%20de,a%20seguran%C3%A7a%20alimentar%20e%20h%C3%ADdrica0) que representa uma [policrise](https://capita.org/wp-content/uploads/2025/10/Welcome-to-the-world-of-the-polycrisis.pdf). Ou seja, uma crise composta por múltiplos fatores (ambientais, sociais, econômicos, políticos, de saúde pública e relações internacionais) que se retroalimentam, e se manifestam de diferentes formas e gravidades em cada território, em suas diferentes escalas.
+No Brasil, mais da metade da população reside em até 150 km da costa, dado que aponta a vulnerabilidade desses territórios diante da [emergência climática](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/e/emergencias-climaticas#:~:text=Emerg%C3%AAncias%20clim%C3%A1ticas%2C%20como%20ondas%20de,a%20seguran%C3%A7a%20alimentar%20e%20h%C3%ADdrica0) que representa uma [policrise](https://capita.org/wp-content/uploads/2025/10/Welcome-to-the-world-of-the-polycrisis.pdf). Uma crise composta por múltiplos fatores (ambientais, sociais, econômicos, políticos, de saúde pública e relações internacionais) que se retroalimentam, e se manifestam de diferentes formas e gravidades em cada território, em suas diferentes escalas.
 
 > *Pandemia, seca, inundações, tempestades e incêndios florestais de proporções gigantescas, ameaças de uma terceira guerra mundial — quão rapidamente nos acostumamos a essa lista de choques. Tanto que, de tempos em tempos, vale a pena parar e refletir sobre a estranheza da nossa situação*. Adam Tooze
 
