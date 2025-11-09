@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por
 published: true
-date: 2025-11-09T12:33:45.825Z
+date: 2025-11-09T12:36:38.217Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
