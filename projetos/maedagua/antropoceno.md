@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por
 published: true
-date: 2025-11-09T12:48:54.414Z
+date: 2025-11-09T12:57:55.851Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
@@ -20,6 +20,10 @@ No Brasil, mais da metade da população reside em até 150 km da costa, dado qu
 Essas grandes transformações compõem um período que está sendo chamado como [Antropoceno](https://www.nationalgeographicbrasil.com/historia/2023/01/o-que-e-o-antropoceno-e-por-que-esta-teoria-cientifica-responsabiliza-a-humanidade): uma nova [era geológica](https://www.sgb.gov.br/breve-historia-da-terra), caracterizada pela capacidade humana de transformar profundamente os sistemas naturais do planeta, da superfície ao subsolo, dos oceanos aos ciclos biogeoquímicos. 
 
 Embora o Antropoceno ainda não tenha a validação da [Associação Internacional de Estratigrafia](https://stratigraphy.org/), como marco geológico, o termo tem sido amplamente utilizado para descrever a intensidade e velocidade das transformações provocadas pela ação humana, especialmente após a [Revolução Industrial](https://www.fflch.usp.br/170112) e com aceleração notável a partir da segunda metade do século XX.
+
+Transformações que tem revelado a importância de discutir os conceitos básicos da ecologia de populações humanas: resiliência, vulnerabilidade e adaptação - principalmente para as populações tradicionais que pouco contribuíram para a degradação ambiental ao longo da história da civilização contemporânea e são as mais prejudicadas atualmente.
+
+
 
 
 
