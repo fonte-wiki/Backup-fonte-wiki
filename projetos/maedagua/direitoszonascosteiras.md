@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-10-19T17:38:21.761Z
+date: 2025-11-13T10:15:26.789Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -14,6 +14,9 @@ No início do século XX, o uso e a exploração dos recursos naturais deixou de
 
 Nos [anos 1990](https://environmentalhistory.org/20th-century/nineties/) foram criados muitos dispositivos jurídicos sobre o meio ambiente, e com isso surgiu a noção de [Direito Ambiental](https://www.youtube.com/watch?v=sOthPDyUy-w) como um instrumento normatizador de bens ecossistêmicos comuns, porém que compreende a Natureza como um objeto para uso e exploração humana.
 
+![imagem_1-_direito_das_zonas_costeiras_e_territórios_hidrossociais.jpg](/projetos/maedagua/imagem_1-_direito_das_zonas_costeiras_e_territórios_hidrossociais.jpg)
+Fonte: Prefeitura de Ubatuba
+
 Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um cenário global que aponta para os [limites ecossitêmicos](https://www.stockholmresilience.org/research/planetary-boundaries.html). O conceito, reconhecido pela Constituição da República do Equador (2008) ao  declarar os direitos da [Pachamama](https://www.jusbrasil.com.br/artigos/a-natureza-como-sujeito-de-direitos/1663473408) e pela Constituição do Estado Plurinacional da Bolívia (2009), provoca uma mudança significativa na noção de direitos que, até então, permanecia vinculada a uma pessoa jurídica. Esses textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições, e pelo reconhecimento de [cosmovisões andinas](https://www.scielo.br/j/bioet/a/3NRjkqKfwDpN66LwzntJBZd/?format=pdf&lang=pt) - além de atribuirem o estatuto de pessoa a seres e agências não-humanas.
 
 > O [ciclo hidrocosmológico andino](https://revistas.ufpr.br/made/article/view/83893) descreve as relações físico-natural e metafísico-cosmológica com a água por meio das suas experiências que interconectam fatores físicos, humanos e espirituais. Os ritos e mitos da água desempenham um papel fundamental, e envolvem: orar pela chuva durante períodos de seca severa e realizar festivais em períodos que antecedem a temporada de irrigação, com o oferecimento de ofertas próximas às fontes ou entradas de água.
@@ -24,6 +27,9 @@ As **Zonas Costeiras** são áreas de extrema relevância para aplicação desse
 
 Atualmente, a maior parte da população do planeta encontra-se em Zonas Costeiras, transformando-as em [Territórios Hidrossociais](https://www.scielo.br/j/ea/a/PBZcjdwhpvPCLWCXRxrVGzh/?lang=pt&format=pdf) - já que têm a água como o resultado da interação entre ambiente-tecnologia-sociedade, assim como na materialidade de suas dinâmicas. A manutenção da vida das populações costeiras (de diferentes espécies) depende do equilíbrio dos ecossistemas costeiros como um todo, desde as bacias de recepção e drenagem, as águas interiores próximas à costa, até o próprio sistema marinho. 
 
+![imagem_3-_direito_das_zonas_costeiras_e_territórios_hidrossociais.webp](/projetos/maedagua/imagem_3-_direito_das_zonas_costeiras_e_territórios_hidrossociais.webp)
+Fonte: Brasil de Direitos
+
 São áreas que apresentam uma grande variedade de serviços ecossistêmicos, mas ao mesmo tempo estão vulneráveis aos cenários ligados às mudanças climáticas e ambientais, como a [acidificação](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification) e a [mudança da temperatura](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/06/consequencia-do-aquecimento-global-oceano-esta-2018febril2019) nos Oceanos, ao [grande volume de lixo](https://www.nature.com/articles/s43247-025-02445-4?fromPaywallRec=false), aos [vazamentos de petróleo e elementos tóxicos](https://www.noaa.gov/education/resource-collections/ocean-coasts/oil-spills), a [pesca e caça predatórias](https://www.msc.org/pt/o-nosso-trabalho/oceanos-em-risco/sobrepesca-pesca-ilegal-e-pesca-destrutiva), ao aumento do [nível dos mares e oceanos](https://sealevel.nasa.gov/), entre outros. 
 
 Por isso, se faz necessário, promover um questionamento relativo à renegociação dos **Direitos das Zonas Costeiras e Territórios Hidrossociais**, e sobre quem consiste o seu [sujeito de direitos](https://direitoestadosociedade.jur.puc-rio.br/media/artigo6%20pedro.pdf), para romper com o padrão de exploração indiscriminado, baseado na crença da regeneração infinita desses ecossistemas.
@@ -33,3 +39,6 @@ Ao reconhecermos as **Zonas Costeiras e os Territórios Hidrossociais** como suj
 Uma posição que desafia a divisão fundante do [Estado moderno](https://www.ige.unicamp.br/lehg/o-nascimento-do-estado-moderno/) entre a natureza e a cultura, que criou distâncias entre povos de acordo com percepções ocidentais  - a respeito de sua proximidade maior com o meio ambiente ou com a temporalidade histórica. Uma divisão que permitiu ao Estado operar por hierarquizações entre aqueles tidos [como sujeitos juridicamente representáveis e aqueles designados como objetos desprovidos de agência a serem representados por cientistas](https://www.laspa.slg.br/2021/12/08/humanos-e-nao-humanos-em-latour-1994-1991/).
 
 Essa discussão levanta questões que ainda estão em aberto: Em que medida é sustentável e coerente aplicar a noção moderna de direitos quando falamos de outras relações com essas áreas? Quem deveria consistir o sujeito de direitos das **Zonas Costeiras e os Territórios Hidrossociais** em frente a uma perspectiva de generalizada e complexa crise ecológica, econômica, política e social?
+
+--------------------------------------
+Acesse nosso podcast sobre o tema
