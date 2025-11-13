@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-11-13T14:46:12.813Z
+date: 2025-11-13T14:47:11.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -23,5 +23,5 @@ Dúvidas? Respondamos.
 
 ## Quem vem, por quê, o que traz ou faz?
 
-- [Felipe](/pessoas/felipe-fonseca) quer abraçar pessoas. Traz ideias sobre tecnologias de memória e água, circularidade inclusiva, irreparabilidade, fazer-comum nas comonalidades e diferenças.
+- [Felipe](https://fonte.wiki/pessoas/felipe-fonseca) quer abraçar pessoas. Traz ideias sobre tecnologias de memória e água, circularidade inclusiva, irreparabilidade, fazer-comum nas comonalidades e diferenças.
 
