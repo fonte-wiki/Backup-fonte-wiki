@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2025-11-13T13:28:30.860Z
+date: 2025-11-13T17:06:04.518Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -15,6 +15,7 @@ No início do século XX, o uso e a exploração dos recursos naturais deixou de
 Nos [anos 1990](https://environmentalhistory.org/20th-century/nineties/) foram criados muitos dispositivos jurídicos sobre o meio ambiente, e com isso surgiu a noção de [Direito Ambiental](https://www.youtube.com/watch?v=sOthPDyUy-w) como um instrumento normatizador de bens ecossistêmicos comuns, porém que compreende a Natureza como um objeto para uso e exploração humana.
 
 ![zonascosteiras1.png](/projetos/maedagua/zonascosteiras1.png)
+
 Fonte: Prefeitura de Ubatuba
 
 Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um cenário global que aponta para os [limites ecossitêmicos](https://www.stockholmresilience.org/research/planetary-boundaries.html). O conceito, reconhecido pela Constituição da República do Equador (2008) ao  declarar os direitos da [Pachamama](https://www.jusbrasil.com.br/artigos/a-natureza-como-sujeito-de-direitos/1663473408) e pela Constituição do Estado Plurinacional da Bolívia (2009), provoca uma mudança significativa na noção de direitos que, até então, permanecia vinculada a uma pessoa jurídica. Esses textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições, e pelo reconhecimento de [cosmovisões andinas](https://www.scielo.br/j/bioet/a/3NRjkqKfwDpN66LwzntJBZd/?format=pdf&lang=pt) - além de atribuirem o estatuto de pessoa a seres e agências não-humanas.
@@ -28,6 +29,7 @@ As **Zonas Costeiras** são áreas de extrema relevância para aplicação desse
 Atualmente, a maior parte da população do planeta encontra-se em Zonas Costeiras, transformando-as em [Territórios Hidrossociais](https://www.scielo.br/j/ea/a/PBZcjdwhpvPCLWCXRxrVGzh/?lang=pt&format=pdf) - já que têm a água como o resultado da interação entre ambiente-tecnologia-sociedade, assim como na materialidade de suas dinâmicas. A manutenção da vida das populações costeiras (de diferentes espécies) depende do equilíbrio dos ecossistemas costeiros como um todo, desde as bacias de recepção e drenagem, as águas interiores próximas à costa, até o próprio sistema marinho. 
 
 ![zonascosteiras2.png](/projetos/maedagua/zonascosteiras2.png)
+
 Fonte: Brasil de Direitos
 
 São áreas que apresentam uma grande variedade de serviços ecossistêmicos, mas ao mesmo tempo estão vulneráveis aos cenários ligados às mudanças climáticas e ambientais, como a [acidificação](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification) e a [mudança da temperatura](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/06/consequencia-do-aquecimento-global-oceano-esta-2018febril2019) nos Oceanos, ao [grande volume de lixo](https://www.nature.com/articles/s43247-025-02445-4?fromPaywallRec=false), aos [vazamentos de petróleo e elementos tóxicos](https://www.noaa.gov/education/resource-collections/ocean-coasts/oil-spills), a [pesca e caça predatórias](https://www.msc.org/pt/o-nosso-trabalho/oceanos-em-risco/sobrepesca-pesca-ilegal-e-pesca-destrutiva), ao aumento do [nível dos mares e oceanos](https://sealevel.nasa.gov/), entre outros. 
