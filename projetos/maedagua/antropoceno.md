@@ -2,13 +2,16 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: true
-date: 2025-11-13T09:51:33.342Z
+date: 2025-11-13T09:54:30.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
 ---
 
 # Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil
+
+**- Ouça aqui o [podcast sobre o tema](https://open.spotify.com/episode/6hSqYmCRTuVXIv4rMU3weM?si=7a3c6bb990204fc5)**
+
 
 No início do século XXI, a [intensificação das mudanças climáticas](https://brasil.un.org/pt-br/175180-o-que-s%C3%A3o-mudan%C3%A7as-clim%C3%A1ticas#:~:text=As%20concentra%C3%A7%C3%B5es%20de%20gases%20de,catastr%C3%B3ficas%20e%20decl%C3%ADnio%20da%20biodiversidade) e ambientais passou a impactar [diretamente os territórios costeiros](https://www.prb.org/resources/ripple-effects-population-and-coastal-regions/), onde atualmente vivem cerca de 40% da população mundial - uma porcentagem equivalente a 3 bilhões de pessoas. 
 
@@ -30,9 +33,7 @@ Características sociodemográficas, como: raça, escolaridade, renda e saneamen
 
 Ou seja, não estamos todos "no mesmo barco", mas sim "na mesma tempestade": alguns em transatlânticos e outros sem boias, evidenciando a desigualdade na capacidade de enfrentar os desafios das zonas costeiras no mundo atual. 
 
-Ouça nosso podcast sobre o tema:
------------------------------------------------
-> <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6hSqYmCRTuVXIv4rMU3weM/video?utm_source=generator&theme=0" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" aling=left loading="lazy">
-> </iframe>
+
+
 
 
