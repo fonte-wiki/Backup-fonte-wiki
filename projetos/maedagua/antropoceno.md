@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: true
-date: 2025-11-13T09:55:54.983Z
+date: 2025-11-13T10:06:36.444Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-30T17:40:46.418Z
@@ -11,6 +11,9 @@ dateCreated: 2025-07-30T17:40:46.418Z
 # Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil
 
 No início do século XXI, a [intensificação das mudanças climáticas](https://brasil.un.org/pt-br/175180-o-que-s%C3%A3o-mudan%C3%A7as-clim%C3%A1ticas#:~:text=As%20concentra%C3%A7%C3%B5es%20de%20gases%20de,catastr%C3%B3ficas%20e%20decl%C3%ADnio%20da%20biodiversidade) e ambientais passou a impactar [diretamente os territórios costeiros](https://www.prb.org/resources/ripple-effects-population-and-coastal-regions/), onde atualmente vivem cerca de 40% da população mundial - uma porcentagem equivalente a 3 bilhões de pessoas. 
+
+![antropoceno_-_1_imagem.jpg](/projetos/maedagua/antropoceno_-_1_imagem.jpg)
+Erosão costeira em Atafona, RJ | Fonte: Universidade Federal Fluminense
 
 As [Zonas Costeiras](https://fonte.wiki/projetos/maedagua/direitoszonascosteiras) possuem uma composição ecológica diversa e são áreas de extrema relevância para a observação do conceito de [justiça climática](https://semil.sp.gov.br/educacaoambiental/2025/08/justica-climatica-nao-somos-afetados-da-mesma-maneira-pela-mudanca-do-clima/). Já que o aumento da temperatura média da Terra e dos oceanos tem provocado o derretimento das calotas polares, [elevando o nível do mar](https://inpo.org.br/o-oceano-esta-subindo-o-que-os-dados-oficiais-revelam-sobre-a-elevacao-do-nivel-do-mar/). Entre 2014 e 2023, o ritmo de elevação aumentou mais de 50%, com relação aos anos de 1993 à 2002, passando de 2,13 mm/ano para 4,77 mm/ano.
 
@@ -28,7 +31,13 @@ Transformações que tem revelado a importância de discutir os conceitos básic
 
 Características sociodemográficas, como: raça, escolaridade, renda e saneamento, estão [intriscemante relacionadas a vulnerabilidade das populações costeiras](https://repositorio.ipea.gov.br/server/api/core/bitstreams/4ba3e658-4312-41bb-adff-c03fc651e4d2/content#:~:text=Fronteiras%20do%20Brasil:%20o%20litoral%20em%20sua%20dimens%C3%A3o%20fronteiri%C3%A7a,-328%20%7C&text=o%20aumento%20nas%20m%C3%A9dias%20de,e%20migra%C3%A7%C3%B5es%20das%20zonas%20rurais). Atualmente, a maioria dessa população global já está vulnerável e segregada, com poucas ferramentas para lidar com as transformações em curso. O que significa que os já vulnerabilizados tendem a se tornar ainda mais vulnerabilizados aos riscos já existentes, e os novos que deverão surgir.
 
+![antropoceno_-_2_imagem.jpg](/projetos/maedagua/antropoceno_-_2_imagem.jpg)
+Elevação do nível do mar | Fonte: Conexão Planeta
+
 Ou seja, não estamos todos "no mesmo barco", mas sim "na mesma tempestade": alguns em transatlânticos e outros sem boias, evidenciando a desigualdade na capacidade de enfrentar os desafios das zonas costeiras no mundo atual. 
+
+![antropoceno_-_3_imagem.webp](/projetos/maedagua/antropoceno_-_3_imagem.webp)
+Erosão costeira no Brasil | Fonte: BBC News Brasil
 
 -------------------
 **Acesse nosso [podcast sobre o tema](https://open.spotify.com/episode/6hSqYmCRTuVXIv4rMU3weM?si=7a3c6bb990204fc5)**
