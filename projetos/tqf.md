@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-11-13T12:01:00.640Z
+date: 2025-11-13T12:59:17.844Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -17,7 +17,7 @@ Casa Ngira, Rio de Janeiro.*
 
 Dúvidas? Responda.
 
-![flyer.png](/flyer.png)
+![flyer.png](/projetos/quantumfagia/flyer.png)
 
 ## O que é tropixel quantumfagia?
 
