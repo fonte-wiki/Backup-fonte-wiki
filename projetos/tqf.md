@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-11-14T00:42:02.862Z
+date: 2025-11-14T00:42:21.372Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -25,5 +25,5 @@ Dúvidas? Respondamos.
 
 - [Felipe](https://fonte.wiki/pessoas/felipe-fonseca) quer abraçar pessoas. Traz ideias sobre tecnologias de memória e água, circularidade inclusiva, irreparabilidade, fazer-comum nas comonalidades e diferenças.
 
-- Tati [Cineclube Pipa](https://cineclubepipa.wordpress.org) propõe em formato de mutirão façamos-juntxs a criação de um acervo copyleft de vídeos relacionados à duas décadas de artivismo brasileiro. Através da seleção e categorização de materiais perdidos em HD antigos, anarquivismo digital, remixtecituras e tudo mais que o passado e presente possibilitarem fazer re-surgir. Traga seus vídeos, fitasn antigas, memórias e viagens!
+- Tati [Cineclube Pipa](https://cineclubepipa.wordpress.org) propõe em formato de mutirão façamos-juntxs a criação de um acervo copyleft de vídeos relacionados à duas décadas de artivismo brasileiro. Através da seleção e categorização de materiais perdidos em HD antigos, anarquivismo digital, remixtecituras e tudo mais que o passado e presente possibilitarem fazer re-surgir. Traga seus vídeos, fitas antigas, memórias e viagens!
 
