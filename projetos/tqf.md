@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-11-14T00:42:21.372Z
+date: 2025-11-15T14:04:42.754Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -11,7 +11,7 @@ dateCreated: 2025-10-29T19:55:24.021Z
 *6 e 7 de dezembro de 2025.
 Casa Ngira, Rio de Janeiro.*
 
-**Encontro ligado ao [MTB Quantumfagia](https://quantumfagia.midiatatica.net/).**
+**Encontro ligado ao [Quantumfagia](https://quantumfagia.midiatatica.net/).**
 
 Dúvidas? Respondamos.
 
