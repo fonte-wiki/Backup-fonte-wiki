@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-11-25T20:16:33.738Z
+date: 2025-11-25T20:16:59.473Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -30,6 +30,6 @@ Horario de funcionamento: 10h as 22h
 Rua Benjamin Constant, 125 Glória RJ
 
 
-** Estrutura **
+**Estrutura
 Considere na sua propostas que o espaço tem condições de sediar: workshops, cineclubes, roda de conversa, streaming, performances, instalações, o que ocorrer...disponibilizamos cozinha, wifi e provemos algum equipamento se necessário. 
 
