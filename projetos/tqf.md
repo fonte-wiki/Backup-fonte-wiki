@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-11-25T17:14:06.031Z
+date: 2025-11-25T20:16:33.738Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -23,5 +23,13 @@ Vamos saber quando acontecer. O plano é passar o fim de semana entre pessoas qu
 
 Vamos chegando, vamos chegando. Avisem pelos canais de tropixel. Ou cheguem sem avisar, que também é válido.
 
-**Sobre a casa ngira**
+## Sobre a Casa Ngira
 Casario de 1899, localizado na Glória, construído durante o avanço positivista no Rio de Janeiro. Trata-se de um espaço para estúdio, ensaios, experiências e aprendizagem, focado no acolhimento de práticas e reflexões sobre tecnologias digitais, infraestruturas solidárias e cuidado, manejo e movimento do corpo. Em uma de suas salas fica a sede da Escola de Capoeira Angola Renascer.
+
+Horario de funcionamento: 10h as 22h
+Rua Benjamin Constant, 125 Glória RJ
+
+
+** Estrutura **
+Considere na sua propostas que o espaço tem condições de sediar: workshops, cineclubes, roda de conversa, streaming, performances, instalações, o que ocorrer...disponibilizamos cozinha, wifi e provemos algum equipamento se necessário. 
+
