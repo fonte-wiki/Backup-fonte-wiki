@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-11-16T00:34:26.789Z
+date: 2025-11-25T14:45:32.744Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -19,11 +19,6 @@ Dúvidas? Respondamos.
 
 ## O que é tropixel quantumfagia?
 
-- Vamos saber quando acontecer.
+Vamos saber quando acontecer. O plano é passar o fim de semana entre pessoas que se conhecem ou vão conhecer - cozinhando, comendo, conversando, refletindo sobre o tempo que passou (passou mesmo?) e o que ainda virá (e virá mesmo?).
 
-## Quem vem, por quê, o que traz ou faz?
-
-- [Felipe](https://fonte.wiki/pessoas/felipe-fonseca) quer abraçar pessoas. Traz ideias sobre tecnologias de memória e água, circularidade inclusiva, irreparabilidade, fazer-comum nas comonalidades e diferenças.
-- Tati [Cineclube Pipa](https://cineclubepipa.wordpress.org) propõe um mutirão para a criação de um acervo copyleft de vídeos relacionados à duas décadas de artivismo brasileiro, através da seleção e categorização de materiais perdidos em HD antigos, práticas de anarquivismo digital, remixtecituras e tudo mais que o passado e presente possibilitarem fazer re-surgir. Traga seus vídeos e fitas antigas, memórias e relatos!
-- Andressa Vianna falou pro FF que quer cozinhar pro tropixel no RJ.
-
+Vamos chegando, vamos chegando. Avisem pelos canais de tropixel. Ou cheguem sem avisar, que também é válido.
