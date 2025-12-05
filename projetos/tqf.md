@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-12-05T21:30:29.124Z
+date: 2025-12-05T21:35:09.347Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -12,6 +12,8 @@ dateCreated: 2025-10-29T19:55:24.021Z
 Casa Ngira, Rio de Janeiro.*
 
 **Encontro ligado ao [Quantumfagia](https://quantumfagia.midiatatica.net/).**
+
+Por favor, leia nosso código de conduta https://quantumfagia.midiatatica.net/cdc.html e qualquer dúvida, entre em contato pelo email quantumfagia at proton.mail.
 
 Dúvidas? Respondamos.
 
@@ -68,11 +70,7 @@ Horário de funcionamento: 10h às 22h*
 
 Casario de 1899, localizado na Glória, construído durante o avanço positivista no Rio de Janeiro. Trata-se de um espaço para estúdio, ensaios, experiências e aprendizagem, focado no acolhimento de práticas e reflexões sobre tecnologias digitais, infraestruturas solidárias e cuidado, manejo e movimento do corpo. Em uma de suas salas fica a sede da Escola de Capoeira Angola Renascer.
 
-Considere nas suas propostas que o espaço tem condições de sediar workshops, cineclubes, roda de conversa, streaming, performances, instalações, o que ocorrer... disponibilizamos cozinha, wifi e provemos algum equipamento se necessário. 
-
-As atividades estão abertas de 10h às 22h. 
-
-Por favor, leia nosso código de conduta https://quantumfagia.midiatatica.net/cdc.html e qualquer dúvida, entre em contato pelo email quantumfagia at proton.mail.
+Considere nas suas propostas que o espaço tem condições de sediar workshops, cineclubes, roda de conversa, streaming, performances, instalações, o que ocorrer... disponibilizamos cozinha, wifi e provemos algum equipamento, se necessário. 
 
 
 
