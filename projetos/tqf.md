@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-12-05T21:23:44.413Z
+date: 2025-12-05T21:29:58.596Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -31,31 +31,33 @@ Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Dj
 
 ## O que vai ter lá?
 
-**06/12 SÁBADO
-- Manhã 
+**06/12 SÁBADO**
+
+**Manhã** 
 * 10h - 11h atividade de abertura: já nos conhecemos, para onde vamos?
 * Cozinha coletiva 11h30 -14h
 
-- Tarde 
+**Tarde**
 * memórias táticas/quantumfagia
-* cartografias dos afetos
+* cartografias dos afetos: mapa relacional
 * FF falando sobre documentação coletiva de longo prazo
-* Futuros imaginários: podcast
+* [Futuros Imaginários podcast](FuturosImaginarios)
 
-- Noite
+**Noite**
 * 18h Editadona http://videos.midiatatica.net com TW
 * 22h encerramento 
 
-**07/12 DOMINGO
-- Manhã 
+**07/12 DOMINGO**
+
+**Manhã**
 * Montagem Hacklab + rádio urgência com Floriano Romano (10h às 13h)
 * Cozinha coletiva 11h30 -14h
 
-- Tarde
+**Tarde**
 * Rapsberry Pi com Yunohost na ngira com Gi
 * China com Drica
 
-- Noite 
+**Noite** 
 * Cineclube http://videos.midiatatica.net 
 * 22h encerramento
 
@@ -69,7 +71,8 @@ Casario de 1899, localizado na Glória, construído durante o avanço positivist
 Considere nas suas propostas que o espaço tem condições de sediar workshops, cineclubes, roda de conversa, streaming, performances, instalações, o que ocorrer... disponibilizamos cozinha, wifi e provemos algum equipamento se necessário. 
 
 As atividades estão abertas de 10h às 22h. 
-Por favor, leia nosso codigo de conduta https://quantumfagia.midiatatica.net/cdc.html e qualquer dúvida entre em contato pelo email quantumfagia at proton.mail
+
+Por favor, leia nosso código de conduta https://quantumfagia.midiatatica.net/cdc.html e qualquer dúvida, entre em contato pelo email quantumfagia at proton.mail.
 
 
 
