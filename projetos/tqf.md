@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-12-05T21:35:09.347Z
+date: 2025-12-07T14:15:32.359Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -52,16 +52,18 @@ Gi, FF, Tati, Bugarin, Catuaba, Deda, Cinthia, Glerm, Cynthia, Romano, Drica, Dj
 **07/12 DOMINGO**
 
 **Manhã**
-* Montagem Hacklab + rádio urgência com Floriano Romano (10h às 13h)
-* Cozinha coletiva 11h30 -14h
+* ~~Montagem Hacklab + rádio urgência com Floriano Romano (10h às 13h)~~
+* Cozinha coletiva 10h30 -14h
 
 **Tarde**
-* Rapsberry Pi com Yunohost na ngira com Gi
-* China com Drica
+* 14h Encerramento na casa Ngira
+* 14h Levante Mulheres Vivas - Copacabana
+* ~~Raspberry Pi com Yunohost na ngira com Gi~~
+* ~~China com Drica~~
 
 **Noite** 
-* Cineclube http://videos.midiatatica.net 
-* 22h encerramento
+* ~~Cineclube http://videos.midiatatica.net ~~
+* ~~22h encerramento~~
 
 ## Sobre a Casa Ngira
 
