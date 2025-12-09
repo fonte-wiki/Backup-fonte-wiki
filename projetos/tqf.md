@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-12-07T14:17:39.992Z
+date: 2025-12-09T16:11:39.297Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z
@@ -11,11 +11,7 @@ dateCreated: 2025-10-29T19:55:24.021Z
 *6 e 7 de dezembro de 2025.
 Casa Ngira, Rio de Janeiro.*
 
-**ATENÇÂO:** mudamos a programação da tarde de domingo para ir ao Levante Mulheres Vivas, em Copacabana.
-
 **Encontro ligado ao [Quantumfagia](https://quantumfagia.midiatatica.net/).**
-
-Por favor, leia nosso código de conduta https://quantumfagia.midiatatica.net/cdc.html e qualquer dúvida, entre em contato pelo email quantumfagia at proton.mail.
 
 Dúvidas? Respondamos.
 
