@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2025-09-01T13:15:01.362Z
+date: 2026-02-04T18:07:03.423Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -17,12 +17,12 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 ## Design
-- **Em Mãe d'Água Design:** escrever e fazer organograma de Panteão dos Badges (hierarquia, usos e definições)
 
 ## Texto
 - **Em Mãe d'Água home:** produtos e publis
 - **Em Mãe d'Água home:** linkar reaserch gate do projeto? zotero (unificar refs)
 - **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais, linkar material didático
-- **Em Mãe d'Água Repositórios Abertos:** Baobaxia (exemplos, pontos), ZASF (o que é) possibilidade local segura.
+- **Em Mãe d'Água Repositórios Abertos:** linkar podcast
+
 
 
