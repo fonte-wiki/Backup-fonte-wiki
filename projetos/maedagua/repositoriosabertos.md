@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: por: Felipe Fonseca, Maira Begalli
 published: true
-date: 2025-10-14T19:11:33.319Z
+date: 2026-02-11T18:43:09.265Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -37,3 +37,6 @@ Infelizmente, comunidades de interesse, grupos de ativismo e até mesmo centros 
 Se no passado uma das grandes problematizações sobre a inclusão era sobre o acesso, hoje é sobre elucidar as pessoas [onde estão sendo incluídas e o que cada um desses ambientes pode proporcionar](https://nextnature.org/en/mission/projects/check-your-technoprivilege). Se antes o principal desafio era levar o sinal para populações em lugares de vias de díficil acesso (ribeirinhos, indigenas, quilombolas, pescadores, etc), atualmente falamos em [instalações de *data centers* que causam grandes impactos](https://elpais.com/tecnologia/2025-08-09/el-patio-trasero-de-la-ia-un-mapa-de-la-fiebre-del-oro-del-siglo-xxi.html) [ambientais](https://www.youtube.com/watch?v=yj26gqIJMrM), e das instabilidades que [eventos climáticos](https://dl.acm.org/doi/10.1145/3232755.3232775) extremos podem gerar nas [infraestruturas](https://www.infrapedia.com/), causando grandes apagões de conexões e perda de dados, em todo planeta.
 
 
+--------------------------------------
+**Acesse [nosso podcast sobre o tema](
+https://open.spotify.com/episode/3OF9dSpoffrCkE9Zr6sJbC?si=t282G3mmRyGrsCkj7gi3Ow)**
