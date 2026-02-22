@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2026-02-04T18:38:13.971Z
+date: 2026-02-22T19:36:36.338Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -22,8 +22,6 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 - **Em Mãe d'Água home:** produtos e publis
 - **Em Mãe d'Água home:** linkar reaserch gate do projeto? zotero (unificar refs)
 - **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais, linkar material didático
-- **Em Mãe d'Água Repositórios Abertos:** linkar podcast
-- **Em Mãe d'Água Ipubiara** novas estátuas
 - **Em Glossário** Intro e metodologia
 
 
