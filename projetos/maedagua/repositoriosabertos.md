@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: por: Felipe Fonseca, Maira Begalli
 published: true
-date: 2026-02-11T18:43:09.265Z
+date: 2026-02-26T18:06:52.612Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
@@ -38,5 +38,6 @@ Se no passado uma das grandes problematizações sobre a inclusão era sobre o a
 
 
 --------------------------------------
-**Acesse [nosso podcast sobre o tema](
-https://open.spotify.com/episode/3OF9dSpoffrCkE9Zr6sJbC?si=t282G3mmRyGrsCkj7gi3Ow)**
+**Acesse nosso podcast sobre o tema:**
+
+Disponível no [Podmatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-02-26T10_01_06-08_00) e no [Spotify](https://open.spotify.com/episode/3OF9dSpoffrCkE9Zr6sJbC?si=t282G3mmRyGrsCkj7gi3Ow)
