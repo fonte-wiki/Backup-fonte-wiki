@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: por: Felipe Fonseca, Maira Begalli
 published: true
-date: 2026-02-26T18:08:19.316Z
+date: 2026-02-26T18:08:42.198Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-26T20:05:21.563Z
