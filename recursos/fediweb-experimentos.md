@@ -2,7 +2,7 @@
 title: Fediweb - experimentos
 description: 
 published: true
-date: 2026-03-06T15:56:50.851Z
+date: 2026-03-06T15:58:22.745Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-06T15:56:50.851Z
@@ -14,7 +14,9 @@ dateCreated: 2026-03-06T15:56:50.851Z
 
 ## 1. GoToSocial
 
-Instalei o [GoToSocial](https://gotosocial.org/) no meu servidor para montar um [microblog pessoal](https://pub.efeefe.me) simples que também republica os novos links que eu adiciono à [minha lista de bookmarks](htps://links.efeefe.me). Tinha olhado antes o [micro.one](https://micro.one/) mas não permite self-hosting. Documentando abaixo algumas das coisas que fiz no meu servidor para além de instalar o gotosocial, configurar o nginx e rodar o let's encrypt pra gerar os certs de https.
+Instalei o [GoToSocial](https://gotosocial.org/) no meu servidor para montar um [microblog pessoal](https://pub.efeefe.me) simples que também republica os novos links que eu adiciono à [minha lista de bookmarks](htps://links.efeefe.me). Tinha olhado antes o [micro.one](https://micro.one/) mas não permite self-hosting. Documentando abaixo algumas das coisas que fiz no meu servidor para além de instalar o gotosocial, configurar o nginx e rodar o let's encrypt pra gerar os certs de https. 
+
+P.S.: outra coisa que não está abaixo é que precisei criar um swapfile para superar os limites impostos pela pouca memória RAM que tenho nesse VPS.
 
 ### 1.1. Registrar meu VPS como instância no gotosocial
 
