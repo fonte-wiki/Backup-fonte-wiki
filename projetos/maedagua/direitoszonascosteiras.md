@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2026-02-26T18:04:11.841Z
+date: 2026-03-22T18:05:35.372Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z
@@ -18,7 +18,7 @@ Nos [anos 1990](https://environmentalhistory.org/20th-century/nineties/) foram c
 
 Fonte: Prefeitura de Ubatuba
 
-Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um cenário global que aponta para os [limites ecossitêmicos](https://www.stockholmresilience.org/research/planetary-boundaries.html). O conceito, reconhecido pela Constituição da República do Equador (2008) ao  declarar os direitos da [Pachamama](https://www.jusbrasil.com.br/artigos/a-natureza-como-sujeito-de-direitos/1663473408) e pela Constituição do Estado Plurinacional da Bolívia (2009), provoca uma mudança significativa na noção de direitos que, até então, permanecia vinculada a uma pessoa jurídica. Esses textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições, e pelo reconhecimento de [cosmovisões andinas](https://www.scielo.br/j/bioet/a/3NRjkqKfwDpN66LwzntJBZd/?format=pdf&lang=pt) - além de atribuirem o estatuto de pessoa a seres e agências não-humanas.
+Quase cem anos depois, surge o debate acerca dos **Direitos da Natureza** em um cenário global que aponta para os [limites ecossitêmicos](https://www.stockholmresilience.org/research/planetary-boundaries.html). O conceito, reconhecido pela Constituição da República do Equador (2008) ao  declarar os direitos da [Pachamama](https://www.jusbrasil.com.br/artigos/a-natureza-como-sujeito-de-direitos/1663473408) e pela Constituição do Estado Plurinacional da Bolívia (2009), provoca uma mudança significativa na noção de direitos que, até então, permanecia vinculada a uma pessoa jurídica. Esses textos fazem parte do chamado [Novo Constitucionalismo Latino Americano](https://doi.org/10.12957/dep.2017.23083), caracterizado pela democratização das constituições, e pelo reconhecimento de [cosmovisões andinas](https://www.scielo.br/j/bioet/a/3NRjkqKfwDpN66LwzntJBZd/?format=pdf&lang=pt) - além de atribuirem o estatuto de pessoa a seres e agências não-humanas. no Brasil, também existem uma série de iniciativas que apontam para esse [sentido](https://mapas.org.br/advocacy/)
 
 > O [ciclo hidrocosmológico andino](https://revistas.ufpr.br/made/article/view/83893) descreve as relações físico-natural e metafísico-cosmológica com a água por meio das suas experiências que interconectam fatores físicos, humanos e espirituais. Os ritos e mitos da água desempenham um papel fundamental, e envolvem: orar pela chuva durante períodos de seca severa e realizar festivais em períodos que antecedem a temporada de irrigação, com o oferecimento de ofertas próximas às fontes ou entradas de água.
 
