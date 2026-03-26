@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2025-10-08T12:44:40.585Z
+date: 2026-03-26T17:54:39.541Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -65,3 +65,5 @@ SILVA, F. C. C.; SILVEIRA, L. **O Ecossistema da Ciência Aberta**. Transinforma
 
  
 ## Baixe Aqui
+
+- [Material Didático Instrucional](https://docs.google.com/presentation/d/1FLklYmq9eTbobBo61Ty5jZNC-Nd3Xe37ZDWlF6Qy6XQ/edit?usp=sharing)
