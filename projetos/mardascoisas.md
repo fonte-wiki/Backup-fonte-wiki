@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-26T22:28:40.522Z
+date: 2026-03-27T08:31:23.797Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -16,15 +16,15 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 > Em alguns meses, a Base Oceanográfica do IOUSP em Ubatuba será palco do **Ciclo Tropixel Mar das Coisas**. Saiba mais abaixo sobre como contribuir e participar.
 
-**DATAS:** 30/07 a 01/08
-**LOCAL:** Base de Pesquisa Clarimundo de Jesus do IOUSP, Praia do Lamberto, Ubatuba.
-**PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
-**INSCREVA-SE:** Link para Formulário (em breve)
+- **DATAS:** 30/07 a 01/08
+- **LOCAL:** Base de Pesquisa Clarimundo de Jesus do IOUSP, Praia do Lamberto, Ubatuba.
+- **PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
+- **INSCREVA-SE:** Link para Formulário (em breve)
 
 **ORGANIZAÇÃO:** [U.CC](https://ubatuba.cc) (Ubatuba Ciências/Culturas) e [LACO](https://lacoiousp.wordpress.com/) / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
-**MAIS INFORMAÇÕES:** https://mdc.tropixel.org 
+**MAIS INFORMAÇÕES:** https://mardascoisas.tropixel.org 
 
 ### Sobre o encontro
 
