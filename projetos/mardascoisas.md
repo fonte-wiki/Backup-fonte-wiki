@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-27T09:33:24.538Z
+date: 2026-03-27T15:54:21.654Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -11,6 +11,8 @@ dateCreated: 2026-03-26T22:13:44.853Z
 ## CONVOCATÓRIA DE PROPOSTAS E PARTICIPAÇÃO
 
 ### CONSTRUINDO A SÉTIMA EDIÇÃO DO TROPIXEL, EM UBATUBA!!!
+
+![cracha.jpg](/projetos/mardascoisas/cracha.jpg)
 
 > Em alguns meses, a Base Oceanográfica do IOUSP em Ubatuba será palco do **Ciclo Tropixel Mar das Coisas**. Saiba mais abaixo sobre como contribuir e participar.
 
