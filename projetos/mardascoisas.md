@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-27T16:10:30.548Z
+date: 2026-03-27T16:12:56.432Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -28,8 +28,6 @@ dateCreated: 2026-03-26T22:13:44.853Z
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
 **MAIS INFORMAÇÕES:** [https://mardascoisas.tropixel.org](https://mardascoisas.tropixel.org)
-
-Envie agora sua proposta!
 
 ### Sobre o encontro
 
