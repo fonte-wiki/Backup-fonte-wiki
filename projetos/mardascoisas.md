@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-27T08:31:23.797Z
+date: 2026-03-27T09:00:29.992Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -10,7 +10,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 # Ciclo Tropixel: Mar das Coisas
 
-## CONVOCATÓRIA POR PROPOSTAS E PARTICIPAÇÃO
+## CONVOCATÓRIA DE PROPOSTAS E PARTICIPAÇÃO
 
 ### CONSTRUINDO A SÉTIMA EDIÇÃO DO TROPIXEL, EM UBATUBA!!!
 
