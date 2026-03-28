@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-28T12:29:55.625Z
+date: 2026-03-28T12:55:09.375Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -43,3 +43,12 @@ A programação será realizada na Base do IOUSP (Praia do Lamberto, Ubatuba) en
 O LACO – Laboratório de Arte e Ciência Oceânica é uma plataforma transdisciplinar sediada no Instituto Oceanográfico da Universidade de São Paulo (IOUSP), vinculada à Cátedra UNESCO para a Sustentabilidade do Oceano e articulada ao Instituto de Estudos Avançados da Universidade de São Paulo (IEA-USP), com direção de Fabiane M. Borges e coordenação de Alexander Turra. Atua na interseção entre arte, ciência e tecnologia por meio de residências, exposições e programas públicos realizados em diálogo direto com infraestruturas de pesquisa oceanográfica, contribuindo para consolidar a arte e ciência oceânica como campo cultural e político no contexto da Década do Oceano.
 
 Tropixel é uma rede aberta atuando na intersecção entre cultura, tecnologia, ciência e sociedade. Surgiu em Ubatuba com a realização do Festival Tropixel em 2013, e desde então organizou diversos outros eventos em múltiplos formatos. Em 2026, a agência U-CC (Ubatuba Ciências/Culturas) está organizando o Tropixel: Ciclos, uma série de atividades explorando novos horizontes e formas de colaboração.
+
+### Saiba mais
+
+- [Sobre Ubatuba](/projetos/mardascoisas/ubatuba)
+
+
+### Realização
+
+![logos.png](/projetos/mardascoisas/logos.png)
