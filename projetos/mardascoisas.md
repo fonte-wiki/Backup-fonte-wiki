@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-28T13:14:03.094Z
+date: 2026-03-28T14:03:31.362Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -10,7 +10,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 # Ciclo Tropixel: Mar das Coisas
 
-## Ajude a construir a sétima edição do Tropixel - de volta a Ubatuba!
+## Ajude a construir a sétima edição do Tropixel!
 
 ### 30/07 a 01/08 de 2026 - Ubatuba
 
