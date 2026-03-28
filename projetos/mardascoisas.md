@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-27T16:12:56.432Z
+date: 2026-03-28T12:28:31.885Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -20,8 +20,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 - **LOCAL:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
 - **PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
 
-> Envie agora sua proposta pelo [formulário de inscrição](https://tally.so/r/QKd4jl)!
-{.is-info}
+[![](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge)](https://tally.so/r/QKd4jl)
 
 **ORGANIZAÇÃO:** [U.CC](https://ubatuba.cc) (Ubatuba Ciências/Culturas) e [LACO](https://lacoiousp.wordpress.com/) / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
 
