@@ -2,11 +2,13 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-28T12:28:31.885Z
+date: 2026-03-28T12:29:55.625Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
 ---
+
+# Ciclo Tropixel: Mar das Coisas
 
 ## Convocatória de propostas e participação
 
