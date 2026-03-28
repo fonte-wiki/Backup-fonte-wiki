@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-28T14:08:30.636Z
+date: 2026-03-28T14:09:49.770Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -23,7 +23,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 - **PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
 - **FORMULÁRIO DE PROPOSTA / INSCRIÇÃO:** [Veja abaixo](#convocatória-de-propostas-e-participação).
 
-**ORGANIZAÇÃO:** [U.CC]() (Ubatuba Ciências/Culturas) e LACO / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
+**ORGANIZAÇÃO:** U\.CC (Ubatuba Ciências/Culturas) e LACO / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
 
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
