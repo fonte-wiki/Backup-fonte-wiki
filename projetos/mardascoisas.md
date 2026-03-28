@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-28T13:09:18.284Z
+date: 2026-03-28T13:14:03.094Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -21,7 +21,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 - **DATAS:** 30/07 a 01/08
 - **LOCAL:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
 - **PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
-- **FORMULÁRIO DE PROPOSTA / INSCRIÇÃO:** Veja abaixo.
+- **FORMULÁRIO DE PROPOSTA / INSCRIÇÃO:** [Veja abaixo](#convocatória-de-propostas-e-participação).
 
 **ORGANIZAÇÃO:** [U.CC](https://ubatuba.cc) (Ubatuba Ciências/Culturas) e [LACO](https://lacoiousp.wordpress.com/) / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
 
@@ -29,9 +29,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 **MAIS INFORMAÇÕES:** [https://mardascoisas.tropixel.org](https://mardascoisas.tropixel.org)
 
-## Convocatória de Propostas / Participação
-
-### Sobre o encontro
+## Convocatória de Propostas e Participação
 
 O **Ciclo Tropixel - Mar das Coisas** vai exercitar imaginação e técnica para aprofundar formas de entendimento e ação a respeito da poluição de bacias hidrográficas na Mata Atlântica. O evento promoverá reflexão e experimentação sobre caminhos concretos para a descontaminação de corpos e cursos d'água (rios, mangues, lagoas, lagos e afins).
 
@@ -43,11 +41,11 @@ Convidamos pesquisadores e acadêmicos, governo, sociedade civil organizada, set
 
 ## Programação e organização
 
-A programação será realizada na Base do IOUSP (Praia do Lamberto, Ubatuba) entre os dias 30/7 e 01/08 de 2026. Estão previstos debates sobre toxicidade e descarte de resíduos, oficinas técnicas sobre monitoramento ambiental acessível e de baixo custo, troca de experiências sobre limpeza e despoluição, intercâmbio entre conhecimentos acadêmicos e saberes tradicionais. O objetivo fundamental do encontro é **estabelecer alianças e cooperação multissetorial** para a limpeza de manguezais, rios e regiões costeiras.
+A programação será realizada na Base do IOUSP (Praia do Lamberto, Ubatuba) entre os dias **30/7 e 01/08 de 2026**. Estão previstos debates sobre toxicidade e descarte de resíduos, oficinas técnicas sobre monitoramento ambiental acessível e de baixo custo, troca de experiências sobre limpeza e despoluição, e intercâmbio entre conhecimentos acadêmicos e saberes tradicionais. O objetivo fundamental do encontro é **estabelecer alianças e cooperação multissetorial** para a limpeza de manguezais, rios e regiões costeiras.
 
 O LACO – Laboratório de Arte e Ciência Oceânica é uma plataforma transdisciplinar sediada no Instituto Oceanográfico da Universidade de São Paulo (IOUSP), vinculada à Cátedra UNESCO para a Sustentabilidade do Oceano e articulada ao Instituto de Estudos Avançados da Universidade de São Paulo (IEA-USP), com direção de Fabiane M. Borges e coordenação de Alexander Turra. Atua na interseção entre arte, ciência e tecnologia por meio de residências, exposições e programas públicos realizados em diálogo direto com infraestruturas de pesquisa oceanográfica, contribuindo para consolidar a arte e ciência oceânica como campo cultural e político no contexto da Década do Oceano.
 
-Tropixel é uma rede aberta atuando na intersecção entre cultura, tecnologia, ciência e sociedade. Surgiu em Ubatuba com a realização do Festival Tropixel em 2013, e desde então organizou diversos outros eventos em múltiplos formatos. Em 2026, a agência U-CC (Ubatuba Ciências/Culturas) está organizando o [Tropixel: Ciclos](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos), uma série de atividades explorando novos horizontes e formas de colaboração.
+Tropixel é uma rede aberta atuando na intersecção entre cultura, tecnologia, ciência e sociedade. Surgiu em Ubatuba com a realização do Festival Tropixel em 2013, e desde então organizou diversos outros eventos em múltiplos formatos. Em 2026, a agência U-CC (Ubatuba Ciências/Culturas), dirigida por Felipe Schmidt Fonseca, está organizando o [Tropixel: Ciclos](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos), com previsão de organizar série de atividades explorando novos horizontes e formas de colaboração.
 
 ### Saiba mais
 
