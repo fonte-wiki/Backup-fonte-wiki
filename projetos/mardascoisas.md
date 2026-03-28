@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-28T12:55:09.375Z
+date: 2026-03-28T12:58:15.147Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -14,7 +14,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 ### Construindo a sétima edição do Tropixel - de volta a Ubatuba!
 
-![cracha.jpg](/projetos/mardascoisas/cracha.jpg)
+![cracha.jpg](/projetos/mardascoisas/cracha.jpg  =100%x)
 
 > Em alguns meses, a Base Oceanográfica do IOUSP em Ubatuba será palco do **Ciclo Tropixel Mar das Coisas**. Saiba mais abaixo sobre como contribuir e participar.
 
@@ -22,7 +22,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 - **LOCAL:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
 - **PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
 
-[![](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge)](https://tally.so/r/QKd4jl)
+[![Envie sua Proposta](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =300x)](https://tally.so/r/QKd4jl)
 
 **ORGANIZAÇÃO:** [U.CC](https://ubatuba.cc) (Ubatuba Ciências/Culturas) e [LACO](https://lacoiousp.wordpress.com/) / IOUSP (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
 
@@ -51,4 +51,4 @@ Tropixel é uma rede aberta atuando na intersecção entre cultura, tecnologia, 
 
 ### Realização
 
-![logos.png](/projetos/mardascoisas/logos.png)
+![logos.png](/projetos/mardascoisas/logos.png  =100%x)
