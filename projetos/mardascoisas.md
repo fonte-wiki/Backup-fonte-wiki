@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-28T14:14:12.428Z
+date: 2026-03-30T08:01:51.860Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -49,9 +49,10 @@ O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpre
 
 ### Saiba mais
 
-- [Sobre Ubatuba](/projetos/mardascoisas/ubatuba)
+- [English version](/projetos/mardascoisas/en)
 
 
 ### Realização
 
 ![logos.png](/projetos/mardascoisas/logos.png  =100%x)
+
