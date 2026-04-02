@@ -2,57 +2,93 @@
 title: Mar das Coisas - English
 description: 
 published: true
-date: 2026-03-30T08:15:32.235Z
+date: 2026-04-02T10:28:40.767Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T08:15:32.235Z
 ---
 
-# Ciclo Tropixel: Mar das Coisas
+# Tropixel: Sea of Things
 
-## Help shape the seventh edition of Tropixel!
+Tropixel Cycles - Seventh Edition
 
-### July 30th to August 1st 2026 - Ubatuba
+#### Meeting about water at the Oceanographic Institute of USP / Ubatuba Base
+
+### Ubatuba - July 30th to August 1st, 2026
 
 ![cracha.jpg](/projetos/mardascoisas/cracha.jpg  =100%x)
 
-> The Oceanographic Base of IOUSP in Ubatuba will host **Ciclo Tropixel Mar das Coisas** ("Sea of Things" Tropixel Cycle). Learn more below about how to contribute and participate.
 
-- **DATES:** July 30th to August 1st
-- **LOCATION:** "Clarimundo de Jesus" IOUSP Research Base - Praia do Lamberto, Ubatuba / SP.
-- **APPLICATION DEADLINE:** May 31st, 2026
-- **APPLICATION / REGISTRATION FORM:** [Veja abaixo](#CFP).
+[![Submit your Proposal](https://img.shields.io/badge/Submit%20your%20Proposal-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
 
-**ORGANIZERS:** **/U.CC/** (Ubatuba Ciências/Culturas) and **LACO / IOUSP** (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
+## Participate
 
-**SUPPORT:** Unesco Chair for Ocean Sustainability (IOUSP and IEA-USP)
+> The call for proposals is now open for the study, monitoring, and decontamination of waters — rivers, mangroves, and coastal zones of the Atlantic Forest.
+>
+> We seek projects, practices, research, and devices that act directly on the material conditions of water contamination and circulation.
 
-**MORE INFO:** [https://mardascoisas.tropixel.org](https://mardascoisas.tropixel.org)
+- **Application deadline:** May 31st, 2026
+- **Submit your proposal: Form [here](https://tally.so/r/QKd4jl)
+- **Meeting dates:** July 30th to August 1st
+- **Location:** "Clarimundo de Jesus" IOUSP Research Base - Praia do Lamberto, Ubatuba / SP.
 
-## CFP
+## What will be developed at the meeting?
 
-**Tropixel Cycle - Sea of Things** will exercise imagination and technique to deepen ways of understanding and acting regarding the pollution of watersheds and river basins in the Atlantic Forest. The event will promote reflection and experimentation on concrete paths for the decontamination of water bodies and waterways (rivers, mangroves, lagoons, lakes, and the like).
+During three days, the **Tropixel Cycle: Sea of Things** gathers participants at the Oceanographic Base of the Oceanographic Institute of USP, in Ubatuba, for direct work on Atlantic Forest watersheds.
 
-We invite researchers and academics, government, organized civil society, the private sector, and entrepreneurs to participate in a transdisciplinary laboratory immersion in ocean science and culture.
+## How is the meeting organized?
 
-### Contribute to the development of proposals for cleaning and depolluting the waters!
+The program is built from the selected proposals and develops as a collective work process, structured into four axes:
 
-[![Submit your proposal](https://img.shields.io/badge/Submit%20your%20Proposal-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
+- **Mapping and monitoring:** Reading contamination processes through work sessions, low-cost technical workshops, and the use of sensors and environmental data.
+- **Scientific studies:** Presentation and discussion of research, methods, and data produced in academic and institutional contexts.
+- **Territorial knowledge:** Sharing local practices, situated experiences, and forms of knowledge linked to territories.
+- **Decontamination actions:** Development of propositions applicable to rivers, mangroves, and coastal regions, with a focus on direct intervention and material feasibility.
 
-## Programme and Organizers
+## Curatorial text
 
-The programme will take place at the IOUSP Base (Lamberto Beach, Ubatuba) between **July 30th and August 1st, 2026**. It will include debates on toxicity and waste disposal, technical workshops on accessible and low-cost environmental monitoring, exchange of experiences on cleanup and pollution control, and an exchange between academic knowledge and traditional wisdom. The fundamental objective of the meeting is to **establish alliances and multi-sectoral cooperation** for the cleanup of mangroves, rivers, and coastal regions.
+The **Sea of Things** starts from the perception that the ocean, rivers, mangroves, and coastal zones compose a continuous material network of circulation. Everything passes through water: industrial waste, chemical compounds, nutrients, microplastics, measurements, infrastructures, and political decisions. Water stores, moves, and redistributes these traces. It operates as a moving archive, a surface of inscription for the present.
 
-[LACO – the Laboratory of Art and Ocean Science](https://lacoiousp.wordpress.com/) – is a transdisciplinary platform based at the Oceanographic Institute of the University of São Paulo (IOUSP), linked to the UNESCO Chair for Ocean Sustainability and articulated with the Institute for Advanced Studies of the University of São Paulo (IEA-USP), directed by Fabiane M. Borges and coordinated by Alexander Turra. It operates at the intersection of art, science, and technology through residencies, exhibitions, and public programs conducted in direct dialogue with oceanographic research infrastructures, contributing to the consolidation of ocean art and science as a cultural and political field within the context of the Ocean Decade.
+In dialogue with the Internet of Things, where connected objects continuously produce information, a material inflection is proposed here: matter itself informs. Suspended particles, physicochemical indices, and environmental variations make legible production chains, disposal trajectories, and operating modes of the infrastructures that cross the territories.
 
-[Tropixel](https://tropixel.org) is an open network operating at the intersection of culture, technology, science, and society. It originated in Ubatuba (right on the Tropic of Capricorn , hence the name) with the [Tropixel in 2013](https://tropixel.org/13-festival), and since then has organized numerous other events in multiple formats. In 2026, the [/U.CC/](https://ubatuba.cc) agency (Ubatuba Sciences/Cultures), directed by Felipe Schmidt Fonseca, is organizing [Tropixel: Ciclos](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos), with plans to organize a series of activities exploring new horizons and forms of collaboration.
+The Sea of Things names this field in which matter and information circulate together. A field of reading and action.
 
-### Learn More
+[![Submit your Proposal](https://img.shields.io/badge/Submit%20your%20Proposal-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
 
-- [Portuguese version](/projetos/mardascoisas/)
+### About Tropixel
+
+[Tropixel](https://tropixel.org) is an open network that operates at the intersection of culture, technology, science, and society. It organizes festivals, meetings, and events based in Ubatuba. Its activities develop in specific contexts, bringing participants together in processes of experimentation and knowledge sharing.
+
+### About LACO
+
+[LACO](https://lacoiousp.wordpress.com/) – Ocean Art and Science Laboratory is a transdisciplinary platform operating at the intersection of art, science, and ocean technologies. It carries out exhibitions, training courses, artistic residencies, and scientific publications. It acts in direct dialogue with oceanographic infrastructures and coastal territories.
 
 
-### Organizers
+---
+
+In this edition, Tropixel and LACO coordinate at the IOUSP Oceanographic Base in Ubatuba, structuring the meeting around water as a material system.
+
+---
+
+**ORGANIZATION**
+
+- Felipe Schmidt Fonseca - /U.CC/ + Tropixel
+- Fabiane M. Borges - LACO / IOUSP
+
+**REALIZATION**
+
+- /U.CC/ (Ubatuba Sciences/Cultures)
+- LACO - Ocean Art and Science Laboratory / IOUSP
+- Oceanographic Institute of the University of São Paulo
+- Clarimundo de Jesus Oceanographic Base (Ubatuba)
+
+**SUPPORT**
+
+Unesco Chair for Ocean Sustainability (IOUSP and IEA-USP)
 
 ![logos.png](/projetos/mardascoisas/logos.png  =100%x)
 
+### See also
+
+- [Portuguese Version](/projetos/mardascoisas)
+- [Tropixel Cycles 2026](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos)
