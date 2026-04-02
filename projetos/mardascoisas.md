@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-04-02T10:03:27.060Z
+date: 2026-04-02T10:05:46.979Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -48,7 +48,7 @@ A programação se constrói a partir das propostas selecionadas e se desenvolve
 – **Ações de despoluição**
  Desenvolvimento de proposições aplicáveis a rios, manguezais e regiões costeiras, com foco em intervenção direta e viabilidade material.
 
-### Texto curatorial
+## Texto curatorial
 
 Mar das Coisas parte da percepção de que o oceano, os rios, os manguezais e as zonas costeiras compõem uma rede material contínua de circulação. Tudo passa pela água: resíduos industriais, compostos químicos, nutrientes, microplásticos, medições, infraestruturas e decisões políticas. A água guarda, desloca e redistribui esses vestígios. Opera como um arquivo em movimento, uma superfície de inscrição do presente.
 
@@ -59,16 +59,17 @@ O Mar das Coisas nomeia esse campo em que matéria e informação circulam junta
 
 [![Envie sua Proposta](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
 
-Sobre o LACO
-
-O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpress.com/) é uma plataforma transdisciplinar que atua na intersecção entre arte, ciência e tecnologias do oceano. Realiza exposições, cursos de formação, residências artísticas e publicações científicas. Atua em diálogo direto com infraestruturas oceanográficas e territórios costeiros.
+### Sobre o Tropixel
 
 [Tropixel](https://tropixel.org) é uma rede aberta que atua na intersecção entre cultura, tecnologia, ciência e sociedade. Organiza festivais, encontros e eventos a partir de Ubatuba. Suas atividades se desenvolvem em contextos específicos, reunindo participantes em processos de experimentação e compartilhamento de conhecimentos.
 
-### Saiba mais
+### Sobre o LACO
 
-- [English version](/projetos/mardascoisas/en)
+O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpress.com/) é uma plataforma transdisciplinar que atua na intersecção entre arte, ciência e tecnologias do oceano. Realiza exposições, cursos de formação, residências artísticas e publicações científicas. Atua em diálogo direto com infraestruturas oceanográficas e territórios costeiros.
 
+---
+
+Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em Ubatuba, estruturando o encontro em torno da água como sistema material.
 
 ---
 **ORGANIZAÇÃO** 
@@ -82,8 +83,11 @@ O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpre
 - Instituto Oceanográfico da Universidade de São Paulo
 - Base Oceanográfica Clarimundo de Jesus (Ubatuba)
 
-
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
 ![logos.png](/projetos/mardascoisas/logos.png  =100%x)
 
+### Veja também
+
+- [English version](/projetos/mardascoisas/en)
+- [Tropixel Ciclos 2026](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos)
