@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-04-02T10:01:44.718Z
+date: 2026-04-02T10:03:27.060Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -26,10 +26,10 @@ Tropixel - Sétima Edição
 >
 > Buscamos projetos, práticas, pesquisas e dispositivos que atuem diretamente nas condições materiais de contaminação e circulação da água.
 
-- **PRAZO DE INSCRIÇÕES:** 31 de Maio de 2026
-- **ENVIO DE PROPOSTA / INSCRIÇÃO:** Formulário [aqui](https://tally.so/r/QKd4jl).
-- **DATAS:** 30/07 a 01/08 de 2026
-- **LOCAL:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
+- **Prazo de inscrições:** 31 de Maio de 2026
+- **Submeta sua proposta:** Formulário [aqui](https://tally.so/r/QKd4jl).
+- **Datas do encontro:** 30de Julho a 1º de Agosto de 2026
+- **Local:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
 
 ## O que será desenvolvido no encontro?
 
