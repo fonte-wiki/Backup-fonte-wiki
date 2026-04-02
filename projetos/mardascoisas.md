@@ -2,13 +2,15 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-04-02T10:00:44.500Z
+date: 2026-04-02T10:01:44.718Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
 ---
 
 # Ciclo Tropixel: Mar das Coisas
+
+Tropixel - Sétima Edição
 
 ### Encontro sobre água no Instituto Oceanográfico da USP / Base Ubatuba
 
