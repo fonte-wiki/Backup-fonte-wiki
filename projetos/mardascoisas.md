@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-04-02T10:05:46.979Z
+date: 2026-04-02T10:11:44.327Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -12,9 +12,9 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 Tropixel - Sétima Edição
 
-### Encontro sobre água no Instituto Oceanográfico da USP / Base Ubatuba
+#### Encontro sobre água no Instituto Oceanográfico da USP / Base Ubatuba
 
-## Ubatuba - 30 de Julho a 1º de Agosto de 2026
+### Ubatuba - 30 de Julho a 1º de Agosto de 2026
 
 ![cracha.jpg](/projetos/mardascoisas/cracha.jpg  =100%x)
 
@@ -39,14 +39,10 @@ Durante três dias, o **Ciclo Tropixel: Mar das Coisas** reúne participantes na
 
 A programação se constrói a partir das propostas selecionadas e se desenvolve como um processo de trabalho coletivo, estruturado em quatro eixos:
 
-– **Mapeamento e monitoramento**
- Leitura de processos de contaminação por meio de sessões de trabalho, oficinas técnicas de baixo custo e uso de sensores e dados ambientais.
-– **Estudos científicos**
- Apresentação e discussão de pesquisas, métodos e dados produzidos em contextos acadêmicos e institucionais.
-– **Saberes territoriais**
- Compartilhamento de práticas locais, experiências situadas e formas de conhecimento vinculadas aos territórios.
-– **Ações de despoluição**
- Desenvolvimento de proposições aplicáveis a rios, manguezais e regiões costeiras, com foco em intervenção direta e viabilidade material.
+-  **Mapeamento e monitoramento:** Leitura de processos de contaminação por meio de sessões de trabalho, oficinas técnicas de baixo custo e uso de sensores e dados ambientais.
+- **Estudos científicos:** Apresentação e discussão de pesquisas, métodos e dados produzidos em contextos acadêmicos e institucionais.
+- **Saberes territoriais:**  Compartilhamento de práticas locais, experiências situadas e formas de conhecimento vinculadas aos territórios.
+- **Ações de despoluição:** Desenvolvimento de proposições aplicáveis a rios, manguezais e regiões costeiras, com foco em intervenção direta e viabilidade material.
 
 ## Texto curatorial
 
