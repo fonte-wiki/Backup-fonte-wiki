@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-03-30T08:01:51.860Z
+date: 2026-04-02T09:55:59.211Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -10,49 +10,78 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 # Ciclo Tropixel: Mar das Coisas
 
-## Ajude a construir a sétima edição do Tropixel!
+### Encontro sobre água no Instituto Oceanográfico da USP / Base Ubatuba
 
-### 30/07 a 01/08 de 2026 - Ubatuba
+## Ubatuba - 30 de Julho a 1º de Agosto de 2026
 
 ![cracha.jpg](/projetos/mardascoisas/cracha.jpg  =100%x)
 
-> A Base Oceanográfica do IOUSP em Ubatuba será palco do **Ciclo Tropixel Mar das Coisas**. Saiba mais abaixo sobre como contribuir e participar.
+[![Inscreva-se](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
 
-- **DATAS:** 30/07 a 01/08
+## Participe
+
+> Está aberta a chamada para propostas voltadas ao **estudo, monitoramento e despoluição de águas** — rios, manguezais e zonas costeiras da Mata Atlântica.
+>
+> Buscamos projetos, práticas, pesquisas e dispositivos que atuem diretamente nas condições materiais de contaminação e circulação da água.
+
+- **PRAZO DE INSCRIÇÕES:** 31 de Maio de 2026
+- **ENVIO DE PROPOSTA / INSCRIÇÃO:** Formulário [aqui](https://tally.so/r/QKd4jl).
+- **DATAS:** 30/07 a 01/08 de 2026
 - **LOCAL:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
-- **PRAZO DE INSCRIÇÕES:** 31 de maio de 2026
-- **FORMULÁRIO DE PROPOSTA / INSCRIÇÃO:** [Veja abaixo](#convocatória-de-propostas-e-participação).
 
-**ORGANIZAÇÃO:** **/U.CC/** (Ubatuba Ciências/Culturas) e **LACO / IOUSP** (Laboratório de Arte-Ciência Oceânica / Instituto Oceanográfico da USP).
+## O que será desenvolvido no encontro?
 
-**SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
+Durante três dias, o **Ciclo Tropixel: Mar das Coisas** reúne participantes na Base Oceanográfica do Instituto Oceanográfico da USP, em Ubatuba, para trabalho direto sobre bacias hidrográficas da Mata Atlântica.
 
-**MAIS INFORMAÇÕES:** [https://mardascoisas.tropixel.org](https://mardascoisas.tropixel.org)
+## Como o encontro se organiza?
 
-## Convocatória de Propostas e Participação
+A programação se constrói a partir das propostas selecionadas e se desenvolve como um processo de trabalho coletivo, estruturado em quatro eixos:
 
-O **Ciclo Tropixel - Mar das Coisas** vai exercitar imaginação e técnica para aprofundar formas de entendimento e ação a respeito da poluição de bacias hidrográficas na Mata Atlântica. O evento promoverá reflexão e experimentação sobre caminhos concretos para a descontaminação de corpos e cursos d'água (rios, mangues, lagoas, lagos e afins).
+– **Mapeamento e monitoramento**
+ Leitura de processos de contaminação por meio de sessões de trabalho, oficinas técnicas de baixo custo e uso de sensores e dados ambientais.
+– **Estudos científicos**
+ Apresentação e discussão de pesquisas, métodos e dados produzidos em contextos acadêmicos e institucionais.
+– **Saberes territoriais**
+ Compartilhamento de práticas locais, experiências situadas e formas de conhecimento vinculadas aos territórios.
+– **Ações de despoluição**
+ Desenvolvimento de proposições aplicáveis a rios, manguezais e regiões costeiras, com foco em intervenção direta e viabilidade material.
 
-Convidamos pesquisadores e acadêmicos, governo, sociedade civil organizada, setor privado e empreendedores a participar de uma imersão laboratorial transdisciplinar em ciência e cultura oceânica.
+### Texto curatorial
 
-### Colabore para a construção de proposições de limpeza e despoluição das águas!
+Mar das Coisas parte da percepção de que o oceano, os rios, os manguezais e as zonas costeiras compõem uma rede material contínua de circulação. Tudo passa pela água: resíduos industriais, compostos químicos, nutrientes, microplásticos, medições, infraestruturas e decisões políticas. A água guarda, desloca e redistribui esses vestígios. Opera como um arquivo em movimento, uma superfície de inscrição do presente.
+
+Em diálogo com a Internet das Coisas, onde objetos conectados produzem informação continuamente, propõe-se aqui uma inflexão material: a própria matéria informa. Partículas em suspensão, índices físico-químicos e variações ambientais tornam legíveis cadeias produtivas, trajetórias de descarte e modos de operação das infraestruturas que atravessam os territórios.
+
+O Mar das Coisas nomeia esse campo em que matéria e informação circulam juntas. Um campo de leitura e de ação.
+
 
 [![Envie sua Proposta](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
 
-## Programação e organização
+Sobre o LACO
 
-A programação será realizada na Base do IOUSP (Praia do Lamberto, Ubatuba) entre os dias **30/7 e 01/08 de 2026**. Estão previstos debates sobre toxicidade e descarte de resíduos, oficinas técnicas sobre monitoramento ambiental acessível e de baixo custo, troca de experiências sobre limpeza e despoluição, e intercâmbio entre conhecimentos acadêmicos e saberes tradicionais. O objetivo fundamental do encontro é **estabelecer alianças e cooperação multissetorial** para a limpeza de manguezais, rios e regiões costeiras.
+O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpress.com/) é uma plataforma transdisciplinar que atua na intersecção entre arte, ciência e tecnologias do oceano. Realiza exposições, cursos de formação, residências artísticas e publicações científicas. Atua em diálogo direto com infraestruturas oceanográficas e territórios costeiros.
 
-O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpress.com/) é uma plataforma transdisciplinar sediada no Instituto Oceanográfico da Universidade de São Paulo (IOUSP), vinculada à Cátedra UNESCO para a Sustentabilidade do Oceano e articulada ao Instituto de Estudos Avançados da Universidade de São Paulo (IEA-USP), com direção de Fabiane M. Borges e coordenação de Alexander Turra. Atua na interseção entre arte, ciência e tecnologia por meio de residências, exposições e programas públicos realizados em diálogo direto com infraestruturas de pesquisa oceanográfica, contribuindo para consolidar a arte e ciência oceânica como campo cultural e político no contexto da Década do Oceano.
-
-[Tropixel](https://tropixel.org) é uma rede aberta atuando na intersecção entre cultura, tecnologia, ciência e sociedade. Surgiu em Ubatuba (justamente em cima do *Trópico de Capricórnio*, daí o nome) com a realização do [Festival Tropixel em 2013](https://tropixel.org/13-festival), e desde então organizou diversos outros eventos em múltiplos formatos. Em 2026, a agência [/U.CC/](https://ubatuba.cc) (Ubatuba Ciências/Culturas), dirigida por Felipe Schmidt Fonseca, está organizando o [Tropixel: Ciclos](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos), com previsão de organizar série de atividades explorando novos horizontes e formas de colaboração.
+[Tropixel](https://tropixel.org) é uma rede aberta que atua na intersecção entre cultura, tecnologia, ciência e sociedade. Organiza festivais, encontros e eventos a partir de Ubatuba. Suas atividades se desenvolvem em contextos específicos, reunindo participantes em processos de experimentação e compartilhamento de conhecimentos.
 
 ### Saiba mais
 
 - [English version](/projetos/mardascoisas/en)
 
 
-### Realização
+---
+**ORGANIZAÇÃO** 
+- Felipe Schmidt Fonseca - /U.CC/ + Tropixel
+- Fabiane M. Borges - LACO / IOUSP
+
+**REALIZAÇÃO**
+
+- /U.CC/ (Ubatuba Ciências/Culturas)
+- LACO - Laboratório de Arte e Ciência Oceânica / IOUSP
+- Instituto Oceanográfico da Universidade de São Paulo
+- Base Oceanográfica Clarimundo de Jesus (Ubatuba)
+
+
+**SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
 ![logos.png](/projetos/mardascoisas/logos.png  =100%x)
 
