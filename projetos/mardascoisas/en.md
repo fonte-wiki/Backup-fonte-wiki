@@ -2,13 +2,13 @@
 title: Mar das Coisas - English
 description: 
 published: true
-date: 2026-04-02T18:57:39.611Z
+date: 2026-04-05T09:23:17.544Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T08:15:32.235Z
 ---
 
-# Tropixel: Sea of Things
+# Tropixel: Mar das Coisas / Sea of Things
 
 Tropixel Cycles - Seventh Edition
 
