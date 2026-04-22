@@ -2,7 +2,7 @@
 title: Águas
 description: 
 published: true
-date: 2025-09-25T09:46:17.173Z
+date: 2026-04-22T08:29:46.023Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T12:06:16.926Z
@@ -24,4 +24,12 @@ Percebo que meu texto tem aberto parentesis com frequência. É só uma coisa de
 
 Certamente, as wikis embaralharam minha percepção e abriram novos campos. Adotei lá em 2003 e sigo até hoje. Ainda assim, fui um adepto e evangelista dos fluxos em RSS e ATOM, e mesmo que tenha no geral abandonado o hábito dos blogues e microblogues, ainda mantenho meu [crescente acervo  de links](https://links.efeefe.me/). E mesmo aqui: é uma coleção linear, em cronologia reversa, mas também pode ser navegada através daS tags e busca. Um (meta-)exemplo relevante nesse contexto: por muito tempo eu pensava em criar uma plataforma de *aprendizado distribuído* (e tenho uma [sub-lista de links](https://links.efeefe.me/?searchterm=&searchtags=metalearning) coletados ao longo dos anos com a tag "metalearning"). Hoje já não sei se uma plataforma digital para aprendizado distribuído faz sentido (ou então, a internet inteira *já é essa platforma*). Mas quero apontar aqui para essa ambiguidade entre linearidade e multi-dimensionalidade.
 
-Quanto desvio nesse texto. E olha que nem comecei. Minha intenção era iniciar dizendo que há uns meses, antes de começar uma viagem que me acabaria me trazendo (uma vez mais) a esses temas, perguntei a minha mãe de santo sobre como me preparar. Ela me disse pra levar minha guia de Caboclo d'Oxum. E assim fiz, exercitando meu ponto. *O olhar sereno, sincero respeito*.
+Quanto desvio nesse texto. E olha que nem comecei. Minha intenção era iniciar dizendo que, há uns meses, antes de começar uma viagem que me acabaria me trazendo (uma vez mais) a esses temas, perguntei a minha mãe de santo sobre como me preparar. Ela me disse pra levar minha guia de Caboclo d'Oxum. E assim fiz, exercitando meu ponto. *O olhar sereno, sincero respeito*.
+
+---
+
+À medida que edito as páginas aqui, percebo cada vez mais uma certa tensão que provavelmente não se resolverá. Por vezes, estou escrevendo pontualmente, como acima: senti a necessidade de marcar a data, o período, o tempo em que as ideias fluíam da mente para os dedos (eu quase escrevi "da mente para o papel", que interessante). E também de apontar para um tempo específico: "lá atrás fiz isso". Em outras ocasiões, como agora aliás, escrevo (digito) sem a pretensão de demonstrar quando ou onde o fiz.
+
+Sei que quem me lê direto na web não vai saber se editei hoje ou ontem ou ano que vem, e isso me faz sentir um certo espírito de rebelião contra o passar do tempo. Não vão mesmo saber se eu por acaso não acrescentei uma vírgula até mesmo aos parágrafos acima, que haviam sido publicados tempos atrás. Outra coisa que sinto é a satisfação de uma pequena insurgência contra a captura total. Mesmo que as máquinas façam um retrato de tudo que escrevi até hoje (incluindo essas linhas aqui), no próximo segundo eu posso mudar um "porém" por um "ainda assim" e mudar totalmente o sentido das coisas.
+
+Por outro lado, tenho plena consciência de que, pela própria maneira como registro essas palavras - usando uma wiki que sincroniza com um repositório git público e compila tudo em um site estático -, qualquer robô mediano vai conseguir saber que eu salvei esta página exatamente hoje, exatamente nesse horário. E no limite, à medida que essas tecnologias continuam a evoluir, é possível que possam prever meu próximo movimento, minha próxima tentativa de fuga. Quero crer, entretanto, que isso será ainda impossível por algum tempo.
