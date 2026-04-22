@@ -2,7 +2,7 @@
 title: Águas
 description: 
 published: true
-date: 2026-04-22T08:29:46.023Z
+date: 2026-04-22T08:33:22.901Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T12:06:16.926Z
@@ -33,3 +33,7 @@ Quanto desvio nesse texto. E olha que nem comecei. Minha intenção era iniciar 
 Sei que quem me lê direto na web não vai saber se editei hoje ou ontem ou ano que vem, e isso me faz sentir um certo espírito de rebelião contra o passar do tempo. Não vão mesmo saber se eu por acaso não acrescentei uma vírgula até mesmo aos parágrafos acima, que haviam sido publicados tempos atrás. Outra coisa que sinto é a satisfação de uma pequena insurgência contra a captura total. Mesmo que as máquinas façam um retrato de tudo que escrevi até hoje (incluindo essas linhas aqui), no próximo segundo eu posso mudar um "porém" por um "ainda assim" e mudar totalmente o sentido das coisas.
 
 Por outro lado, tenho plena consciência de que, pela própria maneira como registro essas palavras - usando uma wiki que sincroniza com um repositório git público e compila tudo em um site estático -, qualquer robô mediano vai conseguir saber que eu salvei esta página exatamente hoje, exatamente nesse horário. E no limite, à medida que essas tecnologias continuam a evoluir, é possível que possam prever meu próximo movimento, minha próxima tentativa de fuga. Quero crer, entretanto, que isso será ainda impossível por algum tempo.
+
+---
+
+As águas inspiram. Abrem caminhos para além das limitações da visão ocidental/branca/europeia/romano-judaico-cristã-industrial. Para além da ideia de indivíduo como centro da sociedade - esse indivíduo usualmente masculino, competitivo, que busca maximizar a própria capacidade de sobrevivência e regeneração em detrimento de todos os outros seres vivos e não-vivos. Para além da cegueira que faz acreditar que existe somente um mundo. Para além do absurdo que é não conversar com ancestrais que já não mais vivem. 
