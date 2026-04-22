@@ -2,7 +2,7 @@
 title: Spring
 description: 
 published: true
-date: 2025-09-25T22:20:57.772Z
+date: 2026-04-22T07:55:40.916Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T06:51:07.020Z
@@ -16,7 +16,7 @@ One beautiful aspect of doing independent and exploratory research across langua
 
 So yes, a first meaning for this term. The spring. Frühling. Tim Maia singing "[É Primavera](https://pt.wikipedia.org/wiki/Primavera_(Vai_Chuva))". I should make it the first song of my Coletora playlist. Spring, the season. But also spring, olho d'água, a source of water streaming from inside the earth. I suspect these meanings are connected, here in the northern of the northern hemisphere (but I won't google it, so will take the risk of having gotten it wrong, or else sounding too obvious for native English speakers). Is the spring (the season) that time of the year when water springs return to be seen flowing from the earth, after the white snow is gone? Do springs return to life in during the spring, so to say?
 
-The initial link in another page, from where I created this page, brings the question. It all starts with a spring, if anything can ever be said to start. In German, the verb *springen* means jumping. Pular, saltar. Is a water spring a way to jump ahead, connect to other places, engage with past and future?
+The initial link in another page, from where I created this one, brings the question. It all starts with a spring, if anything can ever be said to start. In German, the verb *springen* means jumping. Pular, saltar. Is a water spring a way to jump ahead (if we believe that [time](/projetos/coletora/en/time) does pass), connect to other places, engage with past and future?
 
 I think of Siddharta. And Heraclitus. And Krenak. I'll probably come back here and edit this page to turn those names into wiki links. Will I?
 
