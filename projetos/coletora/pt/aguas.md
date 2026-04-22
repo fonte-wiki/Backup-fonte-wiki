@@ -2,7 +2,7 @@
 title: Águas
 description: 
 published: true
-date: 2026-04-22T10:26:44.513Z
+date: 2026-04-22T10:28:12.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T12:06:16.926Z
@@ -30,7 +30,9 @@ Quanto desvio nesse texto. E olha que nem comecei. Minha intenção era iniciar 
 
 À medida que edito as páginas aqui, percebo cada vez mais uma certa tensão que provavelmente não se resolverá. Por vezes, estou escrevendo pontualmente, como acima: senti a necessidade de marcar a data, o período, o tempo em que as ideias fluíam da mente para os dedos (eu quase escrevi "da mente para o papel", que interessante). E também de apontar para um tempo específico: "lá atrás fiz isso". Em outras ocasiões, como agora aliás, escrevo (digito) sem a pretensão de demonstrar quando ou onde o fiz.
 
-Sei que quem me lê direto na web não vai saber se editei hoje ou ontem ou ano que vem, e isso me faz sentir um certo espírito de rebelião contra o passar do tempo. Não vão mesmo saber se eu por acaso não acrescentei uma vírgula até mesmo aos parágrafos acima, que haviam sido publicados tempos atrás. Outra coisa que sinto é a satisfação de uma pequena insurgência contra a captura total. Mesmo que as máquinas façam um retrato de tudo que escrevi até hoje (incluindo essas linhas aqui), no próximo segundo eu posso trocar um "porém" por um "ainda assim" e mudar totalmente o sentido das coisas.
+Sei que quem me lê direto na web não vai saber se editei hoje ou ontem ou ano que vem, e isso me faz sentir um certo espírito de rebelião contra o passar do tempo. Não vão mesmo saber se eu por acaso não acrescentei uma vírgula até mesmo aos parágrafos acima, que haviam sido publicados tempos atrás. O passado também é editável, apesar do que dizem acreditar as culturas predominantes de hoje em dia. 
+
+Outra coisa que sinto é a satisfação de uma pequena insurgência contra a captura total. Mesmo que as máquinas façam um retrato de tudo que escrevi até hoje (incluindo essas linhas aqui), no próximo segundo eu posso trocar um "porém" por um "ainda assim" e mudar totalmente o sentido das coisas.
 
 Por outro lado, tenho plena consciência de que, pela própria maneira como registro essas palavras - usando uma wiki que sincroniza com um repositório git público e compila tudo em um site estático -, qualquer robô mediano vai conseguir saber que eu salvei esta página exatamente hoje, exatamente nesse horário. E no limite, à medida que essas tecnologias continuam a evoluir, é possível que possam prever meu próximo movimento, minha próxima tentativa de fuga. Quero crer, entretanto, que isso será ainda impossível por algum tempo.
 
