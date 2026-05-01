@@ -2,7 +2,7 @@
 title: Águas
 description: 
 published: true
-date: 2026-05-01T09:58:34.740Z
+date: 2026-05-01T10:49:52.492Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T12:06:16.926Z
@@ -12,7 +12,7 @@ dateCreated: 2025-09-24T12:06:16.926Z
 
 **[Coletora - Português](/projetos/coletora/pt).**
 
-Escrevendo estes parágrafos inicialmente em 24/09/2025. Início do outono na Berlim que me rodeia hoje, início da primavera que cobre o Brasil para onde viajo em algumas semanas. Esse ano viajei bastante, desde o comecinho. Primeiro de janeiro foi meu terceiro dia sem viver com mxs filhxs desde o nascimento da mais velha. Eu já tinha passado períodos sem elxs, por certo. Mas sempre tinham sido tempos curtos, no máximo algumas semanas. Em 2025 seria diferente. Crianças no Brasil, eu ainda na Europa.
+Escrevendo estes parágrafos inicialmente em 24/09/2025 (e as partes seguintes desta página foram editadas em outras épocas). Início do outono na Berlim que me rodeia hoje, início da primavera que cobre o Brasil para onde viajo em algumas semanas. Esse ano viajei bastante, desde o comecinho. Primeiro de janeiro foi meu terceiro dia sem viver com mxs filhxs desde o nascimento da mais velha. Eu já tinha passado períodos sem elxs, por certo. Mas sempre tinham sido tempos curtos, no máximo algumas semanas. Em 2025 seria diferente. Crianças no Brasil, eu ainda na Europa.
 
 Desde que cheguei a Berlim, desenvolvi o hábito de perguntar às pessoas quando as conheço aqui: "o que te trouxe a Berlim?". Talvez reagindo à mudança das marés - olha a água aí, por enquanto em sentido figurado -, nos últimos tempos tenho também perguntado "o que te mantém aqui?". Faço essa pergunta a mim mesmo, e as respostas são cada vez mais tênues.
 
@@ -42,6 +42,8 @@ As águas inspiram. Abrem caminhos para além das limitações da visão ocident
 
 ---
 
+Marcando o tempo - e isso tem ligações múltiplas com o tema da coletora -: digito estas linhas em Madrid no dia 01/05/2026. Coletora é hoje uma espécie de caderno aberto de reflexão sobre memória - em especial memória como água.
+
 Por algum tempo eu pirei com um retorno à não-linearidade. Eu vim do mundo wiki e da ideia - certamente ingênua - do hiperlink como subversão de hierarquias. A coletora me permitiu expandir novamente nessa direção, após alguns anos em outra direção. Registro aqui que na formulação da frase acima, percebi algumas coisas. Inicialmente eu havia escrito "a construção da coletora me permitiu...", e inspirado pela [semente](https://fonte.wiki/projetos/semente) eu hoje entendo que em muitas das coisas que me dão satisfação, a construção nunca acaba. É sempre um processo iterativo, recorrente, espiralado. Então decidi por essa formulação que dá vida à coletora como um ser que me permite, que facilita, que dá oportunidade a reflexões. Para além de ser um projeto aberto e experimental, a coletora é um ser. Um mundo, talvez.
 
 Mas de volta ao tema da linearidade e minha dificuldade momentânea com ele... na minha percepção, somou-se a raiva crescente da timeline algorítmica (e sua exacerbação desavergonhada com a aquisição do twitter por aquela pessoa deplorável) à dificuldade genuína que eu costumo ter com a escrita acadêmica e seu encadeamento começo-meio-fim. O alívio que senti ao iniciar essa reflexão aqui vem da sensação de liberdade que a expansão lateral me traz. Porque a coletora não está aqui pra catalogar memórias, classificá-las, tornar-se uma referência fiável e permanente. É mais gestão de bacia hídrica do que organização de gavetas.
@@ -54,12 +56,8 @@ Contudo, e demorei meses a perceber, o efeefe wikeiro foi também sempre bloguei
 
 O mesmo pode ser visto naquele que foi meu site principal por muitos anos, começando com um perfil no blogspot e depois passando por algumas migrações de plataforma e software até chegar em uma versão final: [efeefe](https://efeefe-arquivo.github.io/). E essa dinâmica que mistura linearidade com outras formas de estruturação e navegação está presente também na presença online de grande parte dos projetos que eu fiz entre, vamos dizer, 2002 e 2022. Por exemplo [MetaReciclagem](https://metareciclagem.github.io/), [MutGamb](https://mutgamb.github.io/), [UbaLab](https://ubalab.github.io) e [Desvio](https://desvio.github.io/). Alguns outros eram basicamente blogs mas mais recentemente eu decidi reformular de forma que mantivessem a linha do tempo mas ao menos a página inicial sugerisse formas mais estruturadas de acessar - como as versões arquivadas do [Rede//Labs](https://redelabs-org.github.io/) e do [Ciência Aberta Ubatuba](https://cienciaaberta.ubatuba.cc/).
 
-Durante esse período de crise com as timelines, os sites principais de meus projetos deixaram de ser blogs-com-um-pouco-de-estrutura. Mantive entretando a atenção nas wikis, como [fonte.wiki](https://fonte.wiki) e [wiki.ubatuba](https://wiki.ubatuba.cc/doku.php?id=start). E dei a mim mesmo a liberdade de brincar com outros formatos, por exemplo a navegação principal do [meu site pessoal](https://is.efeefe.me/) e do [Reuse City](https://reuse.city/), e até a versão minimalista que montei há pouco para a [/U.CC/](https://ubatuba.cc).
+Durante esse período de crise com as timelines, os sites principais de meus projetos deixaram de ser blogs-com-um-pouco-de-estrutura. Mantive entretando a atenção nas wikis, como [fonte.wiki](https://fonte.wiki) e [wiki.ubatuba](https://wiki.ubatuba.cc/doku.php?id=start). E dei a mim mesmo a liberdade de brincar com outros formatos, por exemplo a navegação principal do [meu site pessoal](https://is.efeefe.me/) e outros que não têm nada parecido com uma linha de tempo, como o [Tropixel](https://tropixel.org/), o [Reuse City](https://reuse.city/), e até a versão minimalista que montei há pouco para a [/U.CC/](https://ubatuba.cc).
 
-https://fonte-wiki.github.io/Divisor/
+Por outro lado, passei a pensar sobre implicações mais profundas das analogias que usamos para estes espaços online. Algumas discussões no entorno das primeiras etapas da fonte.wiki - em especial as conversas com a equipe da njira - me fizeram pensar sobre [memória como cuidado](https://fonte.wiki/pt-br/projetos/cuidado). Desde a decisão de chamar o site de "fonte" (e as ambiguidades do termo - entre fonte de água e o código-fonte, entre a origem na nascente e o refresco do chafariz), até os nomes que escolhi para alguns subprojetos aqui. Por exemplo, o [Divisor](https://fonte-wiki.github.io/Divisor/), que entre outros sentidos é um conceito que vem da hidrografia mas tem também sentidos populares e até religiosos ("um divisor de águas"). E a própria [Coletora](../), que da mesma forma nos estudos hídricos funciona como dispositivo para receber e redistribuir. 
 
-https://fonte-wiki.github.io/Coletora/
-
-Recentemente interessado de novo em reconhecer e curar timelines, mas as minhas próprias. Mais água: Plouhinc e aquele reflexo no mar, e minha alma viajando pro Brasil e uns dieas depois o corpo também. Mas catando antes o outro lado o d avião em Nantes. o rio sim, e também a lembrança dos navios. E com os Corsários de Rance, a corrida do Rum (mesmi?)
-
-Culturas da água, essa mistura profunda de gente privilegiada e de gente desencaixada. Autonomia ou idiotia?
+Recentemente interessado de novo em reconhecer e curar timelines, mas as minhas próprias.
