@@ -2,7 +2,7 @@
 title: O fim da terra
 description: 
 published: true
-date: 2026-05-01T10:57:23.995Z
+date: 2026-05-01T11:09:32.420Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-01T10:57:23.995Z
@@ -16,4 +16,4 @@ Plouhinec me mostrou um reflexo no mar que fez a alma viajar direto para o Brasi
 
 No fim da terra: Ostras. Barcos abandonados poluindo aos poucos. Culturas da água, essa mistura profunda de gente privilegiada e de gente desencaixada. Autonomia ou fuga?
 
-Cheguei ao fim da terra depois de passar pela [Rance](/projetos/coletora/pt/rance), e antes de retornar à [Sena](/projetos/coletora/pt/sena) para em seguida voar à [Baía da Guanabara](/projetos/coletora/pt/guanabara).
+Cheguei ao fim da terra depois de passar pela [Sena](/projetos/coletora/pt/sena) e pela [Rance](/projetos/coletora/pt/rance), e antes de retornar à [Loire](/projetos/coletora/pt/loire) para em seguida voar à [Baía da Guanabara](/projetos/coletora/pt/guanabara).
