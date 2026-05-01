@@ -2,7 +2,7 @@
 title: Águas
 description: 
 published: true
-date: 2026-05-01T09:54:24.833Z
+date: 2026-05-01T09:58:00.424Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T12:06:16.926Z
@@ -54,7 +54,7 @@ Contudo, e demorei meses a perceber, o efeefe wikeiro foi também sempre bloguei
 
 O mesmo pode ser visto naquele que foi meu site principal por muitos anos, começando com um perfil no blogspot e depois passando por algumas migrações de plataforma e software até chegar em uma versão final: [efeefe](https://efeefe-arquivo.github.io/). E essa dinâmica que mistura linearidade com outras formas de estruturação e navegação está presente também na presença online de grande parte dos projetos que eu fiz entre, vamos dizer, 2002 e 2022. Por exemplo [MetaReciclagem](https://metareciclagem.github.io/), [MutGamb](https://mutgamb.github.io/), [UbaLab](https://ubalab.github.io) e [Desvio](https://desvio.github.io/). Alguns outros eram basicamente blogs mas mais recentemente eu decidi reformular de forma que mantivessem a linha do tempo mas ao menos a página inicial sugerisse formas mais estruturadas de acessar - como as versões arquivadas do [Rede//Labs](https://redelabs-org.github.io/) e do [Ciência Aberta Ubatuba](https://cienciaaberta.ubatuba.cc/).
 
-Durante esse período de crise com as timelines, os sites principais de meus projetos deixaram de ser blogs-com-um-pouco-de-estrutura. Mantive entretando a atenção nas wikis, como [fonte.wiki](https://fonte.wiki) e [wiki.ubatuba](https://wiki.ubatuba.cc/doku.php?id=start). E dei a mim mesmo a liberdade de brincar com outros formatos, por exemplo a navegação principal do [meu site pessoal](https://is.efeefe.me/) e do [Reuse City](https://reuse.city/). 
+Durante esse período de crise com as timelines, os sites principais de meus projetos deixaram de ser blogs-com-um-pouco-de-estrutura. Mantive entretando a atenção nas wikis, como [fonte.wiki](https://fonte.wiki) e [wiki.ubatuba](https://wiki.ubatuba.cc/doku.php?id=start). E dei a mim mesmo a liberdade de brincar com outros formatos, por exemplo a navegação principal do [meu site pessoal](https://is.efeefe.me/) e do [Reuse City](https://reuse.city/), e até a versão minimalista que montei há pouco para a [/U.CC/](https://ubatuba.cc).
 
 Recentemente interessado de novo em reconhecer e curar timelines, mas as minhas próprias. Mais água: Plouhinc e aquele reflexo no mar, e minha alma viajando pro Brasil e uns dieas depois o corpo também. Mas catando antes o outro lado o d avião em Nantes. o rio sim, e também a lembrança dos navios. E com os Corsários de Rance, a corrida do Rum (mesmi?)
 
