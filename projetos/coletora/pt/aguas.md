@@ -2,7 +2,7 @@
 title: Águas
 description: 
 published: true
-date: 2026-05-01T10:51:22.595Z
+date: 2026-05-01T10:52:02.134Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T12:06:16.926Z
@@ -61,4 +61,4 @@ Durante esse período de crise com as timelines, os sites principais de meus pro
 Por outro lado, passei a pensar sobre implicações mais profundas das analogias que usamos para estes espaços online. Algumas discussões no entorno das primeiras etapas da fonte.wiki - em especial as conversas com a equipe da njira - me fizeram pensar sobre [memória como cuidado](https://fonte.wiki/pt-br/projetos/cuidado). Desde a decisão de chamar o site de "fonte" (e as ambiguidades do termo - entre fonte de água e o código-fonte, entre a origem na nascente e o refresco do chafariz), até os nomes que escolhi para alguns subprojetos aqui. Por exemplo, o [Divisor](https://fonte-wiki.github.io/Divisor/), que entre outros sentidos é um conceito que vem da hidrografia mas tem também sentidos populares e até religiosos ("um divisor de águas"). E a própria [Coletora](../), que da mesma forma nos estudos hídricos funciona como dispositivo para receber e redistribuir. 
 
 
-Acho que escrevi todos esses longos parágrafos acima somente para dar um contexto antes de afirmar que recentemente tenho me interessado novamente em reconhecer e curar timelines, mas em outras bases. Também como itinerários de aprendizado, mas essencialmente como uma resistência - talvez ineficiente, absolutamente artesanal e humilde - à algoritmização de todo o restante.
+Acho que escrevi todos esses longos parágrafos acima somente para dar um contexto antes de afirmar que recentemente tenho me interessado novamente em reconhecer e curar timelines, mas em outras bases. Também como itinerários de aprendizado, mas essencialmente como uma resistência - talvez ineficiente, absolutamente artesanal e humilde - à algoritmização de todo o restante. Mas vou deixar para escrever sobre isso todo dia, porque lá fora já é primavera de novo e estou há tempo demais na frente do computador.
