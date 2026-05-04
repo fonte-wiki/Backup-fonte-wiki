@@ -2,7 +2,7 @@
 title: Conversation with Water
 description: 
 published: true
-date: 2026-05-04T10:01:58.741Z
+date: 2026-05-04T10:02:49.470Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T12:07:35.894Z
@@ -22,6 +22,7 @@ We male characters, often caught by surprise by sudden lessons from water. Archi
 - [Is a river alive?](https://www.goodreads.com/book/show/218569826-is-a-river-alive) by Robert Macfarlane, 2025.
 - [RIVER](https://rivers-ercproject.eu/) - Water/Human Rights. Beyond the Human?
 - [Oean Archive](https://ocean-archive.org/)
+- [WaterWorks](https://valiz.nl/images/WaterWorks-ISBN9789493246577-Valiz-Open%20Access%20PDF.pdf) (PDF)
 
 ---
 
