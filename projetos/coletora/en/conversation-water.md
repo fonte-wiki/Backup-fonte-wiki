@@ -2,7 +2,7 @@
 title: Conversation with Water
 description: 
 published: true
-date: 2026-05-04T09:11:34.243Z
+date: 2026-05-04T10:00:26.408Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T12:07:35.894Z
@@ -20,6 +20,7 @@ We male characters, often caught by surprise by sudden lessons from water. Archi
 
 - [An interview with River Dean](https://ualresearchonline.arts.ac.uk/id/eprint/16182/3/An%20interview%20with%20River%20Dean.pdf), Kate Fletcher, 2020.
 - [Is a river alive?](https://www.goodreads.com/book/show/218569826-is-a-river-alive) by Robert Macfarlane, 2025.
+- [RIVER](https://rivers-ercproject.eu/) - Water/Human Rights. Beyond the Human?
 
 ---
 
