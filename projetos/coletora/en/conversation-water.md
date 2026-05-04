@@ -2,7 +2,7 @@
 title: Conversation with Water
 description: 
 published: true
-date: 2026-05-04T09:08:23.204Z
+date: 2026-05-04T09:11:34.243Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T12:07:35.894Z
@@ -24,3 +24,5 @@ We male characters, often caught by surprise by sudden lessons from water. Archi
 ---
 
 Clean water, [filthy water](https://www.theguardian.com/tv-and-radio/2026/feb/23/dirty-business-review-righteous-anger-filthy-water). 
+
+Conversations with data. Are sensors useful or just the usual drive of adding technology to issues in the expectation that it would help magically solve them? No use in sensors without social engagement. Data + conversations, like [Hack2O](https://hack2o.eu/)?
