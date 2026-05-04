@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: #iara #nascente
 published: true
-date: 2026-05-04T16:51:59.469Z
+date: 2026-05-04T17:21:24.030Z
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17T18:46:12.674Z
@@ -32,7 +32,7 @@ O processo que envolve os vídeos-tutoriais, e o material didático-instrucional
 
 O *toolkit*/protótipo do sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano, foi chamado de **Iara**. Esse protótipo avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
 
-![iara.toolkit.png](/projetos/projetos/maedagua/iara.toolkit.png)
+![iaratoolkit.png](/projetos/maedagua/iaratoolkit.png)
 
 
 ## Nosso Glossário
