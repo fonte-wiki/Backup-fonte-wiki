@@ -2,7 +2,7 @@
 title: Conversation with Water
 description: 
 published: true
-date: 2025-10-22T12:07:35.894Z
+date: 2026-05-04T09:08:23.204Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T12:07:35.894Z
@@ -20,3 +20,7 @@ We male characters, often caught by surprise by sudden lessons from water. Archi
 
 - [An interview with River Dean](https://ualresearchonline.arts.ac.uk/id/eprint/16182/3/An%20interview%20with%20River%20Dean.pdf), Kate Fletcher, 2020.
 - [Is a river alive?](https://www.goodreads.com/book/show/218569826-is-a-river-alive) by Robert Macfarlane, 2025.
+
+---
+
+Clean water, [filthy water](https://www.theguardian.com/tv-and-radio/2026/feb/23/dirty-business-review-righteous-anger-filthy-water). 
