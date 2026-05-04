@@ -2,7 +2,7 @@
 title: Águas
 description: 
 published: true
-date: 2026-05-01T10:52:02.134Z
+date: 2026-05-04T09:07:29.697Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-24T12:06:16.926Z
@@ -62,3 +62,7 @@ Por outro lado, passei a pensar sobre implicações mais profundas das analogias
 
 
 Acho que escrevi todos esses longos parágrafos acima somente para dar um contexto antes de afirmar que recentemente tenho me interessado novamente em reconhecer e curar timelines, mas em outras bases. Também como itinerários de aprendizado, mas essencialmente como uma resistência - talvez ineficiente, absolutamente artesanal e humilde - à algoritmização de todo o restante. Mas vou deixar para escrever sobre isso todo dia, porque lá fora já é primavera de novo e estou há tempo demais na frente do computador.
+
+---
+
+Muitas formas de colecionar, muitas formas de mostrar. Bonito [isso aqui](https://terramar.online/).
