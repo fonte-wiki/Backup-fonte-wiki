@@ -2,7 +2,7 @@
 title: La Rance
 description: 
 published: true
-date: 2026-05-09T15:03:40.240Z
+date: 2026-05-09T15:04:29.481Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T13:24:38.683Z
@@ -37,3 +37,10 @@ https://en.wikipedia.org/wiki/Route_du_Rhum
 ---
 
 Villages Flottants - https://villagesflottants.com/?PagePrincipale# (their website is a wiki!!
+
+---
+
+https://quelmer-adramar.musair.fr/parcours/qXQKXw/capsule/a3Oyzf
+
+https://quelmer-adramar.musair.fr/parcours/qXQKXw/capsule/0dTFtj
+
