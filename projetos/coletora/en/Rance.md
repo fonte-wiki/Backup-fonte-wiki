@@ -2,7 +2,7 @@
 title: La Rance
 description: 
 published: true
-date: 2026-05-09T15:01:17.785Z
+date: 2026-05-09T15:03:40.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-22T13:24:38.683Z
@@ -32,3 +32,8 @@ The main entrance to the fortified city is the Gate of Saint Vincent.
 
 Route du Rhum
 https://en.wikipedia.org/wiki/Route_du_Rhum
+
+
+---
+
+Villages Flottants - https://villagesflottants.com/?PagePrincipale# (their website is a wiki!!
