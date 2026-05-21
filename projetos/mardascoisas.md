@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-05-21T06:36:06.075Z
+date: 2026-05-21T07:59:17.540Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -16,7 +16,8 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 ### Ubatuba - 30 de Julho a 1º de Agosto de 2026
 
-![4807648_karuvadgraphy.jpg](/4807648_karuvadgraphy.jpg =100%x)
+![4807648_karuvadgraphy.jpg](/projetos/mardascoisas/4807648_karuvadgraphy.jpg  =100%x)
+
 Image by <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
 [![Inscreva-se](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
