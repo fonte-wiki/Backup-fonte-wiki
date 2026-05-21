@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: 
 published: true
-date: 2026-05-21T06:35:55.362Z
+date: 2026-05-21T08:38:21.819Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T08:15:32.235Z
@@ -16,7 +16,8 @@ Tropixel Cycles - Seventh Edition
 
 ### Ubatuba - July 30th to August 1st, 2026
 
-![4807648_karuvadgraphy.jpg](/4807648_karuvadgraphy.jpg =100%x)
+![4807648_karuvadgraphy.jpg](/projetos/mardascoisas/4807648_karuvadgraphy.jpg  =100%x)
+
 Image by <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
 [![Submit your Proposal](https://img.shields.io/badge/Submit%20your%20Proposal-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
