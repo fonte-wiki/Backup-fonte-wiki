@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: 
 published: true
-date: 2026-04-05T09:23:17.544Z
+date: 2026-05-21T06:28:04.924Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T08:15:32.235Z
@@ -27,7 +27,7 @@ Tropixel Cycles - Seventh Edition
 >
 > We seek projects, practices, research, and devices that act directly on the material conditions of water contamination and circulation.
 
-- **Application deadline:** May 31st, 2026
+- **Application deadline:** June 6th, 2026
 - **Submit your proposal:** Form [here](https://tally.so/r/QKd4jl)
 - **Meeting dates:** July 30th to August 1st
 - **Location:** "Clarimundo de Jesus" IOUSP Research Base - Praia do Lamberto, Ubatuba / SP.
