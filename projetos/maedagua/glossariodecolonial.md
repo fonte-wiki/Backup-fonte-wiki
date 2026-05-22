@@ -2,7 +2,7 @@
 title: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente" em 2025
 published: true
-date: 2026-05-22T18:02:57.250Z
+date: 2026-05-22T18:07:07.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -20,7 +20,7 @@ Não só a construção dessa materialidade, mas a própria história também fo
 
 > Aprender mesmo a gente aprende quando o saber não é mercadoria. Quando é com mestres e mestras, eles não cobram. Eles ensinam para manter o conhecimento vivo. Quando você compartilha o saber, o saber só cresce. É como as águas que ‘confluenciam’. Quando o rio encontra o outro rio, ele não deixa de ser rio. Ele passa a ser um rio maior. **Nego Bispo**
 
-Aqui, propomos a sumarização dos itens da obra Fundação de São Vicente, criando novos verbetes e novas narrativas para um novo **Glossário Decolonial Colaborativo**. Para isso, vamos remontar a tela como um jogo vivo, editável, mutante. Todo o processo será abrigado e disponibilizado no Ipupiara, como memória viva desse território.
+Aqui, propomos a sumarização dos itens da obra Fundação de São Vicente, criando novos verbetes e novas narrativas para um novo **Glossário Decolonial Colaborativo**. Uma versão crítica da própria antropofagia: [devemos nos apropriar de tudo aquilo que nos surge, ou podemos soltar e buscar outras referências?](https://www.uol.com.br/nossa/noticias/redacao/2021/07/02/conheca-hans-staden-o-alemao-que-quase-foi-comido-por-indios-brasileiros.htm0). Para isso, vamos remontar a tela como um jogo vivo, editável, mutante. Todo o processo será abrigado e disponibilizado no Ipupiara, como memória viva desse território.
 
 
 ## **Metodologia**
