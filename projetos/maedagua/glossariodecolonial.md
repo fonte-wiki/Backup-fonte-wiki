@@ -2,7 +2,7 @@
 title: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-05-22T18:20:25.038Z
+date: 2026-05-22T18:21:42.421Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -34,7 +34,7 @@ Depois colamos, como lambe-lambe, numa porta já descartada, e começamos a inte
 
 Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
-> (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas. CAMARGO & NEVES, 2025.
+> (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas (CAMARGO & NEVES, 2025).
 
 
 ## **O nome das Coisas: Nossos Verbetes**
