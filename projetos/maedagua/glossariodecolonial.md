@@ -2,7 +2,7 @@
 title: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente" em 2025
 published: true
-date: 2026-05-22T18:16:31.834Z
+date: 2026-05-22T18:19:54.712Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -15,6 +15,9 @@ dateCreated: 2025-07-08T17:46:26.886Z
 > *um projeto totalizante cujas forças motrizes poderão sempre buscar-se no nível  do  colo: ocupar um novo chão, explorar os seus bens, submeter os seus naturais* (BOSI, 1992).
 
 Não só a construção dessa materialidade, mas a própria história também foi contada sobre uma narrativa eurocentrista, branca, colonial. Sobrepondo e silenciando a memória e a história das populações locais. O quadro ["A Fundação de São Vicente"](https://revistas.usp.br/anaismp/pt_BR/article/view/149934), traz a força desse simbolismo. Hoje sediado no [Museu Paulista](https://museudoipiranga.org.br/palestra-representando-as-origens-as-fundacoes-de-sao-paulo-e-sao-vicente-na-pintura-1900-a-1954/) em uma sala suntuosa com molduras douradas, longe de seu local de "captura", a própria Praça 22 de Janeiro, em São Vicente - sucateada, povoado por moradores e animais de rua. Em condições muito distantes da precária [Casa de Martim Afonso](https://maps.app.goo.gl/W7p2jH3qGM1BTcJRA), mal conservada, esquecida. 
+
+![fsvc.png](/projetos/maedagua/fsvc.png)
+Fundação de São Vicente na sala A-10, em 1937. Acervo do Museu Paulista da USP. Foto: Helio Nobre
 
 É uma história presa em [pálacios-mortos](https://www.goethe.de/prj/hum/pt/nac/kos/26349282.html), onde o imagético tem mais valor, mais valia do que os ecossistemas, em um cenário que negociamos [1 hectare de floresta por USD$ 4](https://exame.com/esg/novo-fundo-global-busca-frear-desmatamento-com-recompensa-de-us-4-por-hectare-preservado/) como algo bom, um avanço.  
 
