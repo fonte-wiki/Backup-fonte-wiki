@@ -2,7 +2,7 @@
 title: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente" em 2025
 published: true
-date: 2026-05-22T18:07:07.912Z
+date: 2026-05-22T18:13:11.564Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -23,10 +23,18 @@ Não só a construção dessa materialidade, mas a própria história também fo
 Aqui, propomos a sumarização dos itens da obra Fundação de São Vicente, criando novos verbetes e novas narrativas para um novo **Glossário Decolonial Colaborativo**. Uma versão crítica da própria antropofagia: [devemos nos apropriar de tudo aquilo que nos surge, ou podemos soltar e buscar outras referências?](https://www.uol.com.br/nossa/noticias/redacao/2021/07/02/conheca-hans-staden-o-alemao-que-quase-foi-comido-por-indios-brasileiros.htm0). Para isso, vamos remontar a tela como um jogo vivo, editável, mutante. Todo o processo será abrigado e disponibilizado no Ipupiara, como memória viva desse território.
 
 
-## **Metodologia**
+## **Como fizemos**
+
+Realizamos a divisão da obra original em frames, e criamos um tutorial de montagem para que essa experiência pudesse ser replicada, e disponibilizamos aqui.
+
+Depois colamos, como lambe-lambe, numa porta já descartada, e começamos a intervenção. Durante esse processo, listamos e nomeamos o que gostaríamos de identificar para criarmos os verbetes colaborativos.
+
+Durante esse processo, realizamos a **Metodologia do Envolvimento**:
+
+> (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas. CAMARGO & NEVES, 2026.
 
 
-## **O nome das Coisas**
+## **O nome das Coisas: Nossos Verbetes**
 
 - Lala
 - lalala
