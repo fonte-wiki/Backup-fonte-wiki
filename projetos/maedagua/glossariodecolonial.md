@@ -2,7 +2,7 @@
 title: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-05-22T18:21:42.421Z
+date: 2026-05-22T18:26:16.169Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
