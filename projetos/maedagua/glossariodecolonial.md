@@ -2,7 +2,7 @@
 title: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente" em 2025
 published: true
-date: 2026-05-22T18:13:11.564Z
+date: 2026-05-22T18:16:31.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -31,7 +31,7 @@ Depois colamos, como lambe-lambe, numa porta já descartada, e começamos a inte
 
 Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
-> (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas. CAMARGO & NEVES, 2026.
+> (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas. CAMARGO & NEVES, 2025.
 
 
 ## **O nome das Coisas: Nossos Verbetes**
@@ -43,7 +43,10 @@ Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
 ## Referências Bibliográficas
 
-BOSI, A. Dialética da Colonização. Companhia das Letras. 1ª Edição, 1992, 424p.
+BOSI, A. **Dialética da Colonização**. Companhia das Letras. 1ª Edição, 1992, 424p.
+
+CARMARGO, C; NEVES, G. **Metodologia do envolvimento: reontologização do ser e ecologias de saberes para futuros radicais**. ClimaCom. Exu: Arte, epistemologia e método. Ano 12, n.29. Disponível em <https://climacom.mudancasclimaticas.net.br/metodologia-do-envolvimento/>. Acesso em 03 de maio de 2026.
+
 
 ------------------
 - [Diários do Projeto](https://fonte.wiki/pt-br/projetos/maedagua/diarios/2026-05)
