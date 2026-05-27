@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-05-21T07:59:17.540Z
+date: 2026-05-27T20:28:48.702Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -18,7 +18,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 ![4807648_karuvadgraphy.jpg](/projetos/mardascoisas/4807648_karuvadgraphy.jpg  =100%x)
 
-Image by <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
+Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
 [![Inscreva-se](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
 
