@@ -2,13 +2,13 @@
 title: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-05-22T18:26:16.169Z
+date: 2026-06-02T20:42:52.692Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
 ---
 
-## **Pra Muita Coisa Falta Nome**
+## **Terra Rara**
 
 [São Vicente](https://www.al.sp.gov.br/noticia/?id=492566), cidade da Baixada Santista do Litoral do Sul de São Paulo, é considerada a primeira vila do país, "fundada" por [Martim Afonso](https://pt.wikipedia.org/wiki/Martim_Afonso_de_Sousa), em 22 de janeiro de 1532. A forma como ocorreu a ocupação do seu território, a exploração dos recursos naturais e mão-de-obra, o uso e ocupação do solo, a urbanização e promoção de turismo, definiu, não só os desdobramentos de futuro da região, mas de todas as zonas costeiras do país, como réplica, padrão. 
 
