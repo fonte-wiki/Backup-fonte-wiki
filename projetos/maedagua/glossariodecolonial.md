@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-06-02T20:50:42.539Z
+date: 2026-06-02T21:00:44.064Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -40,6 +40,11 @@ Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
 > (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas (CAMARGO & NEVES, 2025).
 
+E a obra passou por três momentos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
+
+- Mulheres Pesacadoras da Barra do Una
+- Mulheres do Borbado do ProComum
+- Crias pelo Clima, jovens do Instituto Kondizilla
 
 ## **O nome das Coisas: Nossos Verbetes**
 
