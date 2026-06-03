@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-06-02T21:00:44.064Z
+date: 2026-06-03T14:19:38.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -44,7 +44,7 @@ E a obra passou por três momentos de intervenção, com fragmentos populacionai
 
 - Mulheres Pesacadoras da Barra do Una
 - Mulheres do Borbado do ProComum
-- Crias pelo Clima, jovens do Instituto Kondizilla
+- [Crias pelo Clima](https://criaspeloclima.procomum.org/), jovens do Instituto Kondizilla
 
 ## **O nome das Coisas: Nossos Verbetes**
 
