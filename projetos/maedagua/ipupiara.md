@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2025-11-13T18:55:16.967Z
+date: 2026-06-03T13:59:19.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -59,7 +59,7 @@ Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer di
 #### [Repositórios Abertos e Práticas de Cuidado](/projetos/maedagua/repositoriosabertos/)
 #### [Direitos das Zonas Costeiras e Territórios Hidrossociais](/projetos/maedagua/direitoszonascosteiras/)
 #### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
-#### [Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
+#### [Terra Rara: Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
 
 ![prancheta_4_cópia_2.png](/projetos/maedagua/prancheta_4_cópia_2.png)
 
