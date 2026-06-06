@@ -2,7 +2,7 @@
 title: Tecnologias
 description: inventividades, adaptações de instrumentos e criação de novas ferramentas
 published: true
-date: 2026-06-06T23:07:58.180Z
+date: 2026-06-06T23:25:37.240Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:45:12.207Z
@@ -12,6 +12,7 @@ dateCreated: 2026-06-06T22:45:12.207Z
 Bem antes de usarmos água para esfriar data centers...(elaborar)
 
 - Bandeira
+- Barcos
 - Cajado
 - Caravelas
 - Cocar x Coroa
