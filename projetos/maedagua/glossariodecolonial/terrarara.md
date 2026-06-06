@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: true
-date: 2026-06-06T22:15:57.757Z
+date: 2026-06-06T23:19:32.145Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:15:01.576Z
@@ -19,7 +19,7 @@ Descerever que lindo foi alalallalaa
 
 - Campo Aberto
 
-- Cordão de Jundu
+- Jundú
 
 - Dia de Verão
 
