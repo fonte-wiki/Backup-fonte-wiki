@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-06-06T21:43:53.707Z
+date: 2026-06-06T21:50:07.889Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -54,8 +54,8 @@ E a obra passou por três momentos de intervenção, com fragmentos populacionai
 
 Sumarizamos os itens do Glossário em 4 eixos-chaves com cores correspondentes, e além da obra física, disponibilizamos [aqui](https://miro.com/app/board/uXjVHJwbZqw=/?share_link_id=491463750661) num board de Miro, e detalhamos os verbetes:
 
-- [Terra Rara](/projetos/maedagua/glossariodecolonial/terrarara): 
-- [Ecologia Humana](/projetos/maedagua/glossariodecolonial/ecologiahumana): **descrever**
+- [Terra Rara](/projetos/maedagua/glossariodecolonial/terrarara): verbetes relativos ao [ecossistema](https://www.nationalgeographicbrasil.com/meio-ambiente/2022/08/o-que-e-um-ecossistema) retratado na obra, ou seja, fatores bióticos e abióticos.
+- [Ecologia Humana](/projetos/maedagua/glossariodecolonial/ecologiahumana): verbetes que descrevem a [dinâmica populacional](https://www.sciencedirect.com/topics/social-sciences/human-ecology em relação às instituições sociais e aos contextos espaço-temporais.
 - [Tecnologias](/projetos/maedagua/glossariodecolonial/tecnologias): **descrever**
 - [Futuros](/projetos/maedagua/glossariodecolonial/futuros): **descrever**
 
