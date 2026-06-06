@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-06-04T19:18:07.006Z
+date: 2026-06-06T21:43:53.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -52,12 +52,12 @@ E a obra passou por três momentos de intervenção, com fragmentos populacionai
 
 ## **O nome das Coisas: Nossos Verbetes**
 
-Sumarizamos os itens do Glossário em 4 eixos-chaves com cores correspondentes, e além da obra física, disponibilizamos [aqui](https://miro.com/app/board/uXjVHJwbZqw=/?share_link_id=491463750661):
+Sumarizamos os itens do Glossário em 4 eixos-chaves com cores correspondentes, e além da obra física, disponibilizamos [aqui](https://miro.com/app/board/uXjVHJwbZqw=/?share_link_id=491463750661) num board de Miro, e detalhamos os verbetes:
 
-- Terra Rara: **descerever**
-- Ecologia Humana: **descrever**
-- Tecnologias: **descrever**
-- Futuros: **descrever**
+- [Terra Rara](/projetos/maedagua/glossariodecolonial/terrarara): 
+- [Ecologia Humana](/projetos/maedagua/glossariodecolonial/ecologiahumana): **descrever**
+- [Tecnologias](/projetos/maedagua/glossariodecolonial/tecnologias): **descrever**
+- [Futuros](/projetos/maedagua/glossariodecolonial/futuros): **descrever**
 
 ## Referências Bibliográficas
 
