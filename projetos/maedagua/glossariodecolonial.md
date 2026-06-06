@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-06-06T21:50:07.889Z
+date: 2026-06-06T22:05:51.065Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -40,24 +40,25 @@ Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
 > (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas (CAMARGO & NEVES, 2025).
 
-**_ PRIMEIRO MOMENTO (discussão, arquitetura, definição)
-_ segundo momento intervenções (verbetes de futuro, apagar coisas para desenhar nova história)
-_ exposição e minidoc**
+No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-chaves. Criamos a estrutura dos verbetes no fonte.wiki para a edição colaborativa. Também montamos na obra numa estrutura replicável, com tutoriial **link**.
 
-E a obra passou por três momentos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
+Posteriormente, a obra passou por três momentos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
 
-- Mulheres Pesacadoras da Barra do Una
-- Mulheres do Borbado do ProComum
-- [Crias pelo Clima](https://criaspeloclima.procomum.org/), jovens do Instituto Kondizilla
+- Mulheres Pesacadoras da Barra do Una, durante o I Seminário PROEXT-PG da UNISANTA.
+- Mulheres da Turma do Borbado, no ProComum
+- [Crias pelo Clima](https://criaspeloclima.procomum.org/), jovens do Instituto Kondizilla, durante o encerramento do projeto.
+
 
 ## **O nome das Coisas: Nossos Verbetes**
 
-Sumarizamos os itens do Glossário em 4 eixos-chaves com cores correspondentes, e além da obra física, disponibilizamos [aqui](https://miro.com/app/board/uXjVHJwbZqw=/?share_link_id=491463750661) num board de Miro, e detalhamos os verbetes:
+Sumarizamos os itens do Glossário em 4 eixos-chaves com cores correspondentes, e além da obra física, disponibilizamos [aqui](https://miro.com/app/board/uXjVHJwbZqw=/?share_link_id=491463750661) num board de Miro. 
+
+**SUMÁRIO**
 
 - [Terra Rara](/projetos/maedagua/glossariodecolonial/terrarara): verbetes relativos ao [ecossistema](https://www.nationalgeographicbrasil.com/meio-ambiente/2022/08/o-que-e-um-ecossistema) retratado na obra, ou seja, fatores bióticos e abióticos.
-- [Ecologia Humana](/projetos/maedagua/glossariodecolonial/ecologiahumana): verbetes que descrevem a [dinâmica populacional](https://www.sciencedirect.com/topics/social-sciences/human-ecology em relação às instituições sociais e aos contextos espaço-temporais.
-- [Tecnologias](/projetos/maedagua/glossariodecolonial/tecnologias): **descrever**
-- [Futuros](/projetos/maedagua/glossariodecolonial/futuros): **descrever**
+- [Ecologia Humana](/projetos/maedagua/glossariodecolonial/ecologiahumana): verbetes que descrevem a [dinâmica populacional](https://www.sciencedirect.com/topics/social-sciences/human-ecology) em relação às instituições sociais e aos contextos espaço-temporais.
+- [Tecnologias](/projetos/maedagua/glossariodecolonial/tecnologias): inventividades, adaptações de instrumentos e [criação de novas ferramentas](https://periodicos.utfpr.edu.br/rts/article/viewFile/10339/7485).
+- [Futuros](/projetos/maedagua/glossariodecolonial/futuros): um desenho preditivo do que pode acontecer, em um futuro breve
 
 ## Referências Bibliográficas
 
