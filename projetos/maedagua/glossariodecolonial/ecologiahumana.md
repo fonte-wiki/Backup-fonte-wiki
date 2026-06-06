@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description:  Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: true
-date: 2026-06-06T22:39:08.148Z
+date: 2026-06-06T22:58:34.827Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:39:08.148Z
@@ -10,7 +10,7 @@ dateCreated: 2026-06-06T22:39:08.148Z
 
 # Ecologia Humana
 
-Aqui não vamos descrever como o colonizador realizou feitos, criou uma narrativa própria que foi contada e recontada - até hoje em comemorações. Vamos falar do que estava antes, de quem estava antes. Da memória antropofágica que tem permitido que as histórias sejam questionadas, revisitadas, contestadas, recriadas.
+Aqui não vamos descrever como o colonizador realizou feitos, criou uma narrativa própria que foi contada e recontada - até hoje em comemorações. Vamos falar do que estava antes, de quem estava antes, da memória antropofágica que tem permitido que as histórias sejam questionadas, revisitadas, contestadas, recriadas.
 
 > *A fixação do progresso por meio de catálogos e aparelhos de televisão. Só a maquinaria. E os transfusores de sangue. Contra as sublimações antagônicas. Trazidas nas caravelas. Contra a verdade dos povos missionários, definida pela sagacidade de um antropófago, o Visconde de Cairu: – É mentira muitas vezes repetida.*
 > Manifesto Antropófago. [Oswalde de Andrade](https://pib.socioambiental.org/files/manifesto_antropofago.pdf), 1928.
