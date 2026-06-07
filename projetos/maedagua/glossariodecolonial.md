@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-06-07T21:33:20.005Z
+date: 2026-06-07T21:37:47.640Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -13,6 +13,8 @@ dateCreated: 2025-07-08T17:46:26.886Z
 Nos últimos anos cresceram as discussões sobre [Terras Raras](https://pt.wikipedia.org/wiki/Terras-raras). Mas o contexto não é novo: [colonialismo, exploração e tudo o que conhecemos](https://outraspalavras.net/tecnologiaemdisputa/por-nova-estrategia-para-terras-raras-e-ia/).
 
 Uma prática familiar para a Baixada Santista: uma Terra Rara, avistada por colonos sedentos. Clima, fauna e flora exuberantes. Um ambiente a ser amplamente explorado para ganhos monetários.
+
+![boardterrarara.png](/projetos/maedagua/boardterrarara.png)
 
 [São Vicente](https://www.al.sp.gov.br/noticia/?id=492566), cidade da Baixada Santista do Litoral do Sul de São Paulo, é considerada a primeira vila do país, e foi "fundada" por [Martim Afonso](https://pt.wikipedia.org/wiki/Martim_Afonso_de_Sousa), em 22 de janeiro de 1532. 
 
