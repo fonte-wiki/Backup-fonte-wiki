@@ -2,7 +2,7 @@
 title: Futuros
 description: O que será que pode acontecer no futuro breve?
 published: true
-date: 2026-06-06T22:55:57.017Z
+date: 2026-06-07T20:48:10.069Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:55:57.017Z
@@ -15,7 +15,7 @@ Descrever cenário atual
 - Crise Climática
 - Embranquecimento de Corais
 - Erosão Costeira
-- Estoques Pesqueiros
-- Eventos Extremos
+- Eventos Climáticos Extremos
 - Poluição
+- Queda dosEstoques Pesqueiros
 - Vulnerabilidade das Populações Costeiras e Pesqueiras
