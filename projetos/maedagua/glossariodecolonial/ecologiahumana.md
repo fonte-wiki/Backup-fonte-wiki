@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description:  Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: true
-date: 2026-06-07T20:52:50.311Z
+date: 2026-06-07T21:00:07.643Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:39:08.148Z
@@ -20,7 +20,7 @@ Não vamos descrever como o [colonizador](https://dicionario.acad-ciencias.pt/pe
 Convite do baile de carnaval organizado pela Sociedade Pró-Arte Moderna (SPAM) em 1934. Imagem: Maira Begalli, 2026.
 
 - Lideranças em Negociação
-- Nobrezas
+- Nobreza
 - Padre Catequizando
 - Pessoas em Mediação
 - Povos Originários
