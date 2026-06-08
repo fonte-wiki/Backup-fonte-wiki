@@ -2,7 +2,7 @@
 title: Tropixel Social Club
 description: 
 published: true
-date: 2026-06-08T01:01:19.317Z
+date: 2026-06-08T01:14:34.492Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-07T17:24:58.671Z
@@ -10,9 +10,13 @@ dateCreated: 2026-06-07T17:24:58.671Z
 
 # Tropixel Social Club
 
-> Criando um Agregador do Fediverso (Estilo RSS) com GoToSocial e Python
+[Tropixel Social Club](https://social.tropixel.org) é um agregador de perfis de redes sociais federadas ligados a integrantes e iniciativas da rede [Tropixel](https://tropixel.org). Foi criado em junho de 2026 como experiência de curadoria manual de feeds sociais. 
+
+## Detalhes técnicos
 
 *(documentação criada por máquinas)*
+
+> Criando um Agregador do Fediverso (Estilo RSS) com GoToSocial e Python
 
 Este guia documenta o processo de criação de um hub no Fediverso. O objetivo inicial era usar um ActivityPub Relay, mas percebemos que relays funcionam como uma mangueira de incêndio (distribuindo tudo de todos). Como o objetivo era criar uma timeline curada (semelhante a um agregador RSS), a melhor abordagem foi subir uma instância leve e dedicada do GoToSocial pareada com um bot em Python.
 
