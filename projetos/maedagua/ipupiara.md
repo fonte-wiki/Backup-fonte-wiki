@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2026-06-03T13:59:19.520Z
+date: 2026-06-09T19:42:35.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -54,12 +54,11 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 > Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
 
 
-Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, inicialmente oferecendo os conteúdos:
+Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, contendo os artigos com podcasts das bases temáticas usadas neste projeto, e seus respectivos produtos extensionistas:
 
-#### [Repositórios Abertos e Práticas de Cuidado](/projetos/maedagua/repositoriosabertos/)
-#### [Direitos das Zonas Costeiras e Territórios Hidrossociais](/projetos/maedagua/direitoszonascosteiras/)
-#### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](/projetos/maedagua/antropoceno)
-#### [Terra Rara: Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) 
+- [Repositórios Abertos e Práticas de Cuidado](/projetos/maedagua/repositoriosabertos/), e a **documentção da ZASF Ipupiara** (tutorial, código e materiais) como uma alternativa para cuidado de dados sensíveis;
+- [Direitos das Zonas Costeiras e Territórios Hidrossociais](/projetos/maedagua/direitoszonascosteiras/), e [Terra Rara: Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) que traz um inventário das dinâmicas territoriais da primeira vila do Brasil, São Vicente, que moldou a dinâmica de exploração de recursos e pessoas no país;
+- [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](/projetos/maedagua/antropoceno), e o **Índice de Vulnerabilidade Costeira** para os municípios da Baixada Santista.
 
 ![prancheta_4_cópia_2.png](/projetos/maedagua/prancheta_4_cópia_2.png)
 
