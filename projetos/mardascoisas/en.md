@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: 
 published: true
-date: 2026-06-11T11:42:25.045Z
+date: 2026-06-11T12:00:25.827Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T08:15:32.235Z
@@ -20,7 +20,7 @@ Tropixel Cycles - Seventh Edition
 
 Image by <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
-[![Submit your Proposal](https://img.shields.io/badge/Submit%20your%20Proposal-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
+[![Register](https://img.shields.io/badge/Register-now!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
 ## Participate
 
@@ -47,6 +47,8 @@ The program is built from the selected proposals and develops as a collective wo
 - **Scientific studies:** Presentation and discussion of research, methods, and data produced in academic and institutional contexts.
 - **Territorial knowledge:** Sharing local practices, situated experiences, and forms of knowledge linked to territories.
 - **Decontamination actions:** Development of propositions applicable to rivers, mangroves, and coastal regions, with a focus on direct intervention and material feasibility.
+
+[![Register](https://img.shields.io/badge/Register-now!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
 ## Curatorial text
 
