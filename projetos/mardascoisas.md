@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-06-11T11:42:29.778Z
+date: 2026-06-11T11:59:15.879Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -20,9 +20,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
-[![Inscreva-se](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
-
-## Participe
+[![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
 > ~~Está aberta a chamada para propostas voltadas ao **estudo, monitoramento e despoluição de águas** — rios, manguezais e zonas costeiras da Mata Atlântica.~~
 >
@@ -48,6 +46,8 @@ A programação se constrói a partir das propostas selecionadas e se desenvolve
 - **Estudos científicos:** Apresentação e discussão de pesquisas, métodos e dados produzidos em contextos acadêmicos e institucionais.
 - **Saberes territoriais:**  Compartilhamento de práticas locais, experiências situadas e formas de conhecimento vinculadas aos territórios.
 - **Ações de despoluição:** Desenvolvimento de proposições aplicáveis a rios, manguezais e regiões costeiras, com foco em intervenção direta e viabilidade material.
+
+[![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
 ## Texto curatorial
 
