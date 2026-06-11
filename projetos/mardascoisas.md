@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-06-11T11:33:09.654Z
+date: 2026-06-11T11:40:39.413Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -56,9 +56,6 @@ Mar das Coisas parte da percepção de que o oceano, os rios, os manguezais e as
 Em diálogo com a Internet das Coisas, onde objetos conectados produzem informação continuamente, propõe-se aqui uma inflexão material: a própria matéria informa. Partículas em suspensão, índices físico-químicos e variações ambientais tornam legíveis cadeias produtivas, trajetórias de descarte e modos de operação das infraestruturas que atravessam os territórios.
 
 O Mar das Coisas nomeia esse campo em que matéria e informação circulam juntas. Um campo de leitura e de ação.
-
-
-[![Envie sua Proposta](https://img.shields.io/badge/Envie%20sua%20Proposta-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
 
 ### Sobre o Tropixel
 
