@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-05-27T20:28:48.702Z
+date: 2026-06-11T11:33:09.654Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -24,14 +24,17 @@ Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=
 
 ## Participe
 
-> Está aberta a chamada para propostas voltadas ao **estudo, monitoramento e despoluição de águas** — rios, manguezais e zonas costeiras da Mata Atlântica.
+> ~~Está aberta a chamada para propostas voltadas ao **estudo, monitoramento e despoluição de águas** — rios, manguezais e zonas costeiras da Mata Atlântica.~~
 >
-> Buscamos projetos, práticas, pesquisas e dispositivos que atuem diretamente nas condições materiais de contaminação e circulação da água.
+> ~~Buscamos projetos, práticas, pesquisas e dispositivos que atuem diretamente nas condições materiais de contaminação e circulação da água.~~
+>
+>**Atualização:** chamada por propostas encerrada. Daremos retorno em breve. Para conversar sobre possíveis colaborações, entre em contato com Felipe ou Fabi.
 
-- **Prazo de inscrições:** 6 de Junho de 2026
-- **Submeta sua proposta:** Formulário [aqui](https://tally.so/r/QKd4jl).
 - **Datas do encontro:** 30 de Julho a 1º de Agosto de 2026
 - **Local:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
+- ~~**Prazo de inscrições:** 6 de Junho de 2026~~
+- ~~**Submeta sua proposta:** Formulário [aqui](https://tally.so/r/QKd4jl).~~
+
 
 ## O que será desenvolvido no encontro?
 
