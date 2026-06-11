@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: 
 published: true
-date: 2026-05-21T08:38:21.819Z
+date: 2026-06-11T11:42:25.045Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T08:15:32.235Z
@@ -24,14 +24,16 @@ Image by <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=l
 
 ## Participate
 
-> The call for proposals is now open for the study, monitoring, and decontamination of waters — rivers, mangroves, and coastal zones of the Atlantic Forest.
+> ~~The call for proposals is now open for the study, monitoring, and decontamination of waters — rivers, mangroves, and coastal zones of the Atlantic Forest.~~
 >
-> We seek projects, practices, research, and devices that act directly on the material conditions of water contamination and circulation.
+> ~~We seek projects, practices, research, and devices that act directly on the material conditions of water contamination and circulation.~~
+>
+> **Update:** the call is now closed. We will provide feedback soon. To talk about other forms of collaboration, please reach out to Fabiane or Felipe directly.
 
-- **Application deadline:** June 6th, 2026
-- **Submit your proposal:** Form [here](https://tally.so/r/QKd4jl)
 - **Meeting dates:** July 30th to August 1st
 - **Location:** "Clarimundo de Jesus" IOUSP Research Base - Praia do Lamberto, Ubatuba / SP.
+- ~~**Application deadline:** June 6th, 2026~~
+- ~~**Submit your proposal:** Form [here](https://tally.so/r/QKd4jl)~~
 
 ## What will be developed at the meeting?
 
@@ -53,8 +55,6 @@ The **Sea of Things** starts from the perception that the ocean, rivers, mangrov
 In dialogue with the Internet of Things, where connected objects continuously produce information, a material inflection is proposed here: matter itself informs. Suspended particles, physicochemical indices, and environmental variations make legible production chains, disposal trajectories, and operating modes of the infrastructures that cross the territories.
 
 The Sea of Things names this field in which matter and information circulate together. A field of reading and action.
-
-[![Submit your Proposal](https://img.shields.io/badge/Submit%20your%20Proposal-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/QKd4jl)
 
 ### About Tropixel
 
