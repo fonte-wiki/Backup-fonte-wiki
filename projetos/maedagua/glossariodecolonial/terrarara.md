@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: true
-date: 2026-06-12T19:39:30.720Z
+date: 2026-06-12T19:39:55.108Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:15:01.576Z
@@ -25,7 +25,7 @@ Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um di
 
 - **Ilha Porchat**: Ilha adquirida pela família Porchat no século XIX. Hoje abriga uma edificação de Oscar Niemeyer, mas já sediou clubes e grandes festas. Antes não tinha esse nome, pois era um bem comum, sem dono.
 
-- **Mar**: Há quem chame de Kalunga Grande, local de oferenda para Iemanjá. Para populações pesqueiras: local de onde vem o sustento. para poetas fontes de inspiração. Para a fauna e flora costeira também pode ser chamado de casa. Na época: local de onde chegou o homem branco colonizador.
+- **Mar**: Há quem chame de Kalunga Grande, local de oferenda para Iemanjá. Para populações pesqueiras: local de onde vem o sustento. Para poetas fontes de inspiração. Para a fauna e flora costeira também pode ser chamado de casa. Na época: local de onde chegou o homem branco colonizador.
 
 - **Mata Atlântica**: Bioma com biodiversidade exauberante, tropical, vegetação complexa. Infelizmente encontra-se em processo de [intensa fragmentação e destruição](https://www.ibflorestas.org.br/bioma-mata-atlantica), iniciada com a exploração do Pau-Brasil no século XVI.
 
