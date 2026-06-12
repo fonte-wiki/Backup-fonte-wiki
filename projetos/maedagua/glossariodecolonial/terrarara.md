@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: true
-date: 2026-06-12T19:41:30.647Z
+date: 2026-06-12T19:43:47.106Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:15:01.576Z
@@ -17,7 +17,7 @@ Canção do Exílio. [Gonçalves Dias](https://www.academia.org.br/academicos/go
 Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um dia de verão, era janeiro de 1532. O céu azul, os pássaros, as praias, a moldura da Mata Atlântica. Um novo mundo, tantos itens possíveis de extração e comercialização. 
 
 
-- Campo Aberto
+- **Campo Aberto**: local entre a faixa de areia, e a vegetação. Espaço em que os colonos se estabeleceram, negociaram. Hoje visto como [Orla](https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/orla).
 
 - **Jundú**: cordão de vegetação que fica a beira mar, ou [mato que protege o litoral](https://www.bioicos.org.br/post/jundu-o-mato-que-protege-o-litoral).
 
