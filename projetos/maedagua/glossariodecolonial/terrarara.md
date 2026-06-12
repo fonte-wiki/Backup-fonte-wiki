@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: true
-date: 2026-06-12T19:39:55.108Z
+date: 2026-06-12T19:41:30.647Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:15:01.576Z
@@ -19,7 +19,7 @@ Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um di
 
 - Campo Aberto
 
-- Jundú: cordão de vegetação que fica a beira mar
+- **Jundú**: cordão de vegetação que fica a beira mar, ou [mato que protege o litoral](https://www.bioicos.org.br/post/jundu-o-mato-que-protege-o-litoral).
 
 - **Dia de Verão**: Nessa região, o verão ocorre entre o final de dezembro e o final de março, as temperaturas médias ficam acima de 30°C, com sensação térmica maior, por causa da umidade. É a época mais chuvosa do ano, com picos de chuva entre janeiro e fevereiro. Pela escala de Köppen-Geiger o clima é definido como Af (Clima Tropical Úmido). Em 22 de janeiro de 1532 não encontramos: turistas e lixo nas praias, palcos de show do verão superfaturados, sensação térmica extrema ou uso de ar condicionado.
 
