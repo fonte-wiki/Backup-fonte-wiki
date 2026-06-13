@@ -2,7 +2,7 @@
 title: Futuros
 description: O que será que pode acontecer no futuro breve?
 published: true
-date: 2026-06-13T20:51:34.242Z
+date: 2026-06-13T20:58:36.617Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:55:57.017Z
@@ -23,6 +23,6 @@ Nada pode ser mais abstrato do que a ideia de amanhã. Algo possível, desejado,
 
 **Poluição**: Um elemento químico que foi manipulado e descartado em um lugar onde não deveria estar. O termo "lavar" escoou metais pesados, elementos radioativos, esgoto e tudo o que é coisa para o Mar, e outros corposs d'Água.
 
-**Queda dos Estoques Pesqueiros**: Destruímos a biodiversidade Marinha, poluímos, retiramos mais do que podíamos. Populações pesqueiras sofrem por não ter sustento. Os escossistemas marinhos colapsam.
+**Queda dos Estoques Pesqueiros**: Destruímos a biodiversidade marinha, poluímos, retiramos mais do que podíamos. Populações pesqueiras sofrem por não ter sustento. Os escossistemas marinhos colapsam.
 
 **Vulnerabilidade das Populações Costeiras e Pesqueiras**: Pesssoas que vivem em região costeira e encontram-se vulneráveis a fatores climáticos e ambientais. Mas, mesmo estando no mesmo território, passam por contextos diferentes. Renda, escolaridade, estrutura da cidade, condições de saúde, resiliência e adaptação, mostram que não estão no mesmo barco.
