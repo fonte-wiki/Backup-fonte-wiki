@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: true
-date: 2026-06-13T13:47:43.559Z
+date: 2026-06-13T20:54:04.851Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:15:01.576Z
@@ -12,7 +12,7 @@ dateCreated: 2026-06-06T22:15:01.576Z
 
 > *Minha terra tem palmeiras, onde canta o sabiá. As aves, que aqui gorjeiam, não gorjeiam como lá.* **Canção do Exílio**. [Gonçalves Dias](https://www.academia.org.br/academicos/goncalves-dias/biografia), 1843.
 
-Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um dia de verão, de janeiro de 1532. O céu azul, os pássaros, as praias, a moldura da Mata Atlântica. Um novo mundo com tantos itens possíveis de extração e comercialização. 
+Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um dia de verão, de janeiro de 1532. O céu azul, os pássaros, as praias, a moldura da Mata Atlântica. Um novo mundo com tantos itens possíveis de extração e comercialização. Tantos anos depois, faz sentido questiornamos [o que é exótico, o que é nativo? Ou tudo foi remixado? brazilizado?](https://press.uchicago.edu/ucp/books/book/chicago/E/bo251331251.html)
 
 
 **Campo Aberto**: Local entre a faixa de areia e a vegetação. Espaço por onde os colonos invadiram, estabeleceram, negociaram. Hoje chamado como [Orla](https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/orla).
