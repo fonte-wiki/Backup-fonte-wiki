@@ -2,7 +2,7 @@
 title: Termo Atividades Extensionistas - Participação e Imagem
 description: Termo participação e imagem: Glossário Decolonial/ProComum
 published: true
-date: 2026-06-10T13:55:59.564Z
+date: 2026-06-14T21:14:37.548Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-09T17:54:46.817Z
@@ -15,7 +15,7 @@ Esse é o Termo de Consentimento/Participação Voluntária e Uso de Imagem rela
 
 A proposta vinculada ao projeto ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa.
 
-Optamos por um termo [adaptado](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hupes-ufba/ensino-e-pesquisa/pesquisa-e-inovacao-tecnologica/submissao-de-projetos-1/tcle.doc&ved=2ahUKEwjrlbSr5KyUAxURqZUCHQoaL6IQFnoECB4QAQ&usg=AOvVaw2mMyJVRVrr6kaSstUUqx3B) que será lido antes do ínicio das atividades. 
+Optamos por um termo [adaptado](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hupes-ufba/ensino-e-pesquisa/pesquisa-e-inovacao-tecnologica/submissao-de-projetos-1/tcle.doc&ved=2ahUKEwjrlbSr5KyUAxURqZUCHQoaL6IQFnoECB4QAQ&usg=AOvVaw2mMyJVRVrr6kaSstUUqx3B) que será lido antes do inicio das atividades. 
 
 Você está sendo convidada/o a participar do Projeto Extensionista
 **Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras e costeiras**
@@ -23,7 +23,7 @@ Uma ação realizada pela CAPES, UNISANTA e ProComum.
 
 Vamos explicar sobre a atividade e solicitar a sua permissão para participar do mesmo. O objetivo é fazer uma releitura crítica do quadro "A Fundação de São Vicente", criando um Glossário que será publicado na nossa Plataforma Wiki, um novo quadro que será exposto e um minidocumentário que terá vocês como coautores. A ideia é trazer uma visão decolonial, contada pela população, nos dias atuais, sobre o território da Baixada Santista.
 
-Acreditamos que essas atividades não vão trazer risco ou desconforto, mas estamos abertos a ouví-los durante o processo.
+Acreditamos que essas atividades não vão trazer risco ou desconforto, mas estamos abertos a ouvi-los durante o processo.
 
 Sua participação na atividade é totalmente voluntária, ou seja, não é obrigatória. Caso decida não participar, ou ainda, desistir de participar não haverá problema. Caso tenha qualquer dúvida, a qualquer momento, poderá nos contatar.
 
