@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2026-05-22T18:31:06.985Z
+date: 2026-06-14T21:10:06.273Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -17,12 +17,13 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 ## Design
-- **Em Glossário** verbetes, obra final, minidoc e tutorial kel (figma)
+- **Em Glossário** minidoc e tutorial kel (figma)
 
 ## Texto
 - **Em Mãe d'Água home:** produtos e publis
-- **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais/Archive, linkar material didático
-- Calculadora de Vulnerabilidade: tudo
+- **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais/Archive
+- Indice de Vulnerabilidade: tudo
+- ZASF: tudo
 
 
 
