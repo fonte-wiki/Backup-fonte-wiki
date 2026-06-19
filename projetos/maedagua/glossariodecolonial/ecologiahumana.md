@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description:  Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: true
-date: 2026-06-19T21:48:28.935Z
+date: 2026-06-19T21:48:53.079Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:39:08.148Z
@@ -19,7 +19,7 @@ Não vamos descrever como o [colonizador](https://dicionario.acad-ciencias.pt/pe
 ![img-20251228-wa0051.jpg](/projetos/maedagua/img-20251228-wa0051.jpg)
 Convite do baile de carnaval organizado pela Sociedade Pró-Arte Moderna (SPAM) em 1934. Imagem: Maira Begalli, 2026.
 
-**Lideranças em Negociação**: Processo de convencimento por parte dos colonos e de tensionamento por parte dos povos originários.
+**Lideranças em Negociação**: Processo de convencimento por parte dos colonos e de tensionamento por parte do povo originário.
 
 **Nobreza**: Posição hierárquica absoluta, quem deve ser reverenciado. Possivelmente o autor da expressão "Você sabe com quem está falando?"
 
