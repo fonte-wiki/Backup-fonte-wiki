@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description:  Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: true
-date: 2026-06-13T13:54:12.160Z
+date: 2026-06-19T21:48:28.935Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:39:08.148Z
@@ -19,10 +19,16 @@ Não vamos descrever como o [colonizador](https://dicionario.acad-ciencias.pt/pe
 ![img-20251228-wa0051.jpg](/projetos/maedagua/img-20251228-wa0051.jpg)
 Convite do baile de carnaval organizado pela Sociedade Pró-Arte Moderna (SPAM) em 1934. Imagem: Maira Begalli, 2026.
 
-**Lideranças em Negociação**:
-**Nobreza**:
-**Padre Catequizando**:
-**Pessoas em Mediação**:
-**Povos Originários**:
-**Vigia**:
-**Vilão**:
+**Lideranças em Negociação**: Processo de convencimento por parte dos colonos e de tensionamento por parte dos povos originários.
+
+**Nobreza**: Posição hierárquica absoluta, quem deve ser reverenciado. Possivelmente o autor da expressão "Você sabe com quem está falando?"
+
+**Padre Catequizando**: Autoridade da Igreja Católica, homem. Realizando processo de convencimento sobre sua doutrina.
+
+**Pessoas em Mediação**: Trocas, compreensão entre dois grupos populacionais, tensão.
+
+**Povos Originários**: Grupo populacional que habitava o litoral do estado de São Paulo, e de outros lugares do Brasil, antes da chegada dos colonos.
+
+**Vigia**: Aquele que observa e está pronto para agir, com armas, a favor do colonizador.
+
+**Vilão**: Não é o contrário do mocinho, é aquele que invade, destrói, engana, corrói.
