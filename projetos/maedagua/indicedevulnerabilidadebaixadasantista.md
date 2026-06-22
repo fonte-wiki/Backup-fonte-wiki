@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-06-22T19:42:05.388Z
+date: 2026-06-22T19:51:24.586Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -12,6 +12,8 @@ dateCreated: 2026-06-10T13:15:37.220Z
 
 Intro
 Sirene, Sereia, que canta, avisa
+
+![ativo_13_1.png](/ativo_13_1.png)
 
 Municipios da Baixada
 Cenário
