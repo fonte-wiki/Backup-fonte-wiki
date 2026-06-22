@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-06-19T21:54:36.187Z
+date: 2026-06-22T19:46:50.170Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -11,6 +11,8 @@ dateCreated: 2025-07-08T17:46:26.886Z
 ## **Terra Rara**
 
 Nos últimos anos cresceram as discussões sobre [Terras Raras](https://pt.wikipedia.org/wiki/Terras-raras). Mas o contexto não é novo: [colonialismo, exploração e tudo o que conhecemos](https://outraspalavras.net/tecnologiaemdisputa/por-nova-estrategia-para-terras-raras-e-ia/).
+
+![terras_raras_1.png](/projetos/maedagua/terras_raras_1.png)
 
 Uma prática familiar para a Baixada Santista: uma Terra Rara, avistada por colonos sedentos. Clima, fauna e flora exuberantes. Um ambiente a ser amplamente explorado para ganhos monetários.
 
