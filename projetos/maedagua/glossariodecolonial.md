@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-06-22T19:46:50.170Z
+date: 2026-06-26T16:18:25.189Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -55,7 +55,7 @@ No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-
 
 Posteriormente, a obra passou por três momentos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
 
-- Mulheres Pesacadoras da Barra do Una, durante o I Seminário PROEXT-PG da UNISANTA.
+- Durante o I Seminário PROEXT-PG da UNISANTA.
 - Mulheres da Turma do Borbado, no ProComum
 - [Crias pelo Clima](https://criaspeloclima.procomum.org/), jovens do Instituto Kondizilla, durante o encerramento do projeto.
 
