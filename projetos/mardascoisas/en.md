@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: 
 published: true
-date: 2026-06-30T18:23:52.553Z
+date: 2026-06-30T18:24:10.389Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T08:15:32.235Z
@@ -38,7 +38,7 @@ For three days, the **Tropixel Cycle: Sea of Things** gathers participants at th
 
 ## Curatorial text
 
-The **Sea of Things** starts from the perception that the ocean, rivers, mangroves, and coastal zones compose a continuous material network of circulation. Everything passes through water: industrial waste, chemical compounds, nutrients, microplastics, measurements, infrastructures, and political decisions. Water stores, moves, and redistributes these traces. It operates as a moving archive, a surface of inscription for the present.
+**Sea of Things** starts from the perception that the ocean, rivers, mangroves, and coastal zones compose a continuous material network of circulation. Everything passes through water: industrial waste, chemical compounds, nutrients, microplastics, measurements, infrastructures, and political decisions. Water stores, moves, and redistributes these traces. It operates as a moving archive, a surface of inscription for the present.
 
 In dialogue with the Internet of Things, where connected objects continuously produce information, a material inflection is proposed here: matter itself informs. Suspended particles, physicochemical indices, and environmental variations make legible production chains, disposal trajectories, and operating modes of the infrastructures that cross the territories.
 
