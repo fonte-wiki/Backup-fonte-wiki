@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-06-30T18:21:45.649Z
+date: 2026-06-30T19:08:03.039Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -98,3 +98,11 @@ Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em 
 
 - [English version](/projetos/mardascoisas/en)
 - [Tropixel Ciclos 2026](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos)
+
+#### Teste de tabela
+
+| Header A1 | Header B1 | Header C1 |
+|-----------|-----------|-----------|
+| Cell A2   | Cell B2   | Cell C2   |
+| Cell A3   | Cell B3   | Cell C3   |
+...
