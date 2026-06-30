@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-06-11T11:59:15.879Z
+date: 2026-06-30T18:12:15.528Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -12,7 +12,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 *Tropixel Ciclos - Sétima Edição*
 
-#### Encontro sobre água no Instituto Oceanográfico da USP / Base Ubatuba
+#### Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba
 
 ### Ubatuba - 30 de Julho a 1º de Agosto de 2026
 
@@ -20,32 +20,41 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
-[![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
-
-> ~~Está aberta a chamada para propostas voltadas ao **estudo, monitoramento e despoluição de águas** — rios, manguezais e zonas costeiras da Mata Atlântica.~~
->
-> ~~Buscamos projetos, práticas, pesquisas e dispositivos que atuem diretamente nas condições materiais de contaminação e circulação da água.~~
->
->**Atualização:** chamada por propostas encerrada. Daremos retorno em breve. Para conversar sobre possíveis colaborações, entre em contato com Felipe ou Fabi.
-
 - **Datas do encontro:** 30 de Julho a 1º de Agosto de 2026
-- **Local:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP.
-- ~~**Prazo de inscrições:** 6 de Junho de 2026~~
-- ~~**Submeta sua proposta:** Formulário [aqui](https://tally.so/r/QKd4jl).~~
+- **Local:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP (dias 30 e 31 de Julho)
+- **Inscrições gratuitas!**
+
+[![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
 
 ## O que será desenvolvido no encontro?
 
-Durante três dias, o **Ciclo Tropixel: Mar das Coisas** reúne participantes na Base Oceanográfica do Instituto Oceanográfico da USP, em Ubatuba, para trabalho direto sobre bacias hidrográficas da Mata Atlântica.
+Durante três dias, o **Ciclo Tropixel: Mar das Coisas** reúne participantes em Ubatuba, para trabalho direto sobre bacias hidrográficas da Mata Atlântica.
 
 ## Como o encontro se organiza?
 
-A programação se constrói a partir das propostas selecionadas e se desenvolve como um processo de trabalho coletivo, estruturado em quatro eixos:
+A programação se constrói a partir das propostas selecionadas e se desenvolve como um processo de trabalho coletivo, estruturado em três momentos:
 
--  **Mapeamento e monitoramento:** Leitura de processos de contaminação por meio de sessões de trabalho, oficinas técnicas de baixo custo e uso de sensores e dados ambientais.
-- **Estudos científicos:** Apresentação e discussão de pesquisas, métodos e dados produzidos em contextos acadêmicos e institucionais.
-- **Saberes territoriais:**  Compartilhamento de práticas locais, experiências situadas e formas de conhecimento vinculadas aos territórios.
-- **Ações de despoluição:** Desenvolvimento de proposições aplicáveis a rios, manguezais e regiões costeiras, com foco em intervenção direta e viabilidade material.
+**30/07, Quinta-feira - Ciências Imersivas**
+*Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
+- Manhã (10h - 12h): **Abertura Mar das Coisas** e visita aos Laboratórios do IOUSP.
+- Tarde 1 (14h - 15h45): **Água Suja**. Roda de conversa sobre lixo, poluição e contaminação.
+- Tarde 2 (1h16 - 18h): **Mergulho Contaminado**. Dinâmica de grupo sobre as questões apresentadas anteriormente.
+
+**31/07, Sexta-feira - Desenhando Soluções**
+*Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
+- Manhã (10h - 12h): **Arte/Ciência e as Águas**.
+  - Abertura: cartas climáticas e emocionais.
+  - Obras e metodologias de arte-ciência.
+- Tarde 1 (14h - 15h45): **Correnteza**. Apresentações curtas sobre arte/ciência.
+- Tarde 2 (16h15 - 18h): **Limpeza na prática**. Desenhando soluções - metodologias, casos, experiẽncias. Como conectar o diagnóstico científico com imaginários, experiência e capacidades das pessoas que estão aqui?
+
+**01/08, Sábado - Mãos na Massa**
+*Local: a definir*
+- Tarde: **Dinâmica de Alianças**: como construir alianças para a construção de ações de despoluição e descontaminação das bacias hidrográficas de Ubatuba e região?
+
+**02/08, Domingo (opcional)**
+A depender das condições do clima, vamos ajudar a organizar um passeio de barco no domingo. Torçam por tempo bom!
 
 [![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
