@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-06-30T18:12:15.528Z
+date: 2026-06-30T18:21:45.649Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -35,23 +35,23 @@ Durante três dias, o **Ciclo Tropixel: Mar das Coisas** reúne participantes em
 
 A programação se constrói a partir das propostas selecionadas e se desenvolve como um processo de trabalho coletivo, estruturado em três momentos:
 
-**30/07, Quinta-feira - Ciências Imersivas**
+**30/07, Quinta-feira - Ciências das Águas e Territórios**
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
 - Manhã (10h - 12h): **Abertura Mar das Coisas** e visita aos Laboratórios do IOUSP.
-- Tarde 1 (14h - 15h45): **Água Suja**. Roda de conversa sobre lixo, poluição e contaminação.
-- Tarde 2 (1h16 - 18h): **Mergulho Contaminado**. Dinâmica de grupo sobre as questões apresentadas anteriormente.
+- Tarde 1 (14h - 15h45): **Água Suja**. Roda de conversa sobre lixo, poluição e contaminação de águas na Mata Atlântica.
+- Tarde 2 (1h16 - 18h): **Mergulho Contaminado**. Dinâmica colaborativa sobre as questões apresentadas ao longo do dia.
 
-**31/07, Sexta-feira - Desenhando Soluções**
+**31/07, Sexta-feira - Arte-Ciência das Águas**
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
-- Manhã (10h - 12h): **Arte/Ciência e as Águas**.
+- Manhã (10h - 12h): **Imaginários e arte-ciência**.
   - Abertura: cartas climáticas e emocionais.
   - Obras e metodologias de arte-ciência.
-- Tarde 1 (14h - 15h45): **Correnteza**. Apresentações curtas sobre arte/ciência.
-- Tarde 2 (16h15 - 18h): **Limpeza na prática**. Desenhando soluções - metodologias, casos, experiẽncias. Como conectar o diagnóstico científico com imaginários, experiência e capacidades das pessoas que estão aqui?
+- Tarde 1 (14h - 15h45): **Correnteza**. Apresentações curtas sobre projetos de arte/ciência, cultura e território.
+- Tarde 2 (16h15 - 18h): **Circulação de ideias**. Desenhando soluções - metodologias, casos, experiências. Como conectar diagnósticos científicos com os imaginários, experiência e capacidades das pessoas que atuam no território?
 
 **01/08, Sábado - Mãos na Massa**
 *Local: a definir*
-- Tarde: **Dinâmica de Alianças**: como construir alianças para a construção de ações de despoluição e descontaminação das bacias hidrográficas de Ubatuba e região?
+- Tarde (14h às 17h30): **Alianças Dinâmicas**: construindo parcerias para ações de despoluição e descontaminação das bacias hidrográficas de Ubatuba e região.
 
 **02/08, Domingo (opcional)**
 A depender das condições do clima, vamos ajudar a organizar um passeio de barco no domingo. Torçam por tempo bom!
