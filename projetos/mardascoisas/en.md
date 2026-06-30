@@ -2,7 +2,7 @@
 title: Mar das Coisas - English
 description: 
 published: true
-date: 2026-06-11T12:00:25.827Z
+date: 2026-06-30T18:23:52.553Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T08:15:32.235Z
@@ -20,33 +20,19 @@ Tropixel Cycles - Seventh Edition
 
 Image by <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
-[![Register](https://img.shields.io/badge/Register-now!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
-
 ## Participate
 
-> ~~The call for proposals is now open for the study, monitoring, and decontamination of waters — rivers, mangroves, and coastal zones of the Atlantic Forest.~~
->
-> ~~We seek projects, practices, research, and devices that act directly on the material conditions of water contamination and circulation.~~
->
-> **Update:** the call is now closed. We will provide feedback soon. To talk about other forms of collaboration, please reach out to Fabiane or Felipe directly.
+> **Update:** the call is now closed. Check the programme in the [main page](https://mardascoisas.tropixel.org) (Portuguese only).
 
 - **Meeting dates:** July 30th to August 1st
 - **Location:** "Clarimundo de Jesus" IOUSP Research Base - Praia do Lamberto, Ubatuba / SP.
-- ~~**Application deadline:** June 6th, 2026~~
-- ~~**Submit your proposal:** Form [here](https://tally.so/r/QKd4jl)~~
+
+[![Register](https://img.shields.io/badge/Register-now!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
+
 
 ## What will be developed at the meeting?
 
-During three days, the **Tropixel Cycle: Sea of Things** gathers participants at the Oceanographic Base of the Oceanographic Institute of USP, in Ubatuba, for direct work on Atlantic Forest watersheds.
-
-## How is the meeting organized?
-
-The program is built from the selected proposals and develops as a collective work process, structured into four axes:
-
-- **Mapping and monitoring:** Reading contamination processes through work sessions, low-cost technical workshops, and the use of sensors and environmental data.
-- **Scientific studies:** Presentation and discussion of research, methods, and data produced in academic and institutional contexts.
-- **Territorial knowledge:** Sharing local practices, situated experiences, and forms of knowledge linked to territories.
-- **Decontamination actions:** Development of propositions applicable to rivers, mangroves, and coastal regions, with a focus on direct intervention and material feasibility.
+For three days, the **Tropixel Cycle: Sea of Things** gathers participants at the Oceanographic Base of the Oceanographic Institute of USP, in Ubatuba, for direct work on Atlantic Forest watersheds.
 
 [![Register](https://img.shields.io/badge/Register-now!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
