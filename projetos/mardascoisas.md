@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-01T15:13:45.697Z
+date: 2026-07-01T15:14:22.790Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -70,6 +70,7 @@ A depender das condições do clima, vamos ajudar a organizar um passeio de barc
 - Naimara e Kathleen / [Projeto Recriamar](https://www.instagram.com/recriamar/)
 - Diana / [Pegada Hídrica](https://climacom.mudancasclimaticas.net.br/pegada-hidrica/)
 - Luciana Frazão / [IOUSP](https://www.io.usp.br/)
+- Samara / [IOUSP](https://www.io.usp.br/)
 
 ## Texto curatorial
 
