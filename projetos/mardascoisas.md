@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-06-30T19:08:03.039Z
+date: 2026-07-01T02:40:52.300Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -35,26 +35,29 @@ Durante três dias, o **Ciclo Tropixel: Mar das Coisas** reúne participantes em
 
 A programação se constrói a partir das propostas selecionadas e se desenvolve como um processo de trabalho coletivo, estruturado em três momentos:
 
-**30/07, Quinta-feira - Ciências das Águas e Territórios**
+### 30/07, Quinta-feira - Ciências das Águas e Territórios
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
 - Manhã (10h - 12h): **Abertura Mar das Coisas** e visita aos Laboratórios do IOUSP.
 - Tarde 1 (14h - 15h45): **Água Suja**. Roda de conversa sobre lixo, poluição e contaminação de águas na Mata Atlântica.
-- Tarde 2 (1h16 - 18h): **Mergulho Contaminado**. Dinâmica colaborativa sobre as questões apresentadas ao longo do dia.
+- Tarde 2 (1h16 - 18h): **Mergulho de Descontaminação**. Dinâmica colaborativa sobre as questões apresentadas ao longo do dia.
 
-**31/07, Sexta-feira - Arte-Ciência das Águas**
+### 31/07, Sexta-feira - Arte-Ciência das Águas
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
-- Manhã (10h - 12h): **Imaginários e arte-ciência**.
+- Manhã (10h - 12h): **Imaginários na Arte-Ciência**.
   - Abertura: cartas climáticas e emocionais.
   - Obras e metodologias de arte-ciência.
-- Tarde 1 (14h - 15h45): **Correnteza**. Apresentações curtas sobre projetos de arte/ciência, cultura e território.
-- Tarde 2 (16h15 - 18h): **Circulação de ideias**. Desenhando soluções - metodologias, casos, experiências. Como conectar diagnósticos científicos com os imaginários, experiência e capacidades das pessoas que atuam no território?
+- Tarde 1 (14h - 15h45): **Chuva de Ideias**. Apresentações curtas sobre projetos de arte/ciência, cultura e território.
+- Tarde 2 (16h15 - 18h): **Correnteza Limpante**. Desenhando soluções - metodologias, casos, experiências. Como conectar diagnósticos científicos com os imaginários, experiência e capacidades das pessoas que atuam no território?
 
-**01/08, Sábado - Mãos na Massa**
+### 01/08, Sábado - Mãos na Água
 *Local: a definir*
-- Tarde (14h às 17h30): **Alianças Dinâmicas**: construindo parcerias para ações de despoluição e descontaminação das bacias hidrográficas de Ubatuba e região.
+- Manhã: Livre
+- Tarde (14h às 17h30): **Conectando Bacias**: construindo parcerias para ações de despoluição e descontaminação das bacias hidrográficas de Ubatuba e região.
 
-**02/08, Domingo (opcional)**
+### Dia Extra: 02/08, Domingo (opcional)
 A depender das condições do clima, vamos ajudar a organizar um passeio de barco no domingo. Torçam por tempo bom!
+
+---
 
 [![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
@@ -98,11 +101,3 @@ Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em 
 
 - [English version](/projetos/mardascoisas/en)
 - [Tropixel Ciclos 2026](https://wiki.ubatuba.cc/doku.php?id=tropixel:ciclos#tropixel_ciclos)
-
-#### Teste de tabela
-
-| Header A1 | Header B1 | Header C1 |
-|-----------|-----------|-----------|
-| Cell A2   | Cell B2   | Cell C2   |
-| Cell A3   | Cell B3   | Cell C3   |
-...
