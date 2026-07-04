@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-07-04T22:59:14.303Z
+date: 2026-07-04T23:01:25.972Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -12,7 +12,7 @@ dateCreated: 2026-06-10T13:15:37.220Z
 
 Na mitologia grega, as [sereias](https://www.nationalgeographicbrasil.com/historia/2023/05/a-origem-das-sereias-o-que-diz-a-historia) eram criaturas híbridas com corpo de pássaros e rosto de mulher, que viviam nos oceanos e mares atraindo marinheiros com canções hipnóticas. Embora suas origens sejam difusas, é provável que suas tragetórias estejam relacionadas com o mundo dos mortos, assim como a das [Valquírias](https://pt.wikipedia.org/wiki/Valqu%C3%ADrias). Segundo a lenda, aquele que fosse capaz de ignorar às canções de uma sereia, deveria morrer. Quando passaram a ser massivamente ignoradas, perderam o seu dom, e se esconderam no fundo do mar com as [criaturas luminescentes nas zonas abissais](https://revistapesquisa.fapesp.br/wp-content/uploads/2025/07/044-047_bioluminescencia-marinha_354.pdf).
 
-Com a emergência climática e a vulnerabilidade das populações costeiras e pesqueiras, acentuanda pelo ["Super" El Niño de 2026-2027](https://wmo-int.translate.goog/news/media-centre/wmo-prepare-el-nino?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc), as sereias vieram à tona, novamente, utilizando tecnomagia como meio e [PureData](https://puredata.info/) para emitir sirenes - em uma analogia aos dados puros, sem distorções políticas de que é um oax ou que ainda há tempo. 
+Com a emergência climática e a vulnerabilidade das populações costeiras e pesqueiras, acentuanda pelo ["Super" El Niño de 2026-2027](https://wmo-int.translate.goog/news/media-centre/wmo-prepare-el-nino?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc), as sereias vieram à tona, novamente, utilizando tecnomagia como meio e [PureData](https://puredata.info/) para emitir sirenes - em uma analogia aos dados puros, [sem distorções políticas de que é um hoax ou que ainda há tempo](https://apublica.org/2026/02/manipulando-a-ciencia-trump-faz-seu-pior-ataque-a-luta-contra-a-crise-climatica/). 
 
 ![ativo_13_1.png](/ativo_13_1.png)
 
