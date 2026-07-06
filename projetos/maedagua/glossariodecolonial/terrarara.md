@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: true
-date: 2026-06-13T20:54:04.851Z
+date: 2026-07-06T22:32:45.885Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:15:01.576Z
@@ -30,6 +30,13 @@ Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um di
 **Morros**: Ilhas com morros e morros presentes no desennho da costa. Antes compunham uma paisagem perfeita, com um desenho subindo acima do nível do mar. Hoje, marcados por deslizamentos, ocupações irregulares e desmatamento. 
 
 **Pássaros**: Possivelmente gaivotas (*Larus dominicanus*) de grande incidência na região. Mas que também simbolizam a [variedade de aves da região](https://www.wikiaves.com.br/municipio_3548500).
+
+**Área desértica (invasores destruíram)**: adjetivo. Que se assemelha ao deserto; diz-se daquilo que tem propriedades semelhantes às do deserto: terreno desértico. Por Extensão: Despovoado; sem povoação, habitantes; sem vida.
+
+**Árvore seca**: substantivo feminino. Botânica: Planta lenhosa com caule ou tronco fixo no solo, com raízes, despido na base, carregado de galhos e folhas na parte superior. Quando deixa de possuir umidade, torna-se seca. Sem vida. 
+
+**Área preservada (por indígenas)**: do verbo preservar. Conservar, evitar a destruição de algo, de alguém ou de si mesmo: preservava a floresta dos invasores.
+
 
 
 
