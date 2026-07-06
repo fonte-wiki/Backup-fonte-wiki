@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: true
-date: 2026-07-06T22:32:45.885Z
+date: 2026-07-06T22:47:33.022Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:15:01.576Z
@@ -14,6 +14,12 @@ dateCreated: 2026-06-06T22:15:01.576Z
 
 Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um dia de verão, de janeiro de 1532. O céu azul, os pássaros, as praias, a moldura da Mata Atlântica. Um novo mundo com tantos itens possíveis de extração e comercialização. Tantos anos depois, faz sentido questiornamos [o que é exótico, o que é nativo? Ou tudo foi remixado? brazilizado?](https://press.uchicago.edu/ucp/books/book/chicago/E/bo251331251.html)
 
+
+**Área desértica (invasores destruíram)**: adjetivo. Que se assemelha ao deserto; diz-se daquilo que tem propriedades semelhantes às do deserto: terreno desértico. Por Extensão: Despovoado; sem povoação, habitantes; sem vida.
+
+**Área preservada (por indígenas)**: do verbo preservar. Conservar, evitar a destruição de algo, de alguém ou de si mesmo: preservava a floresta dos invasores.
+
+**Árvore seca**: substantivo feminino. Botânica: Planta lenhosa com caule ou tronco fixo no solo, com raízes, despido na base, carregado de galhos e folhas na parte superior. Quando deixa de possuir umidade, torna-se seca. Sem vida, morta.
 
 **Campo Aberto**: Local entre a faixa de areia e a vegetação. Espaço por onde os colonos invadiram, estabeleceram, negociaram. Hoje chamado como [Orla](https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/orla).
 
@@ -31,11 +37,7 @@ Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um di
 
 **Pássaros**: Possivelmente gaivotas (*Larus dominicanus*) de grande incidência na região. Mas que também simbolizam a [variedade de aves da região](https://www.wikiaves.com.br/municipio_3548500).
 
-**Área desértica (invasores destruíram)**: adjetivo. Que se assemelha ao deserto; diz-se daquilo que tem propriedades semelhantes às do deserto: terreno desértico. Por Extensão: Despovoado; sem povoação, habitantes; sem vida.
 
-**Árvore seca**: substantivo feminino. Botânica: Planta lenhosa com caule ou tronco fixo no solo, com raízes, despido na base, carregado de galhos e folhas na parte superior. Quando deixa de possuir umidade, torna-se seca. Sem vida. 
-
-**Área preservada (por indígenas)**: do verbo preservar. Conservar, evitar a destruição de algo, de alguém ou de si mesmo: preservava a floresta dos invasores.
 
 
 
