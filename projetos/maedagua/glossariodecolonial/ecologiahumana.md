@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description:  Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: true
-date: 2026-07-06T22:45:45.430Z
+date: 2026-07-07T21:04:16.800Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:39:08.148Z
@@ -19,19 +19,9 @@ Não vamos descrever como o [colonizador](https://dicionario.acad-ciencias.pt/pe
 
 **Clero**: substantivo masculino. Conjunto dos sacerdotes de um culto, de um país: o clero católico; o clero de Portugal. Conjunto dos padres de uma paróquia ou das igrejas de uma cidade.
 
-**Códigos**: substantivo masculino. Conjunto dos pontos de vista de alguém ou de um grupo de pessoas sobre o modo de realizar alguma coisa, de se comportar; norma. 
+**Códigos**: substantivo masculino. Conjunto dos pontos de vista de alguém ou de um grupo de pessoas sobre o modo de realizar alguma coisa, de se comportar; norma. Sistema de símbolos que permite a representação de uma informação (secreta ou não): código Morse. Coleção de leis, preceitos, normas, regulamentos. Em sua etimologia, a palavra código deriva do latim “codicem”; para alguns pode derivar do latim “codex,icis”, que significa ato de escrever, registrar.
 
-Sistema de símbolos que permite a representação de uma informação (secreta ou não): código Morse. Coleção de leis, preceitos, normas, regulamentos. 
-
-Etimologia. A palavra código deriva do latim “codicem”; para alguns pode derivar do latim “codex,icis”, que significa ato de escrever, registrar.
-
-**Epistemicídio**: O termo epistemicídio foi cunhado pelo sociólogo português Boaventura de Souza Santos, sob a observação do apagamento das contribuições científico-filosóficos das populações africanas em oposição a valorização do conhecimento das populações brancas europeias e norte-americanas, prioritariamente. 
-
-Dessa forma, o mundo, apesar de sua complexidade, ganhou contornos monoculturais que barravam a popularização de outras formas de conhecimento que destoassem do modelo vigente. Para Souza Santos, o epistemicídio seria a outra face do genocídio, atuando como um dos instrumentos mais eficazes e duradouros para a dominação racial, ao fortalecer a negação da legitimidade desses saberes de forma a impactar também no reconhecimento da população oprimida como sujeitos de direitos.
-
-No Brasil, a filósofa e intelectual Sueli Carneiro se apropriou do termo para compreender o racismo estrutural no país. Em sua tese de doutorado “A construção do Outro como Não-ser como fundamento do Ser” (2005), Carneiro reforça a impossibilidade de não associar a desqualificação do conhecimento produzido pelos povos dominados com a desqualificação da posição, coletiva ou individual, como seres capazes de aprender. 
-
-Para Katiúscia Ribeiro, mestra e doutoranda em Filosofia Africana pelo Programa de Pós-Graduação em Filosofia da Universidade Federal do Rio de Janeiro (PPGF-UFRJ) e coordenadora-geral do Geru Maa – Laboratório de Africologia e Estudo Ameríndios, da mesma instituição, “o epistemicídio chega antes da bala, chega antes da corrente, chega antes das violências e das desigualdades".
+**Epistemicídio**: O termo epistemicídio foi cunhado pelo sociólogo português Boaventura de Souza Santos, sob a observação do apagamento das contribuições científico-filosóficos das populações africanas em oposição a valorização do conhecimento das populações brancas europeias e norte-americanas, prioritariamente. Dessa forma, o mundo, apesar de sua complexidade, ganhou contornos monoculturais que barravam a popularização de outras formas de conhecimento que destoassem do modelo vigente. Para Souza Santos, o epistemicídio seria a outra face do genocídio, atuando como um dos instrumentos mais eficazes e duradouros para a dominação racial, ao fortalecer a negação da legitimidade desses saberes de forma a impactar também no reconhecimento da população oprimida como sujeitos de direitos. No Brasil, a filósofa e intelectual Sueli Carneiro se apropriou do termo para compreender o racismo estrutural no país. Em sua tese de doutorado [“A construção do Outro como Não-ser como fundamento do Ser” de 2005](https://negrasoulblog.wordpress.com/wp-content/uploads/2016/04/a-construc3a7c3a3o-do-outro-como-nc3a3o-ser-como-fundamento-do-ser-sueli-carneiro-tese1.pdf), Carneiro reforça a impossibilidade de não associar a desqualificação do conhecimento produzido pelos povos dominados com a desqualificação da posição, coletiva ou individual, como seres capazes de aprender. Para [Katiúscia Ribeiro](https://umbrasil.com/videos/legado-de-construcao-historica-dos-povos-negros-representa-um-sistema-imunologico/), mestra e doutoranda em Filosofia Africana pelo Programa de Pós-Graduação em Filosofia da Universidade Federal do Rio de Janeiro (PPGF-UFRJ) e coordenadora-geral do Geru Maa – Laboratório de Africologia e Estudo Ameríndios, da mesma instituição, “o epistemicídio chega antes da bala, chega antes da corrente, chega antes das violências e das desigualdades".
 
 **Genocidas**: substantivo masculino e feminino. Pessoa que ordena ou é responsável pelo extermínio de muitas pessoas num curto espaço de tempo. Pessoa que cometeu genocídio ordenando o extermínio de um grande número de pessoas, de todo um grupo étnico ou religioso, de um povo, de uma cultura ou de uma civilização. 
 Adjetivo. Que produz genocídio, aniquilando grupos humanos através da utilização de diferentes formas de extermínio: pobreza genocida. Etimologia. A palavra genocida deriva da junção do prefixo geno-, com o sentido de "tronco, família", e do sufixo -cida, "que mata, extermina".
