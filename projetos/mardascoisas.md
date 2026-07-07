@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-07T14:06:49.422Z
+date: 2026-07-07T15:06:48.994Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -38,15 +38,15 @@ A programação se constrói a partir das propostas selecionadas e se desenvolve
 ### 30/07, Quinta-feira - Ciências das Águas e Territórios
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
 - Manhã (10h - 12h): **Abertura Mar das Coisas** e visita aos Laboratórios do IOUSP.
-- Tarde 1 (14h - 15h45): **Água Suja**. Roda de conversa sobre lixo, poluição e contaminação de águas na Mata Atlântica.
-- Tarde 2 (1h16 - 18h): **Mergulho de Descontaminação**. Dinâmica colaborativa sobre as questões apresentadas ao longo do dia.
+- Tarde 1 (14h - 15h45): **Água Suja**. Roda de conversa sobre lixo, poluição e contaminação de águas na Mata Atlântica. Com metodologias e dinâmicas do Psique.Space e ICC.
+- Tarde 2 (16h - 18h): **Mergulho de Descontaminação**. Construção de mapas e rotas de descontaminação das águas de Ubatuba, roteirização de processos debatidos ao longo do dia.
 
 ### 31/07, Sexta-feira - Arte-Ciência das Águas
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
-- Manhã (10h - 12h): **Imaginários na Arte-Ciência**.
-  - Abertura: cartas climáticas e emocionais.
-  - Obras e metodologias de arte-ciência.
-- Tarde 1 (14h - 15h45): **Chuva de Ideias**. Apresentações curtas sobre projetos de arte/ciência, cultura e território.
+- Manhã (10h - 12h): **Ficção Climática**.
+  - Como a ficção de situações climáticas podem potencializar nossos recursos e habilidades de sobrevivência e construção de futuros.
+  - Artistas em exibição falam de seus projetos.
+- Tarde 1 (14h - 15h45): **Chuva de Ideias**. Fertilização imaginária para produzir os novos caminhos.
 - Tarde 2 (16h15 - 18h): **Correnteza Limpante**. Desenhando soluções - metodologias, casos, experiências. Como conectar diagnósticos científicos com os imaginários, experiência e capacidades das pessoas que atuam no território?
 
 ### 01/08, Sábado - Mãos na Água
