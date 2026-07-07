@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-07T15:06:48.994Z
+date: 2026-07-07T15:07:34.549Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -52,7 +52,7 @@ A programação se constrói a partir das propostas selecionadas e se desenvolve
 ### 01/08, Sábado - Mãos na Água
 *Local: a definir*
 - Manhã: Livre
-- Tarde (14h às 17h30): **Conectando Bacias**: construindo parcerias para ações de despoluição e descontaminação das bacias hidrográficas de Ubatuba e região.
+- Tarde (14h às 17h30): **Conectando Bacias**: construindo parcerias para ações de despoluição e descontaminação das bacias hidrográficas de Ubatuba e região, a partir da metodologia Barcas Regenerativas.
 
 ### Dia Extra: 02/08, Domingo (opcional)
 A depender das condições do clima, vamos ajudar a organizar um passeio de barco no domingo. Torçam por tempo bom!
