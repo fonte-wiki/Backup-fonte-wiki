@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-07-04T23:01:25.972Z
+date: 2026-07-09T22:17:37.668Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -23,15 +23,15 @@ A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municí
 
 Com isso, vamos fazer uma leitura crítica de cada cidade, que será traduzida em um canto, em uma leitura sonoro: quanto mais grave a situação, mais grave (literalmente) o som.
 
-Bertioga
-Cubatão
-Guarujá
-Itanhaém
-Mongaguá
-Peruíbe
-Praia Grande
-Santos
-São Vicente 
+[Bertioga](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/bertioga) 
+[Cubatão](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/cubatao) 
+[Guarujá](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/guaruja)
+[Itanhaém](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/itanhaem) 
+[Mongaguá](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/monguaga) 
+[Peruíbe](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/peruibe) 
+[Praia Grande](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/praiagrande) 
+[Santos](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/santos) 
+[São Vicente](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/saovicente) 
 
 
 
