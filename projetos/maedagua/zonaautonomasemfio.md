@@ -2,7 +2,7 @@
 title: Zona Autônoma sem Fio
 description: 
 published: true
-date: 2026-07-13T19:58:21.866Z
+date: 2026-07-13T20:09:17.389Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T19:58:21.866Z
@@ -25,4 +25,4 @@ dateCreated: 2026-07-13T19:58:21.866Z
 
 **[HERMES](https://vimeo.com/398331581?fl=pl&fe=vl)** (*High-frequency Emergency and Rural Multimedia Exchange System*) - uma [rede local que opera por rádio de ondas curtas/HF](https://www.rhizomatica.org/hermes/), utilizando uma interface visual simplificada, acessível via smartphone ou computador, permitindo a transmissão e recepção de dados (chat, áudio, documentos, fotos, coordenadas de GPS, etc.) que podem ser criptografadas e protegidas por senha pelo remetente. 
 
-A documentação desse protótipo encontra-se aberta, para que possa ser replicada em outras comunidades costeiras e pesqueiras de interesse, auxiliando-as na gestão de dados sobre recursos ecossistêmicos locais (como: monitoramento de parâmetros climáticos e ambientais, impactos socioeconômicos das atividades pesqueiras, memória e cultura, etc), para que possam fomentar estratégias táticas para a proteção desses territórios e populações.
+A documentação desse protótipo [encontra-se aberta](https://docs.google.com/presentation/d/11Mup9KKKRw8o0VwaSCQNw_n28QBv16zkXL2Engb9QZE/edit?usp=sharing), para que possa ser replicada em outras comunidades costeiras e pesqueiras de interesse, auxiliando-as na gestão de dados sobre recursos ecossistêmicos locais (como: monitoramento de parâmetros climáticos e ambientais, impactos socioeconômicos das atividades pesqueiras, memória e cultura, etc), para que possam fomentar estratégias táticas para a proteção desses territórios e populações.
