@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-13T15:42:48.391Z
+date: 2026-07-13T15:43:14.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -72,6 +72,7 @@ A depender das condições do clima, vamos ajudar a organizar um passeio de barc
 - Biodiversas Lab
 - [IOUSP](https://www.io.usp.br/)
 - [Projeto Recriamar](https://www.instagram.com/recriamar/)
+- [Repair Acts](https://repairacts.net)
 
 ## Texto curatorial
 
