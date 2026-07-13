@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2026-06-10T12:58:40.203Z
+date: 2026-07-13T19:52:25.701Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z
@@ -56,7 +56,7 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 
 Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, contendo os artigos com podcasts das bases temáticas usadas neste projeto, e seus respectivos produtos extensionistas:
 
-- [Repositórios Abertos e Práticas de Cuidado](/projetos/maedagua/repositoriosabertos/), e a **documentção da ZASF Ipupiara** (tutorial, código e materiais) como uma alternativa para cuidado de dados sensíveis;
+- [Repositórios Abertos e Práticas de Cuidado](/projetos/maedagua/repositoriosabertos/), e a [documentção da ZASF Ipupiara](/projetos/maedagua/zonaautonomasemfio/)como uma alternativa para cuidado de dados sensíveis;
 - [Direitos das Zonas Costeiras e Territórios Hidrossociais](/projetos/maedagua/direitoszonascosteiras/), e [Terra Rara: Glossário Decolonial Colaborativo](/projetos/maedagua/glossariodecolonial) que traz um inventário das dinâmicas territoriais da primeira vila do Brasil, São Vicente, que moldou a dinâmica de exploração de recursos e pessoas no país;
 - [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil](/projetos/maedagua/antropoceno), e  [Siren: Índice de Vulnerabilidade Costeira para os municípios da Baixada Santista](/projetos/maedagua/indicedevulnerabilidadebaixadasantista) 
 
