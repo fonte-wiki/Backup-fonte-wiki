@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-13T15:43:14.887Z
+date: 2026-07-21T20:21:54.240Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -21,41 +21,100 @@ dateCreated: 2026-03-26T22:13:44.853Z
 Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
 - **Datas do encontro:** 30 de Julho a 1º de Agosto de 2026
-- **Local:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP (dias 30 e 31 de Julho)
+- **Locais:**
+  - **30 e 31 de Julho:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP
+  - **01 de Agosto:** Casa de Saúde Cultura Viva - R. Dr. Esteves da Silva, 468 - Centro, Ubatuba / SP
 - **Inscrições gratuitas!**
 
 [![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
-
-## O que será desenvolvido no encontro?
-
-Durante três dias, o **Ciclo Tropixel: Mar das Coisas** reúne participantes em Ubatuba, para trabalho direto sobre bacias hidrográficas da Mata Atlântica.
-
-## Como o encontro se organiza?
-
-A programação se constrói a partir das propostas selecionadas e se desenvolve como um processo de trabalho coletivo, estruturado em três momentos:
+## Programação
 
 ### 30/07, Quinta-feira - Ciências das Águas e Territórios
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
-- Manhã (10h - 12h): **Abertura Mar das Coisas** e visita aos Laboratórios do IOUSP.
-- Tarde 1 (14h - 15h45): **Água Suja**. Roda de conversa sobre lixo, poluição e contaminação de águas na Mata Atlântica. Com metodologias e dinâmicas do Psique.Space e ICC.
-- Tarde 2 (16h - 18h): **Mergulho de Descontaminação**. Construção de mapas e rotas de descontaminação das águas de Ubatuba, roteirização de processos debatidos ao longo do dia.
 
-### 31/07, Sexta-feira - Arte-Ciência das Águas
+**10h - Abertura e apresentação do encontro**
+Apresentação das instituições organizadoras, dos objetivos do encontro e da proposta conceitual do Tropixel: Mar das Coisas.
+- Fabiane M. Borges (Instituto Oceanográfico da Universidade de São Paulo - IOUSP / Laboratório de Arte e Ciência Oceânica - LACO)
+- Felipe S. Fonseca (Ubatuba Ciências Culturas /U.CC/)
+- Luciana Frazão / Rubens Lopes - Laboratório de Sistemas Planctônicos - LAPS)
+
+**12h - Almoço**
+
+**13h - Roda de apresentação dos participantes**
+Apresentação das experiências, práticas, pesquisas e interesses das pessoas participantes.
+
+**Questões orientadoras:**
+*O que aproxima você desta discussão? Qual é a sua prática? Como você compreende sua participação neste processo?*
+
+**14h - Água, resíduos e contaminação: experiências de atuação no território**
+Local: Sala de aula
+Moderação: Afonso Reis  (LACO/IOUSP)
+
+Apresentação de projetos, organizações e iniciativas que atuam na pesquisa, gestão, redução e enfrentamento da poluição hídrica e costeira:
+
+- Gabriela Sartori (APAMLN): 
+- Gilda Godoy (Coco & Cia)
+- Carla Barbosa (Instituto Argonauta)
+- Nilmara Santos e Kathleen Pontes (Projeto RecriaMar) 
+- Rosa Maria Mancini (GERCO/DPLA/SMA)
+
+**15h - Roda de conversa: Mergulho de Descontaminação**
+
+Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circulação de materiais, redes de monitoramento e possibilidades de cooperação entre iniciativas locais. Mapeamento de demandas e desafios locais.
+
+**16h - Encerramento das atividades do dia**
+
+**Atividade Paralela:**
+
+- **O dia todo:** Exposição da Galeria LACO (Artistas e Obras em breve).
+
+### 31/07, Sexta-feira - Imaginação Ambiental, Arte e Ciência das Águas
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
-- Manhã (10h - 12h): **Ficção Climática**.
-  - Como a ficção de situações climáticas podem potencializar nossos recursos e habilidades de sobrevivência e construção de futuros.
-  - Artistas em exibição falam de seus projetos.
-- Tarde 1 (14h - 15h45): **Chuva de Ideias**. Fertilização imaginária para produzir os novos caminhos.
-- Tarde 2 (16h15 - 18h): **Correnteza Limpante**. Desenhando soluções - metodologias, casos, experiências. Como conectar diagnósticos científicos com os imaginários, experiência e capacidades das pessoas que atuam no território?
 
-### 01/08, Sábado - Mãos na Água
-*Local: a definir*
-- Manhã: Livre
-- Tarde (14h às 17h30): **Conectando Bacias**: construindo parcerias para ações de despoluição e descontaminação das bacias hidrográficas de Ubatuba e região, a partir da metodologia Barcas Regenerativas.
+**10h - Cartas Climáticas: dinâmica de criação coletiva - Psique.Space com Fabiane M. Borges**
+A atividade integra as metodologias desenvolvidas pelo Psique.Space — Laboratório Social para o Futuro, articulando imaginação, experiência grupal e construção de cenários climáticos.
+
+**12h - Almoço**
+
+**13h - Tour da Exposição do LACO**
+
+**14h - Arte, ciência e materialidades da água**
+Apresentação de pesquisas e práticas artísticas relacionadas à água, aos ambientes costeiros, às infraestruturas, aos sistemas de informação e às transformações ecológicas.
+- Moderação: Malu Hatoum (Artista - Pesquisadora - UFF)
+- Pesquisa e arte/natureza: Mariana Vilela
+- Arte e curadoria: Teresa Dillon
+- Videoarte e arte/tecnologia : Diana Zatz
+
+**15h - Construção do documento público**
+
+Debate aberto sobre os procedimentos, conceitos e tecnologias apresentados, com participação do público.
+
+**16h — Encerramento das atividades do dia**
+
+**Atividades Paralelas:**
+
+- **O dia todo:** Exposição da Galeria LACO (Artistas e Obras em breve).
+- **17h30, no Centro Cultural Vila Caiçara (Centro):** Comemoração do Dia da Mulher Negra, Latino-americana e Caribenha. Mais informações [aqui](/recursos/caminhos-para-a-inovacao)https://www.instagram.com/p/DapyOxNjr3B/?igsh=MWszY2E0cWR2M3d5OQ%3D%3D).
+- **19h, na Câmara Municipal de Ubatuba**: Debate sobre Lixo e poluição, organizado por Ubatuba em Rede (a confirmar).
+
+### 01/08, Sábado - Mãos na Água: bacias, percursos e ações
+
+**10h - Entendendo a bacia do Rio Grande de Ubatuba**
+
+**Atividade auto-organizada em grupos.** Os participantes são convidados a visitar diferentes pontos da Bacia Hidrográfica do Rio Grande de Ubatuba (incluindo os rios Grande, Tavares e Acaraú),  para coletar imagens, amostras, áudio, vídeos, desenhos, etc.
+
+**14h - Conectando Bacias: construção de ações, com Floriana Breyer - Biodiversas Lab**
+Casa de Saúde Cultura Viva
+R. Dr. Esteves da Silva, 468 - Centro, Ubatuba - SP
+
+Uso da meetodologia Barcas Regenerativas para a construção de alianças e colaborações futuras para a limpeza e despoluição de bacias hidrográgicas.
+
+**16h - Plenária final e encerramento**
+Apresentação dos encaminhamentos elaborados pelos grupos, definição dos próximos passos e encerramento da programação principal do Tropixel: Mar das Coisas 2026.
 
 ### Dia Extra: 02/08, Domingo (opcional)
-A depender das condições do clima, vamos ajudar a organizar um passeio de barco no domingo. Torçam por tempo bom!
+A depender das condições do clima, vamos ajudar a organizar um passeio de barco no domingo. Torçamos por tempo bom!
 
 ---
 
