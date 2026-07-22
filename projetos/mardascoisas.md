@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-22T13:46:49.643Z
+date: 2026-07-22T13:47:41.408Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -69,6 +69,8 @@ Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circula�
 
 - **O dia todo:** Exposição da Galeria LACO (Artistas e Obras em breve).
 
+---
+
 ### 31/07, Sexta-feira - Imaginação Ambiental, Arte e Ciência das Águas
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
 
@@ -98,6 +100,8 @@ Debate aberto sobre os procedimentos, conceitos e tecnologias apresentados, com 
 - **17h30, no Centro Cultural Vila Caiçara (Centro):** Comemoração do Dia da Mulher Negra, Latino-americana e Caribenha. Mais informações [aqui](/recursos/caminhos-para-a-inovacao)https://www.instagram.com/p/DapyOxNjr3B/?igsh=MWszY2E0cWR2M3d5OQ%3D%3D).
 - **19h, na Câmara Municipal de Ubatuba**: Debate sobre Lixo e poluição, organizado por Ubatuba em Rede (a confirmar).
 
+---
+
 ### 01/08, Sábado - Mãos na Água: bacias, percursos e ações
 
 **10h - Entendendo a bacia do Rio Grande de Ubatuba**
@@ -113,6 +117,8 @@ Uso da meetodologia Barcas Regenerativas para a construção de alianças e cola
 **16h - Plenária final e encerramento**
 Apresentação dos encaminhamentos elaborados pelos grupos, definição dos próximos passos e encerramento da programação principal do Tropixel: Mar das Coisas 2026.
 
+---
+
 ### Dia Extra: 02/08, Domingo (opcional)
 A depender das condições do clima, vamos ajudar a organizar um passeio de barco no domingo. Torçamos por tempo bom!
 
@@ -120,18 +126,6 @@ A depender das condições do clima, vamos ajudar a organizar um passeio de barc
 
 [![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
 
-## Presenças já confirmadas
-
-*(atualizado em 07/07/2026)*
-
-- [LACO](https://lacoiousp.wordpress.com/)
-- [Instituto Argonauta](https://institutoargonauta.org/new/)
-- [Pegada Hídrica](https://climacom.mudancasclimaticas.net.br/pegada-hidrica/)
-- [Sango Acoustics](https://sangoacoustics.com.br/)
-- Biodiversas Lab
-- [IOUSP](https://www.io.usp.br/)
-- [Projeto Recriamar](https://www.instagram.com/recriamar/)
-- [Repair Acts](https://repairacts.net)
 
 ## Texto curatorial
 
