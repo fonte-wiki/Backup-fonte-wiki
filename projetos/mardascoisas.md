@@ -2,11 +2,12 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-22T14:07:10.254Z
+date: 2026-07-22T16:34:30.499Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
 ---
+
 
 # Tropixel: Mar das Coisas
 
@@ -163,7 +164,7 @@ Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em 
 
 **APOIO:** Casa de Saúde Cultura Viva
 
-![logos-todos.png](/logos-todos.png =100%x)
+![logos-todos.png](/projetos/mardascoisas/logos-todos.png =100%x)
 
 ### Veja também
 
