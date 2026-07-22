@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-22T13:43:33.990Z
+date: 2026-07-22T13:44:54.401Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
