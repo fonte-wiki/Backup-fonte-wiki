@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-22T13:44:54.401Z
+date: 2026-07-22T13:46:49.643Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -166,6 +166,8 @@ Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em 
 - Base Oceanográfica Clarimundo de Jesus (Ubatuba)
 
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
+
+**APOIO:** Casa de Saúde Cultura Viva
 
 ![logos.png](/projetos/mardascoisas/logos.png  =100%x)
 
