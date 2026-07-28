@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-07-22T16:34:57.773Z
+date: 2026-07-28T17:10:28.248Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -35,9 +35,11 @@ Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
 
 **10h - Abertura e apresentação do encontro**
+Local: LACO
 Apresentação das instituições organizadoras, dos objetivos do encontro e da proposta conceitual do Tropixel: Mar das Coisas.
 - Fabiane M. Borges (Instituto Oceanográfico da Universidade de São Paulo - IOUSP / Laboratório de Arte e Ciência Oceânica - LACO)
 - Felipe S. Fonseca (Ubatuba Ciências Culturas /U.CC/)
+- Alexander Turra (IOUSP / Cátedra Unesco para a Sustentabilidade do Oceano)
 - Luciana Frazão / Rubens Lopes - Laboratório de Sistemas Planctônicos - LAPS)
 
 **12h - Almoço**
