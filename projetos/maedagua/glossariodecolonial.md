@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-08-09T22:14:54.796Z
+date: 2026-08-09T22:16:31.476Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -77,7 +77,7 @@ CARMARGO, C; NEVES, G. **Metodologia do envolvimento: reontologização do ser e
 
 
 ------------------
-- [Diários do Projeto](https://fonte.wiki/pt-br/projetos/maedagua/diarios/2026-05)
+- [Diários do Projeto](https://fonte.wiki/projetos/maedagua/diarios)
 - [Termo de Uso e Imagem e Conscentimento](https://fonte.wiki/pt-br/projetos/maedagua/termo)
 
 
