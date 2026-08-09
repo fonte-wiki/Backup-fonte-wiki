@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-07-14T19:42:05.035Z
+date: 2026-08-09T22:14:54.796Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-08T17:46:26.886Z
 
 ## **Terra Rara**
 
-Nos últimos anos cresceram as discussões sobre [Terras Raras](https://pt.wikipedia.org/wiki/Terras-raras). Mas o contexto não é novo: [colonialismo, exploração e tudo o que conhecemos](https://outraspalavras.net/tecnologiaemdisputa/por-nova-estrategia-para-terras-raras-e-ia/).
+Nos últimos anos, cresceram as discussões sobre [Terras Raras](https://pt.wikipedia.org/wiki/Terras-raras). Mas o contexto não é novo: [colonialismo, exploração e tudo o que conhecemos](https://outraspalavras.net/tecnologiaemdisputa/por-nova-estrategia-para-terras-raras-e-ia/).
 
 ![terras_raras_1.png](/projetos/maedagua/terras_raras_1.png)
 
@@ -20,19 +20,19 @@ Uma prática familiar para a Baixada Santista: uma Terra Rara, avistada por colo
 
 [São Vicente](https://www.al.sp.gov.br/noticia/?id=492566), cidade da Baixada Santista do Litoral do Sul de São Paulo, é considerada a primeira vila do país, e foi "fundada" por [Martim Afonso](https://pt.wikipedia.org/wiki/Martim_Afonso_de_Sousa), em 22 de janeiro de 1532. 
 
-A forma como ocorreu a ocupação do território, a exploração dos recursos naturais e mão-de-obra, o uso do solo, a urbanização e promoção de turismo predatório, definiu, não só os desdobramentos do futuro da região, mas de todas as zonas costeiras do país, como réplica, padrão. 
+A forma como ocorreu a ocupação do território, a exploração dos recursos naturais e mão de obra, o uso do solo, a urbanização e promoção de turismo predatório, definiu, não só os desdobramentos do futuro da região, mas de todas as zonas costeiras do país, como réplica, padrão. 
 
 > *um projeto totalizante cujas forças motrizes poderão sempre buscar-se no nível  do  colo: ocupar um novo chão, explorar os seus bens, submeter os seus naturais* (BOSI, 1992).
 
-Não só a construção dessa materialidade, mas a própria história também foi contada sobre uma narrativa eurocentrista, branca, colonial. Sobrepondo e silenciando a memória e a história das populações locais. 
+Não só a construção dessa materialidade, mas a própria história também foi contada sob uma narrativa eurocentrista, branca, colonial. Sobrepondo e silenciando a memória e a história das populações locais, traficadas e escravizadas. 
 
-O quadro ["A Fundação de São Vicente"](https://revistas.usp.br/anaismp/pt_BR/article/view/149934), traz a força desse simbolismo. Hoje sediado no [Museu Paulista](https://museudoipiranga.org.br/palestra-representando-as-origens-as-fundacoes-de-sao-paulo-e-sao-vicente-na-pintura-1900-a-1954/) em uma sala suntuosa com molduras douradas, longe de seu local de "captura", a própria Praça 22 de Janeiro, em São Vicente - hoje sucateada, povoada por pessoas e animais em situação de rua. Uma realidade muito distante da precária [Casa de Martim Afonso](https://maps.app.goo.gl/W7p2jH3qGM1BTcJRA), mal conservada, esquecida. Atualmente (em 2026), a Praça está passando por uma reforma financiada pelo BNDES, que também está financiando projetos para [Resiliência Climática](https://agenciadenoticias.bndes.gov.br/socioambiental/BNDES-aprova-R$-200-milhoes-para-projeto-de-resiliencia-climatica-em-Santos-SP/) na região.
+O quadro ["A Fundação de São Vicente"](https://revistas.usp.br/anaismp/pt_BR/article/view/149934), traz a força desse simbolismo. Hoje, sediado no [Museu Paulista](https://museudoipiranga.org.br/palestra-representando-as-origens-as-fundacoes-de-sao-paulo-e-sao-vicente-na-pintura-1900-a-1954/) em uma sala suntuosa com molduras douradas, longe de seu local de "captura", a própria Praça 22 de Janeiro, em São Vicente - hoje sucateada, povoada por pessoas e animais em situação de rua. Uma realidade muito distante da precária [Casa de Martim Afonso](https://maps.app.goo.gl/W7p2jH3qGM1BTcJRA), mal conservada, esquecida. Atualmente (em 2026), a Praça está passando por uma reforma financiada pelo BNDES, que também está financiando projetos para [Resiliência Climática](https://agenciadenoticias.bndes.gov.br/socioambiental/BNDES-aprova-R$-200-milhoes-para-projeto-de-resiliencia-climatica-em-Santos-SP/) na região.
 
 ![fsvc.png](/projetos/maedagua/fsvc.png)
 
 Fundação de São Vicente na sala A-10, em 1937. Acervo do Museu Paulista da USP. Imagem: Helio Nobre.
 
-Esse contexto revela uma história presa em [pálacios-mortos](https://www.goethe.de/prj/hum/pt/nac/kos/26349282.html), onde o imagético tem mais valor, mais valia do que os ecossistemas, em um cenário global em que negociamos [1 hectare de floresta por USD$ 4](https://exame.com/esg/novo-fundo-global-busca-frear-desmatamento-com-recompensa-de-us-4-por-hectare-preservado/) como algo bom, um avanço.  
+Esse contexto revela uma história presa em [palácios-mortos](https://www.goethe.de/prj/hum/pt/nac/kos/26349282.html), onde o imagético tem mais valor, mais valia do que os ecossistemas, em um cenário global em que negociamos [1 hectare de floresta por USD$ 4](https://exame.com/esg/novo-fundo-global-busca-frear-desmatamento-com-recompensa-de-us-4-por-hectare-preservado/) como algo bom, um avanço.  
 
 > Aprender mesmo a gente aprende quando o saber não é mercadoria. Quando é com mestres e mestras, eles não cobram. Eles ensinam para manter o conhecimento vivo. Quando você compartilha o saber, o saber só cresce. É como as águas que ‘confluenciam’. Quando o rio encontra o outro rio, ele não deixa de ser rio. Ele passa a ser um rio maior. **Nego Bispo**
 
@@ -53,7 +53,7 @@ Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
 No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-chaves. Criamos a estrutura dos verbetes no fonte.wiki para a edição colaborativa.
 
-Posteriormente, a obra passou por três momentos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
+A obra passou por momentos distintos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
 
 - Com o público do I Seminário PROEXT-PG, na UNISANTA
 - Mulheres da Turma do Borbado, no ProComum
