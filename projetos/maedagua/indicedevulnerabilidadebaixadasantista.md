@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-08-15T16:56:05.913Z
+date: 2026-08-15T16:57:01.065Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -21,7 +21,7 @@ A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municí
 - O [Índice de Progresso Social (IPS/Imazon)](https://ipsbrasil.org.br/explore/scorecard/1100015);
 - Dados Climáticos, considerando: 1. Aumento de temperatura/estresse térmico, ou seja, da carga líquida de calor que recai sobre o corpo, que não só da temperatura, mas também de umidade, vento e radiação solar. Para isso vamos utilizar o [Índice Climático Térmico Universal](https://portal.inmet.gov.br/uploads/icones/Conforto_t%C3%A9rmico_inmet.pdf), uma espécie de "sensação térmica" que combina esses fatores e simula como o corpo humano reage ao ambiente; 2. [Aumento do nível do mar/estuário](https://coastal.climatecentral.org/map/10/-46.4574/-24.0685/?theme=sea_level_rise&map_type=ice_sheet&basemap=roadmap&contiguous=true&elevation_model=best_available&ice_loss_level=1.0&ice_sheet=antarctic&refresh=true&water_unit=m), se essas áreas sofrem com a ação de contaminantes/poluentes e qual a categoria deles.
 
-Com isso, vamos fazer uma leitura crítica de cada cidade, que será traduzida em um canto, em uma leitura sonoro: quanto mais grave a situação, mais grave (literalmente) o som.
+Com isso, teremos uma leitura crítica de cada cidade da Baixada Santista, que será traduzida em um canto, em uma leitura sonoro: quanto mais grave a situação, mais grave (literalmente) o som.
 
 [Bertioga](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/bertioga) 
 [Cubatão](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/cubatao) 
