@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-08-01T13:21:55.671Z
+date: 2026-08-21T12:25:42.392Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -21,95 +21,94 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
 
-- **Datas do encontro:** 30 de Julho a 1º de Agosto de 2026
-- **Locais:**
-  - **30 e 31 de Julho:** Base de Pesquisa "Clarimundo de Jesus" do IOUSP - Praia do Lamberto, Ubatuba / SP
-  - **01 de Agosto:** Casa de Saúde Cultura Viva - R. Dr. Esteves da Silva, 468 - Centro, Ubatuba / SP
-- **Inscrições gratuitas!**
+Entre os dias 30 de julho e 1º de agosto de 2026, aconteceu em Ubatuba o encontro **Mar das Coisas**. A iniciativa reuniu cientistas, artistas, estudantes, ativistas e residentes da região para três dias de debates, experimentações metodológicas e saídas a campo focadas na relação entre ciência, cultura, tecnologias abertas e dinâmicas costeiras e hídricas do território.
 
-[![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
+As atividades foram sediadas em dois locais: o Laboratório de Arte e Ciência Oceânica (LACO), localizado na Base Oceanográfica Clarimundo de Jesus (IOUSP), na Praia do Lamberto; e a Casa de Saúde Cultura Viva. 
 
-## Programação
+Esta publicação reúne a documentação aberta do encontro: os registros dos debates, as dinâmicas em grupo, o material fotográfico e sonoro produzido, as metodologias aplicadas, e os primeiros encaminhamentos de continuidade.
+
+## Atividades desenvolvidas
 
 ### 30/07, Quinta-feira - Ciências das Águas e Territórios
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
 
+**Registro:** [Dia 1 (30/07) · Chegada e Abertura no LACO](/projetos/mardascoisas/30-jul-laco)
+
+Recepção do grupo na Base Oceanográfica Clarimundo de Jesus (IOUSP). Apresentação dos participantes, introdução aos temas de pesquisa do LACO e primeiras discussões sobre os desafios ecológicos e de infraestrutura no Litoral Norte paulista.
+
 **10h - Abertura e apresentação do encontro**
 Local: LACO
-Apresentação das instituições organizadoras, dos objetivos do encontro e da proposta conceitual do Tropixel: Mar das Coisas.
-- Fabiane M. Borges (Instituto Oceanográfico da Universidade de São Paulo - IOUSP / Laboratório de Arte e Ciência Oceânica - LACO)
-- Felipe S. Fonseca (Ubatuba Ciências Culturas /U.CC/)
-- Alexander Turra (IOUSP / Cátedra Unesco para a Sustentabilidade do Oceano)
-- Luciana Frazão / Rubens Lopes - Laboratório de Sistemas Planctônicos - LAPS)
+- Apresentação das instituições organizadoras, dos objetivos do encontro e da proposta conceitual do Tropixel: Mar das Coisas.
+	- Fabiane M. Borges (Instituto Oceanográfico da Universidade de São Paulo - IOUSP / Laboratório de Arte e Ciência Oceânica - LACO)
+	- Alexander Turra (IOUSP / Cátedra Unesco para a Sustentabilidade do Oceano)
+	- Rubens Lopes - Laboratório de Sistemas Planctônicos - LAPS)
+	- Felipe S. Fonseca (Ubatuba Ciências Culturas /U.CC/)
+- Visita aos laboratórios do IOUSP.
 
-**12h - Almoço**
-
-**13h - Roda de apresentação dos participantes**
+**14h - Roda geral de apresentação**
 Apresentação das experiências, práticas, pesquisas e interesses das pessoas participantes.
 
 **Questões orientadoras:**
 *O que aproxima você desta discussão? Qual é a sua prática? Como você compreende sua participação neste processo?*
 
-**14h - Água, resíduos e contaminação: experiências de atuação no território**
+**15h - Água, resíduos e contaminação: experiências de atuação no território**
 Local: Sala de aula
 Moderação: Afonso Reis  (LACO/IOUSP)
 
 Apresentação de projetos, organizações e iniciativas que atuam na pesquisa, gestão, redução e enfrentamento da poluição hídrica e costeira:
 
-- Gabriela Sartori (APAMLN): 
-- Gilda Godoy (Coco & Cia)
-- Carla Barbosa (Instituto Argonauta)
+- Gabriela Sartori (APAMLN) 
+- Catherina Monteiro (Instituto Argonauta)
 - Nilmara Santos e Kathleen Pontes (Projeto RecriaMar) 
 - Rosa Maria Mancini (GERCO/DPLA/SMA)
 
-**15h - Roda de conversa: Mergulho de Descontaminação**
+**16h - Roda de conversa: Mergulho de Descontaminação**
 
-Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circulação de materiais, redes de monitoramento e possibilidades de cooperação entre iniciativas locais. Mapeamento de demandas e desafios locais.
-
-**16h - Encerramento das atividades do dia**
+Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circulação de materiais, redes de monitoramento e possibilidades de cooperação entre iniciativas locais.
 
 **Atividade Paralela:**
 
-- **O dia todo:** Exposição da Galeria LACO (Artistas e Obras em breve).
+- **O dia todo:** Exposição da Galeria LACO.
 
 ---
 
 ### 31/07, Sexta-feira - Imaginação Ambiental, Arte e Ciência das Águas
 *Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
 
+**Registro:** [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul-debates-grupos)
+
 **10h - Cartas Climáticas: dinâmica de criação coletiva - Psique.Space com Fabiane M. Borges**
-A atividade integra as metodologias desenvolvidas pelo Psique.Space — Laboratório Social para o Futuro, articulando imaginação, experiência grupal e construção de cenários climáticos.
+A atividade integra as metodologias desenvolvidas pelo Psique.Space — Laboratório Social para o Futuro, articulando imaginação, experiência grupal e construção de cenários climáticos. Participantes formaram grupos para responder criativamente às cartas distribuídas.
 
-**12h - Almoço**
+**Almoço**
 
-**13h - Tour da Exposição do LACO**
+**14h - Tour guiado da Exposição do LACO com artistas presentes**
 
-**14h - Arte, ciência e materialidades da água**
+**15h - Arte, ciência e materialidades da água**
 Apresentação de pesquisas e práticas artísticas relacionadas à água, aos ambientes costeiros, às infraestruturas, aos sistemas de informação e às transformações ecológicas.
-- Moderação: Malu Hatoum (Artista - Pesquisadora - UFF)
+
 - Pesquisa e arte/natureza: Mariana Vilela
 - Arte e curadoria: Teresa Dillon (Repair Acts, Winchester School of Art, Universidade de Southampton, Reino Unido)
 - Videoarte e arte/tecnologia : Diana Zatz
 
-**15h - Construção do documento público**
+**16h - Construindo alianças**
 
 Debate aberto sobre os procedimentos, conceitos e tecnologias apresentados, com participação do público.
 
-**16h — Encerramento das atividades do dia**
-
 **Atividades Paralelas:**
 
-- **O dia todo:** Exposição da Galeria LACO (Artistas e Obras em breve).
-- **17h30, no Centro Cultural Vila Caiçara (Centro):** Comemoração do Dia da Mulher Negra, Latino-americana e Caribenha. Mais informações [aqui](/recursos/caminhos-para-a-inovacao)https://www.instagram.com/p/DapyOxNjr3B/?igsh=MWszY2E0cWR2M3d5OQ%3D%3D).
-- **19h, na Câmara Municipal de Ubatuba**: Debate sobre Lixo e poluição, organizado por Ubatuba em Rede (a confirmar).
+- **O dia todo:** Exposição da Galeria LACO.
+- A partir das **17h30, no Centro Cultural Vila Caiçara (Centro):** Comemoração do Dia da Mulher Negra, Latino-americana e Caribenha. Mais informações [aqui](https://www.instagram.com/p/DapyOxNjr3B/?igsh=MWszY2E0cWR2M3d5OQ%3D%3D).
 
 ---
 
 ### 01/08, Sábado - Mãos na Água: bacias, percursos e ações
 
-**10h - Entendendo a bacia do Rio Grande de Ubatuba**
+**Registro:** [Dia 3 (01/08) · Saída de Campo e Oficina BARCAS](/projetos/mardascoisas/01-ago-bacia-barcas)
 
-**Atividade auto-organizada em grupos.** Os participantes são convidados a visitar diferentes pontos da Bacia Hidrográfica do Rio Grande de Ubatuba (incluindo os rios Grande, Tavares e Acaraú),  para coletar imagens, amostras, áudio, vídeos, desenhos, etc.
+**Manhã - Saída a campo: bacias hidrográficas**
+
+**Atividade auto-organizada em grupos.** Os participantes foram convidados a visitar diferentes pontos das Bacia Hidrográficas de Ubatuba para coletar imagens, amostras, áudio, vídeos, desenhos, etc.
 
 **14h - Conectando Bacias: construção de ações, com Floriana Breyer - Biodiversas Lab**
 
@@ -118,18 +117,25 @@ R. Dr. Esteves da Silva, 468 - Centro, Ubatuba - SP
 
 Uso da meetodologia Barcas Regenerativas para a construção de alianças e colaborações futuras para a limpeza e despoluição de bacias hidrográficas.
 
-**16h - Plenária final e encerramento**
-Apresentação dos encaminhamentos elaborados pelos grupos, definição dos próximos passos e encerramento da programação principal do Tropixel: Mar das Coisas 2026.
+**17h - Plenária final e encerramento**
+Apresentação dos encaminhamentos elaborados pelos grupos, definição dos próximos passos e encerramento da programação principal do Mar das Coisas.
 
 ---
 
-### Dia Extra: 02/08, Domingo (opcional)
-A depender das condições do clima, vamos ajudar a organizar um passeio de barco no domingo. Torçamos por tempo bom!
+## Diário de bordo
+
+* **Documentação e memória das atividades:**
+  * [Dia 1 (30/07) · Chegada e Abertura no LACO](/projetos/mardascoisas/30-jul-laco)
+  * [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul-debates-grupos)
+  * [Dia 3 (01/08) · Saída de Campo e Oficina BARCAS](/projetos/mardascoisas/01-ago-bacia-barcas)
+* **[Rádio Mar das Coisas](/projetos/mardascoisas/radio-mdc):** Áudios, entrevistas e gravações sonoras realizadas durante as atividades.
+* **[Oficina BARCAS](/projetos/mardascoisas/oficina-barcas):** Metodologia, matrizes de trabalho e resultados da oficina de projetos.
+* **[Caderno de Anotações](/projetos/mardascoisas/caderno-de-campo):** Páginas digitalizadas e notas do caderno de bordo do encontro.
+* **[Registros de Campo & Dados](/projetos/mardascoisas/registros-e-dados):** Mapeamentos locais, identificação bioacústica de aves e notas técnicas.
+* **[Rascunho da Carta do Encontro](/projetos/mardascoisas/manifesto):** Versão preliminar da carta-manifesto em fase de leitura e validação com as participantes.
+* **[Créditos & Galeria de Mídias](/projetos/mardascoisas/creditos):** Autoria das fotos, vídeos e termos de licenciamento aberto (Creative Commons).
 
 ---
-
-[![Inscreva-se](https://img.shields.io/badge/Inscreva&ndash;se-agora!-5d6edb?style=for-the-badge  =240x)](https://tally.so/r/eqoMaQ)
-
 
 ## Texto curatorial
 
