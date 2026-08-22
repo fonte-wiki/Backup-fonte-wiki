@@ -2,7 +2,7 @@
 title: Mar das Coisas - 30/07/26
 description: 
 published: true
-date: 2026-08-22T12:14:07.413Z
+date: 2026-08-22T12:44:05.177Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-21T14:05:38.192Z
@@ -68,5 +68,5 @@ Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circula�
 ## Navegação
 
 * Anterior: [Página Inicial](/projetos/mardascoisas)
-* Próximo: [31/07 · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul-debates-grupos)
+* Próximo: [31/07 · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul)
 * [Diário de Bordo](/projetos/mardascoisas) | [Créditos das Mídias](/projetos/mardascoisas/creditos)
