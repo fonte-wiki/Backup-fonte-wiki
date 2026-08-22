@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-08-22T18:10:30.541Z
+date: 2026-08-22T18:12:15.713Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -35,7 +35,7 @@ Este site reúne a documentação aberta do encontro: os registros dos debates, 
 * **[Oficina BARCAS](/projetos/mardascoisas/oficina-barcas):** Metodologia, matrizes de trabalho e resultados da oficina de projetos.
 * **[Caderno de Anotações](/projetos/mardascoisas/caderno-de-campo):** Páginas digitalizadas e notas do caderno de bordo do encontro.
 * **[Registros de Campo & Dados](/projetos/mardascoisas/registros-e-dados):** Mapeamentos locais, identificação bioacústica de aves e notas técnicas.
-* **[Rascunho da Carta do Encontro](/projetos/mardascoisas/manifesto):** Versão preliminar da carta-manifesto em fase de leitura e validação com as participantes.
+* **[Rascunho da Carta do Encontro](/projetos/mardascoisas/manifesto):** Versão preliminar da carta-manifesto.
 * **[Créditos & Galeria de Mídias](/projetos/mardascoisas/creditos):** Autoria das fotos, vídeos e termos de licenciamento aberto (Creative Commons).
 
 ---
