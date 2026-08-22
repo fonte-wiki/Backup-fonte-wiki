@@ -2,7 +2,7 @@
 title: Ciclo Tropixel: Mar das Coisas
 description: 
 published: true
-date: 2026-08-21T12:25:42.392Z
+date: 2026-08-22T12:14:53.774Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -29,46 +29,6 @@ Esta publicação reúne a documentação aberta do encontro: os registros dos d
 
 ## Atividades desenvolvidas
 
-### 30/07, Quinta-feira - Ciências das Águas e Territórios
-*Base de Pesquisa “Clarimundo de Jesus” do IOUSP - Praia do Lamberto, Ubatuba / SP.*
-
-**Registro:** [Dia 1 (30/07) · Chegada e Abertura no LACO](/projetos/mardascoisas/30-jul-laco)
-
-Recepção do grupo na Base Oceanográfica Clarimundo de Jesus (IOUSP). Apresentação dos participantes, introdução aos temas de pesquisa do LACO e primeiras discussões sobre os desafios ecológicos e de infraestrutura no Litoral Norte paulista.
-
-**10h - Abertura e apresentação do encontro**
-Local: LACO
-- Apresentação das instituições organizadoras, dos objetivos do encontro e da proposta conceitual do Tropixel: Mar das Coisas.
-	- Fabiane M. Borges (Instituto Oceanográfico da Universidade de São Paulo - IOUSP / Laboratório de Arte e Ciência Oceânica - LACO)
-	- Alexander Turra (IOUSP / Cátedra Unesco para a Sustentabilidade do Oceano)
-	- Rubens Lopes - Laboratório de Sistemas Planctônicos - LAPS)
-	- Felipe S. Fonseca (Ubatuba Ciências Culturas /U.CC/)
-- Visita aos laboratórios do IOUSP.
-
-**14h - Roda geral de apresentação**
-Apresentação das experiências, práticas, pesquisas e interesses das pessoas participantes.
-
-**Questões orientadoras:**
-*O que aproxima você desta discussão? Qual é a sua prática? Como você compreende sua participação neste processo?*
-
-**15h - Água, resíduos e contaminação: experiências de atuação no território**
-Local: Sala de aula
-Moderação: Afonso Reis  (LACO/IOUSP)
-
-Apresentação de projetos, organizações e iniciativas que atuam na pesquisa, gestão, redução e enfrentamento da poluição hídrica e costeira:
-
-- Gabriela Sartori (APAMLN) 
-- Catherina Monteiro (Instituto Argonauta)
-- Nilmara Santos e Kathleen Pontes (Projeto RecriaMar) 
-- Rosa Maria Mancini (GERCO/DPLA/SMA)
-
-**16h - Roda de conversa: Mergulho de Descontaminação**
-
-Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circulação de materiais, redes de monitoramento e possibilidades de cooperação entre iniciativas locais.
-
-**Atividade Paralela:**
-
-- **O dia todo:** Exposição da Galeria LACO.
 
 ---
 
