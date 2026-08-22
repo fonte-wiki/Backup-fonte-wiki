@@ -2,7 +2,7 @@
 title: Mar das Coisas - 31/07/26
 description: 
 published: true
-date: 2026-08-22T12:42:30.293Z
+date: 2026-08-22T18:19:45.439Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:36:41.926Z
@@ -10,13 +10,9 @@ dateCreated: 2026-08-22T12:36:41.926Z
 
 # 31/07 · Debates Temáticos e Dinâmica em Grupos
 
----
-
 ## Panorama do Dia
 
-O segundo dia articulou debates conceituais e diagnósticos práticos na sala do LACO com uma dinâmica de criação coletiva ao ar livre, conduzida à beira-mar. 
-
----
+O segundo dia do Mar das Coisas articulou debates conceituais e diagnósticos práticos na sala do LACO com uma dinâmica de criação coletiva ao ar livre, conduzida à beira-mar. 
 
 ## Atividades Realizadas
 
