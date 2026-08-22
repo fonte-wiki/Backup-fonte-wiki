@@ -2,7 +2,7 @@
 title: Mar das Coisas - 31/07/26
 description: 
 published: true
-date: 2026-08-22T12:36:41.926Z
+date: 2026-08-22T12:38:14.187Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:36:41.926Z
