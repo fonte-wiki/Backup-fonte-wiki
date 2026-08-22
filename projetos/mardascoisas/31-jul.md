@@ -2,7 +2,7 @@
 title: Mar das Coisas - 31/07/26
 description: 
 published: true
-date: 2026-08-22T12:38:14.187Z
+date: 2026-08-22T12:42:30.293Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:36:41.926Z
@@ -47,5 +47,5 @@ Apresentação de pesquisas e práticas artísticas dedicadas a ambientes costei
 ## Navegação
 
 * Anterior: [30/07 · Chegada e Abertura no LACO](/projetos/mardascoisas/30-jul-laco)
-* Próximo: [01/08 · Saída de Campo e Oficina BARCAS](/projetos/mardascoisas/01-ago-bacia-barcas)
+* Próximo: [01/08 · Saída de Campo e Oficina BARCAS](/projetos/mardascoisas/01-ago)
 * [Diário de Bordo](/projetos/mardascoisas) | [Créditos das Mídias](/projetos/mardascoisas/creditos)
