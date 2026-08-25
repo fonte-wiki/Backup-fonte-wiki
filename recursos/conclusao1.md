@@ -2,7 +2,7 @@
 title: Como Mensurar a Inovação - Conclusão 1
 description: 
 published: true
-date: 2022-08-25T12:34:58.869Z
+date: 2026-08-25T17:45:26.666Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:57:40.746Z

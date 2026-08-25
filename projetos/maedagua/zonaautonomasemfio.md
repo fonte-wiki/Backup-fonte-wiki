@@ -2,7 +2,7 @@
 title: Zona Autônoma sem Fio
 description: 
 published: true
-date: 2026-07-13T20:09:17.389Z
+date: 2026-08-25T18:19:47.768Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-13T19:58:21.866Z

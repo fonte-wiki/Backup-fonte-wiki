@@ -2,7 +2,7 @@
 title: Projeto de Lei n° 3491, de 2020
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:11:53.311Z
+date: 2026-08-25T17:54:58.693Z
 tags: inclusão digital, infraestrutura
 editor: markdown
 dateCreated: 2021-12-29T13:21:37.498Z

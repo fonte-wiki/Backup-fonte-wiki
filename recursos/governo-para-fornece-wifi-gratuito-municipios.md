@@ -2,7 +2,7 @@
 title: Governo do Pará fornece acesso gratuito à internet em bairros incluídos no Programa Território Pela Paz(TerPaz)
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:40:14.378Z
+date: 2026-08-25T17:54:23.706Z
 tags: internet, conexao
 editor: markdown
 dateCreated: 2021-12-29T13:09:16.096Z

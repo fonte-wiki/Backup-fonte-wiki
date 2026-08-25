@@ -2,7 +2,7 @@
 title: Celular Vicia?
 description: 
 published: true
-date: 2021-11-12T14:26:46.396Z
+date: 2026-08-25T17:40:40.879Z
 tags: celular, sebastian
 editor: markdown
 dateCreated: 2021-10-29T14:01:16.759Z

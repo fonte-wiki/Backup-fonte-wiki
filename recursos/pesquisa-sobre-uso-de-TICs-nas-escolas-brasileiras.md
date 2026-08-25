@@ -2,7 +2,7 @@
 title: Pesquisa sobre o uso das Tecnologias de Informação e Comunicação nas escolas brasileiras
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:07:30.898Z
+date: 2026-08-25T17:53:09.775Z
 tags: tic, escolas, educação
 editor: markdown
 dateCreated: 2021-12-29T12:31:22.136Z

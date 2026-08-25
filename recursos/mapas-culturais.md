@@ -2,7 +2,7 @@
 title: Mapas Culturais
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-03T21:45:15.483Z
+date: 2026-08-25T17:58:44.177Z
 tags: cultura, software livre
 editor: markdown
 dateCreated: 2021-12-29T14:25:52.988Z

@@ -2,7 +2,7 @@
 title: LGPD Brasil 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:05:37.081Z
+date: 2026-08-25T17:57:34.488Z
 tags: produção de conteúdo, privacidade dos dados
 editor: markdown
 dateCreated: 2021-12-29T14:12:03.289Z

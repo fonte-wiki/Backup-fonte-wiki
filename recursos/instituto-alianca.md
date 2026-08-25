@@ -2,7 +2,7 @@
 title: Instituto Aliança
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T13:38:54.494Z
+date: 2026-08-25T18:00:29.579Z
 tags: educação
 editor: markdown
 dateCreated: 2021-12-29T18:14:30.691Z

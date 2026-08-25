@@ -2,7 +2,7 @@
 title: Repositório
 description: 
 published: true
-date: 2025-08-21T18:19:59.521Z
+date: 2026-08-25T18:12:04.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-29T22:29:03.453Z

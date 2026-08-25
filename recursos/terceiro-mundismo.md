@@ -2,7 +2,7 @@
 title: Terceiro mundismo
 description: 
 published: true
-date: 2021-12-22T00:36:55.106Z
+date: 2026-08-25T17:52:25.600Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:36:48.566Z

@@ -2,7 +2,7 @@
 title: 12 principles of collaboration
 description: 
 published: true
-date: 2024-10-22T13:49:34.815Z
+date: 2026-08-25T18:11:29.499Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-22T13:49:34.815Z

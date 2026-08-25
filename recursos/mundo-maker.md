@@ -2,7 +2,7 @@
 title: Mundo Maker
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:29:15.202Z
+date: 2026-08-25T18:02:01.272Z
 tags: espaços de experimentação
 editor: markdown
 dateCreated: 2021-12-29T18:34:01.585Z

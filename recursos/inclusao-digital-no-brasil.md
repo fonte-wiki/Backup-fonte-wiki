@@ -2,7 +2,7 @@
 title: Inclusão digital no Brasil: em que estágio desse processo estamos? 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:00:48.503Z
+date: 2026-08-25T17:53:02.496Z
 tags: inclusão digital
 editor: markdown
 dateCreated: 2021-12-29T12:23:51.279Z

@@ -2,7 +2,7 @@
 title: A viagem do herói e seus aliados-chave
 description: 
 published: true
-date: 2021-12-07T16:24:40.987Z
+date: 2026-08-25T17:49:57.489Z
 tags: fonte-wiki
 editor: markdown
 dateCreated: 2021-12-07T16:22:36.546Z

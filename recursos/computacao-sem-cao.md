@@ -2,7 +2,7 @@
 title: Computação sem Caô
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:11:33.885Z
+date: 2026-08-25T17:57:48.503Z
 tags: produção de conteúdo
 editor: markdown
 dateCreated: 2021-12-29T14:14:19.455Z

@@ -2,7 +2,7 @@
 title: ID21 - Nelson Pretto
 description: 
 published: true
-date: 2022-01-05T08:17:30.778Z
+date: 2026-08-25T17:48:38.394Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-02T00:47:28.760Z

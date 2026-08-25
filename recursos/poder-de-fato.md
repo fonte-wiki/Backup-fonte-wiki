@@ -2,7 +2,7 @@
 title: Poder de fato
 description: 
 published: true
-date: 2021-12-22T00:33:13.510Z
+date: 2026-08-25T17:52:11.674Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:33:06.845Z

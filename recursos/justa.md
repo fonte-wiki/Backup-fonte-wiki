@@ -2,7 +2,7 @@
 title: JUSTA
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:51:59.581Z
+date: 2026-08-25T17:56:37.961Z
 tags: inteligência artificial, plataformas
 editor: markdown
 dateCreated: 2021-12-29T13:44:43.888Z

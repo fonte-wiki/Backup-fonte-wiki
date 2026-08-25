@@ -2,7 +2,7 @@
 title: Escola de Dados
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:22:28.905Z
+date: 2026-08-25T18:07:21.593Z
 tags: educação
 editor: markdown
 dateCreated: 2022-01-01T10:51:10.587Z

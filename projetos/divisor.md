@@ -2,7 +2,7 @@
 title: Divisor
 description: 
 published: true
-date: 2025-08-24T14:52:38.120Z
+date: 2026-08-25T18:12:47.308Z
 tags: fonte-wiki, software, apps
 editor: markdown
 dateCreated: 2025-07-17T21:53:08.947Z

@@ -2,7 +2,7 @@
 title: Um toc na cuca
 description: 
 published: true
-date: 2021-12-07T16:45:59.006Z
+date: 2026-08-25T17:51:15.600Z
 tags: fonte-wiki
 editor: markdown
 dateCreated: 2021-12-07T16:45:52.217Z

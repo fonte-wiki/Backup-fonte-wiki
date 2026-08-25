@@ -2,7 +2,7 @@
 title: MIT Technology Review (Brasil)
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:04:51.892Z
+date: 2026-08-25T17:57:20.382Z
 tags: produção de conteúdo
 editor: markdown
 dateCreated: 2021-12-29T14:09:30.041Z

@@ -2,7 +2,7 @@
 title: Deep Fake
 description: 
 published: true
-date: 2021-11-12T14:27:29.269Z
+date: 2026-08-25T17:41:30.508Z
 tags: sebastian, fake, deep
 editor: markdown
 dateCreated: 2021-10-29T14:19:13.131Z

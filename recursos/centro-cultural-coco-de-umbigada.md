@@ -2,7 +2,7 @@
 title: Centro Cultural Coco de Umbigada
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:33:01.202Z
+date: 2026-08-25T18:08:03.486Z
 tags: territórios
 editor: markdown
 dateCreated: 2022-01-01T10:59:30.354Z

@@ -2,7 +2,7 @@
 title: Quilombo Ciência
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:57:36.667Z
+date: 2026-08-25T17:58:02.470Z
 tags: software livre
 editor: markdown
 dateCreated: 2021-12-29T14:17:53.634Z

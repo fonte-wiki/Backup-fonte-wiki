@@ -2,7 +2,7 @@
 title: ID21 - Por onde passam as soluções
 description: 
 published: true
-date: 2022-01-05T08:15:42.409Z
+date: 2026-08-25T17:49:50.496Z
 tags: id21
 editor: markdown
 dateCreated: 2021-11-09T13:11:17.684Z

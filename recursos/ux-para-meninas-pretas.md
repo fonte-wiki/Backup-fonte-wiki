@@ -2,7 +2,7 @@
 title: UX para meninas pretas
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:36:15.468Z
+date: 2026-08-25T18:08:17.496Z
 tags: geração de renda, renda distribuída
 editor: markdown
 dateCreated: 2022-01-01T11:02:49.926Z

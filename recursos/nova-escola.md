@@ -2,7 +2,7 @@
 title: Nova Escola
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:05:24.794Z
+date: 2026-08-25T17:57:27.370Z
 tags: educação, produção de conteúdo
 editor: markdown
 dateCreated: 2021-12-29T14:10:52.373Z

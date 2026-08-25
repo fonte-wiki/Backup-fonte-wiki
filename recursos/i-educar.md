@@ -2,7 +2,7 @@
 title: I-Educar
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-03T12:59:02.173Z
+date: 2026-08-25T17:58:30.391Z
 tags: educação, software livre
 editor: markdown
 dateCreated: 2021-12-29T14:23:20.923Z

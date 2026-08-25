@@ -2,7 +2,7 @@
 title: Tomada de Decisão Automatizada e a Regulamentação da Proteção de Dados: Alternativas Coletivas Oferecidas pela Lei Geral de Proteção de Dados (2020)
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-03T13:11:41.497Z
+date: 2026-08-25T17:59:12.665Z
 tags: privacidade dos dados
 editor: markdown
 dateCreated: 2021-12-29T14:39:32.927Z

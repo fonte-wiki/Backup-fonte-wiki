@@ -2,7 +2,7 @@
 title: Procomum
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:27:15.189Z
+date: 2026-08-25T18:07:56.576Z
 tags: territórios
 editor: markdown
 dateCreated: 2022-01-01T10:58:23.933Z

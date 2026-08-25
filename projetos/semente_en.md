@@ -2,7 +2,7 @@
 title: Semente - English Version
 description: Semente toolkit
 published: true
-date: 2025-02-22T16:50:26.668Z
+date: 2026-08-25T18:09:57.581Z
 tags: projetos, semente
 editor: markdown
 dateCreated: 2022-11-29T17:03:03.997Z

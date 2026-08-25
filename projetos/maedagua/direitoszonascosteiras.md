@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: true
-date: 2026-03-22T18:07:02.268Z
+date: 2026-08-25T18:13:15.780Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-28T15:10:37.161Z

@@ -2,7 +2,7 @@
 title: Software Livre Brasil 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:57:13.596Z
+date: 2026-08-25T17:57:55.584Z
 tags: software livre
 editor: markdown
 dateCreated: 2021-12-29T14:16:27.854Z

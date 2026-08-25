@@ -2,7 +2,7 @@
 title: Estratégia Brasileira de Inteligência Artificial - EBIA
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:42:53.672Z
+date: 2026-08-25T17:55:55.269Z
 tags: inteligência artificial, ia
 editor: markdown
 dateCreated: 2021-12-29T13:36:23.701Z

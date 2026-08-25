@@ -2,7 +2,7 @@
 title: Outras Tribos
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:14:13.009Z
+date: 2026-08-25T18:06:39.865Z
 tags: projeto de vida
 editor: markdown
 dateCreated: 2021-12-30T12:39:19.565Z

@@ -2,7 +2,7 @@
 title: Lista de Sebastian Gerlic
 description: 
 published: true
-date: 2021-11-12T14:26:34.199Z
+date: 2026-08-25T17:40:24.785Z
 tags: listas
 editor: markdown
 dateCreated: 2021-10-26T07:17:52.689Z

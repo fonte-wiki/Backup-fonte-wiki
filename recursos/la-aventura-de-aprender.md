@@ -2,7 +2,7 @@
 title: La Aventura de Aprender
 description: Espacio de encuentro e intercambio en torno a los aprendizajes para descubrir qué prácticas, atmósferas, espacios y agentes hacen funcionar las comunidades; sus porqués y cómos.
 published: true
-date: 2022-08-25T12:36:13.188Z
+date: 2026-08-25T18:09:34.567Z
 tags: medialab prado, recursos eucacionais, rea, guias, espanhol, lafuente
 editor: markdown
 dateCreated: 2022-08-25T12:32:51.713Z

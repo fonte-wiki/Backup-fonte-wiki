@@ -2,7 +2,7 @@
 title: Freedcamp
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T15:02:57.389Z
+date: 2026-08-25T18:03:47.504Z
 tags: ferramentas ágeis
 editor: markdown
 dateCreated: 2021-12-29T18:50:08.741Z

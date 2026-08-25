@@ -2,7 +2,7 @@
 title: Sleeping Giant Brasil
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-03T13:26:32.202Z
+date: 2026-08-25T17:59:40.398Z
 tags: privacidade dos dados
 editor: markdown
 dateCreated: 2021-12-29T14:45:44.409Z

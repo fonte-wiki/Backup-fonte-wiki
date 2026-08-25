@@ -2,7 +2,7 @@
 title: Joplin
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:56:56.777Z
+date: 2026-08-25T18:03:26.308Z
 tags: ferramentas ágeis
 editor: markdown
 dateCreated: 2021-12-29T18:46:52.543Z

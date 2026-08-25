@@ -2,7 +2,7 @@
 title: Conclusão 2
 description: 
 published: true
-date: 2021-11-12T14:31:08.505Z
+date: 2026-08-25T17:45:47.494Z
 tags: id21, critical data comics, ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T02:16:20.443Z

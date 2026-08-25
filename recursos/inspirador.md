@@ -2,7 +2,7 @@
 title: Inspirador
 description: 
 published: true
-date: 2021-12-07T16:36:52.280Z
+date: 2026-08-25T17:50:40.679Z
 tags: fonte-wiki
 editor: markdown
 dateCreated: 2021-12-07T16:36:45.699Z

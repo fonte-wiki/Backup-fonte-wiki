@@ -2,7 +2,7 @@
 title: Portal Aprendiz
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T13:41:12.700Z
+date: 2026-08-25T18:00:51.680Z
 tags: educação
 editor: markdown
 dateCreated: 2021-12-29T18:18:22.159Z

@@ -2,7 +2,7 @@
 title: Trello
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:45:45.408Z
+date: 2026-08-25T18:02:43.503Z
 tags: ferramentas ágeis
 editor: markdown
 dateCreated: 2021-12-29T18:40:54.385Z

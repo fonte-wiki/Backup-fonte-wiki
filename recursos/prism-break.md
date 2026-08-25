@@ -2,7 +2,7 @@
 title: PRISM BREAK
 description: Diga não ao PRISM, o programa mundial de vigilância de dados da NSA.
 published: true
-date: 2022-01-05T07:39:56.102Z
+date: 2026-08-25T18:08:59.290Z
 tags: recursos
 editor: markdown
 dateCreated: 2022-01-05T07:39:49.395Z

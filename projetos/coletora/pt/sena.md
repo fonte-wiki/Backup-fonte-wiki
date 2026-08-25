@@ -2,7 +2,7 @@
 title: Sena
 description: 
 published: true
-date: 2026-05-01T11:08:03.674Z
+date: 2026-08-25T18:17:17.295Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-01T11:05:55.369Z

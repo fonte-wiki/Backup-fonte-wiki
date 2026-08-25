@@ -2,7 +2,7 @@
 title: Como montar um laboratório de experimentação e inovação em uma biblioteca
 description: Como montar um laboratório de experimentação e inovação em uma biblioteca
 published: true
-date: 2023-01-04T10:31:41.549Z
+date: 2026-08-25T18:10:04.709Z
 tags: inovação, inovação cidadã, biblioteca, laboratório, lab, silo, inovação e experimentação, experimentação
 editor: markdown
 dateCreated: 2023-01-04T10:31:41.549Z

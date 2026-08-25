@@ -2,7 +2,7 @@
 title: {reprograma}
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:42:17.386Z
+date: 2026-08-25T18:08:45.568Z
 tags: educação, geração de renda, renda distribuída
 editor: markdown
 dateCreated: 2022-01-01T11:09:22.091Z

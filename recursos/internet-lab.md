@@ -2,7 +2,7 @@
 title: Internet Lab
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T19:05:39.582Z
+date: 2026-08-25T18:05:36.103Z
 tags: organização da informação
 editor: markdown
 dateCreated: 2021-12-30T12:14:10.279Z

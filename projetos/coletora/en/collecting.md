@@ -2,7 +2,7 @@
 title: Collecting
 description: 
 published: true
-date: 2025-09-28T02:40:43.560Z
+date: 2026-08-25T18:14:54.777Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-25T23:20:01.655Z

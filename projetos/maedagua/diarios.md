@@ -2,7 +2,7 @@
 title: Diários de Pesquisa
 description: 
 published: true
-date: 2026-06-25T18:55:25.618Z
+date: 2026-08-25T18:12:25.666Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-12T11:14:10.952Z

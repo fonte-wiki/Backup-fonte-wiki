@@ -2,7 +2,7 @@
 title: Dadocracia
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:08:42.703Z
+date: 2026-08-25T17:57:41.378Z
 tags: produção de conteúdo, privacidade dos dados
 editor: markdown
 dateCreated: 2021-12-29T14:13:21.135Z

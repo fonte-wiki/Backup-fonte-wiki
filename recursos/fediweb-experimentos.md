@@ -2,7 +2,7 @@
 title: Fediweb - experimentos
 description: 
 published: true
-date: 2026-03-06T15:58:22.745Z
+date: 2026-08-25T18:15:58.294Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-06T15:56:50.851Z

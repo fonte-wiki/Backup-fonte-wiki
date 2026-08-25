@@ -2,7 +2,7 @@
 title: Radar da Inovação
 description: 
 published: true
-date: 2021-11-12T14:32:14.885Z
+date: 2026-08-25T17:47:05.373Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T03:08:15.608Z

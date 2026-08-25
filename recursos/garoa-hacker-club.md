@@ -2,7 +2,7 @@
 title: Garoa Hacker Club 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T16:34:40.687Z
+date: 2026-08-25T17:58:09.570Z
 tags: software livre
 editor: markdown
 dateCreated: 2021-12-29T14:19:05.777Z

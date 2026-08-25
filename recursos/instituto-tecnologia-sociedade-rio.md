@@ -2,7 +2,7 @@
 title: Instituto de Tecnologia e Sociedade do Rio
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T18:23:53.996Z
+date: 2026-08-25T18:04:22.602Z
 tags: futuro do trabalho
 editor: markdown
 dateCreated: 2021-12-29T19:26:29.737Z

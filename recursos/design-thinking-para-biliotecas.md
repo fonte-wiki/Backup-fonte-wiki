@@ -2,7 +2,7 @@
 title: Design Thinking para Bibliotecas 
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T18:48:49.976Z
+date: 2026-08-25T18:04:58.797Z
 tags: gerenciamento projetos
 editor: markdown
 dateCreated: 2021-12-30T11:43:26.366Z

@@ -2,7 +2,7 @@
 title: Educatransforma
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T13:48:21.976Z
+date: 2026-08-25T18:01:19.266Z
 tags: cultura, cultura diversa, diversidade
 editor: markdown
 dateCreated: 2021-12-29T18:23:25.631Z

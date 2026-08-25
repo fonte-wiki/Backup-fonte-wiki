@@ -2,7 +2,7 @@
 title: O Futuro do Trabalho no Brasil
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T18:20:29.575Z
+date: 2026-08-25T18:04:35.976Z
 tags: futuro do trabalho
 editor: markdown
 dateCreated: 2021-12-29T19:29:12.150Z

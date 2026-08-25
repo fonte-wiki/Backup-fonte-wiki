@@ -2,7 +2,7 @@
 title: Labic
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T18:58:35.179Z
+date: 2026-08-25T18:05:50.213Z
 tags: organização da informação
 editor: markdown
 dateCreated: 2021-12-30T12:16:24.034Z

@@ -2,7 +2,7 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-08-25T18:24:43.204Z
+date: 2026-08-25T18:24:49.607Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z

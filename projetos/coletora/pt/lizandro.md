@@ -2,7 +2,7 @@
 title: Lizandro
 description: 
 published: true
-date: 2026-04-18T06:31:58.414Z
+date: 2026-08-25T18:16:26.507Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T06:31:58.414Z

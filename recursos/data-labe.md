@@ -2,7 +2,7 @@
 title: data_labe
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:25:48.873Z
+date: 2026-08-25T18:02:22.488Z
 tags: espaços de experimentação
 editor: markdown
 dateCreated: 2021-12-29T18:37:19.787Z

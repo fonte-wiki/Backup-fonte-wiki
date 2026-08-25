@@ -2,7 +2,7 @@
 title: Pimentalab
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:04:19.692Z
+date: 2026-08-25T18:06:04.589Z
 tags: organização da informação
 editor: markdown
 dateCreated: 2021-12-30T12:19:11.211Z

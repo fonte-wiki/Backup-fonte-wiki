@@ -2,7 +2,7 @@
 title: ID21 - Ricardo Ruiz
 description: 
 published: true
-date: 2022-01-05T08:18:06.568Z
+date: 2026-08-25T17:48:15.490Z
 tags: id21
 editor: markdown
 dateCreated: 2021-11-02T00:41:44.138Z

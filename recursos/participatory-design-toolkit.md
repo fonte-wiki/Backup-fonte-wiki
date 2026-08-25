@@ -2,7 +2,7 @@
 title: Participatory Design Toolkit
 description: 
 published: true
-date: 2024-11-19T11:00:29.460Z
+date: 2026-08-25T18:11:43.676Z
 tags: fonte-wiki, semente, english, design, toolkit
 editor: markdown
 dateCreated: 2024-11-19T11:00:29.460Z

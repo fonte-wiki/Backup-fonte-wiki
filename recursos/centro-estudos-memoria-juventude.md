@@ -2,7 +2,7 @@
 title: Centro de Estudos e Memória da Juventude (CEMJ)
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T13:33:37.167Z
+date: 2026-08-25T18:00:22.791Z
 tags: educação
 editor: markdown
 dateCreated: 2021-12-29T18:13:14.766Z

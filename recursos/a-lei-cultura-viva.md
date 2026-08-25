@@ -2,7 +2,7 @@
 title: A lei cultura viva
 description: 
 published: true
-date: 2021-11-12T14:31:26.577Z
+date: 2026-08-25T17:46:09.602Z
 tags: id21, ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T02:28:41.225Z

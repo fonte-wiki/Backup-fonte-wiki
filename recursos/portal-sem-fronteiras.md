@@ -2,7 +2,7 @@
 title: Portal sem fronteiras
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:25:25.702Z
+date: 2026-08-25T17:55:27.192Z
 tags: inclusão digital, infraestrutura, territórios
 editor: markdown
 dateCreated: 2021-12-29T13:28:27.884Z

@@ -2,7 +2,7 @@
 title: Design thinking para educadores
 description: 
 published: true
-date: 2021-12-07T16:35:12.909Z
+date: 2026-08-25T17:50:26.698Z
 tags: fonte-wiki
 editor: markdown
 dateCreated: 2021-12-07T16:31:22.906Z

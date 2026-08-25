@@ -2,7 +2,7 @@
 title: Coletora (Português)
 description: 
 published: true
-date: 2026-05-04T09:14:02.375Z
+date: 2026-08-25T18:14:26.609Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T05:42:05.243Z

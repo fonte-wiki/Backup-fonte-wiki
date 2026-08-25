@@ -2,7 +2,7 @@
 title: Contribuições para o Combate à Desinformação na Internet em Períodos Eleitorais
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-03T13:18:03.792Z
+date: 2026-08-25T17:59:33.661Z
 tags: privacidade dos dados
 editor: markdown
 dateCreated: 2021-12-29T14:44:22.700Z

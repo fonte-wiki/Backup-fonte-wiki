@@ -2,7 +2,7 @@
 title: Estados-membros da UNESCO aprovam o primeiro acordo mundial sobre ética da inteligência artificial
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:38:22.495Z
+date: 2026-08-25T17:55:41.487Z
 tags: inteligência artificial, ia
 editor: markdown
 dateCreated: 2021-12-29T13:32:44.847Z

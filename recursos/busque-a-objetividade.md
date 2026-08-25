@@ -2,7 +2,7 @@
 title: Busque a objetividade
 description: 
 published: true
-date: 2021-11-12T14:30:32.373Z
+date: 2026-08-25T17:45:03.969Z
 tags: id21, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T01:40:05.298Z

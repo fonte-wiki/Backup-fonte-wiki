@@ -2,7 +2,7 @@
 title: Vianet fornece Wi-Fi gratuito para o município de Itupeva (SP)
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:52:51.288Z
+date: 2026-08-25T17:54:09.281Z
 tags: internet, conexao
 editor: markdown
 dateCreated: 2021-12-29T13:04:28.484Z

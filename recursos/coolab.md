@@ -2,7 +2,7 @@
 title: Coolab
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:56:42.201Z
+date: 2026-08-25T17:55:34.373Z
 tags: infraestrutura, territórios
 editor: markdown
 dateCreated: 2021-12-29T13:30:26.508Z

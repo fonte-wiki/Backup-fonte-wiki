@@ -2,7 +2,7 @@
 title: Kit de desinformação de dados
 description: Controle sua privacidade, segurança e bem-estar digital de maneiras que você sinta-se bem.
 published: true
-date: 2021-11-12T14:29:12.903Z
+date: 2026-08-25T17:43:32.568Z
 tags: id21, critical data comics, ricardo ruiz
 editor: markdown
 dateCreated: 2021-10-29T18:11:12.252Z

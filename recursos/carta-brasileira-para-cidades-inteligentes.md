@@ -2,7 +2,7 @@
 title: Carta Brasileira para Cidades Inteligentes
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:12:58.194Z
+date: 2026-08-25T17:53:16.505Z
 tags: inteligência artificial, ia
 editor: markdown
 dateCreated: 2021-12-29T12:34:23.448Z

@@ -2,7 +2,7 @@
 title: Cuidado - Memória
 description: Um começo de conversa sobre documentação, memória, registro, acervos, arquivos, cuidados e manutenção.
 published: true
-date: 2026-05-01T10:33:23.212Z
+date: 2026-08-25T18:09:06.593Z
 tags: projetos, memória, cuidado, manutenção, acervos, arquivos
 editor: markdown
 dateCreated: 2022-01-20T12:44:12.344Z

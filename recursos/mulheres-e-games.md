@@ -2,7 +2,7 @@
 title: Mulheres e Games
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:41:16.469Z
+date: 2026-08-25T18:08:31.490Z
 tags: geração de renda, renda distribuída
 editor: markdown
 dateCreated: 2022-01-01T11:05:51.186Z

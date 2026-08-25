@@ -2,7 +2,7 @@
 title: Rance
 description: 
 published: true
-date: 2026-05-01T11:03:13.805Z
+date: 2026-08-25T18:17:10.486Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-01T11:03:13.805Z

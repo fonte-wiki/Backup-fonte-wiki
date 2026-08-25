@@ -2,7 +2,7 @@
 title: Open Project
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T15:03:37.998Z
+date: 2026-08-25T18:03:33.473Z
 tags: ferramentas ágeis
 editor: markdown
 dateCreated: 2021-12-29T18:48:14.014Z

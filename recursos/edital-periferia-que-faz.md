@@ -2,7 +2,7 @@
 title: Edital Periferia que Faz
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T15:07:27.992Z
+date: 2026-08-25T18:04:08.515Z
 tags: diversidade, geração de renda
 editor: markdown
 dateCreated: 2021-12-29T19:22:32.307Z

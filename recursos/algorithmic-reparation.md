@@ -2,7 +2,7 @@
 title: Algorithmic Reparation
 description: 
 published: true
-date: 2024-10-24T10:36:40.184Z
+date: 2026-08-25T18:11:36.461Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-24T10:36:40.184Z

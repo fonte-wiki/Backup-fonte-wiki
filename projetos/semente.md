@@ -2,7 +2,7 @@
 title: semente
 description: método para criação e aprimoramento de projetos em comunidade
 published: true
-date: 2025-06-23T07:19:59.605Z
+date: 2026-08-25T18:09:27.576Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-04T20:32:13.049Z

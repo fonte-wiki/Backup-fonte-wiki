@@ -2,7 +2,7 @@
 title: Leitura de arquivo
 description: 
 published: true
-date: 2021-11-12T14:31:02.569Z
+date: 2026-08-25T17:45:40.601Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T02:10:11.275Z

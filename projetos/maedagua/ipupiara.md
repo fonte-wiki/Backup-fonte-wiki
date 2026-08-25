@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: #zasf #ipupiara
 published: true
-date: 2026-07-13T19:58:03.348Z
+date: 2026-08-25T18:15:08.663Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-02T17:43:04.800Z

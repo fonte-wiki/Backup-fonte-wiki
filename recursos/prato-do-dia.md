@@ -2,7 +2,7 @@
 title: Prato do dia
 description: O Prato do dia é uma iniciativa que convida a todes para essa reflexão e ainda fornece alternativas para que você possa adotar práticas para um uso mais saudável das tecnologias.
 published: true
-date: 2021-12-08T12:32:09.368Z
+date: 2026-08-25T17:43:53.765Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T01:02:05.588Z

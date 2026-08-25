@@ -2,7 +2,7 @@
 title: Curso Inovação Cidadã
 description: Curso de Inovação Cidadã
 published: true
-date: 2022-08-29T10:10:17.407Z
+date: 2026-08-25T18:09:50.803Z
 tags: inovação, cursos, recursos eucacionais, inovação cidadã
 editor: markdown
 dateCreated: 2022-08-29T10:08:45.449Z

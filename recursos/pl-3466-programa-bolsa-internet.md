@@ -2,7 +2,7 @@
 title: Projeto de Lei n° 3466, de 2020
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:52:14.507Z
+date: 2026-08-25T17:54:37.468Z
 tags: internet, lei, conexao
 editor: markdown
 dateCreated: 2021-12-29T13:13:16.669Z

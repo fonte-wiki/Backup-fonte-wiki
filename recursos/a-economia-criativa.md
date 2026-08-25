@@ -2,7 +2,7 @@
 title: A Economia Criativa
 description: 
 published: true
-date: 2021-11-12T14:31:14.565Z
+date: 2026-08-25T17:45:54.895Z
 tags: id21, ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T02:20:23.210Z

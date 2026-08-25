@@ -2,7 +2,7 @@
 title: Fato ou Fake ?
 description: 
 published: true
-date: 2021-11-12T14:27:23.103Z
+date: 2026-08-25T17:41:23.286Z
 tags: sebastian, fato, fake
 editor: markdown
 dateCreated: 2021-10-29T14:18:02.791Z

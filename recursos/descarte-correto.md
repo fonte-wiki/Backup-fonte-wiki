@@ -2,7 +2,7 @@
 title: Descarte Correto – Transformando os resíduos eletrônicos em benefícios econômicos e socioambientais
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:23:28.827Z
+date: 2026-08-25T18:07:28.491Z
 tags: educação
 editor: markdown
 dateCreated: 2022-01-01T10:52:43.966Z

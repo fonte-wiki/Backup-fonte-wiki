@@ -2,7 +2,7 @@
 title: Prototipagem
 description: 
 published: true
-date: 2021-12-07T16:44:16.395Z
+date: 2026-08-25T17:51:08.785Z
 tags: fonte-wiki, prototipagem
 editor: markdown
 dateCreated: 2021-12-07T16:44:09.761Z

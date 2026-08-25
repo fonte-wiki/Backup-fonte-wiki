@@ -2,7 +2,7 @@
 title: Taebí-Bé Digital
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:09:57.067Z
+date: 2026-08-25T18:06:25.605Z
 tags: organização da informação
 editor: markdown
 dateCreated: 2021-12-30T12:28:28.791Z

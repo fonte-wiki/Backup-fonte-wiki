@@ -2,7 +2,7 @@
 title: Cuidado e dissenso
 description: 
 published: true
-date: 2025-07-30T05:54:52.246Z
+date: 2026-08-25T17:51:57.709Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:30:15.668Z

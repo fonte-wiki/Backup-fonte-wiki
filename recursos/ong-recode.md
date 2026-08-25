@@ -2,7 +2,7 @@
 title: ONG Recod
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:11:29.185Z
+date: 2026-08-25T17:54:51.495Z
 tags: internet, infraestrutura
 editor: markdown
 dateCreated: 2021-12-29T13:19:28.996Z

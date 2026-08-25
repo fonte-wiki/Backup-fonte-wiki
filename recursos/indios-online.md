@@ -2,7 +2,7 @@
 title: Índios Online
 description: 
 published: true
-date: 2021-11-12T14:27:04.666Z
+date: 2026-08-25T17:41:02.379Z
 tags: sebastian, índios, online
 editor: markdown
 dateCreated: 2021-10-29T14:14:14.630Z

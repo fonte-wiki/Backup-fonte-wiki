@@ -2,7 +2,7 @@
 title: Mudando por dentro
 description: 
 published: true
-date: 2021-12-07T16:40:19.296Z
+date: 2026-08-25T17:50:54.590Z
 tags: fonte-wiki
 editor: markdown
 dateCreated: 2021-12-07T16:40:12.392Z

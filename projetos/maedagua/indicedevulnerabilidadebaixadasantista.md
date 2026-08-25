@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-08-15T16:57:01.065Z
+date: 2026-08-25T18:18:28.580Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z

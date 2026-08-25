@@ -2,7 +2,7 @@
 title: Índios Online - Racismo
 description: 
 published: true
-date: 2022-01-01T11:11:30.168Z
+date: 2026-08-25T17:41:09.269Z
 tags: sebastian, índios, online, racismo
 editor: markdown
 dateCreated: 2021-10-29T14:16:14.647Z

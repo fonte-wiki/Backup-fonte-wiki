@@ -2,7 +2,7 @@
 title: Todos pela Educação 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:20:57.697Z
+date: 2026-08-25T17:53:30.568Z
 tags: educação
 editor: markdown
 dateCreated: 2021-12-29T12:38:30.720Z

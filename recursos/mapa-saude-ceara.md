@@ -2,7 +2,7 @@
 title: Mapa da Saúde (CE) 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-03T13:03:47.199Z
+date: 2026-08-25T17:58:37.487Z
 tags: plataformas, software livre
 editor: markdown
 dateCreated: 2021-12-29T14:24:39.342Z

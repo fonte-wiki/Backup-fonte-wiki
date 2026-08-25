@@ -2,7 +2,7 @@
 title: Mar das Coisas - 30/07/26
 description: 
 published: true
-date: 2026-08-22T12:44:05.177Z
+date: 2026-08-25T18:19:54.668Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-21T14:05:38.192Z
@@ -14,7 +14,7 @@ dateCreated: 2026-08-21T14:05:38.192Z
 
 ## Panorama do Dia
 
-O primeiro dia do encontro Mar das Coisas foi dedicado à chegada e instalação dos participantes na Base de Pesquisa "Clarimundo de Jesus" do Instituto Oceanográfico da USP (IOUSP), localizada na Praia do Lamberto, em Ubatuba. As atividades concentraram-se no espaço do LACO (Laboratório de Arte e Ciência Oceânica).
+O primeiro dia do encontro Mar das Coisas aconteceu na Base de Pesquisa "Clarimundo de Jesus" do Instituto Oceanográfico da USP (IOUSP), localizada na Praia do Lamberto, em Ubatuba. As atividades concentraram-se no espaço do LACO (Laboratório de Arte e Ciência Oceânica).
 
 ---
 
@@ -61,7 +61,9 @@ Apresentação de projetos, organizações e iniciativas que atuam na pesquisa, 
 
 Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circulação de materiais, redes de monitoramento e possibilidades de cooperação entre iniciativas locais.
 
+## Registros Audiovisuais
 
+* Registros em vídeo do dia 30/07 (chegada, visita aos laboratórios do IOUSP e debates) estão preservados no [Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f).
 
 ---
 
@@ -69,4 +71,5 @@ Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circula�
 
 * Anterior: [Página Inicial](/projetos/mardascoisas)
 * Próximo: [31/07 · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul)
-* [Diário de Bordo](/projetos/mardascoisas) | [Créditos das Mídias](/projetos/mardascoisas/creditos)
+* [Diário de Bordo](/projetos/mardascoisas)
+* [Créditos das Mídias](/projetos/mardascoisas/creditos)

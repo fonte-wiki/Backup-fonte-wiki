@@ -2,7 +2,7 @@
 title: Sebastian Gerlic
 description: 
 published: true
-date: 2021-11-12T14:26:28.300Z
+date: 2026-08-25T17:40:16.191Z
 tags: pessoas
 editor: markdown
 dateCreated: 2021-10-26T07:12:26.593Z

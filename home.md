@@ -2,7 +2,7 @@
 title: Página Inicial
 description: Acervo aberto de conteúdo educacional sobre políticas públicas de tecnologia e sociedade.
 published: true
-date: 2023-09-27T19:25:42.620Z
+date: 2026-08-25T17:39:34.292Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-08T17:58:25.513Z

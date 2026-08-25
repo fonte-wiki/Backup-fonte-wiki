@@ -2,7 +2,7 @@
 title: Marco Legal da Inteligência Artificial no Brasil
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:31:51.175Z
+date: 2026-08-25T17:55:48.591Z
 tags: inteligência artificial, ia, lei
 editor: markdown
 dateCreated: 2021-12-29T13:34:35.987Z

@@ -2,7 +2,7 @@
 title: Voto
 description: 
 published: true
-date: 2021-12-22T00:40:48.396Z
+date: 2026-08-25T17:52:40.407Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:40:41.890Z

@@ -2,7 +2,7 @@
 title: politize!
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:58:01.392Z
+date: 2026-08-25T17:56:52.513Z
 tags: produção de conteúdo
 editor: markdown
 dateCreated: 2021-12-29T13:49:47.330Z

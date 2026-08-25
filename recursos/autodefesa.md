@@ -2,7 +2,7 @@
 title: Autodefesa
 description: A segurança digital é o oposto da paranoia
 published: true
-date: 2022-01-05T07:37:02.601Z
+date: 2026-08-25T18:08:52.299Z
 tags: recursos, autodefesa
 editor: markdown
 dateCreated: 2022-01-05T07:36:55.633Z

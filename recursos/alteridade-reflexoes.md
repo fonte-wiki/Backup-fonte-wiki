@@ -2,7 +2,7 @@
 title: Alteridade reflexões
 description: 
 published: true
-date: 2021-12-22T00:25:40.393Z
+date: 2026-08-25T17:51:36.570Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:21:52.385Z

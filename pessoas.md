@@ -2,7 +2,7 @@
 title: Pessoas
 description: As fontes da fonte.wiki.
 published: true
-date: 2023-09-27T19:21:49.168Z
+date: 2026-08-25T17:40:07.585Z
 tags: pessoas
 editor: markdown
 dateCreated: 2021-10-26T07:06:49.250Z

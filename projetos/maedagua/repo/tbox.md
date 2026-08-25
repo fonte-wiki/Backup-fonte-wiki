@@ -2,7 +2,7 @@
 title: TBox
 description: Caixa térmica de incubação microcontrolada
 published: true
-date: 2025-08-14T19:36:41.283Z
+date: 2026-08-25T18:13:44.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-13T17:42:04.656Z

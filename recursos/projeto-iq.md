@@ -2,7 +2,7 @@
 title: Projeto IQ: Conhecimento e Resistência
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T13:47:00.175Z
+date: 2026-08-25T18:00:58.373Z
 tags: educação
 editor: markdown
 dateCreated: 2021-12-29T18:19:25.173Z

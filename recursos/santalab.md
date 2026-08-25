@@ -2,7 +2,7 @@
 title: O método Santalab
 description: 
 published: true
-date: 2021-12-07T16:42:49.195Z
+date: 2026-08-25T17:51:01.375Z
 tags: fonte-wiki, santalab
 editor: markdown
 dateCreated: 2021-12-07T16:42:42.499Z

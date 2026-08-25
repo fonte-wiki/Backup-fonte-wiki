@@ -2,7 +2,7 @@
 title: Projeto Querido Diário 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:51:02.286Z
+date: 2026-08-25T17:56:30.579Z
 tags: inteligência artificial, ia, plataformas
 editor: markdown
 dateCreated: 2021-12-29T13:43:40.059Z

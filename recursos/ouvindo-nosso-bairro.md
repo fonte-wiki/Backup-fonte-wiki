@@ -2,7 +2,7 @@
 title: Ouvindo o nosso bairro 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:22:00.608Z
+date: 2026-08-25T17:53:40.887Z
 tags: plataformas, politica participativa
 editor: markdown
 dateCreated: 2021-12-29T12:41:27.430Z

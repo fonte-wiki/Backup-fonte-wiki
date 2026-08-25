@@ -2,7 +2,7 @@
 title: Ferramentas para medir ainovação
 description: 
 published: true
-date: 2021-11-12T14:32:08.875Z
+date: 2026-08-25T17:46:58.585Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T03:01:49.696Z

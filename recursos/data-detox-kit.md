@@ -2,7 +2,7 @@
 title: Data Detox Kit
 description: Kit de Desintoxicação de Dados produzido pelo Tactical Technology Collective
 published: true
-date: 2022-08-25T12:43:28.849Z
+date: 2026-08-25T18:09:43.105Z
 tags: tactical tech, dados, comportamento, usuário, vigilância, desinformação
 editor: markdown
 dateCreated: 2022-08-25T12:43:28.849Z

@@ -2,7 +2,7 @@
 title: Escola Digital
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:19:52.279Z
+date: 2026-08-25T18:07:14.302Z
 tags: educação
 editor: markdown
 dateCreated: 2022-01-01T10:50:07.122Z

@@ -2,7 +2,7 @@
 title: Coding Rights
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:03:32.708Z
+date: 2026-08-25T18:01:05.575Z
 tags: cultura diversa
 editor: markdown
 dateCreated: 2021-12-29T18:20:59.822Z

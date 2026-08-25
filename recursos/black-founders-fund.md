@@ -2,7 +2,7 @@
 title: Black Founders Fund 
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T15:07:16.583Z
+date: 2026-08-25T18:04:15.663Z
 tags: diversidade, geração de renda
 editor: markdown
 dateCreated: 2021-12-29T19:24:25.376Z

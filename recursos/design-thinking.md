@@ -2,7 +2,7 @@
 title: Design Thinking
 description: 
 published: true
-date: 2021-12-07T16:29:45.305Z
+date: 2026-08-25T17:50:18.587Z
 tags: fonte-wiki
 editor: markdown
 dateCreated: 2021-12-07T16:29:38.596Z

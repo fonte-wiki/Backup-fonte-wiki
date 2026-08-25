@@ -2,7 +2,7 @@
 title: Tecnologias
 description: inventividades, adaptações de instrumentos e criação de novas ferramentas
 published: true
-date: 2026-07-06T22:41:02.409Z
+date: 2026-08-25T18:18:07.564Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:45:12.207Z

@@ -2,7 +2,7 @@
 title: ID21 - Natureza da Questão
 description: 
 published: true
-date: 2022-01-05T07:55:32.501Z
+date: 2026-08-25T17:49:29.370Z
 tags: id21
 editor: markdown
 dateCreated: 2021-11-09T13:04:47.638Z

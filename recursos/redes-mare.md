@@ -2,7 +2,7 @@
 title: Redes Maré
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:28:15.078Z
+date: 2026-08-25T18:07:42.187Z
 tags: cultura digital, territórios
 editor: markdown
 dateCreated: 2022-01-01T10:56:19.931Z

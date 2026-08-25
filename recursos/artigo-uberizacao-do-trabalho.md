@@ -2,7 +2,7 @@
 title: Artigo sobre Uberização do trabalho
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:46:16.883Z
+date: 2026-08-25T18:04:42.587Z
 tags: futuro do trabalho
 editor: markdown
 dateCreated: 2021-12-30T11:38:50.202Z

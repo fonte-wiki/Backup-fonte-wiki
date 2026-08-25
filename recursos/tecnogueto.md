@@ -2,7 +2,7 @@
 title: Tecnogueto 
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:01:36.991Z
+date: 2026-08-25T18:01:33.569Z
 tags: cultura, cultura diversa, diversidade
 editor: markdown
 dateCreated: 2021-12-29T18:28:49.683Z

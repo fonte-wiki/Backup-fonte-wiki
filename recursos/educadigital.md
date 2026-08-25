@@ -2,7 +2,7 @@
 title: Educadigital
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:13:56.691Z
+date: 2026-08-25T18:06:53.575Z
 tags: educação
 editor: markdown
 dateCreated: 2022-01-01T10:46:24.917Z

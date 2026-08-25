@@ -2,7 +2,7 @@
 title: Guia Conectividade Educação
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:19:14.574Z
+date: 2026-08-25T17:55:05.295Z
 tags: educação, conexao, infraestrutura
 editor: markdown
 dateCreated: 2021-12-29T13:23:08.365Z

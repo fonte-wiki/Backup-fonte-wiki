@@ -2,7 +2,7 @@
 title: Instituto Escola Conectada
 description: Referência para a pesquisa ID21: eixo Questões ID21.
 published: true
-date: 2022-01-02T13:35:39.104Z
+date: 2026-08-25T17:54:02.499Z
 tags: escolas, educação
 editor: markdown
 dateCreated: 2021-12-29T13:02:28.820Z

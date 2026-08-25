@@ -2,7 +2,7 @@
 title: Lavits
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T18:59:53.180Z
+date: 2026-08-25T18:05:43.508Z
 tags: organização da informação
 editor: markdown
 dateCreated: 2021-12-30T12:15:22.499Z

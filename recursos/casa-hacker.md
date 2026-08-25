@@ -2,7 +2,7 @@
 title: Casa Hacker
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:29:43.265Z
+date: 2026-08-25T18:07:35.773Z
 tags: cultura digital, territórios
 editor: markdown
 dateCreated: 2022-01-01T10:54:59.762Z

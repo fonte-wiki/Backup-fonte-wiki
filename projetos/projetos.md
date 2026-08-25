@@ -2,7 +2,7 @@
 title: Projetos
 description: Projetos de fonte.wiki
 published: true
-date: 2026-03-26T22:09:44.946Z
+date: 2026-08-25T18:09:20.386Z
 tags: projetos
 editor: markdown
 dateCreated: 2022-04-04T20:28:22.184Z

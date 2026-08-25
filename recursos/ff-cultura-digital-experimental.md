@@ -2,7 +2,7 @@
 title: Cultura Digital Experimental
 description: 
 published: true
-date: 2021-11-12T14:34:11.182Z
+date: 2026-08-25T17:49:15.161Z
 tags: cultura digital, cultura digital experimental, inclusão digital
 editor: markdown
 dateCreated: 2021-11-09T12:43:28.983Z

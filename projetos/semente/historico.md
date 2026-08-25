@@ -2,7 +2,7 @@
 title: semente - histórico
 description: 
 published: true
-date: 2025-02-19T19:13:20.452Z
+date: 2026-08-25T18:11:50.606Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-13T18:16:16.921Z

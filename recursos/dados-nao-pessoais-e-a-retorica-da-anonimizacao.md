@@ -2,7 +2,7 @@
 title: Dados não pessoais: a retórica da anonimização no enfrentamento à covid-19 e o privacywashing
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-03T13:11:30.094Z
+date: 2026-08-25T17:59:19.503Z
 tags: privacidade dos dados
 editor: markdown
 dateCreated: 2021-12-29T14:41:15.828Z

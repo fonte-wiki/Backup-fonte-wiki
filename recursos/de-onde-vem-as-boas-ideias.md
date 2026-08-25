@@ -2,7 +2,7 @@
 title: De onde vem as boas idéias
 description: 
 published: true
-date: 2021-12-07T16:28:03.703Z
+date: 2026-08-25T17:50:11.485Z
 tags: fonte-wiki
 editor: markdown
 dateCreated: 2021-12-07T16:27:57.083Z

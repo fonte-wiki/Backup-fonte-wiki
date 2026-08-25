@@ -2,7 +2,7 @@
 title: Lei de Internet das Coisas no Brasil 
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:29:47.477Z
+date: 2026-08-25T17:53:55.392Z
 tags: internet das coisas, lei
 editor: markdown
 dateCreated: 2021-12-29T13:00:24.268Z

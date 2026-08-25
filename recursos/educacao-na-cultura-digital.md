@@ -2,7 +2,7 @@
 title: Educação na cultura digital
 description: Ofertado pelo MEC, o curso “Especialização em Educação na Cultura Digital” quer se constituir num diálogo ativo na busca por mudanças de paradigma na educação.
 published: true
-date: 2021-11-12T14:28:30.376Z
+date: 2026-08-25T17:42:41.781Z
 tags: id21, critical data comics, ricardo ruiz, cultura digital, mec
 editor: markdown
 dateCreated: 2021-10-29T16:23:02.839Z

@@ -2,7 +2,7 @@
 title: 60+ Arte e Tecnologia 
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:21:49.908Z
+date: 2026-08-25T18:01:54.188Z
 tags: espaços de experimentação
 editor: markdown
 dateCreated: 2021-12-29T18:32:59.297Z

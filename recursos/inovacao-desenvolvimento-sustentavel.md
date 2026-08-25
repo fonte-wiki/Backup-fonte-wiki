@@ -2,7 +2,7 @@
 title: Inovação e desenvolvimento sustentavel
 description: 
 published: true
-date: 2021-11-12T14:30:56.565Z
+date: 2026-08-25T17:45:33.583Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T02:05:03.933Z

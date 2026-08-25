@@ -2,7 +2,7 @@
 title: Pesquisa sobre o Uso das Tecnologias de Informação e Comunicação nos Equipamentos Culturais Brasileiros
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:22:45.700Z
+date: 2026-08-25T17:55:19.688Z
 tags: inclusão digital, infraestrutura, cultura
 editor: markdown
 dateCreated: 2021-12-29T13:26:38.561Z

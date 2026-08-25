@@ -1,23 +1,15 @@
 ---
-title: Ciclo Tropixel: Mar das Coisas
-description: 
+title: Mar das Coisas
+description: Ciclo Tropixel: Mar das Coisas
 published: true
-date: 2026-08-22T18:12:15.713Z
+date: 2026-08-25T18:16:05.580Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
 ---
 
 
-# Tropixel Ciclos: Mar das Coisas
-
-#### Encontro sobre água, poluição e lixo no Instituto Oceanográfico da USP / Base Ubatuba
-
-### Ubatuba - 30 de Julho a 1º de Agosto de 2026
-
-![4807648_karuvadgraphy.jpg](/projetos/mardascoisas/4807648_karuvadgraphy.jpg  =100%x)
-
-Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
+# Mar das Coisas
 
 Entre os dias 30 de julho e 1º de agosto de 2026, aconteceu em Ubatuba o encontro **Mar das Coisas**. A iniciativa reuniu cientistas, artistas, estudantes, ativistas e residentes da região para três dias de debates, experimentações metodológicas e saídas a campo focadas na relação entre ciência, cultura, tecnologias abertas e dinâmicas costeiras e hídricas do território.
 
@@ -30,17 +22,19 @@ Este site reúne a documentação aberta do encontro: os registros dos debates, 
 * **Documentação e memória das atividades:**
   * [Dia 1 (30/07) · Chegada e Abertura no LACO](/projetos/mardascoisas/30-jul-laco)
   * [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul)
-  * [Dia 3 (01/08) · Saída de Campo e Oficina BARCAS](/projetos/mardascoisas/01-ago)
-* **[Rádio Mar das Coisas](/projetos/mardascoisas/radio-mdc):** Áudios, entrevistas e gravações sonoras realizadas durante as atividades.
+  * [Dia 3 (01/08) · Saída a Campo e Oficina BARCAS](/projetos/mardascoisas/01-ago)
 * **[Oficina BARCAS](/projetos/mardascoisas/oficina-barcas):** Metodologia, matrizes de trabalho e resultados da oficina de projetos.
-* **[Caderno de Anotações](/projetos/mardascoisas/caderno-de-campo):** Páginas digitalizadas e notas do caderno de bordo do encontro.
 * **[Registros de Campo & Dados](/projetos/mardascoisas/registros-e-dados):** Mapeamentos locais, identificação bioacústica de aves e notas técnicas.
 * **[Rascunho da Carta do Encontro](/projetos/mardascoisas/manifesto):** Versão preliminar da carta-manifesto.
 * **[Créditos & Galeria de Mídias](/projetos/mardascoisas/creditos):** Autoria das fotos, vídeos e termos de licenciamento aberto (Creative Commons).
 
 ---
 
-## Texto curatorial
+![4807648_karuvadgraphy.jpg](/projetos/mardascoisas/4807648_karuvadgraphy.jpg  =100%x)
+
+Imagem de <a href="https://pixabay.com/users/karuvadgraphy-13124451/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Karuvadgraphy</a> disponível no <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4807648">Pixabay</a>
+
+## Texto curatorial / convite a propostas
 
 Mar das Coisas parte da percepção de que o oceano, os rios, os manguezais e as zonas costeiras compõem uma rede material contínua de circulação. Tudo passa pela água: resíduos industriais, compostos químicos, nutrientes, microplásticos, medições, infraestruturas e decisões políticas. A água guarda, desloca e redistribui esses vestígios. Opera como um arquivo em movimento, uma superfície de inscrição do presente.
 

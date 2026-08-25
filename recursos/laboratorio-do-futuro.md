@@ -2,7 +2,7 @@
 title: Laboratório do Futuro
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T18:23:37.308Z
+date: 2026-08-25T18:04:29.484Z
 tags: futuro do trabalho
 editor: markdown
 dateCreated: 2021-12-29T19:27:24.799Z

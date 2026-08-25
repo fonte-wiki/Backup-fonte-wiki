@@ -2,7 +2,7 @@
 title: Data Privacy BR
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2021-12-29T14:36:50.576Z
+date: 2026-08-25T17:58:58.203Z
 tags: privacidade dos dados
 editor: markdown
 dateCreated: 2021-12-29T14:29:10.163Z

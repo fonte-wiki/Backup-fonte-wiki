@@ -2,7 +2,7 @@
 title: ID21 - Objetivos desejáveis
 description: 
 published: true
-date: 2022-01-05T07:57:40.282Z
+date: 2026-08-25T17:49:43.377Z
 tags: id21
 editor: markdown
 dateCreated: 2021-11-09T13:08:14.558Z

@@ -2,7 +2,7 @@
 title: ALGO - Primeiro Encontro
 description: 
 published: true
-date: 2025-09-16T05:32:23.592Z
+date: 2026-08-25T18:14:12.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T05:32:23.592Z

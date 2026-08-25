@@ -2,7 +2,7 @@
 title: Canvas
 description: 
 published: true
-date: 2021-12-07T16:26:14.100Z
+date: 2026-08-25T17:50:04.780Z
 tags: fonte-wiki
 editor: markdown
 dateCreated: 2021-12-07T16:26:07.448Z

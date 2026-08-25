@@ -2,7 +2,7 @@
 title: Shortcut 
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:49:38.465Z
+date: 2026-08-25T18:02:50.464Z
 tags: ferramentas ágeis
 editor: markdown
 dateCreated: 2021-12-29T18:41:49.243Z

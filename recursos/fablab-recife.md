@@ -2,7 +2,7 @@
 title: FabLab Recife 
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:20:45.510Z
+date: 2026-08-25T18:01:40.293Z
 tags: espaços de experimentação
 editor: markdown
 dateCreated: 2021-12-29T18:30:58.354Z

@@ -2,7 +2,7 @@
 title: Portal Brasileiro de Dados Abertos
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:10:56.571Z
+date: 2026-08-25T17:57:13.394Z
 tags: produção de conteúdo
 editor: markdown
 dateCreated: 2021-12-29T14:07:52.459Z

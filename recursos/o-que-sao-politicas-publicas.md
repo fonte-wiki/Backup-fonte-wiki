@@ -2,7 +2,7 @@
 title: O que são políticas públicas
 description: 
 published: true
-date: 2021-11-12T14:31:38.794Z
+date: 2026-08-25T17:46:23.703Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-11-01T02:39:29.292Z

@@ -2,7 +2,7 @@
 title: Guanabara
 description: 
 published: true
-date: 2026-05-01T09:00:03.364Z
+date: 2026-08-25T18:16:40.291Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T06:45:31.260Z

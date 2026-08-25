@@ -2,7 +2,7 @@
 title: Loire
 description: 
 published: true
-date: 2026-05-01T11:14:43.399Z
+date: 2026-08-25T18:17:24.377Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-01T11:14:43.399Z

@@ -2,7 +2,7 @@
 title: Listas
 description: Coleções de conteúdo educacional
 published: true
-date: 2024-09-26T09:26:45.074Z
+date: 2026-08-25T17:39:59.886Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-26T07:05:25.301Z

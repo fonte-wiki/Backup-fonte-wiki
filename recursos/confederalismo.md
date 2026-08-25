@@ -2,7 +2,7 @@
 title: Confederalismo
 description: 
 published: true
-date: 2021-12-22T00:27:52.692Z
+date: 2026-08-25T17:51:50.404Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:27:46.038Z

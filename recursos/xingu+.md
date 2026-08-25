@@ -2,7 +2,7 @@
 title: Xingu+
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:09:12.981Z
+date: 2026-08-25T18:06:18.471Z
 tags: organização da informação
 editor: markdown
 dateCreated: 2021-12-30T12:24:36.383Z

@@ -2,7 +2,7 @@
 title: Serenata de Amor fiscaliza gastos públicos no Brasil
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:46:29.966Z
+date: 2026-08-25T17:56:09.769Z
 tags: inteligência artificial, ia, plataformas
 editor: markdown
 dateCreated: 2021-12-29T13:39:30.628Z

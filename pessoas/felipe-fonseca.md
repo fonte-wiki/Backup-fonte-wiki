@@ -2,7 +2,7 @@
 title: Felipe Schmidt Fonseca
 description: 
 published: true
-date: 2026-04-18T06:39:07.249Z
+date: 2026-08-25T17:48:59.594Z
 tags: pessoas
 editor: markdown
 dateCreated: 2021-11-09T11:19:01.915Z

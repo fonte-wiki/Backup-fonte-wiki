@@ -2,7 +2,7 @@
 title: Nextcloud
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:57:07.982Z
+date: 2026-08-25T18:03:19.608Z
 tags: ferramentas ágeis
 editor: markdown
 dateCreated: 2021-12-29T18:45:58.805Z

@@ -2,7 +2,7 @@
 title: Projetos
 description: 
 published: true
-date: 2025-09-16T05:33:37.062Z
+date: 2026-08-25T18:13:22.960Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-29T09:39:18.549Z

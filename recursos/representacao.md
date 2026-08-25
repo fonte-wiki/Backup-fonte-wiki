@@ -2,7 +2,7 @@
 title: Representação
 description: 
 published: true
-date: 2021-12-22T00:35:00.388Z
+date: 2026-08-25T17:52:18.382Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:34:53.774Z

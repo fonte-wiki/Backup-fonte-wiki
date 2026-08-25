@@ -2,7 +2,7 @@
 title: Aqualtune
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:20:01.776Z
+date: 2026-08-25T18:07:07.500Z
 tags: educação
 editor: markdown
 dateCreated: 2022-01-01T10:48:54.222Z

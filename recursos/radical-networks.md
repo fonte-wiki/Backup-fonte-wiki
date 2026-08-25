@@ -2,7 +2,7 @@
 title: Radical Networks
 description: 
 published: true
-date: 2024-10-22T13:36:31.672Z
+date: 2026-08-25T18:11:08.265Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-22T13:36:31.672Z

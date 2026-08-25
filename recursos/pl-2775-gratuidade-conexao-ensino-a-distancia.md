@@ -2,7 +2,7 @@
 title: Projeto de Lei n° 2775, de 2020
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T13:49:24.877Z
+date: 2026-08-25T17:54:44.694Z
 tags: educação, internet, lei, conexao
 editor: markdown
 dateCreated: 2021-12-29T13:15:31.471Z

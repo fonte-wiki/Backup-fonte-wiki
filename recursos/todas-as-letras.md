@@ -2,7 +2,7 @@
 title: Todas as Letras
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:35:55.184Z
+date: 2026-08-25T18:08:10.696Z
 tags: geração de renda, renda distribuída
 editor: markdown
 dateCreated: 2022-01-01T11:01:29.642Z

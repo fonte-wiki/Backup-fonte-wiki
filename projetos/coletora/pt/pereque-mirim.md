@@ -2,7 +2,7 @@
 title: Perequê-Mirim
 description: 
 published: true
-date: 2026-05-04T09:15:18.679Z
+date: 2026-08-25T18:17:31.195Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T09:15:18.679Z

@@ -2,7 +2,7 @@
 title: Ação Educativa
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T13:41:50.475Z
+date: 2026-08-25T18:00:36.893Z
 tags: educação
 editor: markdown
 dateCreated: 2021-12-29T18:15:44.720Z

@@ -2,7 +2,7 @@
 title: Discourse
 description: 
 published: true
-date: 2024-10-22T13:45:16.790Z
+date: 2026-08-25T18:11:15.563Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-22T13:45:16.790Z

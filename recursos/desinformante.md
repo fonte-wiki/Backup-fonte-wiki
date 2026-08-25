@@ -2,7 +2,7 @@
 title: Desinformante: portal que aborda a desinformação no Brasil
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-08-25T12:41:01.340Z
+date: 2026-08-25T17:56:59.792Z
 tags: produção de conteúdo
 editor: markdown
 dateCreated: 2021-12-29T13:52:29.614Z

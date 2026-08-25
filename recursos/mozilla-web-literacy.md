@@ -2,7 +2,7 @@
 title: Mozilla Web Literacy
 description: Currículo sobre alfabetização web da Fundação Mozilla
 published: true
-date: 2022-01-24T13:51:07.091Z
+date: 2026-08-25T18:09:13.582Z
 tags: inclusão digital, mozilla, cursos, alfabetização digital
 editor: markdown
 dateCreated: 2022-01-24T13:51:07.091Z

@@ -2,7 +2,7 @@
 title: Interssecionalidade e gênero
 description: 
 published: true
-date: 2021-12-22T00:31:58.213Z
+date: 2026-08-25T17:52:04.807Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T00:31:51.547Z

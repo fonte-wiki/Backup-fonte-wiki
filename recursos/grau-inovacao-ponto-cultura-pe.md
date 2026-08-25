@@ -2,7 +2,7 @@
 title: Grau de Inovação de Pontos de Cultura do PE
 description: 
 published: true
-date: 2021-11-12T14:32:27.006Z
+date: 2026-08-25T17:47:19.714Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-01T03:18:47.662Z

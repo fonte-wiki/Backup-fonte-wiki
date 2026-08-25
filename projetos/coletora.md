@@ -2,7 +2,7 @@
 title: Coletora
 description: 
 published: true
-date: 2025-09-24T09:19:52.800Z
+date: 2026-08-25T18:14:19.462Z
 tags: projetos, memória, documentação
 editor: markdown
 dateCreated: 2025-09-16T05:39:31.859Z

@@ -2,7 +2,7 @@
 title: Tropixel QuantumFagia
 description: 
 published: true
-date: 2025-12-09T16:34:24.104Z
+date: 2026-08-25T18:15:44.270Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-29T19:55:24.021Z

@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2026-08-09T22:18:06.135Z
+date: 2026-08-25T18:13:08.406Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z

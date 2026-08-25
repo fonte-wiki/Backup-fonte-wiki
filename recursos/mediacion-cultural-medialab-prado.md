@@ -2,7 +2,7 @@
 title: La mediación cultural en Medialab Prado
 description: 
 published: true
-date: 2024-10-22T13:16:56.943Z
+date: 2026-08-25T18:10:33.403Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-22T13:15:54.559Z

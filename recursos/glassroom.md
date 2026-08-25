@@ -2,7 +2,7 @@
 title: Glassroom
 description: Nesta exibição, você pode explorar como as redes sociais e a internet mudaram a forma de ler informações e reagir a elas.
 published: true
-date: 2021-11-12T14:28:54.582Z
+date: 2026-08-25T17:43:09.609Z
 tags: id21, ricardo ruiz
 editor: markdown
 dateCreated: 2021-10-29T17:08:30.105Z

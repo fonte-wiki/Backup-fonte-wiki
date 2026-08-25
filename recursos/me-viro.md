@@ -2,7 +2,7 @@
 title: Me Viro
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T14:28:35.287Z
+date: 2026-08-25T18:02:15.568Z
 tags: espaços de experimentação
 editor: markdown
 dateCreated: 2021-12-29T18:36:23.785Z

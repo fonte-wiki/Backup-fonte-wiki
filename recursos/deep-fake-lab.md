@@ -2,7 +2,7 @@
 title: Deep Fake Lab
 description: 
 published: true
-date: 2021-12-08T12:33:52.094Z
+date: 2026-08-25T17:51:22.600Z
 tags: recursos, fake news, deep fake
 editor: markdown
 dateCreated: 2021-12-08T12:33:45.549Z

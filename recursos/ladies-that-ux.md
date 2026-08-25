@@ -2,7 +2,7 @@
 title: Ladies that UX
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T21:36:34.705Z
+date: 2026-08-25T18:08:24.568Z
 tags: geração de renda, renda distribuída
 editor: markdown
 dateCreated: 2022-01-01T11:04:22.711Z

@@ -2,7 +2,7 @@
 title: Modelo linear de inovação
 description: 
 published: true
-date: 2021-11-12T14:30:44.468Z
+date: 2026-08-25T17:45:19.296Z
 tags: ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T01:51:47.609Z

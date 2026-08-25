@@ -2,7 +2,7 @@
 title: A Economia Criativa no Brasil
 description: 
 published: true
-date: 2021-11-12T14:31:20.509Z
+date: 2026-08-25T17:46:02.207Z
 tags: id21, ricardo ruiz, como mensurar a inovação
 editor: markdown
 dateCreated: 2021-11-01T02:24:14.840Z

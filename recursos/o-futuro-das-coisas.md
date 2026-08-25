@@ -2,7 +2,7 @@
 title: O Futuro das Coisas
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T15:00:54.885Z
+date: 2026-08-25T17:57:06.521Z
 tags: produção de conteúdo
 editor: markdown
 dateCreated: 2021-12-29T14:06:27.573Z

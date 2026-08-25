@@ -2,7 +2,7 @@
 title: Extreme Programming
 description: Referência para a pesquisa ID21: eixo Por onde passam as soluções.
 published: true
-date: 2022-01-03T18:50:22.771Z
+date: 2026-08-25T18:05:28.497Z
 tags: gerenciamento projetos
 editor: markdown
 dateCreated: 2021-12-30T12:10:13.642Z

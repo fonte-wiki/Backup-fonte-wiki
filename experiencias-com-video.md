@@ -2,7 +2,7 @@
 title: Experiências com Vídeo
 description: 
 published: false
-date: 2021-11-12T14:33:51.884Z
+date: 2026-08-25T17:48:52.623Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-04T18:02:39.353Z

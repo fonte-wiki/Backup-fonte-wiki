@@ -2,7 +2,7 @@
 title: Deep Learning Brasil
 description: Referência para a pesquisa ID21: eixo Questões ID21
 published: true
-date: 2022-01-02T14:41:24.085Z
+date: 2026-08-25T17:56:02.462Z
 tags: inteligência artificial, ia
 editor: markdown
 dateCreated: 2021-12-29T13:37:51.243Z

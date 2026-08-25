@@ -2,7 +2,7 @@
 title: Magoito
 description: 
 published: true
-date: 2026-04-18T06:43:41.224Z
+date: 2026-08-25T18:16:33.486Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T06:43:41.224Z

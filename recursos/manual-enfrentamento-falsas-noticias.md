@@ -2,7 +2,7 @@
 title: Manual de enfrentamento de falsas notícias em tempos de cobiça
 description: Desenvolvido em parceria com a Universidade Federal do Pernambuco. Apresenta passos simples para identificar rapidamente uma notícia falsa
 published: true
-date: 2021-11-12T14:29:25.078Z
+date: 2026-08-25T17:43:46.398Z
 tags: id21, ricardo ruiz, universidade federal pernambuco, ufpe
 editor: markdown
 dateCreated: 2021-10-29T18:17:50.974Z
