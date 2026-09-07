@@ -2,7 +2,7 @@
 title: Mar das Coisas - 31/07/26
 description: 
 published: true
-date: 2026-08-25T18:41:55.789Z
+date: 2026-09-07T15:59:41.689Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:36:41.926Z
@@ -16,7 +16,7 @@ O segundo dia do Mar das Coisas articulou debates conceituais e diagnósticos pr
 
 ## Atividades Realizadas
 
-### Cartas Climáticas e Criação Coletiva
+### Manhã: Cartas Climáticas e Criação Coletiva
 Facilitada por **Fabiane M. Borges** (Psique.Space / LACO IOUSP), a dinâmica distribuiu cartas entre participantes.
 
 * Em pequenos grupos, participantes desenvolveram histórias, mitologias e cenários especulativos relacionando águas, território, futuros e memórias locais.
@@ -27,7 +27,7 @@ Facilitada por **Fabiane M. Borges** (Psique.Space / LACO IOUSP), a dinâmica di
 ![Roda ao ar livre com as cartas à beira-mar](/projetos/mardascoisas/registros/f_20260731_20260731_105944.jpg)
 *Dinâmica com o baralho de cartas de ficção e futuros, sob a sombra das árvores de frente para o mar. Foto: Doutor F / CC BY-SA 4.0*
 
-### Arte, Ciência e Materialidades da Água
+### Tarde: Arte, Ciência e Materialidades da Água
 Apresentação de pesquisas e práticas artísticas dedicadas a ambientes costeiros, infraestruturas e transformações ecológicas:
 * Malu Hatoum (UFF)
 * Mariana Vilela
