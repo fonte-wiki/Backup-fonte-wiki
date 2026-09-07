@@ -2,25 +2,10 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-07T16:56:33.865Z
+date: 2026-09-07T16:57:04.450Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
----
-
----
-title: Caderno de Anotações & Registros de Campo
-description: Fac-símiles do caderno de bordo, mapeamentos territoriais, bioacústica de aves e parâmetros ecológicos
-published: true
-date: 2026-08-24T12:00:00.000Z
-tags:
-  - caderno-de-campo
-  - dados-ambientais
-  - bioacustica
-  - merlin
-  - bacia
-editor: markdown
-dateCreated: 2026-08-20T19:00:00.000Z
 ---
 
 # Caderno de Anotações & Registros de Campo
