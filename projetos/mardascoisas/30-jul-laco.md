@@ -2,7 +2,7 @@
 title: Mar das Coisas - 30/07/26
 description: 
 published: true
-date: 2026-08-25T18:19:54.668Z
+date: 2026-09-07T15:58:18.441Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-21T14:05:38.192Z
@@ -20,7 +20,7 @@ O primeiro dia do encontro Mar das Coisas aconteceu na Base de Pesquisa "Clarimu
 
 ## Atividades Realizadas
 
-### Abertura Institucional e Visita aos Laboratórios
+### Manhã: Abertura Institucional e Visita aos Laboratórios
 
 - Apresentação das instituições organizadoras, dos objetivos do encontro e da proposta conceitual do *Tropixel: Mar das Coisas*.
 	- Fabiane M. Borges (Instituto Oceanográfico da Universidade de São Paulo - IOUSP / Laboratório de Arte e Ciência Oceânica - LACO)
@@ -39,7 +39,7 @@ O primeiro dia do encontro Mar das Coisas aconteceu na Base de Pesquisa "Clarimu
 *Visita ao LAPS. Foto: Bernardo / CC BY-SA 4.0*
 
 
-### Roda de Apresentação
+### Tarde 1: Roda de Apresentação
 
 Apresentação das experiências, práticas, pesquisas e interesses das pessoas participantes.
 
@@ -57,7 +57,7 @@ Apresentação de projetos, organizações e iniciativas que atuam na pesquisa, 
 ![Debates sobre resíduos e saneamento no território](/projetos/mardascoisas/registros/f_20260730_20260730_161511.jpg)
 *Debates sobre gestão de resíduos e desafios costeiros. Foto: Doutor F / CC BY-SA 4.0*
 
-### Roda de Conversa: Mergulho de Descontaminação
+### Tarde 2: Roda de Conversa: Mergulho de Descontaminação
 
 Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circulação de materiais, redes de monitoramento e possibilidades de cooperação entre iniciativas locais.
 
