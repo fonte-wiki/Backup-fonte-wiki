@@ -2,7 +2,7 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-07T16:11:54.577Z
+date: 2026-09-07T16:15:04.480Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
@@ -120,7 +120,12 @@ Tabela com miniaturas de todas as 154 mídias enviadas pelas e pelos participant
 
 ## 6. Rádio Mar das Coisas
 
-A **Rádio Mar das Coisas** reuniu captações de áudio, entrevistas breves, reflexões espontâneas e paisagens sonoras gravadas na Base Oceanográfica do IOUSP, na Praia do Lamberto e nos percursos de campo em Ubatuba.
+A **Rádio Mar das Coisas** foi uma gravação espontânea realizada na foz do Acaraú, passando pelos seguintes temas:
+
+- A questão do saneamento: Estudos provaram que o rio mais mais poluído é o Acaraú, justamente onde se situa a Estação de Tratamento da Sabesp. É necessário questionar a culpa atribuída às periferias urbanas.
+- Ameaças Químicas e Físicas: Alerta sobre a presença de resíduos de cocaína, anticoncepcionais e microplásticos na fauna marinha, além do perigo invisível da fibra de vidro (que age como amianto dentro do organismo humano) de barcos abandonados.
+- Narrativas como Dados: Defesa de que histórias vividas (como a parasitose rara contraída por um canoísta na baía) são dados ecológicos tão legítimos quanto medições científicas.
+- Resgate Histórico: Resgate da vitória do Movimento de Defesa de Ubatuba nos anos 80 contra uma fábrica de armas, servindo de inspiração para alimentar o repositório digital livre Acervo Vivo Ubatuba.
 
 ---
 
