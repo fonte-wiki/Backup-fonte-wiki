@@ -2,7 +2,7 @@
 title: Mar das Coisas
 description: Ciclo Tropixel: Mar das Coisas
 published: true
-date: 2026-08-25T18:42:25.399Z
+date: 2026-09-07T15:48:14.877Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -13,7 +13,7 @@ dateCreated: 2026-03-26T22:13:44.853Z
 
 Entre os dias 30 de julho e 1º de agosto de 2026, aconteceu em Ubatuba o encontro **Mar das Coisas**. A iniciativa reuniu cientistas, artistas, estudantes, ativistas e residentes da região para três dias de debates, experimentações metodológicas e saídas a campo focadas na relação entre ciência, cultura, tecnologias abertas e dinâmicas costeiras e hídricas do território.
 
-As atividades foram sediadas em dois locais: o Laboratório de Arte e Ciência Oceânica (LACO), localizado na Base Oceanográfica Clarimundo de Jesus (IOUSP), na Praia do Lamberto; e a Casa de Saúde Cultura Viva. 
+As atividades foram sediadas em dois locais: o Laboratório de Arte e Ciência Oceânica ([LACO](/projetos/mardascoisas/30-jul-laco)https://lacoiousp.wordpress.com/)), localizado na Base Oceanográfica Clarimundo de Jesus (IOUSP), na Praia do Lamberto; e a [Casa Saúde Cultura Viva](https://www.instagram.com/casasaudeculturaviva/). 
 
 Este site reúne a documentação aberta do encontro: os registros dos debates, as dinâmicas em grupo, o material fotográfico e sonoro produzido, as metodologias aplicadas, e os primeiros encaminhamentos de continuidade.
 
