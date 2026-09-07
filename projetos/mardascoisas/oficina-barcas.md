@@ -2,7 +2,7 @@
 title: Mar das Coisas - Oficina BARCAS
 description: 
 published: true
-date: 2026-09-07T16:10:44.591Z
+date: 2026-09-07T16:12:29.488Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:17:33.626Z
@@ -41,7 +41,7 @@ Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina con
 - A Rodovia-Barragem: A construção da Rio-Santos foi apontada como uma barreira física que represa as águas do mangue, causando as enchentes históricas nas Estufas e no Perequê-Açu.
 - A Farsa da Culpa: O monitoramento prático indicou que o Rio Acaraú é mais poluído logo após a Estação de Tratamento da Sabesp. Rejeitou-se a narrativa que culpa as populações vulneráveis das cabeceiras pela poluição da baía.
 
-3. O Rumo e as Rotas (Encaminhamentos Práticos)
+### 3. O Rumo e as Rotas (Encaminhamentos Práticos)
 
 - Rio como Sujeito de Direito: Proposta de articular leis para reconhecer os rios centrais (Grande, Tavares e Acaraú) como sujeitos legais de direitos.
 - Confederação Água Limpa: Aliança comunitária de longo prazo para monitoramento, ciência cidadã, arte e incidência política.
