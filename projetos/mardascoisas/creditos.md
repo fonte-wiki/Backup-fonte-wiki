@@ -2,7 +2,7 @@
 title: Mar das Coisas - Créditos
 description: 
 published: true
-date: 2026-09-11T03:19:01.921Z
+date: 2026-09-11T03:19:57.631Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:23:12.123Z
@@ -26,4 +26,4 @@ Todas as imagens publicadas nesta documentação foram registradas por participa
 
 ## Navegação
 
-* [Página Inicial](../)
+* [Página Inicial](/projetos/mardascoisas)
