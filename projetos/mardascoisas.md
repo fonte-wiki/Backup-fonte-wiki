@@ -2,7 +2,7 @@
 title: Mar das Coisas
 description: Ciclo Tropixel: Mar das Coisas
 published: true
-date: 2026-09-07T15:56:34.973Z
+date: 2026-09-11T17:21:34.048Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -23,12 +23,12 @@ Este site reúne a documentação aberta do encontro: os registros dos debates, 
   * [Dia 1 (30/07) · Chegada e Abertura no LACO](/projetos/mardascoisas/30-jul-laco)
   * [Dia 2 (31/07) · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul)
   * [Dia 3 (01/08) · Saída a Campo e Oficina BARCAS](/projetos/mardascoisas/01-ago)
+    * Observações da [bacia hidrográfica do Rio Grande de Ubatuba](/projetos/mardascoisas/riogrande)
+    * Primeiro episódio da [Rádio Mar das Coisas](/projetos/mardascoisas/radio)
 * **[Oficina BARCAS](/projetos/mardascoisas/oficina-barcas):** Metodologia, matrizes de trabalho e resultados da oficina de projetos.
 * **[Registros de Campo & Dados](/projetos/mardascoisas/registros-e-dados):** Mapeamentos locais, identificação bioacústica de aves e notas técnicas.
 * **[Rascunho da Carta do Encontro](/projetos/mardascoisas/manifesto):** Versão preliminar da carta-manifesto.
 * **[Créditos & Galeria de Mídias](/projetos/mardascoisas/creditos):** Autoria das fotos, vídeos e termos de licenciamento aberto (Creative Commons).
-
----
 
 ![4807648_karuvadgraphy.jpg](/projetos/mardascoisas/4807648_karuvadgraphy.jpg  =100%x)
 
