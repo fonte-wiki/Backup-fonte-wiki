@@ -2,7 +2,7 @@
 title: Mar das Coisas - 30/07/26
 description: 
 published: true
-date: 2026-09-07T15:58:18.441Z
+date: 2026-09-11T13:28:04.834Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-21T14:05:38.192Z
@@ -10,13 +10,9 @@ dateCreated: 2026-08-21T14:05:38.192Z
 
 # 30/07 · Chegada e Abertura no LACO
 
----
-
 ## Panorama do Dia
 
 O primeiro dia do encontro Mar das Coisas aconteceu na Base de Pesquisa "Clarimundo de Jesus" do Instituto Oceanográfico da USP (IOUSP), localizada na Praia do Lamberto, em Ubatuba. As atividades concentraram-se no espaço do LACO (Laboratório de Arte e Ciência Oceânica).
-
----
 
 ## Atividades Realizadas
 
@@ -64,8 +60,6 @@ Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circula�
 ## Registros Audiovisuais
 
 * Registros em vídeo do dia 30/07 (chegada, visita aos laboratórios do IOUSP e debates) estão preservados no [Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f).
-
----
 
 ## Navegação
 
