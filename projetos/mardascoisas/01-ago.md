@@ -2,7 +2,7 @@
 title: Mar das Coisas - 01/08/26
 description: 
 published: true
-date: 2026-09-11T17:16:02.782Z
+date: 2026-09-11T17:16:56.660Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:41:48.993Z
@@ -19,7 +19,7 @@ O terceiro dia levou o encontro Mar das Coisas para o centro de Ubatuba e para o
 ### Manhã: Percursos por Bacias Hidrográficas de Ubatuba
 Saída auto-organizada em grupos por diferentes cursos d'água da região.
 * Coleta de registros visuais, observação de pontos de descarte e infraestruturas urbanas.
-* Mapeamento de coordenadas e pontos críticos da [bacia hidrográfica do Rio Grande](/projetos/mardascoisas/riogrande);
+* Mapeamento de coordenadas e pontos críticos da [bacia hidrográfica do Rio Grande de Ubatuba](/projetos/mardascoisas/riogrande).
 * Gravação espontânea da [Rádio Mar das Coisas](/projetos/mardascoisas/radio).
 * Registro bioacústico e identificação de espécies de aves com o aplicativo *Merlin Bird ID*.
 
