@@ -2,7 +2,7 @@
 title: Mar das Coisas - 30/07/26
 description: 
 published: true
-date: 2026-09-11T13:28:04.834Z
+date: 2026-09-11T17:19:11.099Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-21T14:05:38.192Z
@@ -26,13 +26,13 @@ O primeiro dia do encontro Mar das Coisas aconteceu na Base de Pesquisa "Clarimu
 - Visita aos laboratórios do IOUSP.
 
 ![Chegada na Base Oceanográfica do IOUSP](/projetos/mardascoisas/registros/f_20260730_20260730_094051.jpg)
-*Chegada na Base de Pesquisa Clarimundo de Jesus na Praia do Lamberto. Foto: Doutor F / CC BY-SA 4.0*
+*Chegada na Base de Pesquisa Clarimundo de Jesus na Praia do Lamberto. Foto: Doutor F / CC BY 4.0*
 
 ![Apresentação e abertura no LACO](/projetos/mardascoisas/registros/katia_20260730_121731.jpg)
 *Foto: Katia Zirnberger / CC BY-SA 4.0*
 
 ![Encontros e conversas na Base](/projetos/mardascoisas/registros/bernardo_20260730_120824.jpg)
-*Visita ao LAPS. Foto: Bernardo / CC BY-SA 4.0*
+*Visita ao LAPS. Foto: Bernardo / CC BY 4.0*
 
 
 ### Tarde 1: Roda de Apresentação
@@ -51,7 +51,7 @@ Apresentação de projetos, organizações e iniciativas que atuam na pesquisa, 
 - *Moderação: Afonso Reis (LACO/IOUSP)*
 
 ![Debates sobre resíduos e saneamento no território](/projetos/mardascoisas/registros/f_20260730_20260730_161511.jpg)
-*Debates sobre gestão de resíduos e desafios costeiros. Foto: Doutor F / CC BY-SA 4.0*
+*Debates sobre gestão de resíduos e desafios costeiros. Foto: Doutor F / CC BY 4.0*
 
 ### Tarde 2: Roda de Conversa: Mergulho de Descontaminação
 
@@ -65,5 +65,3 @@ Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circula�
 
 * Anterior: [Página Inicial](/projetos/mardascoisas)
 * Próximo: [31/07 · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul)
-* [Diário de Bordo](/projetos/mardascoisas)
-* [Créditos das Mídias](/projetos/mardascoisas/creditos)
