@@ -2,7 +2,7 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-12T16:04:31.791Z
+date: 2026-09-12T16:07:27.729Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
@@ -12,6 +12,8 @@ dateCreated: 2026-08-24T19:22:14.383Z
 
 - <a href="#imagens">1. Imagens</a>
 - <a href="#audiovisual">2. Audiovisual</a>
+- <a href="#aves">3. Identificação de aves</a>
+- <a href="#caderno">4. Caderno de campo</a>
 
 ## <a id="imagens"></a>1. Galeria de Imagens
 
@@ -85,7 +87,7 @@ Acervo com todas as 154 mídias fotográficas e capturas organizadas por partici
 | ![katia_screenshot_20260801_131818_merlin_bird_id.jpg](/projetos/mardascoisas/registros/katia_screenshot_20260801_131818_merlin_bird_id.jpg)<br><sub>[`katia_screenshot_20260801_131818_merlin_bird_id.jpg`](/projetos/mardascoisas/registros/katia_screenshot_20260801_131818_merlin_bird_id.jpg)</sub> | ![katia_screenshot_20260801_131830_merlin_bird_id.jpg](/projetos/mardascoisas/registros/katia_screenshot_20260801_131830_merlin_bird_id.jpg)<br><sub>[`katia_screenshot_20260801_131830_merlin_bird_id.jpg`](/projetos/mardascoisas/registros/katia_screenshot_20260801_131830_merlin_bird_id.jpg)</sub> |  |
 
 
-### RG (7 mídias)
+### Rosana Gaeta (7 mídias)
 
 | | | |
 | :---: | :---: | :---: |
@@ -98,7 +100,7 @@ Acervo com todas as 154 mídias fotográficas e capturas organizadas por partici
 
 Todos os vídeos originais (25 clipes) e áudios estão preservados em domínio público e acesso aberto no **[Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f)**.
 
-## 3. Identificação Bioacústica de Aves (Merlin Bird ID)
+## <a id="aves"></a>3. Identificação Bioacústica de Aves
 
 Durante a saída de campo pela bacia hidrográfica em 1º de agosto de 2026, foram realizados registros bioacústicos de espécies de aves em tempo real com o aplicativo de ciência comunitária *Merlin Bird ID*:
 
@@ -116,7 +118,7 @@ Durante a saída de campo pela bacia hidrográfica em 1º de agosto de 2026, for
 
 </div>
 
-## 4. Caderno de Anotações
+## <a id="caderno"></a>4. Caderno de Anotações
 
 Esta seção reúne as páginas manuscritas do caderno de anotações mantido por Doutor F durante os três dias do encontro Mar das Coisas. O caderno registra notas conceituais, fluxogramas, dados citados nas apresentações e sínteses dos debates.
 
