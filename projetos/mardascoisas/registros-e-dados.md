@@ -2,7 +2,7 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-12T14:45:38.024Z
+date: 2026-09-12T15:59:45.518Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
@@ -10,7 +10,7 @@ dateCreated: 2026-08-24T19:22:14.383Z
 
 ## 1. Galeria de Mídias e Registros de Campo
 
-Acervo com todas as 154 mídias fotográficas e capturas organizadas por participante (clique no nome do arquivo para abrir em tamanho real):
+Acervo com todas as 154 mídias fotográficas e capturas organizadas por participantes do encontro [Mar das Coisas](https://mardascoisas.tropixel.org) (clique no nome do arquivo para abrir em tamanho real):
 
 ### Bernardo (15 mídias)
 
