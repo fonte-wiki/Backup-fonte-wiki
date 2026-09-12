@@ -2,7 +2,7 @@
 title: Mar das Coisas - Créditos
 description: 
 published: true
-date: 2026-09-11T03:19:57.631Z
+date: 2026-09-12T16:11:59.613Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:23:12.123Z
@@ -21,8 +21,7 @@ Todas as imagens publicadas nesta documentação foram registradas por participa
 
 ## Licenciamento Aberto
 
-* **Textos e Fotografias:** Licenciados sob [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR).
-* **Dados e Metodologias:** Disponibilizados em código aberto para livre consulta, replicação e aprofundamento.
+Todo o conteúdo publicado aqui está disponível com uma licença [Creative Commons Atribuição 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR) atribuída a "Mar das Coisas".
 
 ## Navegação
 
