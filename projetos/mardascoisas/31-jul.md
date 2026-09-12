@@ -2,7 +2,7 @@
 title: Mar das Coisas - 31/07/26
 description: 
 published: true
-date: 2026-09-12T15:53:01.723Z
+date: 2026-09-12T16:15:24.275Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:36:41.926Z
@@ -49,3 +49,4 @@ Apresentação de pesquisas e práticas artísticas dedicadas a ambientes costei
 
 * Anterior: [30/07 · Chegada e Abertura no LACO](/projetos/mardascoisas/30-jul-laco)
 * Próximo: [01/08 · Saída a Campo e Oficina BARCAS](/projetos/mardascoisas/01-ago)
+* [Página Inicial](https://mardascoisas.tropixel.org)
