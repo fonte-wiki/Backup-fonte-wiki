@@ -2,7 +2,7 @@
 title: Mar das Coisas
 description: Ciclo Tropixel: Mar das Coisas
 published: true
-date: 2026-09-12T15:41:27.868Z
+date: 2026-09-12T15:42:32.551Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -65,7 +65,7 @@ O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpre
 
 **SUPORTE:** Cátedra Unesco para a Sustentabilidade do Oceano (IOUSP e IEA-USP)
 
-**APOIO:** Casa de Saúde Cultura Viva
+**APOIO:** Casa Saúde Cultura Viva
 
 ![logos-todos.png](/projetos/mardascoisas/logos-todos.png =100%x)
 
