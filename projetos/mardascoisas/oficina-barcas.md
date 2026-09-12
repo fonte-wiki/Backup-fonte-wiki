@@ -2,7 +2,7 @@
 title: Mar das Coisas - Oficina BARCAS
 description: 
 published: true
-date: 2026-09-12T14:45:18.732Z
+date: 2026-09-12T15:39:19.814Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:17:33.626Z
@@ -21,7 +21,9 @@ Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, em Ubatuba, a
 
 ## Resumo da transcrição da oficina
 
-Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina conduzida por Floriana Breyer utilizou a metodologia do jogo BARCAS (uma bússola de navegação territorial) para pensar o futuro das bacias hidrográficas de Ubatuba.
+Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina conduzida por Floriana Breyer utilizou a metodologia do jogo BARCAS (uma bússola de navegação territorial) para pensar o futuro das bacias hidrográficas de Ubatuba.# Caderno de Anotações & Registros de Campo
+2
+
 
 ### 1. A Metáfora e os Tripulantes
 
@@ -46,5 +48,5 @@ Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, a oficina con
 
 ## Navegação
 
-* [Diário de Bordo do Dia 3](/projetos/mardascoisas/01-ago)
-* [Rascunho da Carta do Encontro](/projetos/mardascoisas/manifesto)
+* Anterior: [Diário de Bordo do Dia 3](/projetos/mardascoisas/01-ago)
+* Próximo: [Rascunho da Carta do Encontro](/projetos/mardascoisas/manifesto)
