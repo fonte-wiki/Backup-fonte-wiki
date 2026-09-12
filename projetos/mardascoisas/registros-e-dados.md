@@ -2,13 +2,11 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-12T14:44:18.028Z
+date: 2026-09-12T14:45:38.024Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
 ---
-
-# Caderno de Anotações & Registros de Campo
 
 ## 1. Galeria de Mídias e Registros de Campo
 
