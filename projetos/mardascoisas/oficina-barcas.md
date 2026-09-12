@@ -2,7 +2,7 @@
 title: Mar das Coisas - Oficina BARCAS
 description: 
 published: true
-date: 2026-09-12T15:39:19.814Z
+date: 2026-09-12T15:59:08.095Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:17:33.626Z
@@ -14,7 +14,7 @@ dateCreated: 2026-08-24T19:17:33.626Z
 
 A oficina **BARCAS** (*Bússola Exploradora da Regeneração Cultural, Ambiental e Social*), facilitada por **Floriana Breyer** (Biodiversas Lab), é uma dinâmica de facilitação e cocriação voltada à estruturação de alianças e projetos colaborativos de regeneração socioecológica.
 
-Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, em Ubatuba, a oficina estruturou os diagnósticos e percepções acumulados nos dias anteriores em planos de ação e propostas coletivas.
+Realizada em 1º de agosto de 2026 na Casa de Saúde Cultura Viva, em Ubatuba, a oficina estruturou os diagnósticos e percepções acumulados nos dias anteriores do encontro [Mar das Coisas](https://mardascoisas.tropixel.org) em planos de ação e propostas coletivas.
 
 ![Trabalho em pequenos grupos na Casa de Saúde Cultura Viva](/projetos/mardascoisas/registros/f_barcas_20260801_144734.jpg)
 *Grupos de trabalho desenvolvendo propostas colaborativas. Foto: Doutor F / CC BY 4.0*
