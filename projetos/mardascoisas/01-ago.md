@@ -2,7 +2,7 @@
 title: Mar das Coisas - 01/08/26
 description: 
 published: true
-date: 2026-09-12T15:53:30.384Z
+date: 2026-09-12T16:15:45.204Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:41:48.993Z
@@ -42,3 +42,5 @@ Sediada na Casa de Saúde Cultura Viva e facilitada por **Floriana Breyer** (Bio
 
 * Anterior: [31/07 · Debates Temáticos e Dinâmica em Grupos](/projetos/mardascoisas/31-jul)
 * Próximo: [Oficina BARCAS](/projetos/mardascoisas/oficina-barcas)
+* [Página Inicial](https://mardascoisas.tropixel.org)
+
