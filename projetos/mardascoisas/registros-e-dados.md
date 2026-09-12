@@ -2,13 +2,18 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-12T15:59:45.518Z
+date: 2026-09-12T16:04:31.791Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
 ---
 
-## 1. Galeria de Mídias e Registros de Campo
+## Índice
+
+- <a href="#imagens">1. Imagens</a>
+- <a href="#audiovisual">2. Audiovisual</a>
+
+## <a id="imagens"></a>1. Galeria de Imagens
 
 Acervo com todas as 154 mídias fotográficas e capturas organizadas por participantes do encontro [Mar das Coisas](https://mardascoisas.tropixel.org) (clique no nome do arquivo para abrir em tamanho real):
 
@@ -89,7 +94,7 @@ Acervo com todas as 154 mídias fotográficas e capturas organizadas por partici
 | ![rg_screenshot_20260801-133751.png](/projetos/mardascoisas/registros/rg_screenshot_20260801-133751.png)<br><sub>[`rg_screenshot_20260801-133751.png`](/projetos/mardascoisas/registros/rg_screenshot_20260801-133751.png)</sub> |  |  |
 
 
-## 2. Acervo Audiovisual
+## <a id="audiovisual"></a>2. Acervo Audiovisual
 
 Todos os vídeos originais (25 clipes) e áudios estão preservados em domínio público e acesso aberto no **[Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f)**.
 
