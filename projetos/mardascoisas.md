@@ -2,7 +2,7 @@
 title: Mar das Coisas
 description: Ciclo Tropixel: Mar das Coisas
 published: true
-date: 2026-09-11T17:21:34.048Z
+date: 2026-09-12T15:41:27.868Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-26T22:13:44.853Z
@@ -50,14 +50,11 @@ O Mar das Coisas nomeia esse campo em que matéria e informação circulam junta
 
 O [LACO – Laboratório de Arte e Ciência Oceânica](https://lacoiousp.wordpress.com/) é uma plataforma transdisciplinar que atua na intersecção entre arte, ciência e tecnologias do oceano. Realiza exposições, cursos de formação, residências artísticas e publicações científicas. Atua em diálogo direto com infraestruturas oceanográficas e territórios costeiros.
 
----
-
-Nesta edição, Tropixel e LACO se articulam na Base Oceanográfica do IOUSP em Ubatuba, estruturando o encontro em torno da água como sistema material.
-
----
 **ORGANIZAÇÃO** 
-- Felipe Schmidt Fonseca - /U.CC/ + Tropixel
+
 - Fabiane M. Borges - LACO / IOUSP
+- Felipe Schmidt Fonseca - /U.CC/ + Tropixel
+
 
 **REALIZAÇÃO**
 
