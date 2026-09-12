@@ -2,7 +2,7 @@
 title: Manifesto Mar das Coisas 2026
 description: 
 published: true
-date: 2026-09-07T16:04:27.665Z
+date: 2026-09-12T16:10:52.628Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-07T14:45:56.531Z
@@ -10,4 +10,6 @@ dateCreated: 2026-09-07T14:45:56.531Z
 
 # Carta-Manifesto Mar das Coisas
 
-A carta está em elaboração. Retorne em breve!
+Carta redigida a partir das conversas e atividades desenvolvidas durante o encontro [Mar das Coisas](https://mardascoisas.tropixel.org). Consulte o rascunho [aqui](https://www.board.net/p/r.3191d50b8940f33d87227cb7d15961ad).
+
+<iframe name="embed_readonly" src="https://www.board.net/p/r.3191d50b8940f33d87227cb7d15961ad?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height="600" frameborder="0"></iframe>
