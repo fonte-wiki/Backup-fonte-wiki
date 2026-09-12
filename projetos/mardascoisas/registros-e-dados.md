@@ -2,7 +2,7 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-12T16:07:27.729Z
+date: 2026-09-12T16:09:48.069Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
@@ -21,7 +21,7 @@ Acervo com todas as 154 mídias fotográficas e capturas organizadas por partici
 
 ### Bernardo (15 mídias)
 
-| | | |
+| | | |imagens
 | :---: | :---: | :---: |
 | ![bernardo_20260730_120824.jpg](/projetos/mardascoisas/registros/bernardo_20260730_120824.jpg)<br><sub>[`bernardo_20260730_120824.jpg`](/projetos/mardascoisas/registros/bernardo_20260730_120824.jpg)</sub> | ![bernardo_20260801_101242.jpg](/projetos/mardascoisas/registros/bernardo_20260801_101242.jpg)<br><sub>[`bernardo_20260801_101242.jpg`](/projetos/mardascoisas/registros/bernardo_20260801_101242.jpg)</sub> | ![bernardo_20260801_103624.jpg](/projetos/mardascoisas/registros/bernardo_20260801_103624.jpg)<br><sub>[`bernardo_20260801_103624.jpg`](/projetos/mardascoisas/registros/bernardo_20260801_103624.jpg)</sub> |
 | ![bernardo_20260801_103833.jpg](/projetos/mardascoisas/registros/bernardo_20260801_103833.jpg)<br><sub>[`bernardo_20260801_103833.jpg`](/projetos/mardascoisas/registros/bernardo_20260801_103833.jpg)</sub> | ![bernardo_20260801_104250.jpg](/projetos/mardascoisas/registros/bernardo_20260801_104250.jpg)<br><sub>[`bernardo_20260801_104250.jpg`](/projetos/mardascoisas/registros/bernardo_20260801_104250.jpg)</sub> | ![bernardo_20260801_104333.jpg](/projetos/mardascoisas/registros/bernardo_20260801_104333.jpg)<br><sub>[`bernardo_20260801_104333.jpg`](/projetos/mardascoisas/registros/bernardo_20260801_104333.jpg)</sub> |
@@ -140,7 +140,3 @@ Esta seção reúne as páginas manuscritas do caderno de anotações mantido po
 
 </div>
 
-
-## Navegação
-
-* [Diário de Bordo](/projetos/mardascoisas)
