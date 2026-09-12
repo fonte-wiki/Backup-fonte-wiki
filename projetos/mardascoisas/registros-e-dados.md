@@ -2,7 +2,7 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-12T16:09:48.069Z
+date: 2026-09-12T16:13:17.543Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
@@ -140,3 +140,6 @@ Esta seção reúne as páginas manuscritas do caderno de anotações mantido po
 
 </div>
 
+## Navegação
+
+* [Página Inicial](https://mardascoisas.tropixel.org)
