@@ -2,7 +2,7 @@
 title: Mar das Coisas - Créditos
 description: 
 published: true
-date: 2026-09-12T16:11:59.613Z
+date: 2026-09-12T16:12:23.264Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:23:12.123Z
@@ -25,4 +25,4 @@ Todo o conteúdo publicado aqui está disponível com uma licença [Creative Com
 
 ## Navegação
 
-* [Página Inicial](/projetos/mardascoisas)
+* [Página Inicial](https://mardascoisas.tropixel.org)
