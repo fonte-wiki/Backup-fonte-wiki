@@ -2,7 +2,7 @@
 title: Mar das Coisas - 30/07/26
 description: 
 published: true
-date: 2026-09-12T16:15:00.361Z
+date: 2026-09-13T14:01:36.366Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-21T14:05:38.192Z
@@ -57,9 +57,9 @@ Apresentação de projetos, organizações e iniciativas que atuam na pesquisa, 
 
 Discussão aberta sobre resíduos sólidos, contaminação, saneamento, circulação de materiais, redes de monitoramento e possibilidades de cooperação entre iniciativas locais.
 
-## Registros Audiovisuais
+## Registros
 
-* Registros em vídeo do dia 30/07 (chegada, visita aos laboratórios do IOUSP e debates) estão preservados no [Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f).
+* Mais registros em vídeo do dia 30/07 (chegada, visita aos laboratórios do IOUSP e debates) estão preservados no [Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f) e na [galeria de fotos do encontro](/projetos/mardascoisas/registros-e-dados)
 
 ## Navegação
 
