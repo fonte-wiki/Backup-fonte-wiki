@@ -2,7 +2,7 @@
 title: Mar das Coisas - 01/08/26
 description: 
 published: true
-date: 2026-09-13T14:05:50.106Z
+date: 2026-09-13T14:09:01.215Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:41:48.993Z
@@ -23,7 +23,7 @@ Saída auto-organizada em grupos por diferentes cursos d'água da região.
 * Gravação espontânea da [Rádio Mar das Coisas](/projetos/mardascoisas/radio).
 * Registro bioacústico e identificação de espécies de aves com o aplicativo *Merlin Bird ID*.
 
-![Percurso de observação no Rio Acaraú](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103455.jpg)
+![Percurso de observação no Rio Acaraú](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110810.jpg)
 *Observação da foz do Rio Acaraú durante a saída de campo. Foto: Doutor F / CC BY 4.0*
 
 ### Tarde: Oficina BARCAS
