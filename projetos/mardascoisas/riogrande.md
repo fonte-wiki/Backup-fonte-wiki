@@ -2,7 +2,7 @@
 title: Bacia Hidrográfica do Rio Grande de Ubatuba
 description: 
 published: true
-date: 2026-09-13T15:02:50.537Z
+date: 2026-09-13T15:12:00.820Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-11T17:22:41.525Z
@@ -34,16 +34,14 @@ Para as observações, uma sugestão de conjunto de perguntas foi colocada:
 
 ### Foz do Rio Acaraú
 
-*[Ponto OSM](https://osm.org/go/M~7uJvlgJ--?layers=N)*
-
-
-https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/acarau-foz-TL.mp4
-
-https://ia800600.us.archive.org/32/items/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_acarau_20260801_110150.ia.mp4
-
+<video controls>
+  <source src="https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/acarau-foz-TL.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Anotações Doutor F:
 
+- *[Ponto OSM](https://osm.org/go/M~7uJvlgJ--?layers=N)*
 - Já estive aqui. Já estivemos aqui. Esse rio ainda é o mesmo. Essa água não é mais a mesma. Nunca é.
 - Notoriamente poluído. Todo mundo sabe. Será? Registros e estudos: resgatar, desenterrar (reemergir?)
 - Água turva, esverdeada.
@@ -52,6 +50,11 @@ Anotações Doutor F:
 - Gravação da [rádio Mar das Coisas](/projetos/mardascoisas/radio): cocaína, anticoncepcionais, microplásticos.
 - SABESP antes/depois.
 - CETESB - série histórica.
+
+<video controls>
+  <source src="https://ia800600.us.archive.org/32/items/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_acarau_20260801_110150.ia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 | | | |
 | :---: | :---: | :---: |
@@ -65,21 +68,34 @@ Anotações Doutor F:
 
 ### Foz do Rio Tavares
 
-*[Ponto OSM](https://osm.org/go/M~7uH5O4s--?layers=N)*
-
-https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/tavares-foz-TL.mp4
+<video controls>
+  <source src="https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/tavares-foz-TL.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 Anotações Doutor F:
 
+- *[Ponto OSM](https://osm.org/go/M~7uH5O4s--?layers=N)*
 - Água transparente. Um pedaço de roupa parece estar preso na areia.
 - A areia parece mais limpa do que no Acaraú.
 - Alta circulação de turistas, ao lado do Aquário.
 - Pássaros presentes.
 - Em uma peça de teatro da bacia do Rio Grande, seria a personagem mais quieta.
 
-https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114558.ia.mp4
-https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114618.ia.mp4
-https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114640.ia.mp4
+
+<video controls>
+  <source src="https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114558.ia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<video controls>
+  <source src="https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114618.ia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<video controls>
+  <source src="https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114640.ia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 | | | |
@@ -96,7 +112,10 @@ https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tav
 - Água turva, puxando para o marrom.
 - Muitos pássaros entre a ilha e o mangue.
 
-https://ia600600.us.archive.org/32/items/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_riogrande_20260801_120951.ia.mp4
+<video controls>
+  <source src="https://ia600600.us.archive.org/32/items/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_riogrande_20260801_120951.ia.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 | | | |
 | :---: | :---: | :---: |
