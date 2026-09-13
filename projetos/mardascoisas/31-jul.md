@@ -2,7 +2,7 @@
 title: Mar das Coisas - 31/07/26
 description: 
 published: true
-date: 2026-09-12T16:15:24.275Z
+date: 2026-09-13T14:02:55.295Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:36:41.926Z
@@ -39,9 +39,9 @@ Apresentação de pesquisas e práticas artísticas dedicadas a ambientes costei
 
 ---
 
-## Registros Audiovisuais
+## Registros
 
-* Registros em vídeo do dia 31/07 (dinâmica das cartas na grama à beira-mar e debates de arte/ciência no LACO) estão preservados no [Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f).
+* Mais registros do dia 31/07 (dinâmica das cartas na grama à beira-mar e debates de arte/ciência no LACO) estão preservados no [Internet Archive](https://archive.org/details/mar-das-coisas-2026-ubatuba-doutor-f) e na [galeria de fotos do encontro](/projetos/mardascoisas/registros-e-dados).
 
 ---
 
