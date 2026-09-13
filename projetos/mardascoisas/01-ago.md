@@ -2,7 +2,7 @@
 title: Mar das Coisas - 01/08/26
 description: 
 published: true
-date: 2026-09-12T16:15:45.204Z
+date: 2026-09-13T14:05:50.106Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-22T12:41:48.993Z
@@ -35,8 +35,12 @@ Sediada na Casa de Saúde Cultura Viva e facilitada por **Floriana Breyer** (Bio
 ![Matrizes e trabalho em grupo na oficina BARCAS](/projetos/mardascoisas/registros/f_barcas_20260801_160707.jpg)
 *Construção coletiva de matrizes e propostas de regeneração. Foto: Doutor F / CC BY 4.0*
 
+## Registros
 
----
+* [Bacia do Rio Grande de Ubatuba](/projetos/mardascoisas/riogrande)
+* [Oficina BARCAS](/projetos/mardascoisas/oficina-barcas)
+* [Rádio Mar das Coisas #1](/projetos/mardascoisas/radio)
+* Mais registros do dia 01/08 estão preservados na [galeria de fotos do encontro](/projetos/mardascoisas/registros-e-dados).
 
 ## Navegação
 
