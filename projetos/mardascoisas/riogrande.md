@@ -2,7 +2,7 @@
 title: Bacia Hidrográfica do Rio Grande de Ubatuba
 description: 
 published: true
-date: 2026-09-13T15:16:22.071Z
+date: 2026-09-13T15:21:37.336Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-11T17:22:41.525Z
@@ -44,7 +44,7 @@ Anotações Doutor F:
 - *[Ponto OSM](https://osm.org/go/M~7uJvlgJ--?layers=N)*
 - Já estive aqui. Já estivemos aqui. Esse rio ainda é o mesmo. Essa água não é mais a mesma. Nunca é.
 - Notoriamente poluído. Todo mundo sabe. Será? Registros e estudos: resgatar, desenterrar (reemergir?)
-- Água turva, esverdeada.
+- Água turva, puxando para o marrom.
 - Circulação de pessoas praticando esportes.
 - Presença de lixo e de animais.
 - Gravação da [rádio Mar das Coisas](/projetos/mardascoisas/radio): cocaína, anticoncepcionais, microplásticos.
@@ -110,7 +110,7 @@ Your browser does not support the video tag.
 - Ponto de saída dos barcos de pesca.
 - Ao lado da Ilha dos Pescadores - mercado, peixarias, restaurantes.
 - Pesca com linha direto no local.
-- Água turva, puxando para o marrom.
+- Água turva, esverdeada.
 - Muitos pássaros entre a ilha e o mangue.
 
 <video controls>
