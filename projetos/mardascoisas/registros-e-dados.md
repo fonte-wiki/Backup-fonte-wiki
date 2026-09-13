@@ -2,11 +2,13 @@
 title: Mar das Coisas - Registros e Dados
 description: 
 published: true
-date: 2026-09-12T16:13:17.543Z
+date: 2026-09-13T14:17:11.814Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-24T19:22:14.383Z
 ---
+
+Materiais gerados durante o encontro [Mar das Coisas](https://mardascoisas.tropixel.org)
 
 ## Índice
 
