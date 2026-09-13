@@ -2,7 +2,7 @@
 title: Bacia Hidrográfica do Rio Grande de Ubatuba
 description: 
 published: true
-date: 2026-09-13T14:50:35.302Z
+date: 2026-09-13T14:58:58.817Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-11T17:22:41.525Z
@@ -47,6 +47,16 @@ Anotações Doutor F:
 - SABESP antes/depois.
 - CETESB - série histórica.
 
+| | | |
+| :---: | :---: | :---: |
+| ![f_bacia_acarau_20260801_100417.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_100417.jpg)<br><sub>[`f_bacia_acarau_20260801_100417.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_100417.jpg)</sub> | ![f_bacia_acarau_20260801_103259.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103259.jpg)<br><sub>[`f_bacia_acarau_20260801_103259.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103259.jpg)</sub> | ![f_bacia_acarau_20260801_103317.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103317.jpg)<br><sub>[`f_bacia_acarau_20260801_103317.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103317.jpg)</sub> |
+| ![f_bacia_acarau_20260801_103321.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103321.jpg)<br><sub>[`f_bacia_acarau_20260801_103321.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103321.jpg)</sub> | ![f_bacia_acarau_20260801_103338.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103338.jpg)<br><sub>[`f_bacia_acarau_20260801_103338.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103338.jpg)</sub> | ![f_bacia_acarau_20260801_103347.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103347.jpg)<br><sub>[`f_bacia_acarau_20260801_103347.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103347.jpg)</sub> |
+| ![f_bacia_acarau_20260801_103433.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103433.jpg)<br><sub>[`f_bacia_acarau_20260801_103433.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103433.jpg)</sub> | ![f_bacia_acarau_20260801_103455.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103455.jpg)<br><sub>[`f_bacia_acarau_20260801_103455.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103455.jpg)</sub> | ![f_bacia_acarau_20260801_103459.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103459.jpg)<br><sub>[`f_bacia_acarau_20260801_103459.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103459.jpg)</sub> |
+| ![f_bacia_acarau_20260801_103718.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103718.jpg)<br><sub>[`f_bacia_acarau_20260801_103718.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_103718.jpg)</sub> | ![f_bacia_acarau_20260801_110447.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110447.jpg)<br><sub>[`f_bacia_acarau_20260801_110447.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110447.jpg)</sub> | ![f_bacia_acarau_20260801_110450.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110450.jpg)<br><sub>[`f_bacia_acarau_20260801_110450.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110450.jpg)</sub> |
+| ![f_bacia_acarau_20260801_110810.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110810.jpg)<br><sub>[`f_bacia_acarau_20260801_110810.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110810.jpg)</sub> | ![f_bacia_acarau_20260801_110813.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110813.jpg)<br><sub>[`f_bacia_acarau_20260801_110813.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110813.jpg)</sub> | ![f_bacia_acarau_20260801_110924.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110924.jpg)<br><sub>[`f_bacia_acarau_20260801_110924.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_110924.jpg)</sub> |
+| ![f_bacia_acarau_20260801_111304.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_111304.jpg)<br><sub>[`f_bacia_acarau_20260801_111304.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_111304.jpg)</sub> | ![f_bacia_acarau_20260801_111526.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_111526.jpg)<br><sub>[`f_bacia_acarau_20260801_111526.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_111526.jpg)</sub> | ![f_bacia_acarau_20260801_112042.jpg](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_112042.jpg)<br><sub>[`f_bacia_acarau_20260801_112042.jpg`](/projetos/mardascoisas/registros/f_bacia_acarau_20260801_112042.jpg)</sub> |
+
+
 ### Foz do Rio Tavares
 
 *[Ponto OSM](https://osm.org/go/M~7uH5O4s--?layers=N)*
@@ -59,6 +69,10 @@ Anotações Doutor F:
 - Pássaros presentes.
 - Em uma peça de teatro da bacia do Rio Grande, seria a personagem mais quieta.
 
+| | | |
+| :---: | :---: | :---: |
+| ![f_bacia_tavares_20260801_113712.jpg](/projetos/mardascoisas/registros/f_bacia_tavares_20260801_113712.jpg)<br><sub>[`f_bacia_tavares_20260801_113712.jpg`](/projetos/mardascoisas/registros/f_bacia_tavares_20260801_113712.jpg)</sub> | ![f_bacia_tavares_20260801_114512.jpg](/projetos/mardascoisas/registros/f_bacia_tavares_20260801_114512.jpg)<br><sub>[`f_bacia_tavares_20260801_114512.jpg`](/projetos/mardascoisas/registros/f_bacia_tavares_20260801_114512.jpg)</sub> | ![f_bacia_tavares_20260801_114710.jpg](/projetos/mardascoisas/registros/f_bacia_tavares_20260801_114710.jpg)<br><sub>[`f_bacia_tavares_20260801_114710.jpg`](/projetos/mardascoisas/registros/f_bacia_tavares_20260801_114710.jpg)</sub> |
+
 ### Foz do Rio Grande
 
 *[Ponto OSM](https://osm.org/go/M~7uWjx0E--?layers=N)*
@@ -68,3 +82,11 @@ Anotações Doutor F:
 - Pesca com linha direto no local.
 - Água turva, puxando para o marrom.
 - Muitos pássaros entre a ilha e o mangue.
+
+| | | |
+| :---: | :---: | :---: |
+| ![f_bacia_riogrande_20260801_120915.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_120915.jpg)<br><sub>[`f_bacia_riogrande_20260801_120915.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_120915.jpg)</sub> | ![f_bacia_riogrande_20260801_120920.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_120920.jpg)<br><sub>[`f_bacia_riogrande_20260801_120920.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_120920.jpg)</sub> | ![f_bacia_riogrande_20260801_120935.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_120935.jpg)<br><sub>[`f_bacia_riogrande_20260801_120935.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_120935.jpg)</sub> |
+| ![f_bacia_riogrande_20260801_120939.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_120939.jpg)<br><sub>[`f_bacia_riogrande_20260801_120939.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_120939.jpg)</sub> | ![f_bacia_riogrande_20260801_121101.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_121101.jpg)<br><sub>[`f_bacia_riogrande_20260801_121101.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_121101.jpg)</sub> | ![f_bacia_riogrande_20260801_132815.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132815.jpg)<br><sub>[`f_bacia_riogrande_20260801_132815.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132815.jpg)</sub> |
+| ![f_bacia_riogrande_20260801_132822.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132822.jpg)<br><sub>[`f_bacia_riogrande_20260801_132822.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132822.jpg)</sub> | ![f_bacia_riogrande_20260801_132825.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132825.jpg)<br><sub>[`f_bacia_riogrande_20260801_132825.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132825.jpg)</sub> | ![f_bacia_riogrande_20260801_132833.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132833.jpg)<br><sub>[`f_bacia_riogrande_20260801_132833.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132833.jpg)</sub> |
+| ![f_bacia_riogrande_20260801_132844.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132844.jpg)<br><sub>[`f_bacia_riogrande_20260801_132844.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132844.jpg)</sub> | ![f_bacia_riogrande_20260801_132847.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132847.jpg)<br><sub>[`f_bacia_riogrande_20260801_132847.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132847.jpg)</sub> | ![f_bacia_riogrande_20260801_132906.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132906.jpg)<br><sub>[`f_bacia_riogrande_20260801_132906.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132906.jpg)</sub> |
+| ![f_bacia_riogrande_20260801_132920.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132920.jpg)<br><sub>[`f_bacia_riogrande_20260801_132920.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_132920.jpg)</sub> | ![f_bacia_riogrande_20260801_133541.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_133541.jpg)<br><sub>[`f_bacia_riogrande_20260801_133541.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_133541.jpg)</sub> | ![f_bacia_riogrande_20260801_133620.jpg](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_133620.jpg)<br><sub>[`f_bacia_riogrande_20260801_133620.jpg`](/projetos/mardascoisas/registros/f_bacia_riogrande_20260801_133620.jpg)</sub> |
