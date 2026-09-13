@@ -2,7 +2,7 @@
 title: Bacia Hidrográfica do Rio Grande de Ubatuba
 description: 
 published: true
-date: 2026-09-13T14:58:58.817Z
+date: 2026-09-13T15:02:50.537Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-11T17:22:41.525Z
@@ -36,6 +36,12 @@ Para as observações, uma sugestão de conjunto de perguntas foi colocada:
 
 *[Ponto OSM](https://osm.org/go/M~7uJvlgJ--?layers=N)*
 
+
+https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/acarau-foz-TL.mp4
+
+https://ia800600.us.archive.org/32/items/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_acarau_20260801_110150.ia.mp4
+
+
 Anotações Doutor F:
 
 - Já estive aqui. Já estivemos aqui. Esse rio ainda é o mesmo. Essa água não é mais a mesma. Nunca é.
@@ -61,6 +67,8 @@ Anotações Doutor F:
 
 *[Ponto OSM](https://osm.org/go/M~7uH5O4s--?layers=N)*
 
+https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/tavares-foz-TL.mp4
+
 Anotações Doutor F:
 
 - Água transparente. Um pedaço de roupa parece estar preso na areia.
@@ -68,6 +76,11 @@ Anotações Doutor F:
 - Alta circulação de turistas, ao lado do Aquário.
 - Pássaros presentes.
 - Em uma peça de teatro da bacia do Rio Grande, seria a personagem mais quieta.
+
+https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114558.ia.mp4
+https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114618.ia.mp4
+https://archive.org/download/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_tavares_20260801_114640.ia.mp4
+
 
 | | | |
 | :---: | :---: | :---: |
@@ -82,6 +95,8 @@ Anotações Doutor F:
 - Pesca com linha direto no local.
 - Água turva, puxando para o marrom.
 - Muitos pássaros entre a ilha e o mangue.
+
+https://ia600600.us.archive.org/32/items/mar-das-coisas-2026-ubatuba-doutor-f/f_20260801_riogrande_20260801_120951.ia.mp4
 
 | | | |
 | :---: | :---: | :---: |
