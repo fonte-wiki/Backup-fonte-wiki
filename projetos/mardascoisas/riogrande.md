@@ -2,7 +2,7 @@
 title: Bacia Hidrográfica do Rio Grande de Ubatuba
 description: 
 published: true
-date: 2026-09-13T15:21:37.336Z
+date: 2026-09-14T12:04:42.304Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-11T17:22:41.525Z
@@ -41,7 +41,7 @@ Your browser does not support the video tag.
 
 Anotações Doutor F:
 
-- *[Ponto OSM](https://osm.org/go/M~7uJvlgJ--?layers=N)*
+- &#x1F4CD; *[Ponto OSM](https://osm.org/go/M~7uJvlgJ--?layers=N)*
 - Já estive aqui. Já estivemos aqui. Esse rio ainda é o mesmo. Essa água não é mais a mesma. Nunca é.
 - Notoriamente poluído. Todo mundo sabe. Será? Registros e estudos: resgatar, desenterrar (reemergir?)
 - Água turva, puxando para o marrom.
@@ -76,7 +76,7 @@ Your browser does not support the video tag.
 
 Anotações Doutor F:
 
-- *[Ponto OSM](https://osm.org/go/M~7uH5O4s--?layers=N)*
+- &#x1F4CD; *[Ponto OSM](https://osm.org/go/M~7uH5O4s--?layers=N)*
 - Água transparente. Um pedaço de roupa parece estar preso na areia.
 - A areia parece mais limpa do que no Acaraú.
 - Alta circulação de turistas, ao lado do Aquário.
@@ -105,9 +105,8 @@ Your browser does not support the video tag.
 
 ### Foz do Rio Grande
 
-*[Ponto OSM](https://osm.org/go/M~7uWjx0E--?layers=N)*
-
-- Ponto de saída dos barcos de pesca.
+* &#x1F4CD; *[Ponto OSM](https://osm.org/go/M~7uWjx0E--?layers=N)*
+- Ponto de saída de barcos de pesca.
 - Ao lado da Ilha dos Pescadores - mercado, peixarias, restaurantes.
 - Pesca com linha direto no local.
 - Água turva, esverdeada.
