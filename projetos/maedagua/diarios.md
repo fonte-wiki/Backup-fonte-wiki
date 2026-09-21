@@ -2,7 +2,7 @@
 title: Diários de Pesquisa
 description: 
 published: true
-date: 2026-08-25T18:12:25.666Z
+date: 2026-09-21T11:41:08.903Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-12T11:14:10.952Z
@@ -19,3 +19,4 @@ dateCreated: 2025-07-12T11:14:10.952Z
 ## 2026
 - [Maio](/projetos/maedagua/diarios/2026-05)
 - [Junho](/projetos/maedagua/diarios/2026-06)
+- [Setembro](/projetos/maedagua/diarios/2026-09)
