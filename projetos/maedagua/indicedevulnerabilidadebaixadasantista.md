@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-10-14T23:10:24.914Z
+date: 2026-10-14T23:19:40.512Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -28,6 +28,10 @@ A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municí
 
 Cada variável foi colocada em uma escala de 0 a 100, em que 100 significa a situação mais vulnerável. Como o IPS já possui uma escala numérica, apenas invertemos. Para o nível do mar e a poluição aplicamos classificações (baixo, moderado, alto, crítico), e para cada classificação atribuímos um valor nessa escala. A medida de 0 a 100 não é uma unidade física, como metros ou toneladas: é uma régua criada para que tipos de dados diferentes possam ser comparados e somados. O índice final é a média das quatro variáveis, todas com o mesmo peso, 25% cada. Esses pesos foram confirmados pela coordenação do projeto.
 
+![ipstabela.png](/projetos/maedagua/ipstabela.png)
+
+**Limites do Índice de Vulnerabilidade Costeira**
+O IPS, os dados referente ao aumento do nível do mar e de poluição têm base sólida e específica para cada município. Porém o estresse térmico é uma variável menos precisa, por falta de estações de medição em cada cidade.
 
 Com isso, criamos uma leitura crítica de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonoro: quanto mais grave a situação, mais grave (literalmente) o som.
 
