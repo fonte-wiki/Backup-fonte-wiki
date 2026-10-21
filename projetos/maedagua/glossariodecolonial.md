@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-10-21T19:36:32.676Z
+date: 2026-10-21T19:40:55.081Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
