@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-10-15T01:02:47.727Z
+date: 2026-10-21T19:20:48.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -26,7 +26,7 @@ A forma como ocorreu a ocupação do território, a exploração dos recursos na
 
 Não só a construção dessa materialidade, mas a própria história também foi contada sob uma narrativa eurocentrista, branca, colonial. Sobrepondo e silenciando a memória e a história das populações locais, traficadas e escravizadas. 
 
-O quadro ["A Fundação de São Vicente"](https://revistas.usp.br/anaismp/pt_BR/article/view/149934), traz a força desse simbolismo. Hoje, sediado no [Museu Paulista](https://museudoipiranga.org.br/palestra-representando-as-origens-as-fundacoes-de-sao-paulo-e-sao-vicente-na-pintura-1900-a-1954/) em uma sala suntuosa com molduras douradas, longe de seu local de "captura", a própria Praça 22 de Janeiro, em São Vicente - hoje sucateada, povoada por pessoas e animais em situação de rua. Uma realidade muito distante da precária [Casa de Martim Afonso](https://maps.app.goo.gl/W7p2jH3qGM1BTcJRA), mal conservada, esquecida. Atualmente (em 2026), a Praça está passando por uma reforma financiada pelo BNDES, que também está financiando projetos para [Resiliência Climática](https://agenciadenoticias.bndes.gov.br/socioambiental/BNDES-aprova-R$-200-milhoes-para-projeto-de-resiliencia-climatica-em-Santos-SP/) na região.
+O quadro ["A Fundação de São Vicente"](https://revistas.usp.br/anaismp/pt_BR/article/view/149934), traz a força deste simbolismo. Hoje, sediado no [Museu Paulista](https://museudoipiranga.org.br/palestra-representando-as-origens-as-fundacoes-de-sao-paulo-e-sao-vicente-na-pintura-1900-a-1954/) em uma sala suntuosa com molduras douradas, longe de seu local de "captura", a própria Praça 22 de Janeiro, em São Vicente - hoje sucateada, povoada por pessoas e animais em situação de rua. Uma realidade muito distante da precária [Casa de Martim Afonso](https://maps.app.goo.gl/W7p2jH3qGM1BTcJRA), mal conservada, esquecida. Atualmente (em 2026), a Praça está passando por uma reforma financiada pelo BNDES, que também está financiando projetos para [Resiliência Climática](https://agenciadenoticias.bndes.gov.br/socioambiental/BNDES-aprova-R$-200-milhoes-para-projeto-de-resiliencia-climatica-em-Santos-SP/) na região.
 
 ![fsvc.png](/projetos/maedagua/fsvc.png)
 
