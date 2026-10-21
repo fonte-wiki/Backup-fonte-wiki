@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-10-21T19:27:13.326Z
+date: 2026-10-21T19:29:50.737Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -39,7 +39,7 @@ Esse contexto revela uma história presa em [palácios-mortos](https://www.goeth
 
 Aqui, propomos a sumarização dos itens da obra Fundação de São Vicente, criando novos verbetes e novas narrativas no que chamamos de **Terra Rara: Glossário Decolonial Colaborativo**. 
 
-Uma versão crítica da própria antropofagia, que questiona: [devemos nos apropriar de tudo aquilo que nos surge, ou podemos soltar e buscar outras referências?](https://www.uol.com.br/nossa/noticias/redacao/2021/07/02/conheca-hans-staden-o-alemao-que-quase-foi-comido-por-indios-brasileiros.htm0). Para isso, vamos remontar a tela como um jogo vivo, editável, mutante. Todo o processo será abrigado e disponibilizado na ZASF Ipupiara, como memória viva desse território.
+Uma versão crítica da própria antropofagia, que propõe o questionamento: [devemos nos apropriar de tudo aquilo que nos surge, ou podemos soltar e buscar outras referências?](https://www.uol.com.br/nossa/noticias/redacao/2021/07/02/conheca-hans-staden-o-alemao-que-quase-foi-comido-por-indios-brasileiros.htm0). Para isso, vamos remontar a tela como um jogo vivo, editável, mutante. Todo o processo será abrigado e disponibilizado na ZASF Ipupiara, como memória viva desse território.
 
 
 ## **Como fizemos**
