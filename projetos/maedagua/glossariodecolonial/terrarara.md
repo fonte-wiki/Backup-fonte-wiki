@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: true
-date: 2026-08-25T18:17:53.379Z
+date: 2026-10-21T18:50:54.648Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-06T22:15:01.576Z
@@ -12,7 +12,7 @@ dateCreated: 2026-06-06T22:15:01.576Z
 
 > *Minha terra tem palmeiras, onde canta o sabiá. As aves, que aqui gorjeiam, não gorjeiam como lá.* **Canção do Exílio**. [Gonçalves Dias](https://www.academia.org.br/academicos/goncalves-dias/biografia), 1843.
 
-Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um dia de verão, de janeiro de 1532. O céu azul, os pássaros, as praias, a moldura da Mata Atlântica. Um novo mundo com tantos itens possíveis de extração e comercialização. Tantos anos depois, faz sentido questiornamos [o que é exótico, o que é nativo? Ou tudo foi remixado? brazilizado?](https://press.uchicago.edu/ucp/books/book/chicago/E/bo251331251.html)
+Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um dia de verão, de janeiro de 1532. O céu azul, os pássaros, as praias, a moldura da Mata Atlântica. Um novo mundo com tantos itens possíveis de extração e comercialização. Tantos anos depois, faz sentido questionarmos [o que é exótico, o que é nativo? Ou tudo foi remixado? brazilizado?](https://press.uchicago.edu/ucp/books/book/chicago/E/bo251331251.html)
 
 
 **Área desértica (invasores destruíram)**: adjetivo. Que se assemelha ao deserto; diz-se daquilo que tem propriedades semelhantes às do deserto: terreno desértico. Por Extensão: Despovoado; sem povoação, habitantes; sem vida.
