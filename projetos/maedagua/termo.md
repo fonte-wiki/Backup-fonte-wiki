@@ -2,7 +2,7 @@
 title: Termo Atividades Extensionistas - Participação e Imagem
 description: Termo participação e imagem: Glossário Decolonial/ProComum
 published: true
-date: 2026-10-23T19:09:16.943Z
+date: 2026-10-23T19:12:06.995Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-09T17:54:46.817Z
