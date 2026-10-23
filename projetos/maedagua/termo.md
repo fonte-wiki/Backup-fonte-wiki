@@ -2,7 +2,7 @@
 title: Termo Atividades Extensionistas - Participação e Imagem
 description: Termo participação e imagem: Glossário Decolonial/ProComum
 published: true
-date: 2026-10-23T19:12:06.995Z
+date: 2026-10-23T20:18:51.901Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-09T17:54:46.817Z
@@ -27,6 +27,6 @@ Acreditamos que essas atividades não vão trazer risco ou desconforto, mas esta
 
 Sua participação na atividade é totalmente voluntária, ou seja, não é obrigatória. Caso decida não participar, ou ainda, desistir de participar não haverá problema. Caso tenha qualquer dúvida, a qualquer momento, poderá nos contatar.
 
-Com isso, fica autorizada a utilização das respostas e colagens/intervenções para composição da obra extensionista, de forma integral ou parcial, desde que relacionada aos fins e objetivos da atividade, por tempo indeterminado.
+Com isso, fica autorizada a utilização da imagem (como relato documental), respostas e colagens/intervenções para composição da obra extensionista, de forma integral ou parcial, desde que relacionada aos fins e objetivos da atividade, por tempo indeterminado.
 
 
