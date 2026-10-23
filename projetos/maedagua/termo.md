@@ -2,7 +2,7 @@
 title: Termo Atividades Extensionistas - Participação e Imagem
 description: Termo participação e imagem: Glossário Decolonial/ProComum
 published: true
-date: 2026-08-25T18:17:46.573Z
+date: 2026-10-23T19:07:37.500Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-09T17:54:46.817Z
@@ -19,7 +19,7 @@ Optamos por um termo [adaptado](https://www.google.com/url?sa=t&source=web&rct=j
 
 Você está sendo convidada/o a participar do Projeto Extensionista
 **Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras e costeiras**
-Uma ação realizada pela CAPES, UNISANTA e ProComum.
+Uma ação realizada pela CAPES e UNISANTA.
 
 Vamos explicar sobre a atividade e solicitar a sua permissão para participar do mesmo. O objetivo é fazer uma releitura crítica do quadro "A Fundação de São Vicente", criando um Glossário que será publicado na nossa Plataforma Wiki, um novo quadro que será exposto e um minidocumentário que terá vocês como coautores. A ideia é trazer uma visão decolonial, contada pela população, nos dias atuais, sobre o território da Baixada Santista.
 
