@@ -2,7 +2,7 @@
 title: São Vicente
 description: 
 published: true
-date: 2026-10-27T18:14:38.274Z
+date: 2026-10-27T18:17:05.016Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:57.594Z
@@ -13,7 +13,7 @@ dateCreated: 2026-07-09T22:24:57.594Z
 
 ### Vulnerabilidade Costeira 70 - muito vulnerável
 
-[São Vicente](https://maps.app.goo.gl/ZFKLMhBN6ZqakX6j8) (23°57′48″S, 46°23′32″W) é reconhecida historicamente como a primeira vila do Brasil, fundada em 1532. Sua população é de 338.326 (estimada em 2025), ocupando um território de 148,15 km². 
+[São Vicente](https://maps.app.goo.gl/ZFKLMhBN6ZqakX6j8) (23°57′48″S, 46°23′32″W) é reconhecida historicamente como a primeira vila do Brasil, fundada em 1532. Sua população é de 338.326*, ocupando um território de 148,15 km². 
 
 ![marcopadrao.jpeg](/projetos/maedagua/marcopadrao.jpeg)
 
@@ -30,5 +30,9 @@ A vulnerabilidade territorial de São Vicente é predominantemente hidrológica.
 
 ![scorecardsaovicente.png](/projetos/maedagua/scorecardsaovicente.png)
 
-Como medida mitigadora, o município criou projetos de macrodrenagem, anunciados como a maior intervenção de prevenção a enchentes do país. As obras, compreendem o alargamento do canal da Avenida Eduardo Souto de 6 para 10 metros e a instalação de comportas em oito pontos estratégicos - enquanto, paralelamente, estudos geoambientais alertam para a instabilidade e fragilidade das encostas urbanizadas. Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient analisamos) 171 pontos amostrados, representando 10% do total regional, o SQGQ médio obtido foi de 1,17 (TEL), indicando ambiente sob forte risco de impacto.
+Como medida mitigadora, o município criou projetos de macrodrenagem, anunciados como a maior intervenção de prevenção a enchentes do país. As obras, compreendem o alargamento do canal da Avenida Eduardo Souto de 6 para 10 metros e a instalação de comportas em oito pontos estratégicos - enquanto, paralelamente, estudos geoambientais alertam para a instabilidade e fragilidade das encostas urbanizadas. 
 
+Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient analisamos) 171 pontos amostrados, representando 10% do total regional, o SQGQ médio obtido foi de 1,17 (TEL), indicando ambiente sob forte risco de impacto.
+
+--------
+* Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
