@@ -2,7 +2,7 @@
 title: Santos
 description: 
 published: true
-date: 2026-10-27T18:17:44.758Z
+date: 2026-10-27T18:17:56.311Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:15.193Z
@@ -37,4 +37,4 @@ Esse diagnóstico é corroborado pelo Quociente das Diretrizes de Qualidade de S
 Santos é a cidade que apresenta os melhores indicadores sociais gerais na região, mas concomitantemente a acumula o maior passivo de contaminação nos sedimentos estuarinos. O elevado produto interno bruto (PIB per capita de R$ 72.080) não atenua a vulnerabilidade socioambiental, atuando apenas no seu deslocamento espacial para o território portuário e na segregação das populações com menor acesso a moradia e inclusão social.
 
 --------
-* Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
+*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
