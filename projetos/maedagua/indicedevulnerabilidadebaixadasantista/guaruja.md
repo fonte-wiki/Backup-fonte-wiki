@@ -2,7 +2,7 @@
 title: Guarujá
 description: 
 published: true
-date: 2026-10-27T18:47:01.442Z
+date: 2026-10-27T18:48:54.345Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:43.595Z
@@ -12,7 +12,7 @@ dateCreated: 2026-07-09T22:20:43.595Z
 
 ### Vulnerabilidade Costeira 58,8 - importante vulnerabilidade
 
-Guarujá (23°59′37″S, 46°15′23″W) possui uma área de 144,79 km² com população estimada de 294.871 habitantes*, foi emancipado em 1934 após desmembramento de Santos. 
+[Guarujá](https://cidades.ibge.gov.br/brasil/sp/guaruja/panorama) (23°59′37″S, 46°15′23″W) possui uma área de 144,79 km² com população estimada de 294.871 habitantes*, foi emancipado em 1934 após desmembramento de Santos. 
 
 ![pitangueiras.png](/projetos/maedagua/pitangueiras.png)
 
