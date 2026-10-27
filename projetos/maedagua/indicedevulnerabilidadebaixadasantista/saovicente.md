@@ -2,7 +2,7 @@
 title: São Vicente
 description: 
 published: true
-date: 2026-10-27T18:18:27.098Z
+date: 2026-10-27T18:46:00.987Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:57.594Z
@@ -26,7 +26,7 @@ O município apresenta o menor Produto Interno Bruto *per capita* da Baixada San
 
 Fonte: IPS Brasil, 2026.
 
-A vulnerabilidade territorial de São Vicente é predominantemente hidrológica. Informações da Secretaria de Meio Ambiente do Estado de São Paulo confirmam que os alagamentos recorrentes decorrem da combinação de precipitações intensas com eventos de maré alta, sobretudo no período de verão. As áreas mais afetadas englobam bairros como Cidade Náutica, Vila Fátima, Pompeba, Jóquei e Tancredo, que coincidem com as áreas de risco do mapa do Climate Central (cenário de 1 m). A ampliação da capacidade de escoamento do canal infraestrutural tem atenuado os efeitos imediatos dos alagamentos, contudo não resolve as condicionantes estruturais da baixa renda, da fraca inclusão social e da degradação ambiental crônica do estuário.
+A vulnerabilidade territorial de São Vicente é predominantemente hidrológica. Informações da Secretaria de Meio Ambiente do Estado de São Paulo confirmam que os alagamentos recorrentes decorrem da combinação de precipitações intensas com eventos de maré alta, sobretudo no período de verão. As áreas mais afetadas englobam bairros como Cidade Náutica, Vila Fátima, Pompeba, Jóquei e Tancredo, que coincidem com as áreas de risco do mapa do [Climate Central](https://coastal.climatecentral.org/) (cenário de 1 m). A ampliação da capacidade de escoamento do canal infraestrutural tem atenuado os efeitos imediatos dos alagamentos, contudo não resolve as condicionantes estruturais da baixa renda, da fraca inclusão social e da degradação ambiental crônica do estuário.
 
 ![scorecardsaovicente.png](/projetos/maedagua/scorecardsaovicente.png)
 
