@@ -2,7 +2,7 @@
 title: Guarujá
 description: 
 published: true
-date: 2026-10-27T18:33:57.850Z
+date: 2026-10-27T18:34:12.167Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:43.595Z
@@ -15,6 +15,7 @@ dateCreated: 2026-07-09T22:20:43.595Z
 Guarujá (23°59′37″S, 46°15′23″W) possui uma área de 144,79 km² com população estimada de 294.871 habitantes*, foi emancipado em 1934 após desmembramento de Santos. 
 
 ![pitangueiras.png](/projetos/maedagua/pitangueiras.png)
+
 Praia de Pintangueiras. Fonte: Juicy Santos, 2026.
 
 Apresenta IPS de 64,66 (981ª colocação nacional). A dimensão Moradia possui nota de 75,41 (5.050ª posição), caracterizando-se como relativamente fraca perante o contexto nacional.
