@@ -2,7 +2,7 @@
 title: São Vicente
 description: 
 published: true
-date: 2026-10-27T18:46:00.987Z
+date: 2026-10-27T18:48:02.328Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:57.594Z
@@ -30,7 +30,7 @@ A vulnerabilidade territorial de São Vicente é predominantemente hidrológica.
 
 ![scorecardsaovicente.png](/projetos/maedagua/scorecardsaovicente.png)
 
-Como medida mitigadora, o município criou projetos de macrodrenagem, anunciados como a maior intervenção de prevenção a enchentes do país. As obras, compreendem o alargamento do canal da Avenida Eduardo Souto de 6 para 10 metros e a instalação de comportas em oito pontos estratégicos - enquanto, paralelamente, estudos geoambientais alertam para a instabilidade e fragilidade das encostas urbanizadas. 
+Como medida mitigadora, o [município criou projetos de macrodrenagem, anunciados como a maior intervenção de prevenção a enchentes do país](https://semil.sp.gov.br/2024/11/secretaria-visita-fase-final-da-obra-contra-enchentes-em-sao-vicente/). As obras, compreendem o alargamento do canal da Avenida Eduardo Souto de 6 para 10 metros e a instalação de comportas em oito pontos estratégicos - enquanto, paralelamente, estudos [geoambientais alertam](https://www.redalyc.org/pdf/3213/321327191008.pdf) para a instabilidade e fragilidade das encostas urbanizadas. 
 
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient analisamos) 171 pontos amostrados, representando 10% do total regional, o SQGQ médio obtido foi de 1,17 (TEL), indicando ambiente sob forte risco de impacto.
 
