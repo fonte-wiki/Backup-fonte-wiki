@@ -2,7 +2,7 @@
 title: Guarujá
 description: 
 published: true
-date: 2026-10-27T18:44:11.822Z
+date: 2026-10-27T18:47:01.442Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:43.595Z
@@ -32,7 +32,7 @@ Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sedi
 
 ![tabelaguaruja.png](/projetos/maedagua/tabelaguaruja.png)
 
-Os cenários de risco hidrológico e geológico derivam diretamente do processo histórico de ocupação desordenada de encostas e áreas de várzea. O baixo desempenho no indicador de moradia reflete com precisão os segmentos populacionais submetidos à maior exposição socioambiental.
+Os cenários de [risco hidrológico e geológico](https://periodicos.unisantos.br/leopoldianum/article/download/910/771/2251) derivam diretamente do processo histórico de ocupação desordenada de encostas e áreas de várzea. O baixo desempenho no indicador de moradia reflete com precisão os segmentos populacionais submetidos à maior exposição socioambiental.
 
 --------
 *Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
