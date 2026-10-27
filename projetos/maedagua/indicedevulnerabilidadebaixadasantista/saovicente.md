@@ -2,7 +2,7 @@
 title: São Vicente
 description: 
 published: true
-date: 2026-10-27T18:17:05.016Z
+date: 2026-10-27T18:18:27.098Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:57.594Z
@@ -35,4 +35,4 @@ Como medida mitigadora, o município criou projetos de macrodrenagem, anunciados
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient analisamos) 171 pontos amostrados, representando 10% do total regional, o SQGQ médio obtido foi de 1,17 (TEL), indicando ambiente sob forte risco de impacto.
 
 --------
-* Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
+*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
