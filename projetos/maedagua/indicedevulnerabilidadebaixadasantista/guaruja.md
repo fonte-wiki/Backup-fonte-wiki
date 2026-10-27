@@ -2,7 +2,7 @@
 title: Guarujá
 description: 
 published: true
-date: 2026-10-27T18:34:12.167Z
+date: 2026-10-27T18:36:37.242Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:43.595Z
@@ -20,9 +20,9 @@ Praia de Pintangueiras. Fonte: Juicy Santos, 2026.
 
 Apresenta IPS de 64,66 (981ª colocação nacional). A dimensão Moradia possui nota de 75,41 (5.050ª posição), caracterizando-se como relativamente fraca perante o contexto nacional.
 
+![scorecardguaruja.png](/projetos/maedagua/scorecardguaruja.png)
 
-
-
+Fonte: IPS Brasil, 2026.
 
 A suscetibilidade a desastres geoambientais foi evidenciada em fevereiro de 2026 por dois eventos pluviométricos severos e consecutivos. Em 5 de fevereiro, o acumulado diário atingiu 122 mm (dos quais 108 mm concentraram-se em apenas três horas), desencadeando deslizamento de terra na Viela São Cristóvão (Morro da Barreira do João Guarda), o qual atingiu três residências e desabrigou 12 pessoas, com o acionamento preventivo do sistema de sirenes. Decorridos dois dias, novo temporal ocasionou deslizamento na Vila Baiana (Morro do Engenho). 
 
