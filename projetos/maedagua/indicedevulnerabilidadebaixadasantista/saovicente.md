@@ -2,7 +2,7 @@
 title: São Vicente
 description: 
 published: true
-date: 2026-10-27T16:27:09.519Z
+date: 2026-10-27T16:31:46.500Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:57.594Z
@@ -11,7 +11,7 @@ dateCreated: 2026-07-09T22:24:57.594Z
 # São Vicente
 
 
-###### Vulnerabilidade Costeira 69,97 - muito vulnerável
+###### Vulnerabilidade Costeira 70 - muito vulnerável
 
 [São Vicente](https://maps.app.goo.gl/ZFKLMhBN6ZqakX6j8) (23°57′48″S, 46°23′32″W) é reconhecida historicamente como a primeira vila do Brasil, fundada em 1532. Sua população é de 338.326 (estimada em 2025), ocupando um território de 148,15 km². 
 
