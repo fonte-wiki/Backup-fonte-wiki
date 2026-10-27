@@ -2,7 +2,7 @@
 title: São Vicente
 description: 
 published: true
-date: 2026-10-27T16:36:08.860Z
+date: 2026-10-27T16:37:12.582Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:57.594Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-09T22:24:57.594Z
 [São Vicente](https://maps.app.goo.gl/ZFKLMhBN6ZqakX6j8) (23°57′48″S, 46°23′32″W) é reconhecida historicamente como a primeira vila do Brasil, fundada em 1532. Sua população é de 338.326 (estimada em 2025), ocupando um território de 148,15 km². 
 
 
-O município apresenta o menor PIB per capita da Região Metropolitana da Baixada Santista (R$ 21.916) e um IPS de 65,13 (830ª posição no país). A dimensão Inclusão Social registra pontuação de 38,93 (5.244ª posição), sendo classificada como relativamente fraca.
+O município apresenta o menor Produto Interno Bruto *per capita* da Baixada Santista (R$ 21.916) e um IPS de 65,13 (830ª posição no país). A dimensão Inclusão Social registra pontuação de 38,93 (5.244ª posição), sendo classificada como relativamente fraca.
 
 ![ipssaovicente.png](/projetos/maedagua/ipssaovicente.png)
 
