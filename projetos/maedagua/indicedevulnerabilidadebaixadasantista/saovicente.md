@@ -2,7 +2,7 @@
 title: São Vicente
 description: 
 published: true
-date: 2026-10-27T16:37:36.045Z
+date: 2026-10-27T16:39:28.854Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:57.594Z
@@ -23,5 +23,5 @@ O município apresenta o menor Produto Interno Bruto *per capita* da Baixada San
 A vulnerabilidade territorial de São Vicente é predominantemente hidrológica. Informações da Secretaria de Meio Ambiente do Estado de São Paulo confirmam que os alagamentos recorrentes decorrem da combinação de precipitações intensas com eventos de maré alta, sobretudo no período de verão. As áreas mais afetadas englobam bairros como Cidade Náutica, Vila Fátima, Pompeba, Jóquei e Tancredo, que coincidem com as áreas de risco do mapa do Climate Central (cenário de 1 m). A ampliação da capacidade de escoamento do canal infraestrutural tem atenuado os efeitos imediatos dos alagamentos, contudo não resolve as condicionantes estruturais da baixa renda, da fraca inclusão social e da degradação ambiental crônica do estuário.
 
 ![scorecardsaovicente.png](/projetos/maedagua/scorecardsaovicente.png)
-Como medida mitigadora, o município criou projetos de macrodrenagem — anunciados como a maior intervenção de prevenção a enchentes do país —, que compreendem o alargamento do canal da Avenida Eduardo Souto de 6 para 10 metros e a instalação de comportas em oito pontos estratégicos. Paralelamente, estudos geoambientais alertam para a instabilidade e fragilidade das encostas urbanizadas. Em relação aos sedimentos estuarinos (171 pontos amostrados, representando 10% do total regional), o SQGQ médio obtido foi de 1,17 (TEL), indicando ambiente sob forte risco de impacto.
+Como medida mitigadora, o município criou projetos de macrodrenagem, anunciados como a maior intervenção de prevenção a enchentes do país, que compreendem o alargamento do canal da Avenida Eduardo Souto de 6 para 10 metros e a instalação de comportas em oito pontos estratégicos. Enquanto, paralelamente, estudos geoambientais alertam para a instabilidade e fragilidade das encostas urbanizadas. Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient analisamos) 171 pontos amostrados, representando 10% do total regional, o SQGQ médio obtido foi de 1,17 (TEL), indicando ambiente sob forte risco de impacto.
 
