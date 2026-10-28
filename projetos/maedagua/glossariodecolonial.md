@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-10-21T19:40:55.081Z
+date: 2026-10-28T19:38:20.278Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -54,10 +54,11 @@ Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
 No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-chaves. Criamos a estrutura dos verbetes no fonte.wiki para a edição colaborativa.
 
-A obra passou por momentos distintos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
+A obra passou por momentos distintos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira, que posteriormente conduziram a releitura artistíca da obra.
 
 - Com o público do I Seminário PROEXT-PG,em 2026 na UNISANTA
 - Coleta com pescadores tradicionais na Praia do Góis, no Guarujá, entre outubro e novembro de 2026.
+
 
 ## **O nome das Coisas: Nossos Verbetes**
 
