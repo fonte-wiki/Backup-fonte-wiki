@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-10-28T19:38:20.278Z
+date: 2026-10-30T10:07:00.663Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -24,7 +24,7 @@ A forma como ocorreu a ocupação do território, a exploração dos recursos na
 
 > *um projeto totalizante cujas forças motrizes poderão sempre buscar-se no nível  do  colo: ocupar um novo chão, explorar os seus bens, submeter os seus naturais* (BOSI, 1992).
 
-Não só a construção dessa materialidade, mas a própria história também foi contada sob uma narrativa eurocentrista, branca, colonial. Sobrepondo e silenciando a memória e a história das populações locais, traficadas e escravizadas. 
+Não só a construção dessa materialidade, mas a própria história também foi contada sob uma narrativa eurocentrista, branca, colonial. Sobrepondo e silenciando a memória, o conhecimento e a história das populações locais, traficadas e escravizadas. 
 
 O quadro ["A Fundação de São Vicente"](https://revistas.usp.br/anaismp/pt_BR/article/view/149934), traz a força deste simbolismo. Hoje, sediado no [Museu Paulista](https://museudoipiranga.org.br/palestra-representando-as-origens-as-fundacoes-de-sao-paulo-e-sao-vicente-na-pintura-1900-a-1954/) em uma sala suntuosa com molduras douradas, longe de seu local de "captura", a própria Praça 22 de Janeiro, em São Vicente - atualmente sucateada, povoada por pessoas e animais em situação de rua. Uma realidade muito distante da precária [Casa de Martim Afonso](https://maps.app.goo.gl/W7p2jH3qGM1BTcJRA), mal conservada, esquecida. No ano de 2026 a Praça está passando por uma reforma financiada pelo BNDES, que também financia projetos para 
 [Resiliência Climática](https://agenciadenoticias.bndes.gov.br/socioambiental/BNDES-aprova-R$-200-milhoes-para-projeto-de-resiliencia-climatica-em-Santos-SP/) na região.
