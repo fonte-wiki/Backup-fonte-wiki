@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-10-14T23:21:00.018Z
+date: 2026-11-03T20:27:33.676Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -26,14 +26,14 @@ A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municí
 
 - Estresse térmico: usamos como base o [Índice Climático Térmico Universal  - UTCI](https://portal.inmet.gov.br/uploads/icones/Conforto_t%C3%A9rmico_inmet.pdf), uma espécie de sensação térmica que combina temperatura, umidade, vento e radiação solar. Como o Instituto Nacional de Meteorologia - INMET não tem estações meteorológicas em todos os municípios, não foi possível calcular esse índice com dados para cada cidade. Por isso, esta variável foi tratada de forma qualitativa: usamos a classificação oficial de estresse térmico do INMET, registros de ondas de calor e a previsão de El Niño forte para a primavera e o verão de 2026. Santos e Bertioga têm registros mais específicos de temperaturas extremas e por isso pontuam mais alto. Nas demais cidades, vale o padrão regional. Essa abordagem foi confirmada pela coordenação do projeto como a forma final de tratar essa variável.
 
-Cada variável foi colocada em uma escala de 0 a 100, em que 100 significa a situação mais vulnerável. Como o IPS já possui uma escala numérica, apenas invertemos. Para o nível do mar e a poluição aplicamos classificações (baixo, moderado, alto, crítico), e para cada classificação atribuímos um valor nessa escala. A medida de 0 a 100 não é uma unidade física, como metros ou toneladas: é uma régua criada para que tipos de dados diferentes possam ser comparados e somados. O índice final é a média das quatro variáveis, todas com o mesmo peso, 25% cada. Esses pesos foram confirmados pela coordenação do projeto.
+Cada variável foi colocada em uma escala de 0 a 100, em que 100 significa a situação mais vulnerável. Como o IPS já possui uma escala numérica, apenas invertemos. Para o nível do mar e a poluição aplicamos classificações (baixo, moderado, alto, crítico), e para cada classificação atribuímos um valor nessa escala. A medida de 0 a 100 não é uma unidade física, como metros ou toneladas: é uma régua criada para que tipos de dados diferentes possam ser comparados e somados. O índice final é a média das quatro variáveis, todas com o mesmo peso, 25% cada. 
 
-![ipstabela.png](/projetos/maedagua/ipstabela.png)
+Ao final criamos três escalas de vulnerabilidade (média, importante e alta), com cores semafóricas relativas às três Orixás que transitam nos ambientes de água doce (Oxum/amarela), água salgada (Iemanjá/azul) e lodo/mangue (Nanã Buruquê/roxo). Essa escala também gerou três sirenes específicas. Com isso, criamos uma leitura crítica de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonoro.
+
+![tabelaivcosteira.png](/projetos/maedagua/tabelaivcosteira.png)
 
 **Limites do Índice de Vulnerabilidade Costeira**
 O IPS, os dados referente ao aumento do nível do mar e de poluição têm base sólida e específica para cada município. Porém o estresse térmico é uma variável menos precisa, por falta de estações de medição em cada cidade.
-
-Com isso, criamos uma leitura crítica de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonoro: quanto mais grave a situação, mais grave (literalmente) o som.
 
 [Bertioga](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/bertioga) 
 [Cubatão](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/cubatao) 
