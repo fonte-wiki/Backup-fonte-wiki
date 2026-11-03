@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-03T20:27:33.676Z
+date: 2026-11-03T20:29:04.802Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -34,6 +34,8 @@ Ao final criamos três escalas de vulnerabilidade (média, importante e alta), c
 
 **Limites do Índice de Vulnerabilidade Costeira**
 O IPS, os dados referente ao aumento do nível do mar e de poluição têm base sólida e específica para cada município. Porém o estresse térmico é uma variável menos precisa, por falta de estações de medição em cada cidade.
+
+**Acesse mais informações sobre as cidades**
 
 [Bertioga](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/bertioga) 
 [Cubatão](/projetos/maedagua/indicedevulnerabilidadebaixadasantista/cubatao) 
