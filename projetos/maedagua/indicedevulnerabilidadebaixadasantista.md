@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-04T18:59:46.863Z
+date: 2026-11-04T19:00:43.733Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -10,7 +10,7 @@ dateCreated: 2026-06-10T13:15:37.220Z
 
 # Siren
 
-Para a mitologia [sereias](https://www.nationalgeographicbrasil.com/historia/2023/05/a-origem-das-sereias-o-que-diz-a-historia), as sereias eram descritas como criaturas híbridas com corpo de pássaros e rosto de mulher, que viviam nos oceanos e mares atraindo marinheiros com canções hipnóticas. Embora as origens dessas histórias sejam difusas, é provável que suas trajetórias estejam relacionadas com o mundo dos mortos, assim como a das [Valquírias](https://pt.wikipedia.org/wiki/Valqu%C3%ADrias). Segundo a lenda, quem ignorasse às canções de uma sereia, deveria morrer. Quando as sereias passaram a ser massivamente ignoradas, perderam o seu dom, e se esconderam no fundo do mar com as criaturas bioluminescentes nas zonas abissais.
+Na mitologia grega as [sereias](https://www.nationalgeographicbrasil.com/historia/2023/05/a-origem-das-sereias-o-que-diz-a-historia) eram descritas como criaturas híbridas com corpo de pássaros e rosto de mulher, que viviam nos oceanos e mares atraindo marinheiros com canções hipnóticas. Embora as origens dessas histórias sejam difusas, é provável que suas trajetórias estejam relacionadas com o mundo dos mortos, assim como a das [Valquírias](https://pt.wikipedia.org/wiki/Valqu%C3%ADrias). Segundo a lenda, quem ignorasse às canções de uma sereia, deveria morrer. Quando as sereias passaram a ser massivamente ignoradas, perderam o seu dom, e se esconderam no fundo do mar com as criaturas bioluminescentes nas zonas abissais.
 
 Com a emergência climática e a vulnerabilidade das populações costeiras e pesqueiras, acentuanda pelo ["Super" El Niño de 2026-2027](https://wmo-int.translate.goog/news/media-centre/wmo-prepare-el-nino?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc), as sereias vieram à tona, novamente, para emitir sirenes em forma de cantos.
 
