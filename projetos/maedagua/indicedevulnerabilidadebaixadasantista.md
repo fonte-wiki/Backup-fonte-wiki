@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-05T16:07:50.315Z
+date: 2026-11-05T16:08:29.357Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -42,7 +42,7 @@ As concentrações dos elementos químicos nos sedimentos da Baixada Santista po
 **Limites do Índice de Vulnerabilidade Costeira**
 O IPS, os dados referente ao aumento do nível do mar e de poluição têm base sólida e específica para cada município. Porém o estresse térmico é uma variável menos precisa, por falta de estações de medição em cada cidade.
 
-** Contaminantes**
+**Contaminantes**
 Para o dado de contaminantes foi utilizado o Índice Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ), uma ferramenta importante para identificar pontos de altas concentrações de sedimentos contaminados e avaliar o impacto potencial sobre organismos e a biodiversidade. Seu cálculo envolve os valores de concentração investigados nos locais de interesse, valores-guia que são Threshold Effect Level (TEL) e Probable Effect Level (PEL) e a quantidade de contaminantes presentes. 
 
 **Acesse mais informações sobre as cidades**
