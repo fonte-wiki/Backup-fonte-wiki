@@ -2,7 +2,7 @@
 title: Monguagá
 description: 
 published: true
-date: 2026-11-07T12:06:00.647Z
+date: 2026-11-07T12:11:31.085Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:13.004Z
@@ -26,7 +26,7 @@ Fonte: IPS Brasil, 2026.
 
 Cerca de 80% do território ainda é florestado, junto a encostas íngremes, mas o crescimento urbano desordenado tem avançado sobre as áreas mais frágeis. 
 
-Em janeiro de 2026, três eventos em sequência mostraram o efeito acumulado da falta de planejamento territorial adequado: 1) Um temporal em 4 de janeiro deixou cerca de 30 pessoas desabrigadas; 2) Entre 19 e 21 de janeiro, novas chuvas levaram a prefeitura a decretar situação de emergência e a pedir ajuda humanitária; 3) No final do mês, um ciclone extratropical com ventos de até 70 km/h chegou quando a cidade ainda se recuperava, com prejuízos superiores a R$ 2 milhões. 
+Em janeiro de 2026, três eventos em sequência mostraram o efeito acumulado da falta de planejamento territorial adequado: 1) Um temporal em 4 de janeiro deixou cerca de [30 pessoas desabrigadas](https://www.dgabc.com.br/Noticia/4277613/temporal-causa-estragos-no-litoral-paulista-mongagua-e-uma-das-mais-afetadas); 2) Entre 19 e 21 de janeiro, novas chuvas levaram a prefeitura a decretar situação de emergência e a pedir ajuda humanitária; 3) [No final do mês](https://www.diariodolitoral.com.br/cotidiano/ja-castigada-por-enchentes-mongagua-agora-enfrenta-ciclone-e-novas/), um ciclone extratropical com ventos de até 70 km/h chegou quando a cidade ainda se recuperava, com prejuízos superiores a R$ 2 milhões. 
 
 ![tabelamongagua.png](/projetos/maedagua/tabelamongagua.png)
 
