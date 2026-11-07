@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: 
 published: true
-date: 2026-08-25T18:13:08.406Z
+date: 2026-11-07T15:35:23.603Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-27T20:14:36.216Z
@@ -17,13 +17,14 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 ## Design
-- **Em Glossário** minidoc
+- **Em ipuPIara** minidoc
 
 ## Texto
-- **Em Mãe d'Água home:** produtos e publis (Proext, Gestec)
-- **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais/Archive
-- Indice de Vulnerabilidade: tudo
-- ZASF: tudo
+- **Em Mãe d'Água home:** produtos e publis (Proext, Gestec, Museu do Imigrante, Pensar Antropoceno) - também espelhar no lattes
+
+- **ZASF**: codigo, esquematico, pack para instalar, esquema de montagem da caixinha
+
+- Relatório de Pesquisa Final
 
 
 
