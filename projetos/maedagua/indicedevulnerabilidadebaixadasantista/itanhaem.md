@@ -2,7 +2,7 @@
 title: Itanhaém
 description: 
 published: true
-date: 2026-11-07T12:25:30.126Z
+date: 2026-11-07T12:28:44.119Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:21:26.414Z
@@ -27,4 +27,4 @@ O [Plano Municipal de Contingência](https://transparencia.itanhaem.sp.gov.br/wp
 
 ![tabelaitanhaem.png](/projetos/maedagua/tabelaitanhaem.png)
 
-O mapa do Climate Central mostra área expressiva abaixo da linha da maré ao longo do Rio Itanhaém. O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado.
+O mapa de projeção de alagamentos, do Climate Central, mostra área expressiva abaixo da linha da maré ao longo do Rio Itanhaém. O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado.
