@@ -2,7 +2,7 @@
 title: Itanhaém
 description: 
 published: true
-date: 2026-11-07T12:29:30.531Z
+date: 2026-11-07T17:50:50.659Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:21:26.414Z
@@ -12,6 +12,9 @@ dateCreated: 2026-07-09T22:21:26.414Z
 
 
 ### Vulnerabilidade Costeira 51 - importante vulnerabilidade
+
+
+**Sirene de Nanã Oxum**, ouça no Spotify ou Podomatic
 
 [Itanhaém](https://cidades.ibge.gov.br/brasil/sp/itanhaem/panorama) (24°10′50″S, 46°46′58″W), possui área de 601,71 km² e população de 118.495 habitantes*. Foi fundado em 1532 e elevado a vila em 1561, o que o coloca entre os mais antigos do país. 
 
