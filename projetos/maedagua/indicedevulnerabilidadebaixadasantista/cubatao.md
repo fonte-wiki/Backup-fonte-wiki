@@ -2,7 +2,7 @@
 title: Cubatão
 description: 
 published: true
-date: 2026-11-07T11:47:59.267Z
+date: 2026-11-07T12:09:52.815Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:01.926Z
@@ -27,7 +27,7 @@ Fonte: IPS Brasil, 2026.
 
 Nos anos 1980, a cidade ficou conhecida como [Vale da Morte pela poluição industrial extrema](https://www.nsctotal.com.br/noticias/vale-da-morte-como-esta-a-cidade-brasileira-que-ja-foi-a-mais-poluida-do-mundo), que gerou de problemas respiratórios na população local à malformações em recém-nascidos. O controle dos poluentes do ar chegou a 98%, e a ONU reconheceu a cidade, em 1992, como símbolo de recuperação ambiental. 
 
-O passivo no solo e na água, porém, permanece, e o saneamento segue em disputa: em outubro de 2026, a Câmara Municipal aprovou uma Comissão Especial de Inquérito para fiscalizar as obras da Sabesp no bairro Vale Verde. 
+O passivo no solo e na água, porém, permanece, e o saneamento segue em disputa: em outubro de 2026, a [Câmara Municipal](https://bs9.com.br/politica/2026/10/01/camara-de-cubatao-aprova-criacao-de-cei-para-acompanhar-obras-da-sabesp.html) aprovou uma Comissão Especial de Inquérito para fiscalizar as obras da Sabesp no bairro Vale Verde. 
 
 ![tabelacubatao.png](/projetos/maedagua/tabelacubatao.png)
 
