@@ -2,7 +2,7 @@
 title: Peruíbe
 description: 
 published: true
-date: 2026-11-07T16:25:24.723Z
+date: 2026-11-07T16:25:43.871Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:55.868Z
@@ -20,8 +20,10 @@ Apresenta IPS de 67,44 (261ª colocação nacional e 161ª no estado), o segundo
 
 Mesmo assim, as chuvas atingiram o município em 2026 com intensidade. Em fevereiro, um temporal registrou 56 mm em um dia e mais de 280 mm em três dias, deixando mais de [300 pessoas desabrigadas](https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-desabrigam-mais-de-300-pessoas-em-peruibe) e cerca de 100 desalojadas, e a prefeitura decretou situação de emergência. O [governo estadual](https://www.agenciasp.sp.gov.br/governo-de-sp-reforca-atendimento-e-vistorias-em-areas-alagadas-em-peruibe/) montou três abrigos e acolheu 231 pessoas, e a enchente atingiu áreas próximas a rios, como o Jardim Caraguava. Em 12 de março de 2026, menos de um mês depois, um novo alagamento deixou [60 moradores desabrigados](https://spdiario.com.br/noticias/noticias-de-sp/chuvas-intensas-voltam-a-causar-alagamentos-em-peruibe-e-60-moradores-sao-levados-para-abrigo.html0). 
 
+O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado, mas não a de contaminantes.
+
 ---------
 *Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
 
 
-O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado, mas não a de contaminantes.
+
