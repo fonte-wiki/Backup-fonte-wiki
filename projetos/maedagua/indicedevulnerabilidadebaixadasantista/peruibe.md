@@ -2,7 +2,7 @@
 title: Peruíbe
 description: 
 published: true
-date: 2026-11-07T17:37:13.606Z
+date: 2026-11-07T17:44:29.612Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:55.868Z
@@ -24,7 +24,10 @@ Mesmo assim, as chuvas atingiram o município em 2026 com intensidade. Em fevere
 
 ![tabelaperuibe.png](/projetos/maedagua/tabelaperuibe.png)
 
-Peruíbe também possui uma grande área de Mata Atlântica perservada, integrada à Estação Ecológica Juréia-Itatins, que abriga trilhas, cachoeiras, populações indígenas e caiçaras.
+Peruíbe também possui uma grande área de Mata Atlântica perservada, [integrada à Estação Ecológica Juréia-Itatins](https://uc.socioambiental.org/arp/880), que abriga trilhas, cachoeiras, populações indígenas e caiçaras.
+
+![jureimapa.png](/projetos/maedagua/jureimapa.png)
+Fonte: [Willian Sallun Filho](https://www.researchgate.net/figure/Figura-1-Mapa-simplificado-da-Estacao-Ecologica-de-Jureia-Itatins-e-arredores_fig1_261287951).
 
 
 O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado, mas não a de contaminantes.
