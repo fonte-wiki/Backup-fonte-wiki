@@ -2,7 +2,7 @@
 title: Cubatão
 description: 
 published: true
-date: 2026-11-07T11:38:52.635Z
+date: 2026-11-07T11:47:59.267Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:01.926Z
@@ -22,12 +22,16 @@ Fonte: Polocide, 2026.
 
 Apresenta o pior IPS da região, de 61,51 (2.312ª colocação nacional e 605ª no estado), embora tenha o maior PIB per capita da Baixada Santista (R$ 242.129, 7º do estado), impulsionado por seu pólo industrial.
 
+![scorecardcubatao.png](/projetos/maedagua/scorecardcubatao.png)
+Fonte: IPS Brasil, 2026.
 
 Nos anos 1980, a cidade ficou conhecida como [Vale da Morte pela poluição industrial extrema](https://www.nsctotal.com.br/noticias/vale-da-morte-como-esta-a-cidade-brasileira-que-ja-foi-a-mais-poluida-do-mundo), que gerou de problemas respiratórios na população local à malformações em recém-nascidos. O controle dos poluentes do ar chegou a 98%, e a ONU reconheceu a cidade, em 1992, como símbolo de recuperação ambiental. 
 
 O passivo no solo e na água, porém, permanece, e o saneamento segue em disputa: em outubro de 2026, a Câmara Municipal aprovou uma Comissão Especial de Inquérito para fiscalizar as obras da Sabesp no bairro Vale Verde. 
 
-O estuário que o mapa do Climate Central mostra abaixo da linha da maré, no cenário de 1 metro, guarda décadas de metais pesados. Em relação ao SQGQ, analisamos 477 pontos, equivalentes a 29% da amostra, e o SQGQ médio registrou 1,34 (TEL), com máximo de 5,44, sinalizando forte risco de impacto.
+![tabelacubatao.png](/projetos/maedagua/tabelacubatao.png)
+
+O estuário mapeado pelas previsões da Climate Central, mostra abaixo da linha da maré, no cenário de 1 metro, e guarda décadas de metais pesados. Em relação ao SQGQ, analisamos 477 pontos, equivalentes a 29% da amostra, e o SQGQ médio registrou 1,34 (TEL), com máximo de 5,44, sinalizando forte risco de impacto.
 
 ---------
 *Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
