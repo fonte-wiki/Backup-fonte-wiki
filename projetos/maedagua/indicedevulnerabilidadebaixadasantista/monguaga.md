@@ -2,7 +2,7 @@
 title: Monguagá
 description: 
 published: true
-date: 2026-11-07T12:03:14.890Z
+date: 2026-11-07T12:06:00.647Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:13.004Z
@@ -16,6 +16,8 @@ dateCreated: 2026-07-09T22:22:13.004Z
 
 [Mongaguá](https://cidades.ibge.gov.br/brasil/sp/mongagua/panorama)  (24°05′15″S, 46°37′44″W), possui área de 142,75 km² e população estimada de 64.845 habitantes*. Foi emancipada em 1959, mas teve um importante crescimento populacional (33,82%) entre 2010 e 2022. 
 
+![mongagua.jpg](/projetos/maedagua/mongagua.jpg)
+Fonte: Costa Norte.
 
 Apresenta IPS de 61,94 (2.115ª colocação nacional e 596ª no estado), e a dimensão Oportunidades, com nota de 35,42 (5.479ª posição), é a mais baixa da Baixada Santista.
 
