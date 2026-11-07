@@ -2,7 +2,7 @@
 title: Monguagá
 description: 
 published: true
-date: 2026-11-07T12:13:00.343Z
+date: 2026-11-07T17:51:36.895Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:13.004Z
@@ -12,6 +12,9 @@ dateCreated: 2026-07-09T22:22:13.004Z
 
 
 ### Vulnerabilidade Costeira 50 - importante vulnerabilidade
+
+
+**Sirene de Oxum**, ouça no Spotify ou Podomatic
 
 
 [Mongaguá](https://cidades.ibge.gov.br/brasil/sp/mongagua/panorama)  (24°05′15″S, 46°37′44″W), possui área de 142,75 km² e população estimada de 64.845 habitantes*. Foi emancipada em 1959, mas teve um importante crescimento populacional (33,82%) entre 2010 e 2022. 
