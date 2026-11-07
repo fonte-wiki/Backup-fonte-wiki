@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-06T22:03:01.457Z
+date: 2026-11-07T16:19:11.525Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -31,6 +31,12 @@ Cada variável foi colocada em uma escala de 0 a 100, em que 100 significa a sit
 Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (média até 40 pontos, importante de 40 à 60 pontos, e alta mais de 60 pontos), com cores semafóricas relativas as três Orixás que transitam nos ambientes de água, sendo: Iemanjá/azul-média, Oxum/amarela-importante, e Nanã Buruquê/roxo-alta. Essa escala também gerou três sirenes de alerta específicas. Com isso, criamos uma leitura de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonora, que quanto mais vulnerável mais aguda fica.
 
 ![tabelaivcosteira.png](/projetos/maedagua/tabelaivcosteira.png)
+
+**Média para Baixada em Geral
+Sirene da Baixada em Geral
+Diferenças entre o menos e mais
+Similaridades dos que estão agrupados
+Falta de políticas públicas gerais**
 
 Os dados de Siren para cada município, juntamente com as composições sonoras foram disponibilizadas em páginas wiki colaborativas, com uma breve análise crítica de cada cidade, que podem ser editadas posteriormente. Para os municípios Bertioga, Cubatão, Guarujá, Praia Grande, Santos, São Vicente, foi acrescentado um dado descritivo relativo a contaminantes que não foi adicionado como variável em Siren por não haver dados disponíveis para os nove municípios. 
 
