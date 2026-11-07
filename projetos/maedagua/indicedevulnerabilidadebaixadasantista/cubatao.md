@@ -2,7 +2,7 @@
 title: Cubatão
 description: 
 published: true
-date: 2026-11-07T16:12:48.592Z
+date: 2026-11-07T17:49:36.167Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:01.926Z
@@ -13,6 +13,9 @@ dateCreated: 2026-07-09T22:20:01.926Z
 
 
 ### Vulnerabilidade Costeira 77 - muito vulnerável
+
+
+**Sirene de Nanã Buruquê**, ouça no Spotify ou Podomatic
 
 
 [Cubatão](https://cidades.ibge.gov.br/brasil/sp/cubatao/panorama) (23°53′43″S, 46°25′32″W), possui área de 142,88 km² e população estimada de 114.870 habitantes*. O povoado original data de 1833, e foi emancipada como município em 1948. 
