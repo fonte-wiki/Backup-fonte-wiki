@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-09T16:35:47.444Z
+date: 2026-11-09T16:40:11.583Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -17,6 +17,9 @@ Com a emergência climática e a vulnerabilidade das populações costeiras e pe
 ![badgesiren.png](/projetos/maedagua/badgesiren.png)
 
 > “(...) é magia que nós fazemos, é sagrado e grandioso. Existem lendas sobre pessoas que nasceram com o dom de fazer música tão autêntica, que pode rasgar o véu entre a vida e a morte, evocando espíritos do passado e do futuro”. [Sinners](https://www.youtube.com/watch?v=S7jo5Cr6WUA).
+
+
+##### Sirene de  Iemanjá, Oxum, e Nana Buruquê - ouça no Spotify ou Podomatic
 
 
 Siren agrega dados sobre clima, indicadores sociais, aumento do nível do mar, estresse térmico e poluição para mensurar a vulnerabilidade dos nove municípios da Baixada Santista (Bertioga, Cubatão, Guarujá, Itanhaém, Mongaguá, Peruíbe, Praia Grande, Santos, São Vicente ), litoral sul do Estado de São Paulo. 
