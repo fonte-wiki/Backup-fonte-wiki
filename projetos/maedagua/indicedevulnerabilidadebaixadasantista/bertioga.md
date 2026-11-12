@@ -2,7 +2,7 @@
 title: Bertioga
 description: 
 published: true
-date: 2026-11-12T11:11:48.356Z
+date: 2026-11-12T11:12:30.524Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:19:21.896Z
@@ -14,7 +14,7 @@ dateCreated: 2026-07-09T22:19:21.896Z
 
 **Sirene de Oxum**, ouça no Spotify ou Podomatic
 
-Bertioga (23°51′17″S,46°08′20″W), possui área de 491,55 km² e população estimada de 67.436 habitantes. Teve povoamento a partir de 1531 e emancipação de Santos em 1991. 
+[Bertioga](https://cidades.ibge.gov.br/brasil/sp/bertioga/panorama) (23°51′17″S,46°08′20″W), possui área de 491,55 km² e população estimada de 67.436 habitantes. Teve povoamento a partir de 1531 e emancipação de Santos em 1991. 
 
 
 Apresenta IPS de 62,91 (1.708ª colocação nacional e 568ª no estado). 
