@@ -2,7 +2,7 @@
 title: Praia Grande
 description: 
 published: true
-date: 2026-08-25T18:19:26.268Z
+date: 2026-11-12T10:52:11.477Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:23:35.614Z
@@ -10,14 +10,22 @@ dateCreated: 2026-07-09T22:23:35.614Z
 
 # Praia Grande
 
-Breve caracterização textual
+### Vulnerabilidade Costeira 65 - muito vulnerável
 
-IPs/dados e gráfico
+**Sirene de Nanã Buruquê**, ouça no Spotify ou Podomatic
 
-Temperatura
+Praia Grande (24°00′22″S, 46°24′10″W) possui área de 149,65 km² e população de 368.539 habitantes*. Foi emancipada de São Vicente por Lei Estadual em 1964, com a formalização como município em 19 de janeiro de 1967. 
 
-Nível do Mar
+Apresenta IPS de 66,03 (571ª colocação nacional e 300ª no estado), o terceiro melhor da Baixada Santista. As dimensões Água e Saneamento (90,72, 406ª posição) e Qualidade do Meio Ambiente (68,11, 159ª posição) são classificadas como relativamente fortes entre municípios de PIB per capita semelhante, enquanto Oportunidades, com nota de 43,12 (3.124ª posição), é a mais baixa do município.
 
-Poluição
 
-Sirene de Gravidade
+A pressão sobre a orla é a principal fonte de vulnerabilidade. Reportagem do jornal A Tribuna, com base no Mapa de Risco à Erosão Costeira do Estado de São Paulo (levantamento de 2017), classifica como alto o risco de erosão nas praias de Praia Grande, e o geofísico Oleg Bokhonok alerta que a erosão e o avanço do mar podem levar à perda de áreas urbanas. 
+
+Em 28 de junho de 2026, um recuo visível do mar ganhou repercussão nas redes sociais, e a prefeitura explicou tratar-se de um fenômeno natural, causado pela combinação entre maré astronômica baixa e ventos, sem indicação de anormalidade. A Guarda Ambiental acompanha diariamente as marés, e o Sepam e a Defesa Civil monitoram as condições climáticas e oceanográficas da Baixada Santista, inclusive os possíveis impactos do El Niño de 2026-2027. 
+
+Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient), analisamos 11 pontos, equivalentes a 1% da amostra, e o SQGQ médio registrou 0,39 (TEL), sinalizando ambiente sob risco de impacto, e 0,09 (PEL), sem risco; o máximo foi de 0,55 (TEL). A amostra é a menor entre os municípios analisados, o que limita comparações.
+
+A urbanização da orla e a classificação de risco alto de erosão indicam que a vulnerabilidade de Praia Grande é costeira e estrutural, e não depende de episódios isolados. O recuo do mar de junho de 2026, por ser um fenômeno natural, mostra a importância de distinguir as variações normais da maré da erosão propriamente dita, e a resposta do município depende de planejamento da orla e de monitoramento contínuo, e não apenas de acompanhamento pontual.
+
+--------
+*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
