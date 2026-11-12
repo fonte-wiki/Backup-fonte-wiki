@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-12T17:56:14.375Z
+date: 2026-11-12T17:58:46.275Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -42,7 +42,7 @@ A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municí
 
 Cada variável foi colocada em uma escala de 0 a 100, em que 100 significa a situação mais vulnerável. Como o IPS já possui uma escala numérica, apenas invertemos. Para o nível do mar e a poluição aplicamos classificações (baixo, moderado, alto, crítico), e para cada classificação atribuímos um valor nessa escala. A medida de 0 a 100 não é uma unidade física, como metros ou toneladas: é uma régua criada para que tipos de dados diferentes possam ser comparados e somados. O índice final é a média das quatro variáveis, todas com o mesmo peso, 25% cada. 
 
-Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (média até 40 pontos, importante de 40 à 60 pontos, e alta mais de 60 pontos), com cores semafóricas relativas as três Orixás que transitam nos ambientes de água, sendo: Iemanjá/azul-média, Oxum/amarela-importante, e Olokum/preta-alta. Essa escala também gerou três sirenes de alerta específicas. Com isso, criamos uma leitura de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonora, que quanto mais vulnerável mais aguda fica.
+Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (média até 40 pontos, importante de 40 à 60 pontos, e alta mais de 60 pontos), com cores semafóricas relativas as três Orixás que transitam nos ambientes de água, sendo: Iemanjá/azul-média, Oxum/amarela-importante, e Olokun/preta-alta. Essa escala também gerou três sirenes de alerta específicas. Com isso, criamos uma leitura de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonora, que quanto mais vulnerável mais aguda fica.
 
 ![tabelasirenajustada.png](/projetos/maedagua/tabelasirenajustada.png)
 
