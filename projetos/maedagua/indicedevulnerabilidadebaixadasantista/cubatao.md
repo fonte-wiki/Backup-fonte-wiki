@@ -2,7 +2,7 @@
 title: Cubatão
 description: 
 published: true
-date: 2026-11-07T17:49:36.167Z
+date: 2026-11-12T11:14:50.519Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:01.926Z
@@ -18,7 +18,7 @@ dateCreated: 2026-07-09T22:20:01.926Z
 **Sirene de Nanã Buruquê**, ouça no Spotify ou Podomatic
 
 
-[Cubatão](https://cidades.ibge.gov.br/brasil/sp/cubatao/panorama) (23°53′43″S, 46°25′32″W), possui área de 142,88 km² e população estimada de 114.870 habitantes*. O povoado original data de 1833, e foi emancipada como município em 1948. 
+[Cubatão](https://cidades.ibge.gov.br/brasil/sp/cubatao/panorama) (23°53′43″S, 46°25′32″W), possui área de 142,88 km² e população estimada de 114.870 habitantes. O povoado original data de 1833, e foi emancipada como município em 1948. 
 
 ![cubatao.jpeg](/projetos/maedagua/cubatao.jpeg)
 Fonte: Polocide, 2026.
@@ -36,5 +36,3 @@ O passivo no solo e na água, porém, permanece, e o saneamento segue em disputa
 
 O estuário mapeado pelas previsões da Climate Central, mostra abaixo da linha da maré, no cenário de 1 metro, e guarda décadas de metais pesados. Em relação ao SQGQ, analisamos 477 pontos, equivalentes a 29% da amostra, e o SQGQ médio registrou 1,34 (TEL), com máximo de 5,44, sinalizando forte risco de impacto.
 
----------
-*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
