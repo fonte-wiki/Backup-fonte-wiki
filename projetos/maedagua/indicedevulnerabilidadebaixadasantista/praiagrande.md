@@ -2,7 +2,7 @@
 title: Praia Grande
 description: 
 published: true
-date: 2026-11-12T10:58:10.458Z
+date: 2026-11-12T10:59:56.366Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:23:35.614Z
@@ -25,9 +25,9 @@ Apresenta IPS de 66,03 (571ª colocação nacional e 300ª no estado), o terceir
 ![scorecardpraiagrande.png](/projetos/maedagua/scorecardpraiagrande.png)
 Fonte: IPS Brasil, 2026.
 
-A pressão sobre a orla é a principal fonte de vulnerabilidade. Reportagem do jornal A Tribuna, com base no Mapa de Risco à Erosão Costeira do Estado de São Paulo (levantamento de 2017), classifica como alto o risco de erosão nas praias de Praia Grande, e o geofísico Oleg Bokhonok alerta que a erosão e o avanço do mar podem levar à perda de áreas urbanas. 
+A pressão sobre a orla é a principal fonte de vulnerabilidade. Reportagem do jornal A Tribuna, com base no Mapa de Risco à Erosão Costeira do Estado de São Paulo (levantamento de 2017), classifica como alto o risco de [erosão nas praias de Praia Grande](https://www.atribuna.com.br/cidades/praia-grande/avanco-do-mar-e-eros-o-costeira-no-litoral-de-s-o-paulo-ja-afetam-orla-de-praia-grande-e-ha-risco-alto-de-mais-impactos-1.462820 ), e o geofísico Oleg Bokhonok alerta que a erosão e o avanço do mar podem levar à perda de áreas urbanas. 
 
-Em 28 de junho de 2026, um recuo visível do mar ganhou repercussão nas redes sociais, e a prefeitura explicou tratar-se de um fenômeno natural, causado pela combinação entre maré astronômica baixa e ventos, sem indicação de anormalidade. A Guarda Ambiental acompanha diariamente as marés, e o Sepam e a Defesa Civil monitoram as condições climáticas e oceanográficas da Baixada Santista, inclusive os possíveis impactos do El Niño de 2026-2027. 
+Em 28 de junho de 2026, um [recuo visível](https://www.atribuna.com.br/cidades/praia-grande/mar-recua-em-praia-grande-e-preocupa-populac-o-no-litoral-de-s-o-paulo-entenda-o-fenomeno-1.520014 ) do mar ganhou repercussão nas redes sociais, e a prefeitura explicou tratar-se de um fenômeno natural, causado pela combinação entre maré astronômica baixa e ventos, sem indicação de anormalidade. A Guarda Ambiental acompanha diariamente as marés, e o Sepam e a Defesa Civil monitoram as condições climáticas e oceanográficas da Baixada Santista, inclusive os possíveis impactos do El Niño de 2026-2027. 
 
 ![tabelapraiagrande.png](/projetos/maedagua/tabelapraiagrande.png)
 
