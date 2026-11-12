@@ -2,7 +2,7 @@
 title: Peruíbe
 description: 
 published: true
-date: 2026-11-07T17:48:46.238Z
+date: 2026-11-12T11:17:21.938Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:55.868Z
@@ -14,7 +14,7 @@ dateCreated: 2026-07-09T22:22:55.868Z
 
 **Sirene de Iemanjá**, ouça no Spotify ou Podomatic
 
-[Peruíbe](https://cidades.ibge.gov.br/brasil/sp/peruibe/panorama)  (24°19′12″S, 46°59′54″W), possui área de 326,22 km² e uma população estimada de 70.629 habitantes*. Fundada em 18 de fevereiro de 1959, é a cidade menos vulnerável pelo cálculo de Siren.
+[Peruíbe](https://cidades.ibge.gov.br/brasil/sp/peruibe/panorama)  (24°19′12″S, 46°59′54″W), possui área de 326,22 km² e uma população estimada de 70.629 habitantes. Fundada em 18 de fevereiro de 1959, é a cidade menos vulnerável pelo cálculo de Siren.
 
 ![peruibe.png](/projetos/maedagua/peruibe.png)
 Fonte: Top Destinos SP.
@@ -36,8 +36,7 @@ Fonte: [Willian Sallun Filho](https://www.researchgate.net/figure/Figura-1-Mapa-
 
 O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado, mas não a de contaminantes.
 
----------
-*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
+
 
 
 
