@@ -2,7 +2,7 @@
 title: Praia Grande
 description: 
 published: true
-date: 2026-11-12T11:03:21.445Z
+date: 2026-11-12T11:04:15.344Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:23:35.614Z
@@ -14,7 +14,7 @@ dateCreated: 2026-07-09T22:23:35.614Z
 
 **Sirene de Nanã Buruquê**, ouça no Spotify ou Podomatic
 
-[Praia Grande](http://https://cidades.ibge.gov.br/brasil/sp/praiagrande/panorama) (24°00′22″S, 46°24′10″W) possui área de 149,65 km² e população de 368.539 habitantes*. Foi emancipada de São Vicente por Lei Estadual em 1964, com a formalização como município em 19 de janeiro de 1967. 
+[Praia Grande](http://https://cidades.ibge.gov.br/brasil/sp/praiagrande/panorama) (24°00′22″S, 46°24′10″W) possui área de 149,65 km² e população  estimada de 368.539 habitantes. Foi emancipada de São Vicente por Lei Estadual em 1964, com a formalização como município em 19 de janeiro de 1967. 
 
 ![praiagrande.png](/projetos/maedagua/praiagrande.png)
 Fonte: Município de Praia Grande.
@@ -35,6 +35,3 @@ Em 28 de junho de 2026, um [recuo visível](https://www.atribuna.com.br/cidades/
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient), analisamos 11 pontos, equivalentes a 1% da amostra, e o SQGQ médio registrou 0,39 (TEL), sinalizando ambiente sob risco de impacto, e 0,09 (PEL), sem risco; o máximo foi de 0,55 (TEL). A amostra é a menor entre os municípios analisados, o que limita comparações.
 
 A urbanização da orla e a classificação de risco alto de erosão indicam que a vulnerabilidade de Praia Grande é costeira e estrutural, e não depende de episódios isolados. O recuo do mar de junho de 2026, por ser um fenômeno natural, mostra a importância de distinguir as variações normais da maré da erosão propriamente dita, e a resposta do município depende de planejamento da orla e de monitoramento contínuo, e não apenas de acompanhamento pontual.
-
---------
-*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
