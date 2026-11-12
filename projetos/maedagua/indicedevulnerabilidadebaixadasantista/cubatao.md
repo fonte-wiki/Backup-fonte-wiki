@@ -2,7 +2,7 @@
 title: Cubatão
 description: 
 published: true
-date: 2026-11-12T17:50:53.824Z
+date: 2026-11-12T17:55:59.496Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:01.926Z
@@ -15,7 +15,7 @@ dateCreated: 2026-07-09T22:20:01.926Z
 ### Vulnerabilidade Costeira 77 - muito vulnerável
 
 
-**Sirene de Olokum**, ouça no Spotify ou Podomatic
+**Sirene de Olokun**, ouça no Spotify ou Podomatic
 
 
 [Cubatão](https://cidades.ibge.gov.br/brasil/sp/cubatao/panorama) (23°53′43″S, 46°25′32″W), possui área de 142,88 km² e população estimada de 114.870 habitantes. O povoado original data de 1833, e foi emancipada como município em 1948. 
