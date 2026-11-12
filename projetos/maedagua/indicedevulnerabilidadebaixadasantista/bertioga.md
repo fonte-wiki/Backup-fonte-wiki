@@ -2,7 +2,7 @@
 title: Bertioga
 description: 
 published: true
-date: 2026-11-12T11:10:16.316Z
+date: 2026-11-12T11:11:48.356Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:19:21.896Z
@@ -24,7 +24,7 @@ As dimensões Fundamentos do Bem-estar (73,08, 228ª posição) e Qualidade do M
 Fonte: IPS Brasil, 2026.
 
 
-O município combina preservação e risco. O Parque Estadual Restinga de Bertioga protege mais de 9.300 hectares de restinga e manguezal. Por outro lado, em fevereiro de 2023, Bertioga registrou 682 mm de chuva em 24 horas, um dos maiores acumulados já medidos no país, em um desastre que atingiu o litoral norte paulista. Em fevereiro de 2026, um novo temporal registrou 126 mm em 24 horas, junto com o Guarujá, e em janeiro a Serra Mogi-Bertioga chegou a ser interditada por chuvas. 
+O município combina preservação e risco. O Parque Estadual Restinga de Bertioga protege mais de 9.300 hectares de restinga e manguezal. Por outro lado, em fevereiro de 2023, Bertioga registrou 682 mm de chuva em 24 horas, um dos maiores acumulados já medidos no país, em um desastre que atingiu o litoral norte paulista. Em fevereiro de 2026, um novo temporal registrou 126 mm em 24 horas, junto com o [Guarujá](https://www.atribuna.com.br/cidades/guaruja/temporal-no-litoral-de-s-o-paulo-causa-deslizamentos-e-alagamento-em-guaruja-e-bertioga-confira-1.500196), e em janeiro a [Serra Mogi-Bertioga](https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/chuvas-no-litoral-paulista-provocam-interdicao-da-serra-mogi-bertioga) chegou a ser interditada por chuvas. 
 
 
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient), analisamos 107 pontos, equivalentes a 6% da amostra, e o SQGQ médio registrou 0,70 (TEL), sinalizando ambiente sob risco de impacto, e 0,17 (PEL), risco discreto; o máximo foi de 1,77 (TEL), em faixa de forte risco, e 0,42 (PEL).
