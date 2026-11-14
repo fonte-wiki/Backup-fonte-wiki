@@ -2,7 +2,7 @@
 title: Peruíbe
 description: 
 published: true
-date: 2026-11-12T11:17:21.938Z
+date: 2026-11-14T18:25:39.986Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:55.868Z
@@ -12,7 +12,7 @@ dateCreated: 2026-07-09T22:22:55.868Z
 
 ### Vulnerabilidade Costeira 33 - média vulnerabilidade
 
-**Sirene de Iemanjá**, ouça no Spotify ou Podomatic
+**Sirene de Iemanjá**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_50_32-08_00)
 
 [Peruíbe](https://cidades.ibge.gov.br/brasil/sp/peruibe/panorama)  (24°19′12″S, 46°59′54″W), possui área de 326,22 km² e uma população estimada de 70.629 habitantes. Fundada em 18 de fevereiro de 1959, é a cidade menos vulnerável pelo cálculo de Siren.
 
