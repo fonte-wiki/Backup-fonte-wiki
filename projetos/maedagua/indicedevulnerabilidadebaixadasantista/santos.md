@@ -2,7 +2,7 @@
 title: Santos
 description: 
 published: true
-date: 2026-11-14T18:31:39.686Z
+date: 2026-11-14T18:49:33.695Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:24:15.193Z
@@ -32,7 +32,6 @@ A área estuarina e portuária concentra o principal passivo ambiental do munic�
 
 Esse diagnóstico é corroborado pelo Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient), onde avaliamos 837 pontos em Santos (correspondendo a 50% da amostra regional). Os dados indicam os maiores índices da Baixada Santista, com valor médio de SQGQ de 2,27 (TEL) e valor máximo de 29,62, ambos enquadrados em faixa de forte risco de impacto ambiental. 
 
-![tabelasantos.png](/projetos/maedagua/tabelasantos.png)
-
+![tabelasantospreto.png](/projetos/maedagua/tabelasantospreto.png)
 
 Santos é a cidade que apresenta os melhores indicadores sociais gerais na região, mas concomitantemente a acumula o maior passivo de contaminação nos sedimentos estuarinos. O elevado produto interno bruto (PIB per capita de R$ 72.080) não atenua a vulnerabilidade socioambiental, atuando apenas no seu deslocamento espacial para o território portuário e na segregação das populações com menor acesso a moradia e inclusão social.
