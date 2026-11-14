@@ -2,7 +2,7 @@
 title: Praia Grande
 description: 
 published: true
-date: 2026-11-12T17:58:11.890Z
+date: 2026-11-14T18:33:07.691Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:23:35.614Z
@@ -12,16 +12,18 @@ dateCreated: 2026-07-09T22:23:35.614Z
 
 ### Vulnerabilidade Costeira 65 - muito vulnerável
 
-**Sirene de Olokun**, ouça no Spotify ou Podomatic
+**Sirene de Olokun**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_55_19-08_00)
 
 [Praia Grande](http://https://cidades.ibge.gov.br/brasil/sp/praiagrande/panorama) (24°00′22″S, 46°24′10″W) possui área de 149,65 km² e população  estimada de 368.539 habitantes. Foi emancipada de São Vicente por Lei Estadual em 1964, com a formalização como município em 19 de janeiro de 1967. 
 
 ![praiagrande.png](/projetos/maedagua/praiagrande.png)
+
 Fonte: Município de Praia Grande.
 
 Apresenta IPS de 66,03 (571ª colocação nacional e 300ª no estado), o terceiro melhor da Baixada Santista. As dimensões Água e Saneamento (90,72, 406ª posição) e Qualidade do Meio Ambiente (68,11, 159ª posição) são classificadas como relativamente fortes entre municípios de PIB per capita semelhante, enquanto Oportunidades, com nota de 43,12 (3.124ª posição), é a mais baixa do município, o que explicita as disparidades do município.
 
 ![scorecardpraiagrande.png](/projetos/maedagua/scorecardpraiagrande.png)
+
 Fonte: IPS Brasil, 2026.
 
 A pressão sobre a orla é a principal fonte de vulnerabilidade, assim como o turismo massivo e predatório de temporada no verão (dezembro à março) que recebe milhares de pessoas sem infraestrutura adequada. 
