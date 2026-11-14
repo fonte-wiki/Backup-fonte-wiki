@@ -2,7 +2,7 @@
 title: Cubatão
 description: 
 published: true
-date: 2026-11-14T18:31:02.855Z
+date: 2026-11-14T18:46:52.433Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:01.926Z
@@ -34,7 +34,7 @@ Nos anos 1980, a cidade ficou conhecida como [Vale da Morte pela poluição indu
 
 O passivo no solo e na água, porém, permanece, e o saneamento segue em disputa: em outubro de 2026, a [Câmara Municipal](https://bs9.com.br/politica/2026/10/01/camara-de-cubatao-aprova-criacao-de-cei-para-acompanhar-obras-da-sabesp.html) aprovou uma Comissão Especial de Inquérito para fiscalizar as obras da Sabesp no bairro Vale Verde. 
 
-![tabelacubatao.png](/projetos/maedagua/tabelacubatao.png)
+![tabelacubataopreto.png](/projetos/maedagua/tabelacubataopreto.png)
 
 O estuário mapeado pelas previsões da Climate Central, mostra abaixo da linha da maré, no cenário de 1 metro, e guarda décadas de metais pesados. Em relação ao SQGQ, analisamos 477 pontos, equivalentes a 29% da amostra, e o SQGQ médio registrou 1,34 (TEL), com máximo de 5,44, sinalizando forte risco de impacto.
 
