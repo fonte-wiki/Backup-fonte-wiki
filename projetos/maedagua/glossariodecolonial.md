@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-11-14T18:19:45.631Z
+date: 2026-11-16T18:09:12.323Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -79,6 +79,19 @@ BOSI, A. **Dialética da Colonização**. Companhia das Letras. 1ª Edição, 19
 
 CARMARGO, C; NEVES, G. **Metodologia do envolvimento: reontologização do ser e ecologias de saberes para futuros radicais**. ClimaCom. Exu: Arte, epistemologia e método. Ano 12, n.29. Disponível em <https://climacom.mudancasclimaticas.net.br/metodologia-do-envolvimento/>. Acesso em 03 de maio de 2026.
 
+## Ficha Técnica
+
+Coordenação de Pesquisa e Desenvolvimento: Maira Begalli 
+
+Pesquisa: TERRENAS - Camila Camargo, Gabriela Neves, Silvania Souza
+
+Iniciação em Extensão: Laryssa Vitoria, Bruna Bento
+
+Colaboração Comunitária: Rogério Rocha, Colônia de Pescadores Z-1 José Bonifácio, Santos-SP.
+
+Projeto Gráfico: Carolina Saravalli, Kevelyn Oliveira
+
+Supervisão de Pesquisa - Lab Ecologia Humana/UNISANTA: Milena Ramires
 
 ------------------
 - [Diários do Projeto](https://fonte.wiki/projetos/maedagua/diarios)
