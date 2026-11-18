@@ -2,7 +2,7 @@
 title: Peruíbe
 description: 
 published: true
-date: 2026-11-18T15:37:48.122Z
+date: 2026-11-18T16:26:02.830Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:55.868Z
