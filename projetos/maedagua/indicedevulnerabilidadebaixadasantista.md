@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-18T14:04:56.960Z
+date: 2026-11-18T14:06:26.370Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -29,7 +29,7 @@ Siren agrega dados sobre clima, indicadores sociais, aumento do nível do mar, e
 Fonte: [Quintanilha, 2012](https://www.researchgate.net/publication/275985484_Modelagem_para_integracao_de_dados_sobre_macrobentos_em_Infraestrutura_de_Dados_Espaciais).
 
 A Baixada Santista é  a [17ª região metropolitana](
-https://www.emtu.sp.gov.br/emtu/institucional/quem-somos/baixada-santista.fss) mais populosa do Brasil, abriga cerca de 12% da população brasileira,  parque industrial de Cubatão e o complexo portuário de Santos, responsável por mais de um terço de todo o comércio exterior do Brasil e 55% da renda nacional, o Porto de Santos é o maior e mais importante complexo portuário da América do Sul. 
+https://www.emtu.sp.gov.br/emtu/institucional/quem-somos/baixada-santista.fss) mais populosa do Brasil, abriga o parque industrial de Cubatão e o complexo portuário de Santos, responsável por mais de um terço de todo o comércio exterior do Brasil e 55% da renda nacional, o Porto de Santos é o maior e mais importante complexo portuário da América do Sul. 
 
 A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municípios da Baixada Santista, correlacionando diferentes camadas de dados, a partir da perspectiva de uma ["análise quente"](https://www.youtube.com/watch?v=hd7JhiKQmi8&t=20) utilizando: 
 
@@ -43,7 +43,7 @@ A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municí
 
 Cada variável foi colocada em uma escala de 0 a 100, em que 100 significa a situação mais vulnerável. Como o IPS já possui uma escala numérica, apenas invertemos. Para o nível do mar e a poluição aplicamos classificações (baixo, moderado, alto, crítico), e para cada classificação atribuímos um valor nessa escala. A medida de 0 a 100 não é uma unidade física, como metros ou toneladas: é uma régua criada para que tipos de dados diferentes possam ser comparados e somados. O índice final é a média das quatro variáveis, todas com o mesmo peso, 25% cada. 
 
-Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (média até 40 pontos, importante de 40 à 60 pontos, e alta mais de 60 pontos), com cores semafóricas relativas as três Orixás que transitam nos ambientes de água, sendo: Iemanjá/azul-média, Oxum/amarela-importante, e Olokun/preta-alta. Essa escala também gerou três sirenes de alerta específicas. Com isso, criamos uma leitura de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonora, que quanto mais vulnerável mais aguda fica.
+Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (média até 40 pontos, importante de 40 à 60 pontos, e alta mais de 60 pontos), com cores semafóricas relativas as três Orixás que transitam nos ambientes de água, sendo: Oxum/amarela-média, Iemanjá/azul-importante, e Olokun/preta-alta. Essa escala também gerou três sirenes de alerta específicas. Com isso, criamos uma leitura de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonora, que quanto mais vulnerável mais aguda fica.
 
 ![tabelasirenajustada.png](/projetos/maedagua/tabelasirenajustada.png)
 
