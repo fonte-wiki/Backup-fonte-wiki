@@ -2,7 +2,7 @@
 title: Bertioga
 description: 
 published: true
-date: 2026-11-18T13:56:10.734Z
+date: 2026-11-18T13:56:50.415Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:19:21.896Z
