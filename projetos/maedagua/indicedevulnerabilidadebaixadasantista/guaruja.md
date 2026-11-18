@@ -2,7 +2,7 @@
 title: Guarujá
 description: 
 published: true
-date: 2026-11-14T18:27:52.005Z
+date: 2026-11-18T14:03:44.945Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:43.595Z
@@ -12,8 +12,7 @@ dateCreated: 2026-07-09T22:20:43.595Z
 
 ### Vulnerabilidade Costeira 58,8 - importante vulnerabilidade
 
-
-**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
+**Sirene de Iemanjá**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
 
 [Guarujá](https://cidades.ibge.gov.br/brasil/sp/guaruja/panorama) (23°59′37″S, 46°15′23″W) possui uma área de 144,79 km² com população estimada de 294.871 habitantes, foi emancipado em 1934 após desmembramento de Santos. 
 
