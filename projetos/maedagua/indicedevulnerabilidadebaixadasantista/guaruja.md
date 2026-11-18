@@ -2,7 +2,7 @@
 title: Guarujá
 description: 
 published: true
-date: 2026-11-18T14:03:44.945Z
+date: 2026-11-18T15:39:29.945Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:43.595Z
@@ -32,6 +32,6 @@ Na zona costeira, o mapeamento estadual de risco à [erosão sinaliza risco muit
 
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient) analisamos 65 pontos, equivalentes a 4% da amostra), o SQGQ médio registrou 0,61 (TEL), sinalizando ambiente sob risco de impacto.
 
-![tabelaguaruja.png](/projetos/maedagua/tabelaguaruja.png)
+![tabelafinalguaruja.png](/projetos/maedagua/tabelafinalguaruja.png)
 
 Os cenários de [risco hidrológico e geológico](https://periodicos.unisantos.br/leopoldianum/article/download/910/771/2251) derivam diretamente do processo histórico de ocupação desordenada de encostas e áreas de várzea. O baixo desempenho no indicador de moradia reflete com precisão os segmentos populacionais submetidos à maior exposição socioambiental.
