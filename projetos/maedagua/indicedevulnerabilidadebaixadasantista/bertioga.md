@@ -2,7 +2,7 @@
 title: Bertioga
 description: 
 published: true
-date: 2026-11-18T14:01:50.270Z
+date: 2026-11-18T15:38:42.393Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:19:21.896Z
@@ -34,6 +34,6 @@ O município combina preservação e risco. O Parque Estadual Restinga de Bertio
 
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient), analisamos 107 pontos, equivalentes a 6% da amostra, e o SQGQ médio registrou 0,70 (TEL), sinalizando ambiente sob risco de impacto, e 0,17 (PEL), risco discreto; o máximo foi de 1,77 (TEL), em faixa de forte risco, e 0,42 (PEL).
 
-![tabelabertioga.png](/projetos/maedagua/tabelabertioga.png)
+![tabelafinalbertioga.png](/projetos/maedagua/tabelafinalbertioga.png)
 
 O desafio de Bertioga é proteger o que ainda está preservado sem deixar que a dependência de um acesso principal, pela Serra Mogi-Bertioga, se torne um fator adicional de vulnerabilidade diante de chuvas extremas. A classificação fraca do IVCM e os eventos recentes indicam que o risco climático do município já é concreto, e a preservação ambiental, embora relevante, não elimina a exposição.
