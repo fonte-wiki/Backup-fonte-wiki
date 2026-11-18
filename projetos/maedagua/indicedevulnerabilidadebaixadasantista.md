@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-18T14:06:26.370Z
+date: 2026-11-18T14:45:54.085Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -45,11 +45,11 @@ Cada variável foi colocada em uma escala de 0 a 100, em que 100 significa a sit
 
 Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (média até 40 pontos, importante de 40 à 60 pontos, e alta mais de 60 pontos), com cores semafóricas relativas as três Orixás que transitam nos ambientes de água, sendo: Oxum/amarela-média, Iemanjá/azul-importante, e Olokun/preta-alta. Essa escala também gerou três sirenes de alerta específicas. Com isso, criamos uma leitura de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonora, que quanto mais vulnerável mais aguda fica.
 
-![tabelasirenajustada.png](/projetos/maedagua/tabelasirenajustada.png)
+![tabelageralips2.png](/projetos/maedagua/tabelageralips2.png)
 
 Ao aplicarmos Siren para toda a Baixada Santista, o resultado mostrado é importante vulnerabilidade (58/100), um número equivalente do município do Guarujá, o quinto mais vulnerável. Um resultado que em números absolutos e no ranking representa exatamente a média geral da pontuação do índice e da quantidade de municípios. Porém esse resultado não mostra um equilíbrio por si só, já que os municípios além de vivenciarem realidades bastantes heterogêneas, também é composto por extremos de Peruíbe e Cubatão.
 
-![tabelasirenbxd.png](/projetos/maedagua/tabelasirenbxd.png)
+![tabelamediaips.png](/projetos/maedagua/tabelamediaips.png)
 
 Em um extremo temos Cubatão, uma cidade rodeada de manguezais alagáveis, com alto passivo de contaminantes, moradias irregulares, Produto Interno Bruto (PIB) de mais de R$ 240.000,00, um modelo que sublinha a lógica de esgotamento e hiperexploração de recursos que trouxe a humanidade às crises que estamos vivenciando. Do outro, Peruíbe um território que abriga uma grande porção de Mata Atlântica mas possui um PIB de pouco mais de R$ 33.000,00 (IPS Brasil, 2026).
 
