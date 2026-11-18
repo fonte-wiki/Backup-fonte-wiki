@@ -2,7 +2,7 @@
 title: Monguagá
 description: 
 published: true
-date: 2026-11-18T14:02:33.121Z
+date: 2026-11-18T15:48:26.076Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:22:13.004Z
@@ -31,7 +31,7 @@ Cerca de 80% do território ainda é florestado, junto a encostas íngremes, mas
 
 Em janeiro de 2026, três eventos em sequência mostraram o efeito acumulado da falta de planejamento territorial adequado: 1) Um temporal em 4 de janeiro deixou cerca de [30 pessoas desabrigadas](https://www.dgabc.com.br/Noticia/4277613/temporal-causa-estragos-no-litoral-paulista-mongagua-e-uma-das-mais-afetadas); 2) Entre 19 e 21 de janeiro, novas chuvas levaram a prefeitura a decretar situação de emergência e a pedir [ajuda humanitária](https://www.metropoles.com/sao-paulo/chuva-litoral-sp); 3) [No final do mês](https://www.diariodolitoral.com.br/cotidiano/ja-castigada-por-enchentes-mongagua-agora-enfrenta-ciclone-e-novas/), um ciclone extratropical com ventos de até 70 km/h chegou quando a cidade ainda se recuperava, com prejuízos superiores a R$ 2 milhões. 
 
-![tabelamongagua.png](/projetos/maedagua/tabelamongagua.png)
+![tabelafinalmongagua.png](/projetos/maedagua/tabelafinalmongagua.png)
 
 O principal risco apontado foi a saturação do solo, que aumenta a chance de deslizamentos mesmo com chuvas menores. O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado, e não ausência de contaminação.
 
