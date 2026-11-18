@@ -2,7 +2,7 @@
 title: Terra Rara: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente"
 published: true
-date: 2026-11-16T18:09:12.323Z
+date: 2026-11-18T12:57:38.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-08T17:46:26.886Z
@@ -10,7 +10,7 @@ dateCreated: 2025-07-08T17:46:26.886Z
 
 ## **Terra Rara**
 
-#### Acesse aqui o Glossário Decolonial
+#### [Baixe aqui](https://canva.link/f654rl8q2qoicmj) o Glossário Decolonial
 
 Nos últimos anos, cresceram as discussões sobre [Terras Raras](https://pt.wikipedia.org/wiki/Terras-raras). Mas o contexto não é novo: [colonialismo, exploração e tudo o que conhecemos](https://outraspalavras.net/tecnologiaemdisputa/por-nova-estrategia-para-terras-raras-e-ia/).
 
