@@ -2,7 +2,7 @@
 title: Bertioga
 description: 
 published: true
-date: 2026-11-18T13:56:50.415Z
+date: 2026-11-18T14:01:50.270Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:19:21.896Z
@@ -12,7 +12,7 @@ dateCreated: 2026-07-09T22:19:21.896Z
 
 ### Vulnerabilidade Costeira 47 - importante vulnerabilidade
 
-**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_50_32-08_00)
+**Sirene de Iemanjá**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
 
 [Bertioga](https://cidades.ibge.gov.br/brasil/sp/bertioga/panorama) (23°51′17″S, 46°08′20″W), possui área de 491,55 km² e população estimada de 67.436 habitantes. Teve povoamento a partir de 1531 e emancipação de Santos em 1991. 
 
