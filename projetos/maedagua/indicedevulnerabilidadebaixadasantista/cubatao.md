@@ -2,7 +2,7 @@
 title: Cubatão
 description: 
 published: true
-date: 2026-11-14T18:46:52.433Z
+date: 2026-11-18T20:15:14.667Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:20:01.926Z
@@ -14,6 +14,7 @@ dateCreated: 2026-07-09T22:20:01.926Z
 
 ### Vulnerabilidade Costeira 77 - muito vulnerável
 
+![olokun.png](/projetos/maedagua/olokun.png)
 
 **Sirene de Olokun**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_55_19-08_00)
 
