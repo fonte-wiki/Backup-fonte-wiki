@@ -2,7 +2,7 @@
 title: Itanhaém
 description: 
 published: true
-date: 2026-11-18T14:03:18.359Z
+date: 2026-11-18T15:46:17.167Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-09T22:21:26.414Z
@@ -30,7 +30,7 @@ Fonte: IPS Brasil, 2026.
 
 O [Plano Municipal de Contingência](https://transparencia.itanhaem.sp.gov.br/wp-content/uploads/2025/12/PLAMCON_ITANHAEM_2025_2026.pdf) da própria prefeitura reconhece que o relevo e a drenagem insuficiente deixam a cidade vulnerável a alagamentos, e classifica um ponto da costa (ITA-12-1) como risco R4, muito alto, de erosão costeira. Como resposta, a prefeitura iniciou em junho de 2026 o [desassoreamento de 1.200 metros do Rio Campininha, com previsão de cinco meses, para reduzir alagamentos nos bairros Savoy, Laranjeiras, Cidade Anchieta e Ivoty](https://diariodoestadogo.com.br/itanhaem-sp-prefeitura-inicia-desassoreamento-do-rio-campininha-para-evitar-alagamentos/). 
 
-![tabelaitanhaem.png](/projetos/maedagua/tabelaitanhaem.png)
+![tabelafinalitanhaem.png](/projetos/maedagua/tabelafinalitanhaem.png)
 
 O mapa de projeção de alagamentos, do Climate Central, mostra área expressiva abaixo da linha da maré ao longo do Rio Itanhaém. O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado.
 
