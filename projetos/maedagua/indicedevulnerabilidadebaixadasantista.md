@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: true
-date: 2026-11-18T14:45:54.085Z
+date: 2026-11-21T21:09:45.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T13:15:37.220Z
@@ -17,10 +17,6 @@ Com a emergência climática e a vulnerabilidade das populações costeiras e pe
 ![badgesiren.png](/projetos/maedagua/badgesiren.png)
 
 > “(...) é magia que nós fazemos, é sagrado e grandioso. Existem lendas sobre pessoas que nasceram com o dom de fazer música tão autêntica, que pode rasgar o véu entre a vida e a morte, evocando espíritos do passado e do futuro”. [Sinners](https://www.youtube.com/watch?v=S7jo5Cr6WUA).
-
-
-##### Sirene de  Oxum, Iemanjá e Olokum - [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T12_08_38-08_00)
-
 
 Siren agrega dados sobre clima, indicadores sociais, aumento do nível do mar, estresse térmico e poluição para mensurar a vulnerabilidade dos nove municípios da Baixada Santista (Bertioga, Cubatão, Guarujá, Itanhaém, Mongaguá, Peruíbe, Praia Grande, Santos, São Vicente ), litoral sul do Estado de São Paulo. 
 
@@ -52,6 +48,8 @@ Ao aplicarmos Siren para toda a Baixada Santista, o resultado mostrado é import
 ![tabelamediaips.png](/projetos/maedagua/tabelamediaips.png)
 
 Em um extremo temos Cubatão, uma cidade rodeada de manguezais alagáveis, com alto passivo de contaminantes, moradias irregulares, Produto Interno Bruto (PIB) de mais de R$ 240.000,00, um modelo que sublinha a lógica de esgotamento e hiperexploração de recursos que trouxe a humanidade às crises que estamos vivenciando. Do outro, Peruíbe um território que abriga uma grande porção de Mata Atlântica mas possui um PIB de pouco mais de R$ 33.000,00 (IPS Brasil, 2026).
+
+##### Sirene de  Oxum, Iemanjá e Olokum - [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T12_08_38-08_00)
 
 O modelo de estruturação da Baixada Santista, focado na exploração de recursos, mão de obra e turismo, sem projetos voltados à estruturas sustentáveis, pagamento de serviços ambientais, inovação e valorização de cultura e características locais, se repete até hoje. Porém, em um contexto temporal que exige urgência e não repetição. 
 
